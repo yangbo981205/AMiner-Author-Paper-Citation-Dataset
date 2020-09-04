@@ -1,0 +1,23 @@
+18th USENIX Conference on File and Storage Technologies, FAST 2020, Santa Clara, CA, USA, February 24-27, 2020.
+17th USENIX Conference on File and Storage Technologies, FAST 2019, Boston, MA, February 25-28, 2019.
+16th USENIX Conference on File and Storage Technologies, FAST 2018, Oakland, CA, USA, February 12-15, 2018.
+15th USENIX Conference on File and Storage Technologies, FAST 2017, Santa Clara, CA, USA, February 27 - March 2, 2017.
+14th USENIX Conference on File and Storage Technologies, FAST 2016, Santa Clara, CA, USA, February 22-25, 2016.
+Proceedings of the 13th USENIX Conference on File and Storage Technologies, FAST 2015, Santa Clara, CA, USA, February 16-19, 2015.
+Proceedings of the 12th USENIX conference on File and Storage Technologies, FAST 2014, Santa Clara, CA, USA, February 17-20, 2014.
+Proceedings of the 11th USENIX conference on File and Storage Technologies, FAST 2013, San Jose, CA, USA, February 12-15, 2013.
+Proceedings of the 10th USENIX conference on File and Storage Technologies, FAST 2012, San Jose, CA, USA, February 14-17, 2012.
+9th USENIX Conference on File and Storage Technologies, San Jose, CA, USA, February 15-17, 2011.
+8th USENIX Conference on File and Storage Technologies, San Jose, CA, USA, February 23-26, 2010.
+2nd Workshop on the Theory and Practice of Provenance, TaPP'10, San Jose, CA, USA, February 22, 2010.
+First USENIX Workshop on Sustainable Information Technology, SustainIT'10, San Jose, CA, USA, February 22, 2010.
+7th USENIX Conference on File and Storage Technologies, February 24-27, 2009, San Francisco, CA, USA. Proceedings.
+First Workshop on the Theory and Practice of Provenance, TaPP'09, San Francisco, CA, USA, February 23, 2009, Proceedings.
+6th USENIX Conference on File and Storage Technologies, FAST 2008, February 26-29, 2008, San Jose, CA, USA.
+5th USENIX Conference on File and Storage Technologies, FAST 2007, February 13-16, 2007, San Jose, CA, USA.
+2007 Linux Storage & Filesystem Workshop, LSF 2007, San Jose, CA, USA, February 12-13, 2007.
+Proceedings of the FAST '05 Conference on File and Storage Technologies, December 13-16, 2005, San Francisco, California, USA.
+Second USENIX Workshop on Real, Large Distributed Systems, WORLDS'05, San Francisco, CA, USA, December 13, 2005.
+Proceedings of the FAST '04 Conference on File and Storage Technologies, March 31 - April 2, 2004, Grand Hyatt Hotel, San Francisco, California, USA.
+Proceedings of the FAST '03 Conference on File and Storage Technologies, March 31 - April 2, 2003, Cathedral Hill Hotel, San Francisco, California, USA.
+Proceedings of the FAST '02 Conference on File and Storage Technologies, January 28-30, 2002, Monterey, California, USA.

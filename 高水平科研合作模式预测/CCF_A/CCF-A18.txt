@@ -1,0 +1,99 @@
+SIGCOMM '20: Proceedings of the 2020 Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication, Virtual Event, USA, August 10-14, 2020.
+Proceedings of the 2020 Workshop on Network Meets AI & ML, NetAI@SIGCOMM, Virtual Event, USA, August 14, 2020.
+Proceedings of the 2020 ACM SIGCOMM 2020 Workshop on Secure Programmable Network Infrastructure, SPIN@SIGCOMM 2020, Virtual Event, USA, August 14, 2020.
+Proceedings of the 2020 Workshop on Network Application Integration/CoDesign, NAI@SIGCOMM 2020, Virtual Event, USA, August 14, 2020.
+Proceedings of the ACM Special Interest Group on Data Communication, SIGCOMM 2019, Beijing, China, August 19-23, 2019.
+Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos, SIGCOMM 2019, Beijing, China, August 19-23, 2019.
+Proceedings of the 2019 Workshop on Network Meets AI & ML, NetAI@SIGCOMM 2019, Beijing, China, August 23, 2019.
+Proceedings of the ACM SIGCOMM 2019 Workshop on Networking for Emerging Applications and Technologies, NEAT@SIGCOMM 2019, Beijing, China, August 19, 2019.
+Proceedings of the ACM SIGCOMM 2019 Workshop on Mobile AirGround Edge Computing, Systems, Networks, and Applications, MAGESys@SIGCOMM 2019, Beijing, China, August 19, 2019.
+Proceedings of the ACM SIGCOMM 2019 Workshop on Networking and Programming Languages, NetPL@SIGCOMM 2019, Beijing, China, August 23, 2019.
+Proceedings of the 2018 Conference of the ACM Special Interest Group on Data Communication, SIGCOMM 2018, Budapest, Hungary, August 20-25, 2018.
+Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos, SIGCOMM 2018, Budapest, Hungary, August 20-25, 2018.
+Proceedings of the 2018 Workshop on Network Meets AI & ML, NetAI@SIGCOMM 2018, Budapest, Hungary, August 24, 2018.
+Proceedings of the Afternoon Workshop on Self-Driving Networks, SelfDN@SIGCOMM 2018, Budapest, Hungary, August 24, 2018.
+Proceedings of the 2018 Morning Workshop on Virtual Reality and Augmented Reality Network, VR/AR Network@SIGCOMM 2018, Budapest, Hungary, August 24, 2018.
+Proceedings of the 2018 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks, Big-DAMA@SIGCOMM 2018, Budapest, Hungary, August 20, 2018.
+Proceedings of the 2018 Morning Workshop on In-Network Computing, NetCompute@SIGCOMM 2018, Budapest, Hungary, August 20, 2018.
+Proceedings of the 2018 Workshop on Networking for Emerging Applications and Technologies, NEAT@SIGCOMM 2018, Budapest, Hungary, August 20, 2018.
+Proceedings of the 2018 Workshop on Security in Softwarized Networks: Prospects and Challenges, SecSoN@SIGCOMM 2018, Budapest, Hungary, August 24, 2018.
+Proceedings of the 2018 Workshop on Mobile Edge Communications, MECOMM@SIGCOMM 2018, Budapest, Hungary, August 20, 2018.
+Proceedings of the 2018 Workshop on IoT Security and Privacy, IoT S&P@SIGCOMM 2018, Budapest, Hungary, August 20, 2018.
+Proceedings of the 2018 Afternoon Workshop on Kernel Bypassing Networks, KBNets@SIGCOMM 2018, Budapest, Hungary, August 20, 2018.
+Proceedings of the 2018 Workshop on Traffic Measurements for Cybersecurity, WTMC@SIGCOMM 2018, Budapest, Hungary, August 20, 2018.
+Proceedings of the Conference of the ACM Special Interest Group on Data Communication, SIGCOMM 2017, Los Angeles, CA, USA, August 21-25, 2017.
+Posters and Demos Proceedings of the Conference of the ACM Special Interest Group on Data Communication, SIGCOMM 2017, Los Angeles, CA, USA, August 21-25, 2017.
+Proceedings of the 2017 Workshop on QoE-based Analysis and Management of Data Communication Networks, Internet-QoE@SIGCOMM 2017, Los Angeles, CA, USA, August 21, 2017.
+Proceedings of the Workshop on Kernel-Bypass Networks, KBNets@SIGCOMM 2017, Los Angeles, CA, USA, August 21, 2017.
+Proceedings of the Workshop on Mobile Edge Communications, MECOMM@SIGCOMM 2017, Los Angeles, CA, USA, August 21, 2017.
+Proceedings of the Reproducibility Workshop, Reproducibility@SIGCOMM 2017, Los Angeles, CA, USA, August 25, 2017.
+Proceedings of the Workshop on Virtual Reality and Augmented Reality Network, VR/AR Network@SIGCOMM 2017, Los Angeles, CA, USA, August 25, 2017.
+Proceedings of the Workshop on Big Data Analytics and Machine Learning for Data Communication Networks, Big-DAMA@SIGCOMM 2017, Los Angeles, CA, USA, August 21, 2017.
+Proceedings of the Workshop on Mobility in the Evolving Internet Architecture, MobiArch@SIGCOMM 2017, Los Angeles, CA, USA, August 25, 2017.
+Proceedings of the Workshop on Hot Topics in Container Networking and Networked Systems, HotConNet@SIGCOMM 2017, Los Angeles, CA, USA, August 25, 2017.
+Proceedings of the ACM SIGCOMM 2016 Conference, Florianopolis, Brazil, August 22-26, 2016.
+Proceedings of the 2016 workshop on Fostering Latin-American Research in Data Communication Networks, LANCOMM@SIGCOMM 2016, Florianopolis, Brazil, August 22-26, 2016.
+Proceedings of the 2016 workshop on QoE-based Analysis and Management of Data Communication Networks, Internet-QoE@SIGCOMM 2016, Florianopolis, Brazil, August 22-26, 2016.
+Proceedings of the 2016 workshop on Global Access to the Internet for All, Florianopolis, Brazil, August 22-26, 2016.
+Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication, SIGCOMM 2015, London, United Kingdom, August 17-21, 2015.
+Proceedings of the ACM SIGCOMM Workshop on Hot topics in Middleboxes and Network Function Virtualization, HotMiddlebox@SIGCOMM 2016, Florianopolis, Brazil, August, 2016.
+Proceedings of the 2015 ACM SIGCOMM Workshop on Ethics in Networked Systems Research, NS Ethics@SIGCOMM 2015, London, United Kingdom, August 21, 2015.
+Proceedings of the 2015 ACM SIGCOMM Workshop on Crowdsourcing and Crowdsharing of Big (Internet) Data, C2B(I)D@SIGCOMM 2015, London, United Kingdom, August 17, 2015.
+ACM SIGCOMM 2014 Conference, SIGCOMM'14, Chicago, IL, USA, August 17-22, 2014.
+Proceedings of the 4th workshop on All things cellular: operations, applications, & challenges, AllThingsCellular 2014, Chicago, Illinois, USA, August 22, 2014.
+Proceedings of the third workshop on Hot topics in software defined networking, HotSDN '14, Chicago, Illinois, USA, August 22, 2014.
+Proceedings of the 2014 ACM SIGCOMM workshop on Capacity sharing workshop, CSWS '14, Chicago, Illinois, USA, August 18, 2014.
+Proceedings of the 2014 ACM SIGCOMM workshop on Distributed cloud computing, DCC '14, Chicago, Illinois, USA, August 18, 2014.
+Proceedings of the 2014 ACM workshop on Software radio implementation forum, SRIF '14, Chicago, Illinois, USA, August 18, 2014.
+ACM SIGCOMM 2013 Conference, SIGCOMM'13, Hong Kong, China, August 12-16, 2013.
+Proceedings of the Second ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking, HotSDN 2013, The Chinese University of Hong Kong, Hong Kong, China, Friday, August 16, 2013.
+Proceedings of the 5th ACM workshop on Hot topics in planet-scale measurement, HotPlanet@SIGCOMM 2013, Hong Kong, China, August 12-16, 2013.
+Proceedings of the second workshop on Software radio implementation forum, SRIF@SIGCOMM 2013, Hong Kong, China, August 12-16, 2013.
+Proceedings of the 2013 ACM SIGCOMM workshop on Future human-centric multimedia networking, FhMN@SIGCOMM 2013, Hong Kong, China, August 16, 2013.
+Proceedings of the second ACM SIGCOMM workshop on Mobile cloud computing, MCC@SIGCOMM 2013, Hong Kong, China, August 16, 2013.
+ACM SIGCOMM 2012 Conference, SIGCOMM '12, Helsinki, Finland - August 13 - 17, 2012.
+Proceedings of the 2012 ACM workshop on Workshop on Online Social Networks, WOSN 2012, Helsinki, Finland, August 17, 2012.
+Proceedings of the first edition of the MCC workshop on Mobile cloud computing, MCC@SIGCOMM 2012, Helsinki, Finland, August 17, 2012.
+Proceedings of the first workshop on Hot topics in software defined networks, HotSDN@SIGCOMM 2012, Helsinki, Finland, August 13, 2012.
+Proceedings of the ACM SIGCOMM 2011 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Toronto, ON, Canada, August 15-19, 2011.
+Proceedings of the first ACM SIGCOMM workshop on Measurements up the stack, W-MUST@SIGCOMM 2011, Toronto, Ontario, Canada, August 19, 2011.
+Proceedings of the ACM SIGCOMM 2010 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, New Delhi, India, August 30 -September 3, 2010.
+Proceedings of the 1st ACM SIGCOMM Workshop on Green Networking 2010, New Delhi, India, August 30, 2010.
+Proceedings of the 2ndt ACM SIGCOMM Workshop on Networking, Systems, and Applications for Mobile Handhelds, MobiHeld 2010, New Delhi, India, August 30, 2010.
+Proceedings of the 1st ACM SIGCOMM Asia-Pacific Workshop on Systems, ApSys 2010, New Delhi, India, August 30, 2010.
+Proceedings of the 2010 ACM SIGCOMM workshop on Home networks, HomeNets@SIGCOMM 2010, New Delhi, India, September 3, 2010.
+Proceedings of the ACM SIGCOMM 2009 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Barcelona, Spain, August 16-21, 2009.
+Proceedings of the ACM SIGCOMM 2009 Workshop on Programmable Routers for Extensible Services of Tomorrow, PRESTO 2009, Barcelona, Spain, August 21, 2009.
+Proceedings of the 1st ACM SIGCOMM Workshop on Networking, Systems, and Applications for Mobile Handhelds, MobiHeld 2009, Barcelona, Spain, August 17, 2009.
+Proceedings of the 1st ACM SIGCOMM Workshop on Virtualized Infrastructure Systems and Architectures, VISA 2009, Barcelona, Spain, August 17, 2009.
+Proceedings of the 2nd ACM Workshop on Online Social Networks, WOSN 2009, Barcelona, Spain, August 17, 2009.
+Proceedings of the 1st ACM SIGCOMM 2009 Workshop on Research on Enterprise Networking, WREN 2009, Barcelona, Spain, August 21, 2009.
+Proceedings of the ACM SIGCOMM 2008 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Seattle, WA, USA, August 17-22, 2008.
+Proceedings of the ACM SIGCOMM 2008 Workshop on Programmable Routers for Extensible Services of Tomorrow, PRESTO 2008, Seattle, WA, USA, August 22, 2008.
+Proceedings of the ACM SIGCOMM 2008 Workshop on Economics of Networked Systems, NetEcon 2008, Seattle, WA, USA, August 22, 2008.
+Proceedings of the first Workshop on Online Social Networks, WOSN 2008, Seattle, WA, USA, August 17-22, 2008.
+Proceedings of the ACM SIGCOMM 2007 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Kyoto, Japan, August 27-31, 2007.
+Proceedings of the ACM SIGCOMM 2006 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Pisa, Italy, September 11-15, 2006.
+Proceedings of the 2006 SIGCOMM workshop on Challenged networks, CHANTS@SIGCOMM 2006, Pisa, Italy, September 11-15, 2006.
+Proceedings of the ACM SIGCOMM 2005 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Philadelphia, Pennsylvania, USA, August 22-26, 2005.
+Proceedings of the ACM SIGCOMM 2004 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 30 - September 3, 2004, Portland, Oregon, USA.
+Proceedings of the ACM SIGCOMM 2003 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 25-29, 2003, Karlsruhe, Germany.
+Proceedings of the ACM SIGCOMM 2002 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 19-23, 2002, Pittsburgh, PA, USA.
+Proceedings of the ACM SIGCOMM 2001 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 27-31, 2001, San Diego, CA, USA.
+Proceedings of the ACM SIGCOMM 2000 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 28 - September 1, 2000, Stockholm, Sweden.
+Proceedings of the ACM SIGCOMM 1999 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 30 - September 3, 1999, Cambridge, Massachusetts, USA.
+Proceedings of the ACM SIGCOMM 1998 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 31 - September 4, 1998, Vancouver, B.C., Canada.
+Proceedings of the ACM SIGCOMM 1997 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, September 14-18, 1997, Cannes, France.
+Proceedings of the ACM SIGCOMM 1996 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, Stanford, CA, USA, August 26-30, 1996.
+Proceedings of the ACM SIGCOMM 1995 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, Cambridge, MA, USA, August 28 - September 1, 1995.
+Proceedings of the ACM SIGCOMM '94 Conference on Communications Architectures, Protocols and Applications, London, UK, August 31 - September 2, 1994.
+Proceedings of the ACM SIGCOMM '93 Conference on Communications Architectures, Protocols and Applications, San Francisco, CA, USA, September 13-17, 1993.
+SIGCOMM '92, Proceedings of the Conference on Communications Architecture & Protocols, Baltimore, Maryland, USA, August 17-20, 1992.
+SIGCOMM '91, Proceedings of the Conference on Communications Architecture & Protocols, Zürich, Switzerland, September 3-6, 1991.
+SIGCOMM '90, Proceedings of the ACM Symposium on Communications Architectures & Protocols, Philadelpia, PA, USA, September 24-27, 1990.
+SIGCOMM '89, Proceedings of the ACM Symposium on Communications Architectures & Protocols, Austin, TX, USA, September 19-22, 1989.
+SIGCOMM '88, Proceedings of the ACM Symposium on Communications Architectures and Protocols, Stanford, CA, USA, August 16-18, 1988.
+Proceedings of the ACM SIGCOMM conference on Communications architectures & protocols, 1986, Stowe, Vermont, United States, August 5-7, 1986.
+SIGCOMM '85, Proceedings of the Ninth Symposium on Data Communications, British Columbia, Canada, September 10-12, 1985.
+SIGCOMM '83, Proceedings of the Eighth Symposium on Data Communications, North Falmouth, Massachusetts, USA, October 3-6, 1983.
+SIGCOMM '81, Proceedings of the seventh symposium on Data communications, 1981.

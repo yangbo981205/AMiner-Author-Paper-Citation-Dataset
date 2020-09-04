@@ -1,0 +1,61 @@
+60th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2019, Baltimore, Maryland, USA, November 9-12, 2019.
+59th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2018, Paris, France, October 7-9, 2018.
+58th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2017, Berkeley, CA, USA, October 15-17, 2017.
+IEEE 57th Annual Symposium on Foundations of Computer Science, FOCS 2016, 9-11 October 2016, Hyatt Regency, New Brunswick, New Jersey, USA.
+IEEE 56th Annual Symposium on Foundations of Computer Science, FOCS 2015, Berkeley, CA, USA, 17-20 October, 2015.
+55th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2014, Philadelphia, PA, USA, October 18-21, 2014.
+54th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2013, 26-29 October, 2013, Berkeley, CA, USA.
+53rd Annual IEEE Symposium on Foundations of Computer Science, FOCS 2012, New Brunswick, NJ, USA, October 20-23, 2012.
+IEEE 52nd Annual Symposium on Foundations of Computer Science, FOCS 2011, Palm Springs, CA, USA, October 22-25, 2011.
+51th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2010, October 23-26, 2010, Las Vegas, Nevada, USA.
+50th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2009, October 25-27, 2009, Atlanta, Georgia, USA.
+49th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2008, October 25-28, 2008, Philadelphia, PA, USA.
+48th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2007), October 20-23, 2007, Providence, RI, USA, Proceedings.
+47th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2006), 21-24 October 2006, Berkeley, California, USA, Proceedings.
+46th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2005), 23-25 October 2005, Pittsburgh, PA, USA, Proceedings.
+45th Symposium on Foundations of Computer Science (FOCS 2004), 17-19 October 2004, Rome, Italy, Proceedings.
+44th Symposium on Foundations of Computer Science (FOCS 2003), 11-14 October 2003, Cambridge, MA, USA, Proceedings.
+43rd Symposium on Foundations of Computer Science (FOCS 2002), 16-19 November 2002, Vancouver, BC, Canada, Proceedings.
+42nd Annual Symposium on Foundations of Computer Science, FOCS 2001, 14-17 October 2001, Las Vegas, Nevada, USA.
+41st Annual Symposium on Foundations of Computer Science, FOCS 2000, 12-14 November 2000, Redondo Beach, California, USA.
+40th Annual Symposium on Foundations of Computer Science, FOCS '99, 17-18 October, 1999, New York, NY, USA.
+39th Annual Symposium on Foundations of Computer Science, FOCS '98, November 8-11, 1998, Palo Alto, California, USA.
+38th Annual Symposium on Foundations of Computer Science, FOCS '97, Miami Beach, Florida, USA, October 19-22, 1997.
+37th Annual Symposium on Foundations of Computer Science, FOCS '96, Burlington, Vermont, USA, 14-16 October, 1996.
+36th Annual Symposium on Foundations of Computer Science, Milwaukee, Wisconsin, USA, 23-25 October 1995.
+35th Annual Symposium on Foundations of Computer Science, Santa Fe, New Mexico, USA, 20-22 November 1994.
+34th Annual Symposium on Foundations of Computer Science, Palo Alto, California, USA, 3-5 November 1993.
+33rd Annual Symposium on Foundations of Computer Science, Pittsburgh, Pennsylvania, USA, 24-27 October 1992.
+32nd Annual Symposium on Foundations of Computer Science, San Juan, Puerto Rico, 1-4 October 1991.
+31st Annual Symposium on Foundations of Computer Science, St. Louis, Missouri, USA, October 22-24, 1990, Volume I.
+31st Annual Symposium on Foundations of Computer Science, St. Louis, Missouri, USA, October 22-24, 1990, Volume II.
+30th Annual Symposium on Foundations of Computer Science, Research Triangle Park, North Carolina, USA, 30 October - 1 November 1989.
+29th Annual Symposium on Foundations of Computer Science, White Plains, New York, USA, 24-26 October 1988.
+28th Annual Symposium on Foundations of Computer Science, Los Angeles, California, USA, 27-29 October 1987.
+27th Annual Symposium on Foundations of Computer Science, Toronto, Canada, 27-29 October 1986.
+26th Annual Symposium on Foundations of Computer Science, Portland, Oregon, USA, 21-23 October 1985.
+25th Annual Symposium on Foundations of Computer Science, West Palm Beach, Florida, USA, 24-26 October 1984.
+24th Annual Symposium on Foundations of Computer Science, Tucson, Arizona, USA, 7-9 November 1983.
+23rd Annual Symposium on Foundations of Computer Science, Chicago, Illinois, USA, 3-5 November 1982.
+22nd Annual Symposium on Foundations of Computer Science, Nashville, Tennessee, USA, 28-30 October 1981.
+21st Annual Symposium on Foundations of Computer Science, Syracuse, New York, USA, 13-15 October 1980.
+20th Annual Symposium on Foundations of Computer Science, San Juan, Puerto Rico, 29-31 October 1979.
+19th Annual Symposium on Foundations of Computer Science, Ann Arbor, Michigan, USA, 16-18 October 1978.
+18th Annual Symposium on Foundations of Computer Science, Providence, Rhode Island, USA, 31 October - 1 November 1977.
+17th Annual Symposium on Foundations of Computer Science, Houston, Texas, USA, 25-27 October 1976.
+16th Annual Symposium on Foundations of Computer Science, Berkeley, California, USA, October 13-15, 1975.
+15th Annual Symposium on Switching and Automata Theory, New Orleans, Louisiana, USA, October 14-16, 1974.
+14th Annual Symposium on Switching and Automata Theory, Iowa City, Iowa, USA, October 15-17, 1973.
+13th Annual Symposium on Switching and Automata Theory, College Park, Maryland, USA, October 25-27, 1972.
+12th Annual Symposium on Switching and Automata Theory, East Lansing, Michigan, USA, October 13-15, 1971.
+11th Annual Symposium on Switching and Automata Theory, Santa Monica, California, USA, October 28-30, 1970.
+10th Annual Symposium on Switching and Automata Theory, Waterloo, Ontario, Canada, October 15-17, 1969.
+9th Annual Symposium on Switching and Automata Theory, Schenectady, New York, USA, October 15-18, 1968.
+8th Annual Symposium on Switching and Automata Theory, Austin, Texas, USA, October 18-20, 1967.
+7th Annual Symposium on Switching and Automata Theory, Berkeley, California, USA, October 23-25, 1966.
+6th Annual Symposium on Switching Circuit Theory and Logical Design, Ann Arbor, Michigan, USA, October 6-8, 1965.
+5th Annual Symposium on Switching Circuit Theory and Logical Design, Princeton, New Jersey, USA, November 11-13, 1964.
+4th Annual Symposium on Switching Circuit Theory and Logical Design, Chicago, Illinois, USA, October 28-30, 1963.
+3rd Annual Symposium on Switching Circuit Theory and Logical Design, Chicago, Illinois, USA, October 7-12, 1962.
+2nd Annual Symposium on Switching Circuit Theory and Logical Design, Detroit, Michigan, USA, October 17-20, 1961.
+1st Annual Symposium on Switching Circuit Theory and Logical Design, Chicago, Illinois, USA, October 9-14, 1960.

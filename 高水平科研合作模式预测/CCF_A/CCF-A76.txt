@@ -1,0 +1,107 @@
+Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI 2020.
+Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019.
+Proceedings of the Workshop on Artificial Intelligence Safety 2019 co-located with the 28th International Joint Conference on Artificial Intelligence, AISafety@IJCAI 2019, Macao, China, August 11-12, 2019.
+Proceedings of the 7th International Workshop "What can FCA do for Artificial Intelligence"? co-located with International Joint Conference on Artificial Intelligence, FCA4AI@IJCAI 2019, Macao, China, August 10, 2019.
+Proceedings of the 4th International Workshop on Knowledge Discovery in Healthcare Data co-located with the 28th International Joint Conference on Artificial Intelligence, KDH@IJCAI 2019, Macao, China, August 10th, 2019.
+Joint Proceedings of the Workshops on Linguistic and Cognitive Approaches to Dialog Agents (LaCATODA 2019) and on Bridging the Gap Between Human and Automated Reasoning (BtG 2019) co-located with 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), Macao, China, August 12, 2019.
+Human Brain and Artificial Intelligence - First International Workshop, HBAI 2019, Held in Conjunction with IJCAI 2019, Macao, China, August 12, 2019, Revised Selected Papers.
+Artificial Intelligence. IJCAI 2019 International Workshops - Macao, China, August 10-12, 2019, Revised Selected Best Papers.
+Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI 2018, July 13-19, 2018, Stockholm, Sweden.
+Proceedings of the Tenth International Workshop on Agents in Traffic and Transportation (ATT 2018) co-located with with the Federated Artificial Intelligence Meeting, including ECAI/IJCAI, AAMAS and ICML 2018 conferences (FAIM 2018), Stockholm, Sweden, July 14, 2018.
+Proceedings of the Joint Workshop on Multimedia for Cooking and Eating Activities and Multimedia Assisted Dietary Management, MADiMa@IJCAI 2018, Mässvägen, Stockholm, Sweden, July 15, 2018.
+Proceedings of the 1st International Workshop on Real-Time compliant Multi-Agent Systems co-located with the Federated Artificial Intelligence Meeting, Stockholm, Sweden, July 15th, 2018.
+Proceedings of the 6th International Workshop "What can FCA do for Artificial Intelligence"? co-located with International Joint Conference on Artificial Intelligence and European Conference on Artificial Intelligence (IJCAI/ECAI 2018), Stockholm, Sweden, July 13, 2018.
+Proceedings of the 3rd International Workshop on Knowledge Discovery in Healthcare Data co-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), Stockholm, Schweden, July 13, 2018.
+Proceedings of the First Joint Workshop on AI in Health organized as part of the Federated AI Meeting (FAIM 2018), co-located with AAMAS 2018, ICML 2018, IJCAI 2018 and ICCBR 2018, Stockholm, Sweden, July 13-14, 2018.
+Artificial Intelligence in Health - First International Workshop, AIH@IJCAI 2018, Stockholm, Sweden, July 13-14, 2018, Revised Selected Papers.
+Proceedings of the Linguistic and Cognitive Approaches To Dialog Agents Workshop co-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), part of the Federated AI Meeting (FAIM 2018), Stockholm, Sweden, July 13, 2018.
+Proceedings of the Tenth International Workshop Modelling and Reasoning in Context co-located with the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018) and the 23rd European Conference on Artificial Intelligence (ECAI 2018), Stockholm, Sweden, July 13, 2018.
+Proceedings of the fourth Workshop on Bridging the Gap between Human and Automated Reasoningco-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), Stockholm, Schweden, July 14, 2018.
+Computer Games - 7th Workshop, CGW 2018, Held in Conjunction with the 27th International Conference on Artificial Intelligence, IJCAI 2018, Stockholm, Sweden, July 13, 2018, Revised Selected Papers.
+Workshop on Artificial Intelligence in Affective Computing, AffComp@IJCAI 2018, Stockholm, Sweden, 15 July 2018,.
+Artificial Intelligence for Knowledge Management - 6th IFIP WG 12.6 International Workshop, AI4KM 2018, Held at IJCAI 2018, Stockholm, Sweden, July 15, 2018, Revised and Extended Selected Papers.
+Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017.
+Proceedings of the 3rd International Workshop on Social Influence Analysis co-located with 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 19, 2017.
+Proceedings of the Workshop on Linked Democracy: Artificial Intelligence for Democratic Innovation co-located with the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 19, 2017.
+Proceedings of the 9th Workshop on Multimedia for Cooking and Eating Activities in conjunction with The 2017 International Joint Conference on Artificial Intelligence, Melbourne, Australia, August 20 - 20, 2017.
+Computer Games - 6th Workshop, CGW 2017, Held in Conjunction with the 26th International Conference on Artificial Intelligence, IJCAI 2017, Melbourne, VIC, Australia, August, 20, 2017, Revised Selected Papers.
+Proceedings of the 2nd International Workshop on Knowledge Discovery in Healthcare Data Co-located with the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.
+Proceedings of the 1st IJCAI Workshop on Artificial Intelligence in Affective Computing (AffComp 2017), Melbourne, Australia, August 20, 2017.
+Proceedings of the 1st International Workshop on Cognition and Artificial Intelligence for Human-Centred Design 2017 co-located with IJCAI 2017, Melbourne, Australia, August 19, 2017.
+Artificial Intelligence for Knowledge Management - 5th IFIP WG 12.6 International Workshop, AI4KM 2017, Held at IJCAI 2017, Melbourne, VIC, Australia, August 20, 2017, Revised Selected Papers.
+Proceedings of the IJCAI Workshop on Semantic Machine Learning (SML 2017) co-located with 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.
+Proceedings of the Workshop on Advances in Bioinformatics and Artificial Intelligence: Bridging the Gap co-located with 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.
+Proceedings of the Linguistic and Cognitive Approaches To Dialog Agents Workshop co-located with the 26th International Joint Conference on Artificial Intelligence, LaCATODA@IJCAI 2017, Melbourne, Australia, August 21, 2017.
+Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, IJCAI 2016, New York, NY, USA, 9-15 July 2016.
+Proceedings of the Workshop on Bridging the Gap between Human and Automated Reasoning co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York, USA, July 9, 2016.
+Proceedings of the Workshop on Knowledge-based Techniques for Problem Solving and Reasoning co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York City, USA, July 10, 2016.
+Proceedings of the 4th Workshop on Sentiment Analysis where AI meets Psychology (SAAIP 2016) co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York City, USA, July 10, 2016.
+Proceedings of the 2nd International Workshop on Social Influence Analysis co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York City, New York, USA, July 9, 2016.
+Proceedings of the Ninth International Workshop on Agents in Traffic and Transportation (ATT 2016) co-located with the 25th International Joint Conference On Artificial Intelligence (IJCAI 2016), New York, USA, July 10, 2016.
+Proceedings of the Workshop on Advances in Bioinformatics and Artificial Intelligence: Bridging the Gap co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New-York, USA, July 11, 2016.
+Artificial Intelligence for Knowledge Management - 4th IFIP WG 12.6 International Workshop, AI4KM 2016, Held at IJCAI 2016, New York, NY, USA, July 9, 2016, Revised Selected Papers.
+Computer Games - 5th Workshop on Computer Games, CGW 2016, and 5th Workshop on General Intelligence in Game-Playing Agents, GIGA 2016, Held in Conjunction with the 25th International Conference on Artificial Intelligence, IJCAI 2016, New York City, NY, USA, July 9-10, 2016, Revised Selected Papers.
+Proceedings of the 16th Workshop on Computational Models of Natural Argument co-located with IJCAI 2016, New York, USA, July 9th, 2016.
+Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence, IJCAI 2015, Buenos Aires, Argentina, July 25-31, 2015.
+Proceedings of the First International Workshop on AI and Feedback, AInF 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 26, 2015.
+Proceedings of the International Workshop on Defeasible and Ampliative Reasoning, DARe 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.
+Proceedings of the 4th International Workshop "What can FCA do for Artificial Intelligence?", FCA4AI 2015, co-located with the International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 25, 2015.
+Proceedings of the Workshop on Fuzzy Logic in AI, FLinAI 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 25, 2015.
+Proceedings of the 1st International Workshop on Social Influence Analysis, SocInf 2015, co-located with 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.
+Proceedings of the IJCAI 2015 Joint Workshop on Constraints and Preferences for Configuration and Recommendation and Intelligent Techniques for Web Personalization co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.
+Proceedings of the Joint Ontology Workshops 2015 Episode 1: The Argentine Winter of Ontology co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 25-27, 2015.
+Computer Games - Fourth Workshop on Computer Games, CGW 2015, and the Fourth Workshop on General Intelligence in Game-Playing Agents, GIGA 2015, Held in Conjunction with the 24th International Conference on Artificial Intelligence, IJCAI 2015, Buenos Aires, Argentina, July 26-27, 2015, Revised Selected Papers.
+Coordination, Organizations, Institutions, and Normes in Agent Systems XI - COIN 2015 International Workshops, COIN@AAMAS, Istanbul, Turkey, May 4, 2015, COIN@IJCAI, Buenos Aires, Argentina, July 26, 2015, Revised Selected Papers.
+Artificial Intelligence for Knowledge Management - Third IFIP WG 12.6 International Workshop, AI4KM 2015, Held at IJCAI 2015, Buenos Aires, Argentina, July 25-31, 2015, Revised Selected Papers.
+IJCAI 2013, Proceedings of the 23rd International Joint Conference on Artificial Intelligence, Beijing, China, August 3-9, 2013.
+Proceedings of the 3rd Workshop on Ubiquitous Data Mining co-located with the 23rd International Joint Conference on Artificial Intelligence (IJCAI 2013), Beijing, China, August 3, 2013.
+Proceedings of the International Workshop "What can FCA do for Artificial Intelligence?" (FCA4AI at IJCAI 2013), Beijing, China, August 5, 2013.
+Computer Games - Workshop on Computer Games, CGW 2013, Held in Conjunction with the 23rd International Conference on Artificial Intelligence, IJCAI 2013, Beijing, China, August 3, 2013, Revised Selected Papers.
+Joint Proceedings of the Workshop on AI Problems and Approaches for Intelligent Environments and Workshop on Semantic Cities, AIIP/Semantic Cities@IJCAI 2013, Beijing, China, August 4-5, 2013.
+Proceedings of the 2nd Workshop on Machine Learning for Interactive Systems - Bridging the Gap Between Perception, Action and Communication, MLIS@IJCAI 2013, Beijing, China, August 4, 2013.
+Behavior and Social Computing, International Workshop on Behavior and Social Informatics, BSI 2013, Gold Coast, QLD, Australia, April 14-17, 2013 and International Workshop on Behavior and Social Informatics and Computing, BSIC 2013, Beijing, China, August 3-9, 2013, Revised Selected Papers.
+IJCAI 2011, Proceedings of the 22nd International Joint Conference on Artificial Intelligence, Barcelona, Catalonia, Spain, July 16-22, 2011.
+Workshop on Discovering Meaning On the Go in Large Heterogeneous Data 2011 (LHD-11), Barcelona, Spain, July 16, 2011.
+Proceedings of the 9th Workshop on Intelligent Techniques for Web Personalization & Recommender Systems, ITWP@IJCAI 2011, Barcelona, Spain, July 16, 2011.
+IJCAI 2009, Proceedings of the 21st International Joint Conference on Artificial Intelligence, Pasadena, California, USA, July 11-17, 2009.
+Proceedings of the 7th Workshop on Intelligent Techniques for Web Personalization & Recommender Systems (ITWP'09), Pasadena, California, USA, July 11-17, 2009 in conjunction with the 21st International Joint Conference on Artificial Intelligence - IJCAI 2009.
+Explanation-aware Computing, Papers from the 2009 IJCAI Workshop, Pasadena, California , USA, July 11-12, 2009.
+IJCAI 2007, Proceedings of the 20th International Joint Conference on Artificial Intelligence, Hyderabad, India, January 6-12, 2007.
+Artifical Intelligence for Human Computing, ICMI 2006 and IJCAI 2007 International Workshops, Banff, Canada, November 3, 2006, Hyderabad, India, January 6, 2007, Revised Seleced and Invited Papers.
+Proceedings of the 3rd International Workshop on Neural-Symbolic Learning and Reasoning, NeSy'07, held at IJCAI-07, Hyderabad, India, January 8, 2007.
+Advances in Ambient Intelligence [best papers from AITamI@IJCAI 2007, Hyderabad, India, January 2007].
+IJCAI-05, Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence, Edinburgh, Scotland, UK, July 30 - August 5, 2005.
+Agent-Mediated Electronic Commerce. Designing Trading Agents and Mechanisms - AAMAS 2005 Workshop, AMEC 2005, Utrecht, Netherlands, July 25, 2005, and IJCAI 2005 Workshop, TADA 2005, Edinburgh, UK, August 1, 2005, Selected and Revised Papers.
+Proceedings of the IJCAI-05 Workshop on Modeling and Retrieval of Context Edinburgh, July 31 - August 1, 2005.
+IJCAI-03, Proceedings of the Eighteenth International Joint Conference on Artificial Intelligence, Acapulco, Mexico, August 9-15, 2003.
+Proceedings of IJCAI-03 Workshop on Information Integration on the Web (IIWeb-03), August 9-10, 2003, Acapulco, Mexico.
+Intelligent Techniques for Web Personalization, IJCAI 2003 Workshop, ITWP 2003, Acapulco, Mexico, August 11, 2003, Revised Selected Papers.
+Proceedings of the Seventeenth International Joint Conference on Artificial Intelligence, IJCAI 2001, Seattle, Washington, USA, August 4-10, 2001.
+IJCAI'2001 Workshop on Ontology Learning, Proceedings of the Second Workshop on Ontology Learning OL'2001, Seattle, USA, August 4, 2001 (Held in conjunction with the 17th International Conference on Artificial Intelligence IJCAI'2001).
+Proceedings of the IJCAI-01 Workshop on Ontologies and Information Sharing Seattle, USA, August 4-5, 2001.
+Proceedings of the Sixteenth International Joint Conference on Artificial Intelligence, IJCAI 99, Stockholm, Sweden, July 31 - August 6, 1999. 2 Volumes, 1450 pages.
+Agent Mediated Electronic Commerce II, Towards Next-Generation Agent-Based Electronic Commerce Systems, IJCAI 1999 Workshop.
+Proceedings of the IJCAI-99 Workshop on Intelligent Information Integration, Held on July 31, 1999 in conjunction with the Sixteenth International Joint Conference on Artificial Intelligence City Conference Center, Stockholm, Sweden.
+Proceedings of the Fifteenth International Joint Conference on Artificial Intelligence, IJCAI 97, Nagoya, Japan, August 23-29, 1997, 2 Volumes.
+Fuzzy Logic in Artificial Intelligence, IJCAI'97 Workshop, Nagoya, Japan, August 23-24, 1997, Selected and Invited Papers.
+Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence, IJCAI 95, Montréal Québec, Canada, August 20-25 1995, 2 Volumes.
+Connectionist, Statistical, and Symbolic Approaches to Learning for Natural Language Processing.
+Adaption and Learning in Multi-Agent Systems, IJCAI'95 Workshop, Montréal, Canada, August 21, 1995, Proceedings.
+Fuzzy Logic in Artificial Intelligence, Towards Intelligent Systems, IJCAI'95 Workshop, Montréal, Canada, August 19-21, 1995, Selected Papers.
+Proceedings of the 13th International Joint Conference on Artificial Intelligence. Chambéry, France, August 28 - September 3, 1993.
+Fuzzy Logic in Artificial Intelligence, IJCAI '93, Workshop, Chambéry, France, August 28, 1993, Proceedings.
+Executable Modal and Temporal Logics, IJCAI '93, Workshop, Chambéry, France, August 28, 1993, Proceedings.
+Proceedings of the 12th International Joint Conference on Artificial Intelligence. Sydney, Australia, August 24-30, 1991.
+The Next Generation of Information Systems: From Data to Knowledge - A Selection of Papers Presented at Two IJCAI-91 Workshops, Sydney, Australia, August 26, 1991.
+Fuzzy Logic and Fuzzy Control, IJCAI '91, Workshops on Fuzzy Logic and Fuzzy Control, Sydney, Australia, August 24, 1991, Proceedings.
+Proceedings of the 11th International Joint Conference on Artificial Intelligence. Detroit, MI, USA, August 1989.
+Proceedings of the 10th International Joint Conference on Artificial Intelligence. Milan, Italy, August 23-28, 1987.
+Proceedings of the 9th International Joint Conference on Artificial Intelligence. Los Angeles, CA, USA, August 1985.
+Proceedings of the 8th International Joint Conference on Artificial Intelligence. Karlsruhe, FRG, August 1983.
+Proceedings of the 7th International Joint Conference on Artificial Intelligence, IJCAI '81, Vancouver, BC, Canada, August 24-28, 1981.
+Proceedings of the Sixth International Joint Conference on Artificial Intelligence, IJCAI 79, Tokyo, Japan, August 20-23, 1979, 2 Volumes.
+Proceedings of the 5th International Joint Conference on Artificial Intelligence. Cambridge, MA, USA, August 22-25, 1977.
+Advance Papers of the Fourth International Joint Conference on Artificial Intelligence, Tbilisi, Georgia, USSR, September 3-8, 1975.
+Proceedings of the 3rd International Joint Conference on Artificial Intelligence. Standford, CA, USA, August 20-23, 1973.
+Proceedings of the 2nd International Joint Conference on Artificial Intelligence. London, UK, September 1-3, 1971.
+Proceedings of the 1st International Joint Conference on Artificial Intelligence, Washington, DC, USA, May 7-9, 1969.

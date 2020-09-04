@@ -1,0 +1,97 @@
+MobiCom '20: The 26th Annual International Conference on Mobile Computing and Networking, London, United Kingdom, September 21-25, 2020.
+Proceedings of the 1st Workshop on Experiences with the Design and Implementation of Frugal Smart Objects, FRUGALTHINGS@MOBICOM 2020, September 21, 2020, London, UK.
+Proceedings of the Workshop on Light Up the IoT, LIOT@MOBICOM 2020, September 21, 2020, London, UK.
+The 25th Annual International Conference on Mobile Computing and Networking, MobiCom 2019, Los Cabos, Mexico, October 21-25, 2019.
+Proceedings of the 11th on Wireless of the Students, by the Students, and for the Students Workshop, S3@MobiCom 2019, Los Cabos, Mexico, October 21, 2019.
+Proceedings of the 3rd ACM Workshop on Millimeter-wave Networks and Sensing Systems, mmNets@MobiCom 2019, October 25, 2019, Los Cabos, Mexico.
+Proceedings of the 1st ACM Workshop on Emerging Smart Technologies and Infrastructures for Smart Mobility and Sustainability, SMAS@MobiCom 2019, Los Cabos, Mexico, October 21, 2019.
+Proceedings of the 13th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization, WiNTECH@@MobiCom 2019, Los Cabos, Mexico, October 25, 2019.
+Proceedings of the 4th Internet-QoE Workshop on QoE-based Analysis and Management of Data Communication Networks, Internet-QoE@MobiCom 2019, Los Cabos, Mexico, October 21, 2019.
+Proceedings of the 2019 Workshop on Hot Topics in Video Analytics and Intelligent Edges, HotEdgeVideo@MobiCom 2019, Los Cabos, Mexico, October 21-25, 2019.
+Proceedings of the 24th Annual International Conference on Mobile Computing and Networking, MobiCom 2018, New Delhi, India, October 29 - November 02, 2018.
+Proceedings of the 10th on Wireless of the Students, by the Students, and for the Students Workshop, S3@MobiCom 2018, New Delhi, India, November 2, 2018.
+Proceedings of the 12th International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization, WiNTECH@MobiCom 2018, New Delhi, India, November 2, 2018.
+Proceedings of the 2nd ACM Workshop on Millimeter Wave Networks and Sensing Systems, mmNets@MobiCom 2018, New Delhi, India, October 29, 2018.
+Proceedings of the 2018 on Technologies for the Wireless Edge Workshop, EdgeTech@MobiCom 2018, New Delhi, India, November 2, 2018.
+Proceedings of the 1st International Workshop on Future Industrial Communication Networks, FICN@MobiCom 2018, New Delhi, India, November 2, 2018.
+Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking, MobiCom 2017, Snowbird, UT, USA, October 16 - 20, 2017.
+Proceedings of the 4th ACM Workshop on Visible Light Communication Systems, VLCS@MobiCom 2017, Snowbird, UT, USA, October 16, 2017.
+Proceedings of the 11th Workshop on Wireless Network Testbeds, Experimental evaluation & CHaracterization, WiNTECH@MobiCom, Snowbird, UT, USA, October 20, 2017.
+Proceedings of the 4th ACM Workshop on Hot Topics in Wireless, HotWireless@MOBICOM 2017, Snowbird, UT, USA, October 16, 2017.
+Proceedings of the 2nd ACM International Workshop on Smart, Autonomous, and Connected Vehicular Systems and Services, CarSys@MobiCom 2017, Snowbird, UT, USA, October 20, 2017.
+Proceedings of the 3rd Workshop on Experiences with the Design and Implementation of Smart Objects, SmartObjects@MobiCom 2017, Snowbird, UT, USA, October 16, 2017.
+Proceedings of the 1st ACM Workshop on Millimeter-Wave Networks and Sensing Systems, mmNets@MobiCom 2017, Snowbird, UT, USA, October 16 - 20, 2017.
+Proceedings of the 9th ACM Workshop on Wireless of the Students, by the Students, and for the Students, S3@MobiCom 2017, Snowbird, UT, USA, October 20, 2017.
+Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking, MobiCom 2016, New York City, NY, USA, October 3-7, 2016.
+Proceedings of the Workshop on Mobility in the Evolving Internet Architecture, MobiArch 2016, New York City, NY, USA, October 3-7, 2016.
+Proceedings of the 5th Workshop on All Things Cellular - Operations, Applications and Challenges, ATC@MobiCom 2016, New York City, New York, USA, October 3-7, 2016.
+Proceedings of the 3rd Workshop on Hot Topics in Wireless, HotWireless@MobiCom 2016, New York City, New York, USA, October 3-7, 2016.
+Proceedings of the Tenth ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation, and Characterization, WiNTECH@MobiCom 2016, New York City, New York, USA, October 3-7, 2016.
+Proceedings of the 3rd Workshop on Visible Light Communication Systems, VLCS@MobiCom 2016, New York City, NY, USA, October 3-7, 2016.
+Proceedings of the First ACM International Workshop on Smart, Autonomous, and Connected Vehicular Systems and Services, CarSys@MobiCom 2016, New York City, NY, USA, October 3-7, 2016.
+Proceedings of the Eighth Wireless of the Students, by the Students, and for the Students Workshop, S3@MobiCom 2016, New York City, NY, USA, October 7, 2016.
+Proceedings of the 2nd Workshop on Experiences in the Design and Implementation of Smart Objects, SmartObjects@MobiCom 2016, New York City, NY, USA, October 3, 2016.
+Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, MobiCom 2015, Paris, France, September 7-11, 2015.
+Proceedings of the 10th International Workshop on Mobility in the Evolving Internet Architecture, MobiArch 2015, Paris, France, September 7, 2015.
+Proceedings of the 6th International Workshop on Hot Topics in Planet-Scale Measurement, HotPlanet@MobiCom 2015, Paris, France, September 7, 2015.
+Proceedings of the 2nd International Workshop on Hot Topics in Wireless, HotWireless@MobiCom 2015, Paris, France, September 11, 2015.
+Proceedings of the 6th International Workshop on Mobile Cloud Computing and Services, MCS@MobiCom 2015, Paris, France, September 11, 2015.
+Proceedings of the 2015 Workshop on Wireless of the Students, by the Students, & for the Students, S3@MobiCom 2015, Paris, France, September 11, 2015.
+Proceedings of the 1st International Workshop on Experiences with the Design and Implementation of Smart Objects, SmartObjects@MobiCom 2015, Paris, France, September 7, 2015.
+Proceedings of the 2015 Workshop on Software Radio Implementation Forum, SRIF@MobiCom 2015, Paris, France, September 7, 2015.
+Proceedings of the 2nd International Workshop on Visible Light Communications Systems, VLCS@MobiCom 2015, Paris, France, September 11, 2015.
+The 20th Annual International Conference on Mobile Computing and Networking, MobiCom'14, Maui, HI, USA, September 7-11, 2014.
+Proceedings of the 9th ACM Workshop on Mobility in the Evolving Internet Architecture, MobiArch 2014, Maui, HI, USA, September 11, 2014.
+Proceedings of the 1st ACM workshop on Hot topics in wireless, HotWireless 2014, Maui, HI, USA, September 11, 2014.
+Proceedings of the 9th ACM international workshop on Wireless network testbeds, experimental evaluation and characterization, WiNTECH '14, Maui, Hawaii, USA, September 7, 2014.
+Proceedings of the 6th annual workshop on Wireless of the students, by the students, for the students, S3@MobiCom 2014, Maui, Hawaii, USA, September 7, 2014.
+Proceedings of the ACM MobiCom Workshop on Security and Privacy in Mobile Environments, SPME@MobiCom 2014, Maui, Hawaii, USA, September 11, 2014.
+Proceedings of the 1st ACM MobiCom workshop on Visible light communication systems, VLCS@MobiCom 2014, Maui, Hawaii, USA, September 7, 2014.
+The 19th Annual International Conference on Mobile Computing and Networking, MobiCom'13, Miami, FL, USA, September 30 - October 04, 2013.
+Proceedings of the Eighth ACM International Workshop on Mobility in the Evolving Internet Architecture, MobiArch 2013, Miami, FL, USA, October 4, 2013.
+Proceedings of the 8th ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization, WiNTECH 2013, Miami, Florida, USA, September 30, 2013.
+Proceedings of the 1st ACM workshop on Cognitive radio architectures for broadband, CRAB@MobiCom 2013, Miami, Florida, USA, October 4, 2013.
+Proceedings of the 2013 ACM MobiCom workshop on Lowest cost denominator networking for universal access, LCDNet@MobiCom 2013, Miami, Florida, USA, September 30, 2013.
+Proceedings of the 2nd ACM annual international workshop on Mission-oriented wireless sensor networking, MiSeNet@MobiCom 2013, Miami, Florida, USA, October 4, 2013.
+The 18th Annual International Conference on Mobile Computing and Networking, Mobicom'12, Istanbul, Turkey, August 22-26, 2012.
+Proceedings of the seventh ACM International Workshop on Mobility in the Evolving Internet Architecture, MobiArch 2012, Istanbul, Turkey, August 22, 2012.
+Proceedings of the Seventh ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization, WiNTECH@MOBICOM 2012, Istanbul, Turkey, August 22, 2012.
+Proceedings of the 17th Annual International Conference on Mobile Computing and Networking, MOBICOM 2011, Las Vegas, Nevada, USA, September 19-23, 2011.
+Proceedings of the 6th ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization, WiNTECH@MobiCom 2011, Las Vegas, Nevada, USA, September 19, 2011.
+Proceedings of the 3rd ACM workshop on Wireless of the students, by the students, for the students, S3@MOBICOM 2011, Las Vegas, NV, USA, September 19 - 23, 2011.
+Proceedings of the 3rd ACM workshop on Cognitive radio networks, CoRoNet@MOBICOM 2011, Las Vegas, Nevada, USA, September 19, 2011.
+Proceedings of the 16th Annual International Conference on Mobile Computing and Networking, MOBICOM 2010, Chicago, Illinois, USA, September 20-24, 2010.
+Proceedings of the Fifth ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization, WiNTECH@MOBICOM 2010, Chicago, Illinois, USA, September 20, 2010.
+Proceedings of the 2010 ACM workshop on Wireless of the students, by the students, for the students, S3@MOBICOM 2010, Chicago, IL, USA, September 20-24, 2010.
+Proceedings of the 2010 ACM Workshop on Cognitive Radio Networks, CoRoNet@MOBICOM 2010, Chicago, Illinois, USA, September 20, 2010.
+Proceedings of the 15th Annual International Conference on Mobile Computing and Networking, MOBICOM 2009, Beijing, China, September 20-25, 2009.
+Proceedings of the 2009 ACM Workshop on Cognitive Radio Networks, CoRoNet 2009, Beijing, China, September 21, 2009.
+Proceedings of the 14th Annual International Conference on Mobile Computing and Networking, MOBICOM 2008, San Francisco, California, USA, September 14-19, 2008.
+Proceedings of the 2008 ACM Workshop on Wireless Networks and Systems for Developing Regions, San Francisco, California, USA, September 19, 2007.
+Proceedings of the ACM International Workshop on Mobile Entity Localization and Tracking in GPS-less Environments, MELT 2008, San Francisco, California, USA, September 19, 2008.
+Proceedings of the Third Workshop on Underwater Networks, WUWNET 2008, San Francisco, California, USA, September 15, 2007.
+Proceedings of the Third ACM Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization, WINTECH 2008, San Francisco, California, USA, September 19, 2008.
+Proceedings of the 13th Annual International Conference on Mobile Computing and Networking, MOBICOM 2007, Montréal, Québec, Canada, September 9-14, 2007.
+Proceedings of the Second Workshop on Underwater Networks, WUWNET 2007, Montréal, Québec, Canada, September 14, 2007.
+Proceedings of the First ACM Workshop on Sensor and Actor Networks, SANET 2007, Montréal, Québec, Canada, September 10, 2007.
+Proceedings of the Second ACM Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization, WINTECH 2007, Montréal, Québec, Canada, September 10, 2007.
+Proceedings of the 12th Annual International Conference on Mobile Computing and Networking, MOBICOM 2006, Los Angeles, CA, USA, September 23-29, 2006.
+Proceedings of the First Workshop on Underwater Networks, WUWNET 2006, Los Angeles, CA, USA, September 25, 2007.
+Proceedings of the First ACM Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization, WINTECH 2006, Los Angeles, California, USA, September 29, 2006.
+Proceedings of the 1st international workshop on Decentralized resource sharing in mobile computing and networking, MobiShare@MobiCom 2006, Los Angeles, California, USA, July 25, 2006.
+Proceedings of the 11th Annual International Conference on Mobile Computing and Networking, MOBICOM 2005, Cologne, Germany, August 28 - September 2, 2005.
+Proceedings of the 1st ACM workshop on Dynamic interconnection of networks, DIN@MobiCom 2005, Cologne, Germany, September 2, 2005.
+Proceedings of the 10th Annual International Conference on Mobile Computing and Networking, MOBICOM 2004, 2004, Philadelphia, PA, USA, September 26 - October 1, 2004.
+Proceedings of the Second International Workshop on Mobility Management & Wireless Access Protocols, 2004, Philadelphia, PA, USA, October 1, 2004.
+Proceedings of the Ninth Annual International Conference on Mobile Computing and Networking, MOBICOM 2003, 2003, San Diego, CA, USA, September 14-19, 2003.
+Proceedings of the Second ACM International Conference on Wireless Sensor Networks and Applications, WSNA 2003, San Diego, CA, USA, September 19, 2003.
+Proceedings of the Eighth Annual International Conference on Mobile Computing and Networking, MOBICOM 2002, Atlanta, Georgia, USA, September 23-28, 2002.
+Proceedings of the First ACM International Workshop on Wireless Sensor Networks and Applications, WSNA 2002, Atlanta, Georgia, USA, September 28, 2002.
+MOBICOM 2001, Proceedings of the seventh annual international conference on Mobile computing and networking, Rome, Italy, July 16-21, 2001.
+MOBICOM 2000, Proceedings of the sixth annual international conference on Mobile computing and networking, Boston, MA, USA, August 6-11, 2000.
+MOBICOM '99, The Fifth Annual ACM/IEEE International Conference on Mobile Computing and Networking, Seattle, Washington, USA, August 15-19, 1999.
+Proceedings of the ACM International Workshop on Data Engineering for Wireless and Mobile Access, August 20, 1999, Seattle, WA, USA.
+MOBICOM '98, The Fourth Annual ACM/IEEE International Conference on Mobile Computing and Networking, Dallas, Texas, USA, October 25-30, 1998.
+MOBICOM '97, Proceedings of the Third Annual ACM/IEEE International Conference on Mobile Computing and Networking, Budapest, Hungary, September 26-30, 1997.
+MOBICOM '96, Proceedings of the Second Annual International Conference on Mobile Computing and Networking, Rye, New York, USA, November 10-12, 1996.
+MOBICOM '95, Proceedings of the First Annual International Conference on Mobile Computing and Networking, Berkeley, CA, USA, November 13-15, 1995.

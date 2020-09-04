@@ -1,0 +1,126 @@
+Proceedings of the 27th ACM International Conference on Multimedia, MM 2019, Nice, France, October 21-25, 2019.
+Proceedings of the 5th International Workshop on Multimedia Assisted Dietary Management, MADiMa @ ACM Multimedia 2019, Nice, France, October 21-25, 2019.
+Proceedings of the 1st Workshop on Structuring and Understanding of Multimedia heritAge Contents, SUMAC @ ACM Multimedia 2019, Nice, France, October 21, 2019.
+Proceedings Proceedings of the 2nd International Workshop on Multimedia Content Analysis in Sports, MMSports@MM 2019, Nice, France, October 25, 2019.
+Proceedings of the 9th International on Audio/Visual Emotion Challenge and Workshop, AVEC@MM 2019, Nice, France, October 21-25, 2019.
+Proceedings of the 1st International Workshop on AI for Smart TV Content Production, Access and Delivery, AI4TV@MM 2019, Nice, France, October 21, 2019.
+2018 ACM Multimedia Conference on Multimedia Conference, MM 2018, Seoul, Republic of Korea, October 22-26, 2018.
+Proceedings of the 3rd International Workshop on Multimedia for Personal Health and Health Care, HealthMedia@MM 2018, Seoul, Republic of Korea, October 22, 2018.
+Proceedings of the 1st International Workshop on Multimedia Content Analysis in Sports, MMSports@MM 2018, Seoul, Republic of Korea, October 26, 2018.
+Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop, AVEC@MM 2018, Seoul, Republic of Korea, October 22, 2018.
+Proceedings of the 2018 Workshop on Audio-Visual Scene Understanding for Immersive Multimedia, AVSU@MM 2018, Seoul, Republic of Korea, October 26, 2018.
+Proceedings of the 1st Workshop and Challenge on Comprehensive Video Understanding in the Wild, CoVieW@MM 2018, Seoul, Republic of Korea, October 22, 2018.
+Proceedings of the 3rd International Workshop on Multimedia Alternate Realities, AltMM@MM 2018, Seoul, Republic of Korea, October 22, 2018.
+Proceedings of the 2017 ACM on Multimedia Conference, MM 2017, Mountain View, CA, USA, October 23-27, 2017.
+Proceedings of the on Thematic Workshops of ACM Multimedia 2017, Mountain View, CA, USA, October 23 - 27, 2017.
+Proceedings of the 2nd International Workshop on Multimedia for Personal Health and Health Care, MMHealth@MM 2017, Mountain View, CA, USA, October 23 - 27, 2017.
+Proceedings of the 2nd Workshop on Lifelogging Tools and Applications, LTA@MM 2017, Mountain View, CA, USA, October 23, 2017.
+Proceedings of the 7th Annual Workshop on Audio/Visual Emotion Challenge, Mountain View, CA, USA, October 23 - 27, 2017.
+Proceedings of the First International Workshop on Multimedia Verification, MuVer@MM 2017, Mountain View, CA, USA, October 27, 2017.
+Proceedings of the Workshop on Multimodal Understanding of Social, Affective and Subjective Attributes, MUSA2@MM 2017, Mountain View, CA, USA, October 27, 2017.
+Proceedings of the 2017 ACM Workshop on Multimedia-based Educational and Knowledge Technologies for Personalized and Social Online Training, MultiEdTech@MM 2017, Mountain View, CA, USA, October 27, 2017.
+Proceedings of the Workshop on Visual Analysis in Smart and Connected Communities, VSCC@MM 2017, Mountain View, CA, USA, October 23, 2017.
+Proceedings of the 2016 ACM Conference on Multimedia Conference, MM 2016, Amsterdam, The Netherlands, October 15-19, 2016.
+Proceedings of the 6th International Workshop on Audio/Visual Emotion Challenge, AVEC@MM 2016, Amsterdam, The Netherlands, October 16, 2016.
+Proceedings of the 2016 ACM Workshop on Multimedia for Personal Health and Health Care, MMHealth 2016, Amsterdam, The Netherlands, October 16, 2016.
+Proceedings of the first Workshop on Lifelogging Tools and Applications, LTA@MM 2016, Amsterdam, Netherlands, October 15 - 19, 2016.
+Proceedings of the 2016 ACM Workshop on Multimedia COMMONS, Amsterdam, Netherlands, October 16, 2016.
+Proceedings of the 2nd International Workshop on Multimedia Assisted Dietary Management, MADiMa @ ACM Multimedia 2016, Amsterdam, The Netherlands, October 16, 2016.
+Proceedings of the 1st International Workshop on Multimedia Alternate Realities, AltMM@MM 2016, Amsterdam, Netherlands, October 15 - 19, 2016.
+Proceedings of the 2016 ACM workshop on Vision and Language Integration Meets Multimedia Fusion, iV&L-MM@MM 2016, Amsterdam, Netherlands, October 16, 2016.
+Proceedings of the 23rd Annual ACM Conference on Multimedia Conference, MM '15, Brisbane, Australia, October 26 - 30, 2015.
+Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia, ASM 2015, Brisbane, Australia, October 30, 2015.
+Proceedings of the 5th International Workshop on Audio/Visual Emotion Challenge, AVEC 2015, Brisbane, Australia, October 26, 2015.
+Proceedings of the Fourth International Workshop on Crowdsourcing for Multimedia, CrowdMM 2015, Brisbane, Australia, October 30, 2015.
+Proceedings of the 2nd Workshop on Computational Models of Social Interactions: Human-Computer-Media Communication, HCMC 2015, Brisbane, Australia, October 30, 2015.
+Proceedings of the 2nd ACM International Workshop on Human-centered Event Understanding from Multimedia, HuEvent 2015, Brisbane, Australia, October 30, 2015.
+Proceedings of the 3rd International Workshop on Immersive Media Experiences, ImmersiveME 2015, Brisbane, Australia, October 30, 2015.
+Proceedings of the 2015 Workshop on Community-Organized Multimodal Mining: Opportunities for Novel Solutions, MMCommons 2015, Brisbane, Australia, October 30, 2015.
+Proceedings of the Third Edition Workshop on Speech, Language & Audio in Multimedia, SLAM 2015, Brisbane, Australia, October 30, 2015.
+Proceedings of the ACM International Conference on Multimedia, MM '14, Orlando, FL, USA, November 03 - 07, 2014.
+Proceedings of the 4th International Workshop on Audio/Visual Emotion Challenge, AVEC '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 2014 International ACM Workshop on Crowdsourcing for Multimedia, CrowdMM '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 1st International Workshop on Emerging Multimedia Applications and Services for Smart Cities, EMASC '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 3rd ACM Multimedia Workshop on Geotagging and Its Applications in Multimedia, GeoMM '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 1st ACM International Workshop on Human Centered Event Understanding from Multimedia, HuEvent '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 2nd ACM International Workshop on Immersive Media Experiences, ImmersiveMe '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 3rd ACM International Workshop on Multimedia Analysis for Ecological Data, MAED '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 1st International Workshop on Perception Inspired Video Processing, PIVP '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 3rd International Workshop on Socially-Aware Multimedia, SAM '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 2014 ACM International Workshop on Serious Games, SeriousGames '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the 2014 ACM Multi Media on Workshop on Computational Personality Recognition, WCPR '14, Orlando, Florida, USA, November 7, 2014.
+Proceedings of the First International Workshop on Internet-Scale Multimedia Management, WISMM '14, Orlando, Florida, USA, November 7, 2014.
+ACM Multimedia Conference, MM '13, Barcelona, Spain, October 21-25, 2013.
+Proceedings of the 4th ACM/IEEE international workshop on Analysis and retrieval of tracked events and motion in imagery stream, ARTEMIS@ACM Multimedia 2013, Barcelona, Spain, October 21, 2013.
+Proceedings of the 3rd ACM international workshop on Audio/visual emotion challenge, AVEC@ACM Multimedia 2013, Barcelona, Spain, October 21, 2013.
+Proceedings of the 5th international workshop on Multimedia for cooking & eating activities, CEA@ACM Multimedia 2013, Barcelona, Spain, October 21, 2013.
+Proceedings of the 2nd ACM international workshop on Crowdsourcing for multimedia, CrowdMM@ACM Multimedia 2013, Barcelona, Spain, October 22, 2013.
+Proceedings of the 2nd ACM international workshop on Geotagging and its applications in multimedia, GeoMM@ACM Multimedia 2013, Barcelona, Spain, October 21, 2013.
+Proceedings of the 2013 ACM international workshop on Immersive media experiences, ImmersiveMe@ACM Multimedia 2013, Barcelona, Spain, October 22, 2013.
+Proceedings of the 3rd ACM international workshop on Interactive multimedia on mobile & portable devices, IMMPD@ACM Multimedia 2013, Barcelona, Spain, October 22, 2013.
+Proceedings of the 2nd ACM international workshop on Multimedia analysis for ecological data, MAED@ACM Multimedia 2013, Barcelona, Spain, October 22, 2013.
+Proceedings of the 1st ACM international workshop on Multimedia indexing and information retrieval for healthcare, MIIRH@ACM Multimedia 2013, Barcelona, Spain, October 22, 2013.
+Proceedings of the 1st ACM international workshop on Personal data meets distributed multimedia, PDM@ACM Multimedia 2013, Barcelona, Spain, October 22, 2013.
+Proceedings of the 2nd international workshop on Socially-aware multimedia, SAM@ACM Multimedia 2013, Barcelona, Spain, October 21, 2013.
+Proceedings of the 20th ACM Multimedia Conference, MM '12, Nara, Japan, October 29 - November 02, 2012.
+Proceedings of the second international ACM workshop on Music information retrieval with user-centered and multimodal strategies, MIRUM '12, Nara, Japan, October 29 - November 02, 2012.
+Proceedings of the 2012 international workshop on Socially-aware multimedia, SAM '12, Nara, Japan, October 29, 2012.
+Proceedings of the ACM multimedia 2012 workshop on Multimedia for cooking and eating activities, CEA@ACM Multimedia 2012, Nara, Japan, November 2, 2012.
+Proceedings of the ACM multimedia 2012 workshop on Crowdsourcing for multimedia, CrowdMM@ACM Multimedia 2012, Nara, Japan, October 29, 2012.
+Proceedings of the ACM multimedia 2012 workshop on Geotagging and its applications in multimedia, GeoMM@ACM Multimedia 2012, Nara, Japan, October 29, 2012.
+Proceedings of the 2nd ACM international workshop on Interactive multimedia on mobile and portable devices, IMMPD@ACM Multimedia 2012, Nara, Japan, November 2, 2012.
+Proceedings of the 1st ACM international workshop on Multimedia analysis for ecological data, MAED@ACM Multimedia 2012, Nara, Japan, November 2, 2012.
+Proceedings of the 19th International Conference on Multimedia 2011, Scottsdale, AZ, USA, November 28 - December 1, 2011.
+Proceedings of the 1st international ACM workshop on Music information retrieval with user-centered and multimodal strategies, Scottsdale, AZ, USA, November 28 - December 01, 2011.
+Proceedings of the 2011 international ACM workshop on Interactive multimedia on mobile and portable devices, IMMPD@ACM Multimedia 2011, Scottsdale, AZ, USA, November 29, 2011.
+Proceedings of the 2011 joint ACM workshop on Human gesture and behavior understanding, J-HGBU@MM 2011, Scottsdale, Arizona, USA, December 1, 2011.
+Proceedings of the 18th International Conference on Multimedia 2010, Firenze, Italy, October 25-29, 2010.
+Proceedings of the 2nd ACM international workshop on Events in multimedia, EIMM 2010, Firenze, Italy, October 25 - 29, 2010.
+Proceedings of the first ACM international workshop on Analysis and retrieval of tracked events and motion in imagery streams, ARTEMIS@ACM Multimedia 2010, Firenze, Italy, October 29, 2010.
+Proceedings of the 2nd ACM workshop on Multimedia in forensics, security and intelligence, MiFor@MM 2010, Firenze, Italy, October 29, 2010.
+Proceedings of second ACM SIGMM workshop on Social media, WSM@MM 2010, Firenze, Italy, October 25, 2010.
+Proceedings of the ACM workshop on 3D object retrieval, 3DOR '10, Firenze, Italy, October 25, 2010.
+Proceedings of the 2010 ACM workshop on Advanced video streaming techniques for peer-to-peer networks and social networking, AVSTP2P@MM 2010, Firenze, Italy, October 29, 2010.
+Proceedings of the 2nd international workshop on Social signal processing, SSPW@MM 2010, Firenze, Italy, October 29, 2010.
+Proceedings of the 1st ACM international workshop on Multimodal pervasive video analysis, MPVA@MM 1010, Firenze, Italy, October 29, 2010.
+Proceedings of the 17th International Conference on Multimedia 2009, Vancouver, British Columbia, Canada, October 19-24, 2009.
+Proceedings of the 1st ACM international workshop on Events in multimedia, EIMM 2009, Beijing, China, October 19 - 24, 2009.
+Proceedings of the ACM multimedia 2009 workshop on Multimedia for cooking and eating activities, CEA@ACM Multimedia 2009, Beijing, China, October 23, 2009.
+Proceedings of the First ACM workshop on Large-scale multimedia retrieval and mining, LS-MMRM@ACM Multimedia 2009, Beijing, China, October 23, 2009.
+Proceedings of the first SIGMM workshop on Social media, WSM@MM 2009, Beijing, China, October 23, 2009.
+Proceedings of the First ACM workshop on Multimedia in forensics, MiFor '09, Beijing, China, October 23, 2009.
+Proceedings of the first ACM international workshop on Multimedia technologies for distance learning, MTDL@MM 2009, Beijing, China, October 23, 2009.
+Proceedings of the 16th International Conference on Multimedia 2008, Vancouver, British Columbia, Canada, October 26-31, 2008.
+Proceedings of the 1st ACM Workshop on Analysis and Retrieval of Events/Actions and Workflows in Video Streams, AREA 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 1st ACM SIGMM International Conference on Multimedia Information Retrieval, MIR 2008, Vancouver, British Columbia, Canada, October 30-31, 2008.
+Proceedings of the 1st ACM Workshop on Communicability design and evaluation in cultural and ecological multimedia system, CommunicabilityMS 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 3rd ACM Workshop on Human-Centered Computing, HCC 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 2nd ACM Workshop on Multimedia Semantics, MS 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 1st ACM Workshop on Semantic Ambient Media Experiences, SAME 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 2nd ACM Workshop on Story Representation, Mechanism and Context, SRMC 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 2nd ACM Workshop on Video Summarization, TVS 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 1st ACM Workshop on Vision Networks for Behavior Analysis, VNBA 2008, Vancouver, British Columbia, Canada, October 31, 2008.
+Proceedings of the 15th International Conference on Multimedia 2007, Augsburg, Germany, September 24-29, 2007.
+Proceedings of the International Workshop on Educational Multimedia and Multimedia Education 2007, Augsburg, Bavaria, Germany, September 28, 2007.
+Proceedings of the 9th ACM SIGMM International Workshop on Multimedia Information Retrieval, MIR 2007, Augsburg, Bavaria, Germany, September 24-29, 2007.
+Proceedings of the 1st ACM Workshop on The Many Faces of Multimedia Semantics, MS 2007, Augsburg, Bavaria, Germany, September 28, 2007.
+Proceedings of the 1st ACM Workshop on Video Summarization, TVS 2007, Augsburg, Bavaria, Germany, September 28, 2007.
+Proceedings of the international workshop on Human-centered multimedia, HCM@MM 2007, Augsburg, Bavaria, Germany, September 28, 2007.
+Proceedings of the 14th ACM International Conference on Multimedia, Santa Barbara, CA, USA, October 23-27, 2006.
+Proceedings of the 13th ACM International Conference on Multimedia, Singapore, November 6-11, 2005.
+Proceedings of the 12th ACM International Conference on Multimedia, New York, NY, USA, October 10-16, 2004.
+Proceedings of the 1st ACM Workshop on Story Representation, Mechanism and Context, SRMC 2004, New York, NY, USA, October 15, 2004.
+Proceedings of the Eleventh ACM International Conference on Multimedia, Berkeley, CA, USA, November 2-8, 2003.
+Proceedings of the 10th ACM International Conference on Multimedia 2002, Juan les Pins, France, December 1-6, 2002.
+Proceedings of the 9th ACM International Conference on Multimedia 2001, Ottawa, Ontario, Canada, September 30 - October 5, 2001.
+Proceedings of the 2001 ACM workshops on Multimedia: multimedia information retrieval, Ottawa, ON, Canada, September 30 - October 5, 2001.
+Proceedings of the 8th ACM International Conference on Multimedia 2000, Los Angeles, CA, USA, October 30 - November 3, 2000.
+Proceedings of the ACM Multimedia 2000 Workshops, Los Angeles, CA, USA, October 30 - November 3, 2000.
+Proceedings of the 7th ACM International Conference on Multimedia '99, Orlando, FL, USA, October 30 - November 5, 1999, Part 1.
+Proceedings of the 7th ACM International Conference on Multimedia '99, Orlando, FL, USA, October 30 - November 5, 1999, Part 2.
+Proceedings of the 6th ACM International Conference on Multimedia '98, Bristol, England, September 12-16, 1998.
+Proceedings of the Fifth ACM International Conference on Multimedia '97, Seattle, WA, USA, November 9-13, 1997.
+Proceedings of the Forth ACM International Conference on Multimedia '96, Boston, MA, USA, November 18-22, 1996.
+Proceedings of the Third ACM International Conference on Multimedia '95, San Francisco, CA, USA, November 5-9, 1995.
+Proceedings of the Second ACM International Conference on Multimedia '94, San Francisco, CA, USA, October 15-20, 1994.
+Proceedings of the First ACM International Conference on Multimedia '93, Anaheim, CA, USA, August 1-6, 1993.

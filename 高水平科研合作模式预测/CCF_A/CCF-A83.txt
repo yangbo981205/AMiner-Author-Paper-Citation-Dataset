@@ -1,0 +1,2513 @@
+Special Issue on Advances in Video Coding and Delivery.
+Trends and Perspectives in Image and Video Coding.
+Video Compression - From Concepts to the H.264/AVC Standard.
+JPEG 2000: Retrospective and New Developments.
+Advances in Scalable Video Coding.
+Multiple Description Coding for Video Delivery.
+Distributed Video Coding.
+Digital Video Transcoding.
+Interactive 3-D Video Representation and Coding Technologies.
+Advances in Wireless Video Delivery.
+End-to-End QoS for Video Delivery Over Wireless Internet.
+Advances in Efficient Resource Allocation for Packet-Based Real-Time Video Transmission.
+Video Adaptation: Concepts, Technologies, and Open Issues.
+Internet Multicast Video Delivery.
+Advances in Digital Video Content Protection.
+Advances in Hardware Architectures for Image and Video Coding - A Survey.
+Electrical Engineering Hall of Fame: Lee de Forest.
+Special Issue on Program Generation, Optimization, and Platform Adaptation.
+The Design and Implementation of FFTW3.
+SPIRAL: Code Generation for DSP Transforms.
+Synthesis of High-Performance Parallel Programs for a Class of ab Initio Quantum Chemistry Models.
+Self-Adapting Linear Algebra Algorithms and Software.
+Parallel VSIPL++: An Open Standard Software Library for High-Performance Parallel Signal Processing.
+Parallel MATLAB: Doing it Right.
+Broadway: A Compiler for Exploiting the Domain-Specific Semantics of Software Libraries.
+Is Search Really Necessary to Generate High-Performance BLAS?
+Telescoping Languages: A System for Automatic Generation of Domain Languages.
+Efficient Utilization of SIMD Extensions.
+Intelligent Monitoring for Adaptation in Grid Applications.
+Design and Engineering of a Dynamic Binary Optimizer.
+A Survey of Adaptive Optimization in Virtual Machines.
+Electrical Engineering Hall of Fame: Alexander Graham Bell.
+Special Issue on Grid Computing.
+The Earth System Grid: Supporting the Next Generation of Climate Modeling Research.
+DAME: Searching Large Data Sets Within a Grid-Enabled Engineering Application.
+The Computational Chemistry Prototyping Environment.
+Japanese Computational Grid Research Project: NAREGI.
+The Grid Application Toolkit: Toward Generic and Easy Application Programming Interfaces for the Grid.
+Building Grid Portal Applications From a Web Service Component Architecture.
+Deploying the NaradaBrokering Substrate in Aiding Efficient Web and Grid Service Interactions.
+Data Grids, Digital Libraries, and Persistent Archives: An Integrated Approach to Sharing, Publishing, and Archiving Data.
+Legion: Lessons Learned Building a Grid Operating System.
+Modeling and Managing State in Distributed Systems: The Role of OGSI and WSRF.
+Coordination in Intelligent Grid Environments.
+Agreement-Based Resource Management.
+Security for Grids.
+Conceptual and Implementation Models for the Grid.
+The Semantic Grid: Past, Present, and Future.
+Cyberinfrastructure for Science and Engineering: Promises and Challenges.
+Grid Computing and Beyond: The Context of Dynamic Data Driven Applications Systems.
+The Grid Economy.
+Electrical Engineering Hall of Fame: John S. Stone.
+Special Issue on Molecular Imaging: Emerging Technology and Biomedical Applications.
+Intelligent Biohybrid Materials for Therapeutic and Imaging Agent Delivery.
+Gene Array Technologies in Biological Investigations.
+Using in Vivo Bioluminescence Imaging to Shed Light on Cancer Biology.
+Development of a Small-Animal PET System.
+Multimodality Radionuclide, Fluorescence, and Bioluminescence Small-Animal Imaging.
+Molecular Imaging of Cancer: Applications of Magnetic Resonance Methods.
+Molecular MR Imaging Probes.
+Molecular and Cellular Imaging with Targeted Contrast Ultrasound.
+From Genomics to Clinical Molecular Imaging.
+Photonics Technology for Molecular Imaging.
+Radar 101: Celebrating 101 Years of Development.
+Special Issue on Energy Infrastructure Defense Systems.
+Energy Infrastructure Defense Systems.
+Wide-Area Protection and Emergency Control.
+WACS-Wide-Area Stability and Voltage Control System: R&D and Online Demonstration.
+Designing a Reliable Power System: Hydro-Quebec's Integrated Approach.
+Strategic Power Infrastructure Defense.
+A Fast Algorithm for Identification and Tracing of Voltage and Oscillatory Stability Margin Boundaries.
+Use of Satellite Technologies for Power System Measurements, Command, and Control.
+Catastrophic Failures in Power Systems: Causes, Analyses, and Countermeasures.
+Designing the Next Generation of Real-Time Control, Communication, and Computations for Large Power Systems.
+Design Aspects for Wide-Area Monitoring and Control Systems.
+Wide-Area Protection and Power System Utilization.
+Area-Wide System Protection Scheme Against Extreme Contingencies.
+dcOvercoming Communications Challenges in Software for Monitoring and Controlling Power Systems.
+Impact of Natural Gas Infrastructure on Electric Power Systems.
+Electrical Engineering Hall of Fame: Nikola Tesla.
+Special Issue on Industrial Communication Systems.
+Fieldbus Technology in Industrial Automation.
+Ethernet-Based Real-Time and Industrial Communications.
+Real-Time Ethernet - Industry Prospective.
+Wireless Technology in Industrial Networks.
+Security for Industrial Communication Systems.
+Communication systems for building automation and control.
+Trends in Automotive Communication Systems.
+Electrical Engineering Hall of Fame: Michael I. Pupin.
+Special Issue on Flexible Electronics Technology, Part 1: Systems and Applications.
+Macroelectronics: Perspectives on Technology and Applications.
+Functional Pixel Circuits for Elastic AMOLED Displays.
+Flexible Organic LED and Organic Thin-Film Transistor.
+Organic LED Pixel Array on a Dome.
+Flexible a-Si: H Position-Sensitive Detectors.
+Organic Memory Device Fabricated Through Solution Processing.
+Poly-Si TFT Fabricated at 150 deg C Using ICP-CVD and Excimer Laser Annealing.
+Extracting Contact Effects in Organic FETs.
+Photosensitive Polymer Thin-Film FETs Based on Poly(3-octylthiophene).
+Large Area Electronics Using Printing Methods.
+Progress Toward Development of All-Printed RFID Tags: Materials, Processes, and Devices.
+Printed Electrochemical Devices Using Conducting Polymers as Active Materials on Flexible Substrates.
+Printed Organic Semiconducting Devices.
+High-Performance Nanowire Electronics and Photonics and Nanoscale Patterning on Flexible Plastic Substrates.
+Low-Temperature Deposition of Hydrogenated Amorphous Silicon in an Electron Cyclotron Resonance Reactor for Flexible Displays.
+Realization of Flexible Plasma Display Panels on PET Substrates.
+Scanning Our Past from Madrid: Leonardo Torres Quevedo.
+Special Issue on Flexible Electronics Technology, Part II: Materials and Devices.
+Reel to Real: Prospects for Flexible Displays.
+Polymer Electronics Systems - Polytronics.
+The Electronic Circuit Composition and Structure of Thread for a Novel Braid Electronics-Systems by Kumihimo Structure.
+Design of High-Performance Regioregular Polythiophenes for Organic Thin-Film Transistors.
+Low-Temperature Materials and Thin Film Transistors for Flexible Electronics.
+Flexible Conjugated Polymer-Based Plastic Solar Cells: From Basics to Applications.
+Toward Novel Flexible Display - Top-Emitting OLEDs on Al-Laminated PET Substrates.
+Transparent Flexible Substrates Based on Polyimides with Aluminum Doped Zinc Oxide (AZO) Thin Films.
+Electromechanical Properties of Transparent Conducting Substrates for Flexible Electronic Displays.
+Stretchable Interconnects for Elastic Electronic Surfaces.
+A Transparent, High Barrier, and High Heat Substrate for Organic Electronics.
+Method of Measuring Ultralow Water Vapor Permeation for OLED Displays.
+Vacuum Web Coating - State of the Art and Potential for Electronics.
+Printing Methods and Materials for Large-Area Electronic Devices.
+Flexible Electronics and Displays: High-Resolution, Roll-to-Roll, Projection Lithography and Photoablation Processing Technologies for High-Throughput Production.
+Electrical Engineering Hall of Fame: John J. Carty.
+Special Issue on Silicon Germanium - Advanced Technology, Modeling, and Design.
+Scaling of SiGe Heterojunction Bipolar Transistors.
+Status and Direction of Communication Technologies - SiGe BiCMOS and RFCMOS.
+On the Potential of SiGe HBTs for Extreme Environment Electronics.
+Noise in SiGe HBT RF Technology: Physics, Modeling, and Circuit Implications.
+SiGe Radio Frequency ICs for Low-Power Portable Communication.
+Design and Compliance Testing of a SiGe WCDMA Receiver IC With Integrated Analog Baseband.
+Integrated Phased Array Systems in Silicon.
+Smart Phased Array SoCs: A Novel Application for Advanced SiGe HBT BiCMOS Technology.
+SiGe HBT Microprocessor Core Test Vehicle.
+Electrical Engineering Hall of Fame: Greenleaf W. Pickard.
+Special Issue on Blue Sky Electronic Technologies.
+Solid-State Lighting: Toward Superior Illumination.
+Optical and Interferometric Lithography - Nanotechnology Enablers.
+Terahertz Frequency Sensing and Imaging: A Time of Reckoning Future Applications?
+Metamaterials for High-Frequency Electronics.
+Scenarios for Molecular-Level Signal Processing.
+Prospects for Quantum Dot Implementation of Adiabatic Quantum Computers for Intractable Problems.
+Integrated Biological-Semiconductor Devices.
+Nanoscale Engineering for Reducing Phase Noise in Electronic Devices.
+Electronic Transport in Molecular Self-Assembled Monolayer Devices.
+Quantum Dot Photonic Crystal Light Sources.
+Virtual Computing Infrastructures for Nanoelectronics Simulation.
+Hi-DRA: Intrusion Detection for Internet Security.
+Future Directions in Electronic Computing and Information Processing.
+Surface High-Energy Laser.
+Electrical Engineering Hall of Fame: Benjamin G. Lamme.
+Special Issue on Power Technology and Policy: Forty Years After the 1965 Blackout.
+A Time for Rejuvenation of This Journal!
+Power System Control Centers: Past, Present, and Future.
+Merging the Temporal and Spatial Aspects of Data and Information for Improved Power System Monitoring Applications.
+Preventing Future Blackouts by Means of Enhanced Electric Power Systems Control: From Complexity to Order.
+Blackout Prevention in the United States, Europe, and Russia.
+Electricity Market Design: An Integrated Approach to Reliability Assurance.
+Scheduling and Pricing of Coupled Energy and Primary, Secondary, and Tertiary Reserves.
+Interface Between Engineering and Market Operations in Restructured Electricity Systems.
+Design of Efficient Generation Markets.
+Impact of Security on Power Systems Operation.
+Transmission System Planning-The Old World Meets The New.
+Exploring Risk-Based Approaches for ISO/RTO Asset Managers.
+Power System Planning and Operation in International Markets-Perspectives From the Nordic Region and Europe.
+Utilizing System Dynamics Modeling to Examine Impact of Deregulation on Generation Capacity Growth.
+Brokaw Mansion: An Age of Elegance.
+Prolog to Data-Hiding Codes.
+Data-Hiding Codes.
+Prolog to Active Harmonic Filters.
+Active Harmonic Filters.
+Prolog to Reactive Power Compensation Technologies.
+Reactive Power Compensation Technologies: State-of-the-Art Review.
+Prolog to An Overview of Twenty-Five Years of Electrical and Electronics Engineering in the Proceedings of the IEEE, 1963-1987.
+An Overview of Twenty-Five Years of Electrical and Electronics Engineering in the Proceedings of the IEEE, 1963-1987.
+Electrical Engineering Hall of Fame: Louis W. Austin.
+Overview of Digital Television Development Worldwide.
+Digital Television Station and Network Implementation.
+The ATSC Digital Television System.
+ATSC RF, Modulation, and Transmission.
+ATSC Video and Audio Coding.
+The ATSC Transport Layer, Including Program and System Information Protocol (PSIP).
+Data Broadcasting and Interactive Television.
+ATSC DTV Receiver Implementation.
+Carriage of Digital Video and Other Services by Cable in North America.
+Satellite Direct-to-Home.
+DVB-The Family of International Standards for Digital Video Broadcasting.
+Terrestrial DVB (DVB-T): A Broadcast Technology for Stationary Portable and Mobile Use.
+DVB-H: Digital Broadcast Services to Handheld Devices.
+DVB-S2: The Second Generation Standard for Satellite Broad-Band Services.
+Technologies for DVB Services on the Internet.
+The DVB Multimedia Home Platform (MHP) and Related Specifications.
+Outline of ISDB Systems.
+Transmission System for ISDB-T.
+Transmission System for ISDB-T/sub SB/ (Digital Terrestrial Sound Broadcasting).
+Application of MPEG-2 Systems to Terrestrial ISDB (ISDB-T).
+Broadcast-Wave Relay Technology for Digital Terrestrial Television Broadcasting.
+HDTV Mobile Reception in Automobiles.
+Personal Mobile DTV Cellular Phone Terminal Developed for Digital Terrestrial Broadcasting With Internet Services.
+Transmission System for ISDB-S.
+Uplink Facilities Based on ISDB-S.
+ISDB-C: Cable Television Transmission for Digital Broadcasting in Japan.
+Japanese Datacasting Coding Scheme BML.
+Conditional Access System for Digital Broadcasting in Japan.
+Digital Television Receiver for ISDB.
+Broadcasting Satellite Services for Mobile Reception.
+Electrical Engineering Hall of Fame: William L. R. Emmet.
+An introduction to Block Cipher Cryptanalysis.
+Cryptographic Processors-A Survey.
+The Sorcerer's Apprentice Guide to Fault Attacks.
+An Overview of Power Analysis Attacks Against Field Programmable Gate Arrays.
+Elliptic Curve Cryptography Engineering.
+Security Vulnerabilities: From Analysis to Detection and Masking Techniques.
+High-Performance Software Protection Using Reconfigurable Architectures.
+Internet Security: An Intrusion-Tolerance Approach.
+Securing a Wireless World.
+Wireless Network Security and Interworking.
+Key Agreement in Peer-to-Peer Wireless Networks.
+Found in the Archives: The IRE President's Book.
+Real-Time Integral Imaging Based on Extremely High Resolution Video System.
+Methods for Displaying Three-Dimensional Images.
+Interactive 3-DTV-Concepts and Key Technologies.
+Flat Projection for 3-D.
+Real-Time 3-D Sensing, Visualization and Recognition of Dynamic Biological Microorganisms.
+Information Display Early in the 21st Century: Overview of Selected Emissive Display Technologies.
+3-D Liquid Crystal Displays and Their Applications.
+Three-Dimensional Image Sensing, Visualization, and Processing Using Integral Imaging.
+Coherence-Based 3-D and Spectral Imaging and Laser-Scanning Microscopy.
+Transpost: 360 deg-Viewable Three-Dimensional Display System.
+Three-Dimensional Imaging and Processing Using Computational Holographic Imaging.
+High-Density Directional Display for Generating Natural Three-Dimensional Images.
+Electrical Engineering Hall of Fame: Jonathan Zenneck.
+Modeling Human Physiology: The IUPS/EMBS Physiome Project.
+Channeling the Data Flood: Handling Large-Scale Biomolecular Measurements in Silico.
+Mechanical Instabilities as a Central Issue for InSilico Analysis of Cell Dynamics.
+Biomechanics Modeling of the Musculoskeletal Apparatus: Status and Key Issues.
+Kidney Modeling: Status and Perspectives.
+Lung Circulation Modeling: Status and Prospect.
+Computational Methods for Cardiac Electromechanics.
+Some Insights Into Computational Models of (Patho)physiological Brain Activity.
+Implicit and Explicit Model-Based Signal Processing for the Analysis of Short-Term Cardiovascular Interactions.
+Strategies and Tactics in Multiscale Modeling of Cell-to-Organ Systems.
+Advanced Methods and Algorithms for Biological Networks Analysis.
+Electrical Engineering Hall of Fame: Cummings C. Chesney.
+Evolution of Terrestrial Optical System and Core Network Architecture.
+Enabling Technologies for Next-Generation Optical Packet-Switching Networks.
+Fiber to the Home/Fiber to the Premises: What, Where, and When?
+Upgrading WDM Submarine Systems to 40-Gbit/s Channel Bitrate.
+Advanced Optical Modulation Formats.
+Toward High-Speed 40-Gbit/s Transponders.
+Recent Advances Toward Optical Devices in Semiconductor-Based Photonic Crystals.
+Challenges of Raman Amplification.
+Electrical Engineering Hall of Fame: George W. Pierce.
+System-on-Chip: Reuse and Integration.
+L. Embedding Mixed-Signal Design in Systems-on-Chip.
+Asynchronous Techniques for System-on-Chip Design.
+An Industry Perspective on Current and Future State of the Art in System-on-Chip (SoC) Technology.
+Chip-Scale Integration of Data-Gathering Microsystems.
+Microsensor Integration Into Systems-on-Chip.
+SoC Issues for RF Smart Dust.
+SoC Emerging Technologies.
+Three-Dimensional Integrated Circuits and the Future of System-on-Chip Designs.
+Design Tools for an Emerging SoC Technology: Quantum-Dot Cellular Automata.
+Electrical Engineering Hall of Fame: Robert A. Millikan.
+Market-Based Multirobot Coordination: A Survey and Analysis.
+Assignment of Dynamically Perceived Tasks by Token Passing in Multirobot Systems.
+Building Multirobot Coalitions Through Automated Task Solution Synthesis.
+Decentralized Cooperative Aerial Surveillance Using Fixed-Wing Miniature UAVs.
+Distributed Multirobot Exploration and Mapping.
+Building Segment-Based Maps Without Pose Information.
+Multirobot Simultaneous Localization and Mapping Using Manifold Representations.
+Cooperation Issues and Distributed Sensing for Multirobot Systems.
+Merging Occupancy Grid Maps From Multiple Robots.
+Safe Multirobot Navigation Within Dynamics Constraints.
+Incremental Coevolution With Competitive and Cooperative Tasks in a Multirobot Environment.
+Coordinated Multiagent Teams and Sliding Autonomy for Large-Scale Assembly.
+How Multirobot Systems Research will Accelerate our Understanding of Social Animal Behavior.
+Electrical Engineering Hall of Fame: Peder O. Pedersen.
+Cooling a Microprocessor Chip.
+Thermal Modeling, Analysis, and Management in VLSI Circuits: Principles and Methods.
+Temperature-Aware Placement for SOCs.
+Dynamic Surface Temperature Measurements in ICs.
+On-Chip Thermal Management With Microchannel Heat Sinks and Integrated Micropumps.
+Direct Liquid Cooling of High Flux Micro and Nano Electronic Components.
+Thermal Interface Materials: Historical Perspective, Status, and Future Directions.
+Heat Generation and Transport in Nanometer-Scale Transistors.
+Overview of Solid-State Thermoelectric Refrigerators and Possible Applications to On-Chip Thermal Management.
+Nanoscale Thermal Transport and Microrefrigerators on a Chip.
+Electrical Engineering Hall of Fame: Harris J. Ryan.
+A Perspective on Medical Robotics.
+Medical Image Computing and Computer-Aided Medical Interventions Applied to Soft Tissues: Work in Progress in Urology.
+Computational Models for Image-Guided Robot-Assisted and Simulated Medical Interventions.
+Computer-Assisted Orthopaedic Surgery.
+Active-Constraint Robotics for Surgery.
+Robotic Compensation of Biological Motion to Enhance Surgical Accuracy.
+Challenges and Opportunities for Robot-Mediated Neurorehabilitation.
+Therapeutic Robotics: A Technology Push.
+Visual-Feedback Distortion in a Robotic Rehabilitation Environment.
+Hybrid Bionic Systems for the Replacement of Hand Function.
+The Developing Market for Medical Robotics.
+Electrical Engineering Hall of Fame: Arthur E. Kennelly.
+Fission or Fossil: Life Cycle Assessment of Hydrogen Production.
+Carbon Dioxide Capture and Storage: An Overview With Emphasis on Capture and Storage in Deep Geological Formations.
+Hydrogen Storage in Carbon Nanostructures: Possibilities and Challenges for Fundamental Molecular Simulations.
+The Development of Fuel Cell Technology for Electric Power Generation: From NASA's Manned Space Program to the "Hydrogen Economy".
+Does a Hydrogen Economy Make Sense?
+An Integrated Assessment of the Impacts of Hydrogen Economy on Transportation, Energy Use, and Air Emissions.
+Formulating and Implementing Public Policy for New Energy Carriers.
+Using Restructured Electricity Markets in the Hydrogen Transition: The PJM Case.
+Training the Spyglass: Law in Anticipation of the Hydrogen Economy.
+The United Engineering Building: A Vision of Andrew Carnegie.
+NIST Fingerprint Evaluations and Developments.
+Probing the Uniqueness and Randomness of IrisCodes: Results From 200 Billion Iris Pair Comparisons.
+Iris on the Move: Acquisition of Images for Iris Recognition in Less Constrained Environments.
+Face Recognition by Humans: Nineteen Results All Computer Vision Researchers Should Know About.
+Correlation Pattern Recognition for Face Recognition.
+Face Recognition Using 3-D Models: Pose and Illumination.
+Face Recognition Using 2-D, 3-D, and Infrared: Is Multimodal Better Than Multisample?
+Automatic Recognition by Gait.
+Audio-Visual Biometrics.
+Prolog to Wafer Direct Bonding: From Advance Substrate Engineering to Future Applications in Micro/Nanoelectronics.
+Wafer Direct Bonding: From Advanced Substrate Engineering to Future Applications in Micro/Nanoelectronics.
+Prolog to Substrate Noise Coupling in SoC Design: Modeling, Avoidance, and Validation.
+Substrate Noise Coupling in SoC Design: Modeling, Avoidance, and Validation.
+Prolog to A Survey on Mix Networks and Their Secure Applications.
+A Survey on Mix Networks and Their Secure Applications.
+Scanning Our Past From the Netherlands: The Electrocardiogram Centennial: Willem Einthoven (1860-1927).
+Control and Communication Challenges in Networked Real-Time Systems.
+The Emergence of Industrial Control Networks for Manufacturing Control, Diagnostics, and Safety Data.
+Collective Motion, Sensor Networks, and Ocean Sampling.
+Control of Large-Scale Irrigation Networks.
+Network-Centric Systems for Military Operations in Urban Terrain: The Role of UAVs.
+Feedback Control Under Data Rate Constraints: An Overview.
+A Survey of Recent Results in Networked Control Systems.
+Foundations of Control and Estimation Over Lossy Networks.
+Bio-Inspired Networks of Visual Sensors, Neurons, and Oscillators.
+Consensus and Cooperation in Networked Multi-Agent Systems.
+Tracking and Coordination of Multiple Agents Using Sensor Networks: System Design, Algorithms and Experiments.
+Layering as Optimization Decomposition: A Mathematical Theory of Network Architectures.
+Scanning Advanced Automobile Technology.
+Control, Computing and Communications: Technologies for the Twenty-First Century Model T.
+Engineering Automotive Software.
+Driver Behavior and Situation Aware Brake Assistance for Intelligent Vehicles.
+Trends in Crash Detection and Occupant Restraint Technology.
+Systems for Safety and Autonomous Behavior in Cars: The DARPA Grand Challenge Experience.
+Image-Based Traffic Monitoring With Shadow Suppression.
+Driver Modeling Based on Driving Behavior and Its Evaluation in Driver Identification.
+Dynamic and Partial FPGA Exploitation.
+Quo Vadis, SLD? Reasoning About the Trends and Challenges of System Level Design.
+Computer-Aided Design for Low-Power Robust Computing in Nanoscale CMOS.
+Transistor-Level Tools for High-End Processor Custom Circuit Design at IBM.
+BonnTools: Mathematical Innovation for Layout and Timing Closure of Systems on a Chip.
+Techniques for Fast Physical Synthesis.
+Fundamentals of Fast Simulation Algorithms for RF Circuits.
+Verification of Complex Analog and RF IC Designs.
+Hierarchical Modeling, Optimization, and Synthesis for System-Level Analog and RF Designs.
+An Integrated CAD Methodology for Evaluating MOSFET and Parasitic Extraction Models and Variability.
+The State of the Art of Electric, Hybrid, and Fuel Cell Vehicles.
+Hybrid Electric Vehicles: Architecture and Motor Drives.
+Modeling and Simulation of Electric and Hybrid Vehicles.
+Electrical Machines and Drives for Electric, Hybrid, and Fuel Cell Vehicles.
+Energy Management Power Converters in Hybrid Electric and Fuel Cell Vehicles.
+Power Semiconductor Devices for Hybrid, Electric, and Fuel Cell Vehicles.
+Development and Future Issues of High Voltage Systems for FCV.
+Coordinated Nonlinear Speed Control Approach for SI Engine With Alternator.
+Batteries and Ultracapacitors for Electric, Hybrid, and Fuel Cell Vehicles.
+Emerging Energy-Efficient Technologies for Hybrid Electric Vehicles.
+Large-Scale Dynamical Models and Estimation for Permeation in Biological Membrane Ion Channels.
+Statistical Signal Processing and the Motor Cortex.
+An Overview of Existing Methods and Recent Advances in Sequential Monte Carlo.
+Models and Algorithms for Tracking of Maneuvering Objects Using Variable Rate Particle Filters.
+Discrete-Time Nonlinear Filtering Algorithms Using Gauss-Hermite Quadrature.
+An Information-Based Approach to Sensor Management in Large Dynamic Networks.
+Syntactic Modeling and Signal Processing of Multifunction Radars: A Stochastic Context-Free Grammar Approach.
+The Smooth Variable Structure Filter.
+From Hierarchical to Open Access Electric Power Systems.
+Solar Modal Structure of the Engineering Environment.
+Channel coding: The road to channel capacity.
+Turbo Decoding and Detection for Wireless Applications.
+Iterative Decoding of Concatenated Convolutional Codes: Implementation Issues.
+Turbo and Turbo-Like Codes: Principles and Applications in Telecommunications.
+Code-Aided Turbo Synchronization.
+Iterative Detection for Channels With Memory.
+The Factor Graph Approach to Model-Based Signal Processing.
+Recent Advances in Turbo Code Design and Theory.
+Joint Source-Channel Turbo Techniques for Discrete-Valued Sources: From Theory to Practice.
+Optimality and Duality of the Turbo Decoder.
+Prolog to Synchronization Techniques for Orthogonal Frequency Division Multiple Access (OFDMA): A Tutorial Review.
+Synchronization Techniques for Orthogonal Frequency Division Multiple Access (OFDMA): A Tutorial Review.
+Prolog to Multi-User MIMO-OFDM for Next-Generation Wireless.
+Multiuser MIMO-OFDM for Next-Generation Wireless Systems.
+Prolog to Rethinking Components: From Hardware and Software to Systems.
+Rethinking Components: From Hardware and Software to Systems.
+Special Issue on T-Ray Imaging, Sensing, and Retection.
+Terahertz Spectroscopy and Imaging for Defense and Security Applications.
+T-Ray Sensing and Imaging.
+Detection of Concealed Explosives at a Distance Using Terahertz Technology.
+THz-Wave Spectroscopy Applied to the Detection of Illicit Drugs in Mail.
+All-Optoelectronic Terahertz Imaging Systems and Examples of Their Application.
+Electronic Terahertz Antennas and Probes for Spectroscopic Detection and Diagnostics.
+Chemical Recognition With Broadband THz Spectroscopy.
+Terahertz Measurements of Protein Relaxational Dynamics.
+At the Dawn of a New Era in Terahertz Technology.
+Finite-Element Method Simulations of Guided Wave Phenomena at Terahertz Frequencies.
+Physical Phenomena in Electronic Materials in the Terahertz Region.
+Laser Terahertz Emission Microscope.
+Terahertz Time-Domain Spectroscopy for Material Characterization.
+Compact, High-Power Electron Beam Based Terahertz Sources.
+The Free Electron Laser at Jefferson Lab: The Technology and the Science.
+Millimeter-Wave and Submillimeter-Wave Imaging for Security and Surveillance.
+Standoff Detection Using Millimeter and Submillimeter Wave Spectroscopy.
+Electrical Engineering Hall of Fame: Edwin W. Rice, Jr.
+Special Issue on Optoelectronic Devices Based on Quantum Dots.
+Quantum-Dot Optoelectronic Devices.
+High-Speed Quantum-Dot Vertical-Cavity Surface-Emitting Lasers.
+Quantum-Dot Semiconductor Optical Amplifiers.
+High-Speed Mode-Locked Quantum-Dot Lasers and Optical Amplifiers.
+InAs/InP Quantum-Dash Lasers and Amplifiers.
+InP/GaInP Quantum Dots as Single-Photon Sources for Quantum Information Processing.
+Quantum-Dot Sources for Single Photons and Entangled Photon Pairs.
+Quantum-Dot Infrared Photodetectors.
+High-Temperature Tunneling Quantum-Dot Intersublevel Detectors for Mid-Infrared to Terahertz Frequencies.
+Quantum Dot Based Infrared Focal Plane Arrays.
+Visible InGaN/GaN Quantum-Dot Materials and Devices.
+Ge/Si Self-Assembled Quantum Dots and Their Optoelectronic Device Applications.
+Electrical Engineering Hall of Fame: John H. Dellinger.
+Special Issue on Technical Advances in Deep-Space Communications and Tracking.
+Prospects for a Next-Generation Deep-Space Network.
+Proposed Array-Based Deep Space Network for NASA.
+Uplink Arrays for the Deep Space Network.
+Stable Photonic Links for Frequency and Time Transfer in the Deep-Space Network and Antenna Arrays.
+Advances in Ground Transmitters for the NASA Deep Space Network.
+Advances in Space Traveling-Wave Tubes for NASA Missions.
+Advances in Scanning Reflectarray Antennas Based on Ferroelectric Thin-Film Phase Shifters for Deep-Space Communications.
+Enabling Antenna Systems for Extreme Deep-Space Mission Applications.
+Open Architecture Standard for NASA's Software-Defined Space Telecommunications Radio Systems.
+Advances in Deep-Space Transponder Technology.
+Deep-Space Transceivers - An Innovative Approach to Spacecraft Communications.
+A Microtransceiver for UHF Proximity Links Including Mars Surface-to-Orbit Applications.
+Palomar Receive Terminal (PRT) for the Mars Laser Communication Demonstration (MLCD) Project.
+Design of an Optical Photon Counting Array Receiver System for Deep-Space Communications.
+A Hybrid Stabilization Approach for Deep-Space Optical Communications Terminals.
+Prospects for Improvement of Interplanetary Laser Communication Data Rates by 30 dB.
+Electrical Engineering Hall of Fame: Bancroft Gherardi.
+Special Issue on Technical Advances in Deep-Space Communications and Tracking.
+The European Space Agency's Deep-Space Antennas.
+GMSK Demodulator Implementation for ESA Deep-Space Missions.
+The Development of Turbo and LDPC Codes for Deep-Space Applications.
+Channel Coding for Future Space Missions: New Requirements and Trends.
+Ka-Band Telemetry Operations Concept: A Statistical Approach.
+Atmospheric Media Calibration for the Deep Space Network.
+Angular Position Determination of Spacecraft by Radio Interferometry.
+Range Measurement as Practiced in the Deep Space Network.
+A Common Receiver Architecture for ESA Radio Science and Delta-DOR Support.
+PN Regenerative Ranging and Its Compatibility With Telecommand and Telemetry Signals.
+Atomic Clocks and Oscillators for Deep-Space Navigation and Radio Science.
+Rescuing the Huygens Mission From Fiasco.
+Information Theoretic Foundations of Adaptive Coded Modulation.
+Fading Channel Prediction for Mobile Radio Adaptive Transmission Systems.
+Compression of Feedback for Adaptive Transmission and Scheduling.
+An Introduction to Adaptive QAM Modulation Schemes for Known and Predicted Channels.
+Adaptive Signaling Based on Statistical Characterizations of Outdated Feedback in Wireless Communications.
+Adaptive Transmission With Single-Carrier Multilevel BICM.
+Near-Instantaneously Adaptive HSDPA-Style OFDM Versus MC-CDMA Transceivers for WIFI, WIMAX, and Next-Generation Cellular Systems.
+Adaptation, Coordination, and Distributed Resource Allocation in Interference-Limited Wireless Networks.
+A Unified Approach to QoS-Guaranteed Scheduling for Channel-Adaptive Wireless Networks.
+Towards Systems Beyond 3G Based on Adaptive OFDMA Transmission.
+System Design Issues and Performance Evaluations for Adaptive Modulation in New Wireless Access Systems.
+Opportunities and Challenges of Peer-to-Peer Internet Video Broadcast.
+Peer-to-Peer Live Multicast: A Video Perspective.
+Media Streaming With Network Diversity.
+Centralized Resource Allocation for Multimedia Traffic in IEEE 802.16 Mesh Networks.
+Cross-Layer Design for QoS Support in Multihop Wireless Networks.
+Multichannel Mobile Ad Hoc Links for Multimedia Communications.
+Quality-Optimized and Secure End-to-End Authentication for Media Delivery.
+Security and Privacy for Distributed Multimedia Sensor Networks.
+Location Awareness - Improving Distributed Multimedia Communication.
+Autonomic Multimedia Communications: Where Are We Now?
+Reliable Multimedia Transmission Over Cognitive Radio Networks Using Fountain Codes.
+Managing Distributed Networked Appliances in Home Networks.
+Carbon Nanotubes for High-Performance Electronics - Progress and Prospect.
+Nanoarchitectonics for Heterogeneous Integrated Nanosystems.
+Nanoelectronic and Nanophotonic Interconnect.
+Lithography and Other Patterning Techniques for Future Electronics.
+InP Bipolar ICs: Scaling Roadmaps, Frequency Limits, Manufacturable Technologies.
+GaN-Based RF Power Devices and Amplifiers.
+Technologies for Cofabricating MEMS and Electronics.
+Analog-to-Digital Converters: Digitizing the Analog World.
+Towards Quantum Engineering.
+Digital Circuit Design Challenges and Opportunities in the Era of Nanoscale CMOS.
+ With Hybrid Fluorescence and Magnetic Resonance Imaging.
+Perfluorocarbon Nanoparticles for Molecular Imaging and Targeted Therapeutics.
+The Integration of Positron Emission Tomography With Magnetic Resonance Imaging.
+New Imaging Technologies to Enhance the Molecular Sensitivity of Positron Emission Tomography.
+Design, Performance, and Applications of a Hybrid X-Ray/MR System for Interventional Guidance.
+ Using Spectroscopic Photoacoustic Tomography.
+Potential of MRI and Ultrasound Radiation Force in Elastography: Applications to Diagnosis and Therapy.
+A Task-Based Approach to Adaptive and Multimodality Imaging.
+State of the Art in Information Extraction and Quantitative Analysis for Multimodality Biomolecular Imaging.
+Efficient Visual Search for Objects in Videos.
+Query-Adaptive Fusion for Multimodal Search.
+Mobile Search With Multimodal Queries.
+Video Retrieval Based on Semantic Concepts.
+Event Mining in Multimedia Streams.
+Active Learning for Interactive Multimedia Retrieval.
+Content-Based Music Information Retrieval: Current Directions and Future Challenges.
+"You Tube and I Find" - Personalizing Multimedia Content Access.
+Application Potential of Multimedia Information Retrieval.
+Multimedia Retrieval and Delivery: Essential Metadata Challenges and Standards.
+Correction to "InP Bipolar ICs: Scaling Roadmaps, Frequency Limits, Manufacturable Technologies" [Feb 08 271-286].
+Rise of the Graphics Processor.
+Graphics Processing Units for Handhelds.
+Convergence of Recognition, Mining, and Synthesis Workloads and Its Implications.
+Challenges and Opportunities in Many-Core Computing.
+Scalable Programming Models for Massively Multicore Processors.
+An Experimental Study of Self-Optimizing Dense Linear Algebra Software.
+Self-Configuring Applications for Heterogeneous Systems: Program Composition and Optimization Using Cognitive Techniques.
+Database Optimizations for Modern Hardware.
+GPU Computing.
+Distance Education: New Technologies and New Directions.
+The iLab Shared Architecture: A Web Services Infrastructure to Build Communities of Internet Accessible Laboratories.
+Technology and Tools to Enhance Distributed Engineering Education.
+Semantic Knowledge Management for Education.
+From WebEx to NavEx: Interactive Access to Annotated Program Examples.
+Peer Review Anew: Three Principles and a Case Study in Postpublication Quality Assurance.
+MIT's Strategy for Educational Technology Innovation, 1999-2003.
+Designing Pre-College Engineering Curricula and Technology: Lessons Learned From the Infinity Project.
+Knowledge Community: A Knowledge-Building System for Global Collaborative Project Learning.
+Visual Prosthesis.
+Cochlear and Brainstem Auditory Prostheses "Neural Interface for Hearing Restoration: Cochlear and Brain Stem Implants".
+Functional Neuromuscular Stimulation of the Respiratory Muscles for Patients With Spinal Cord Injury.
+Neural Interface Devices: Spinal Cord Stimulation Technology.
+Clinical Applications of Intraspinal Microstimulation.
+Deep Brain Stimulation: An Evolving Technology.
+Vagus Nerve Stimulation.
+Engineering Neural Interfaces for Rehabilitation of Lower Limb Function in Spinal Cord Injured.
+Noninvasive Neural Prostheses Using Mobile and Wireless EEG.
+Microelectrodes, Microelectronics, and Implantable Neural Microsystems.
+The Design of Integrated Circuits to Observe Brain Activity.
+Prediction of Distal Arm Posture in 3-D Space From Shoulder Movements for Control of Upper Limb Prostheses.
+The Feasible FES System: Battery Powered BION Stimulator.
+CellDesigner 3.5: A Versatile Modeling Tool for Biochemical Networks.
+The Simbios National Center: Systems Biology in Motion.
+Multigraph Conditions for Multistability, Oscillations and Pattern Formation in Biochemical Reaction Networks.
+The Future of Large-Scale Collaborative Proteomics.
+Computational Systems Bioinformatics and Bioimaging for Pathway Analysis and Drug Screening.
+Fuzzy Fractal Analysis of Molecular Imaging Data.
+Synthetic Images of High-Throughput Microscopy for Validation of Image Analysis Methods.
+Modeling and Analyzing Biological Oscillations in Molecular Networks.
+Signals and Systems: Towards a Systems Biology of Signal Transduction.
+Stability and Time-Delay Modeling of Negative Feedback Loops.
+Centrality, Network Capacity, and Modularity as Parameters to Analyze the Core-Periphery Structure in Metabolic Networks.
+.
+Prolog to Energy Harvesting From Human and Machine Motion for Wireless Electronic Devices.
+Energy Harvesting From Human and Machine Motion for Wireless Electronic Devices.
+Prolog to Self-Assembly at the Macroscopic Scale.
+Self-Assembly at the Macroscopic Scale.
+Prolog to Modeling of Nanoscale Devices.
+Modeling of Nanoscale Devices.
+An Introduction to Distributed Smart Cameras.
+The Signal Passing Interface and Its Application to Embedded Implementation of Smart Camera Applications.
+Wireless Multimedia Sensor Networks: Applications and Testbeds.
+Object Detection, Tracking and Recognition for Multiple Smart Cameras.
+Calibrating Distributed Camera Networks.
+Smart Camera Networks in Virtual Reality.
+Macroscopic Human Behavior Interpretation Using Distributed Imager and Other Sensors.
+Security and Privacy in Distributed Smart Cameras.
+Smart Cameras and the Right to Privacy.
+Smart Camera Based Monitoring System and Its Application to Assisted Living.
+Real-Time Human Pose Estimation: A Case Study in Algorithm Design for Smart Camera Networks.
+Perpendicular Recording Technology: From Research to Commercialization.
+The Read Channel.
+Magnetic Tape for Data Storage: An Enduring Technology.
+Magnetoresistive Random Access Memory: The Path to Competitiveness and Scalability.
+Exchange Coupled Composite Media.
+Heat Assisted Magnetic Recording.
+Patterned Media: Nanofabrication Challenges of Future Disk Drives.
+FePt Magnetic Nanoparticles and Their Assembly for Future Magnetic Media.
+ Flash Memory and Its Role in Storage Architectures.
+Recent Advancements and Future Challenges of Storage Systems.
+Evolution of the Global Navigation SatelliteSystem (GNSS).
+Worldwide Vertical Guidance of Aircraft Based on Modernized GPS and New Integrity Augmentations.
+Implementation and Operational Use of Ground-Based Augmentation Systems (GBASs) - A Component of the Future Air Traffic Management System.
+Navigation, Interference Suppression, and Fault Monitoring in the Sea-Based Joint Precision Approach and Landing System.
+Feedback Model of Air Transportation System Change: Implementation Challenges for Aviation Information Systems.
+Secure Operation, Control, and Maintenance of Future E-Enabled Airplanes.
+Airborne Communication Networks for Small Unmanned Aircraft Systems.
+Graceful Degradation of Air Traffic Operations: Airspace Sensitivity to Degraded Surveillance Systems.
+Intent-Based Probabilistic Conflict Detection for the Next Generation Air Transportation System.
+Modeling and Optimization in Traffic Flow Management.
+A Study of Tradeoffs in Scheduling Terminal-Area Operations.
+Convex Formulations of Air Traffic Flow Optimization Problems.
+Lump-Sum Markets for Air Traffic Flow Control With Competitive Airlines.
+SoC and SiP, the Yin and Yang of the Tao for the New Electronic Era.
+3-D Hyperintegration and Packaging Technologies for Micro-Nano Systems.
+3-D Stacked Package Technology and Trends.
+Through-Silicon Via (TSV).
+High-Density Through Silicon Vias for 3-D LSIs.
+System on Wafer: A New Silicon Concept in SiP.
+A Model of BGA Thermal Vias as an Example of Lumped Parameter Analysis in Thermal Modeling of SiPs and Stacked Die Packages.
+A Neural Network-Based Prediction Model in Embedded Processes of Gold Wire Bonding Structure for Stacked Die Package.
+Signal Integrity Flow for System-in-Package and Package-on-Package Devices.
+3-D Technology Assessment: Path-Finding the Technology/Design Sweet-Spot.
+Mitigating Memory Wall Effects in High-Clock-Rate and Multicore CMOS 3-D Processor Memory Stacks.
+Interconnect-Based Design Methodologies for Three-Dimensional Integrated Circuits.
+System in Package Feasibility Process.
+Non-Volatile Memories for Removable Media.
+3-D Data Storage, Power Delivery, and RF/Optical Transceiver - Case Studies of 3-D Integration From System Design Perspectives.
+Overview of Board-Level Solder Joint Reliability Modeling for Single Die and Stacked Die CSPs.
+Electrical Engineering Hall of Fame: Frederick E. Terman [Scanning Our Past].
+A Mathematical Theory of Network Interference and Its Applications.
+Coexistence Between UWB and Narrow-Band Wireless Communication Systems.
+Designing Time-Hopping Ultrawide Bandwidth Receivers for Multiuser Interference Environments.
+An Overview of Ultra-Wide-Band Systems With MIMO.
+UWB Systems for Wireless Sensor Networks.
+Low-Power Impulse UWB Architectures and Circuits.
+Ultra-Wide-Band Propagation Channels.
+Basic Properties and Design Principles of UWB Antennas.
+Position Estimation via Ultra-Wide-Band Signals.
+Ranging With Ultrawide Bandwidth Signals in Multipath Environments.
+Cooperative Localization in Wireless Networks.
+UWB Tomographic Radar Imaging of Penetrable and Impenetrable Objects.
+Electrical Engineering Hall of Fame: Philip Sporn [Scanning Our Past].
+Prolog to The Transition to Solid-State Lighting.
+The Transition to Solid-State Lighting.
+Prolog to Semiconductor Piezoresistance for Microsystems.
+Review: Semiconductor Piezoresistance for Microsystems.
+Prolog to Ultra-High-Voltage Transmission in China: Developments, Current Status, and Future Prospects.
+Ultra High Voltage Transmission in China: Developments, Current Status and Future Prospects.
+Prolog to On the Complexity of the Verification of the Costas Property.
+On the Complexity of the Verification of the Costas Property.
+Electrical Engineering Hall of Fame: Vladimir K. Zworykin [Scanning Our Past].
+Extending the Reach of Cognitive Radio.
+Cognitive Radio Architecture Evolution.
+Performance Evaluation of Cognitive Radios: Metrics, Utility Functions, and Methodology.
+Cognitive Radio and Networking Research at Virginia Tech.
+Language Issues for Cognitive Radio.
+Sharing Spectrum Through Spectrum Policy Reform and Cognitive Radio.
+Spectrum Access Games and Strategic Learning in Cognitive Radio Networks for Delay-Critical Applications.
+Interference Analysis of TV-Band Whitespace.
+A Framework for Cognitive WiMAX With Frequency Agility.
+Electrical Engineering Hall of Fame: Joseph Slepian [Scanning Our Past].
+Propagation Issues for Cognitive Radio.
+Signal Processing in Cognitive Radio.
+What is a Spectrum Hole and What Does it Take to Recognize One?
+Spectrum Sensing for Cognitive Radio.
+Cooperative Communications for Cognitive Radio Networks.
+Breaking Spectrum Gridlock With Cognitive Radios: An Information Theoretic Perspective.
+Robust Transmit Power Control for Cognitive Radio.
+Electrical Engineering Hall of Fame: Walter R. G. Baker [Scanning Our Past].
+Technologies for Photonic Sensor Systems.
+Optical Techniques for Detecting and Identifying Biological-Warfare Agents.
+Automated Three-Dimensional Identification and Tracking of Micro/Nanobiological Organisms by Computational Holographic Microscopy.
+Nonlinear Ultrafast Focal-Point Optics for Microscopic Imaging, Manipulation, and Machining.
+Automated Hyperspectral Cueing for Civilian Search and Rescue.
+Recent Advances in LWIR Type-II InAs/GaSb Superlattice Photodetectors and Focal Plane Arrays at the Center for Quantum Devices.
+Progress in 3-D Multiperspective Display by Integral Imaging.
+A Review of Phased Array Steering for Narrow-Band Electrooptical Systems.
+A Characterization of Shannon Entropy and Bhattacharyya Measure of Contrast in Polarimetric and Interferometric SAR Image.
+Hybrid Optical RF Airborne Communications.
+Optical Techniques for Information Security.
+Electrical Engineering Hall of Fame: Karl B. McEachron [Scanning Our Past].
+Device Requirements for Optical Interconnects to Silicon Chips.
+On-Chip Optical Interconnect.
+Recent Progress in High-Speed Silicon-Based Optical Modulators.
+Cascaded Microresonator-Based Matrix Switch for Silicon On-Chip Optical Interconnection.
+High-Performance Quantum Dot Lasers and Integrated Optoelectronics on Si.
+Silicon Nanocrystals as an Enabling Material for Silicon Photonics.
+Photonic Properties of Er-Doped Crystalline Silicon.
+Silicon-Germanium Nanostructures for Light Emitters and On-Chip Optical Interconnects.
+Silicon Organic Hybrid Technology - A Platform for Practical Nonlinear Optics.
+Negative Index Materials With Gain Media for Fast Optical Modulation.
+Si Photonics and Fiber to the Home.
+Computer Systems Based on Silicon Photonic Interconnects.
+Electrical Engineering Hall of Fame: William L. Everitt [Scanning Our Past].
+Radio Astronomy in the Early Twenty-First Century.
+The Green Bank Telescope.
+Preparatory Study for Constructing FAST, the World's Largest Single Dish.
+The Herschel and Planck Space Telescopes.
+Performance Improvement of a Flexible Telescope Through Metrology and Active Control.
+The Long Wavelength Array.
+The LOFAR Telescope: System Architecture and Signal Processing.
+The Allen Telescope Array: The First Widefield, Panchromatic, Snapshot Radio Camera for Radio Astronomy and SETI.
+The Expanded Very Large Array.
+The Atacama Large Millimeter/Submillimeter Array.
+Advances in Calibration and Imaging Techniques in Radio Interferometry.
+The Square Kilometre Array.
+The Murchison Widefield Array: Design Overview.
+Australian SKA Pathfinder: A High-Dynamic Range Wide-Field of View Survey Telescope.
+MeerKAT - The South African Array With Composite Dishes and Wide-Band Single Pixel Feeds.
+Extending the Field of View With Phased Array Techniques: Results of European SKA Research.
+Electrical Engineering Hall of Fame: Oliver E. Buckley [Scanning Our Past].
+Transport of Photogenerated Charge Carriers in Polymer Semiconductors.
+Materials and Applications for Solution-Processed Organic Field-Effect Transistors.
+Organic Memory and Electrical Bistability in a Quinone-Based Charge-Transfer Complex.
+Multiscale Modeling of Charge and Energy Transport in Organic Light-Emitting Diodes and Photovoltaics.
+Singlet Generation Yields in Organic Light-Emitting Diodes.
+Efficiency and Stability of p-i-n Type Organic Light Emitting Diodes for Display and Lighting Applications.
+Organic Devices for Integrated Photonics.
+Organic Semiconductor Optical Amplifiers.
+Electrical Engineering Hall of Fame: Harald T. Friis [Scanning Our Past].
+Prolog to Solution Processed Quantum Dot Photodetectors.
+Solution-Processed Quantum Dot Photodetectors.
+Prolog to Analog Circuit Design in Nanoscale CMOS Technologies.
+Analog Circuit Design in Nanoscale CMOS Technologies.
+Prolog to Circuit Elements With Memory: Memristors, Memcapacitors, and Meminductors.
+Circuit Elements With Memory: Memristors, Memcapacitors, and Meminductors.
+Prolog to Achieving Competence-Based Curricula for Engineering Education in Spain.
+Achieving Competence-Based Curriculum in Engineering Education in Spain.
+Electrical Engineering Hall of Fame: Charles F. Kettering [Scanning Our Past].
+Practical Issues in the Use of NdFeB Permanent Magnets in Maglev, Motors, Bearings, and Eddy Current Brakes.
+Indirect Vector Control of a Redundant Linear Induction Motor for Aircraft Launch.
+Optimizing Operation of Segmented Stator Linear Synchronous Motors.
+Multilevel Converters: An Enabling Technology for High-Power Applications.
+Modeling and Simulation in Support of System Level Design for High Acceleration Linear Motors.
+SuperPower's YBCO Coated High-Temperature Superconducting (HTS) Wire and Magnet Applications.
+Electrochemical Double-Layer Capacitors Using Carbon Nanotube Electrode Structures.
+A Novel MagPipe Pipeline Transportation System Using Linear Motor Drives.
+Vectus - Intelligent Transport.
+General Atomics Linear Motor Applications: Moving Towards Deployment.
+The Linear Motor Powered Transportation Development and Application in China.
+Outlook of the Superconducting Maglev.
+Korea's Urban Maglev Program.
+Linear Motor-Powered Transportation: History, Present Status, and Future Outlook.
+Efficient and Affordable Maglev Opportunities in the United States.
+Electrical Engineering Hall of Fame: John V.L. Hogan [Scanning Our Past].
+Review of Computational Anthropomorphic Anatomical and Physiological Models.
+MCAT to XCAT: The Evolution of 4-D Computerized Phantoms for Imaging Research.
+China Physiome Project: A Comprehensive Framework for Anatomical and Physiological Databases From the China Digital Human and the Visible Rat.
+The Use of Computational Patient Models to Assess the Risk of Developing Radiation-Induced Cancers From Radiation Therapy of the Primary Cancer.
+Sectioned Images of the Cadaver Head Including the Brain and Correspondences With Ultrahigh Field 7.0 T MRIs.
+3-D Rat Brain Phantom for High-Resolution Molecular Imaging.
+Development of a Rat Computational Phantom Using Boundary Representation Method for Monte Carlo Simulation in Radiological Imaging.
+Voxel-Based Variable Posture Models of Human Anatomy.
+hboxF-FDG Distributions for Oncology Applications.
+The Application of a Statistical Shape Model to Diaphragm Tracking in Respiratory-Gated Cardiac PET Images.
+Visible Human Utilization to Render Induced Electric Field and Current Density Images Inside the Human.
+Hybrid Patient-Dependent Phantoms Covering Statistical Distributions of Body Morphometry in the U.S. Adult and Pediatric Population.
+Impact of Mouse Model on Preclinical Dosimetry in Targeted Radionuclide Therapy.
+Monte Carlo Simulations of Photon Absorbed Fractions in a Frog Voxel Phantom.
+An Algorithm for Lymphatic Node Placement in Hybrid Computational Phantoms - Applications to Radionuclide Therapy Dosimetry.
+Electrical Engineering Hall of Fame: William B. Kouwenhoven [Scanning Our Past].
+Dimensions in Medical Imaging: The More the Better? [Point of View].
+Prolog to The Future of Integrated Circuits: A Survey of Nanoelectronics.
+The Future of Integrated Circuits: A Survey of Nanoelectronics.
+Prolog to Keeping the Energy Debate Clean: How Do We Supply the World's Energy Needs?
+Keeping the Energy Debate Clean: How Do We Supply the World's Energy Needs?
+Prolog to Single Carrier Modulation With Nonlinear Frequency Domain Equalization: An Idea Whose Time Has Come - Again.
+Single Carrier Modulation With Nonlinear Frequency Domain Equalization: An Idea Whose Time Has Come - Again.
+Prolog to A Survey of BGP Security Issues and Solutions.
+A Survey of BGP Security Issues and Solutions.
+Electrical Engineering Hall of Fame: Originator of Teletraffic Theory [Scanning Our Past].
+Heterogeneous Networking: An Enabling Paradigm for Ubiquitous Wireless Communications [Point of View].
+Introduction to Special Issue on Circuit Technology for ULP.
+SmartReflex Power and Performance Management Technologies for 90 nm, 65 nm, and 45 nm Mobile Application Processors.
+Digital Computation in Subthreshold Region for Ultralow-Power Operation: A Device-Circuit-Architecture Codesign Perspective.
+Technologies for Ultradynamic Voltage Scaling.
+Practical Strategies for Power-Efficient Computing Technologies.
+Ultralow-Power Design in Near-Threshold Region.
+Near-Threshold Computing: Reclaiming Moore's Law Through Energy Efficient Integrated Circuits.
+Flexible Circuits and Architectures for Ultralow Power.
+Power and Energy Perspectives of Nonvolatile Memory Technologies.
+Ultralow-Power Operation in Subthreshold Regimes Applying Clockless Logic.
+Zero-Crossing-Based Ultra-Low-Power A/D Converters.
+FDSOI Process Technology for Subthreshold-Operation Ultralow-Power Electronics.
+Electrical Engineering Hall of Fame: Julius A. Stratton [Scanning Our Past].
+The Economic Limit to Moore's Law [Point of View].
+Advances in Neural and Cognitive Engineering.
+The Neurobiological Basis of Cognition: Identification by Multi-Input, Multioutput Nonlinear Dynamic Modeling.
+Listening to Brain Microcircuits for Interfacing With External World - Progress in Wireless Implantable Microelectronic Neuroengineering Devices.
+In vitro Verification of a 3-D Regenerative Neural Interface Design: Examination of Neurite Growth and Electrical Properties Within a Bifurcating Microchannel Structure.
+Designing Neural Networks in Culture.
+Decoding Information From Neural Signals Recorded Using Intraneural Electrodes: Toward the Development of a Neurocontrolled Hand Prosthesis.
+Biological-Machine Systems Integration: Engineering the Neural Interface.
+Multichannel Intraneural and Intramuscular Techniques for Multiunit Recording and Use in Active Prostheses.
+A Novel Approach to Monitor Rehabilitation Outcomes in Stroke Survivors Using Wearable Technology.
+In a Blink of an Eye and a Switch of a Transistor: Cortically Coupled Computer Vision.
+The Geometry of Visual Perception: Retinotopic and Nonretinotopic Representations in the Human Visual System.
+Electrical Engineering Hall of Fame: John R. Pierce [Scanning Our Past].
+Virtual Biopsy [Point of View].
+Scanning the Issue.
+Scanning Advances in Aerospace & Automobile Software Technology.
+Safety-Driven Design for Software-Intensive Aerospace and Automotive Systems.
+Seamless Model-Based Development: From Isolated Tools to Integrated Model Engineering Environments.
+Integration of Collaborative Analyses for Development of Embedded Control Software.
+Addressing the Integration Challenge for Avionics and Automotive Systems - From Components to Rich Services.
+Hardware/Software Codesign of Aerospace and Automotive Systems.
+Moving From Federated to Integrated Architectures in Automotive: The Role of Standards, Methods and Tools.
+Challenges and Solutions for Embedded and Networked Aerospace Software Systems.
+Electrical Engineering Hall of Fame: Albert W. Hull [Scanning Our Past].
+Network Coding - The Magic of Mixing [Point of View].
+Satellite Remote Sensing Missions for Monitoring Water, Carbon, and Global Climate Change.
+SMOS: The Challenging Sea Surface Salinity Measurement From Space.
+The SMOS Mission: New Tool for Monitoring Key Elements ofthe Global Water Cycle.
+Aquarius and Remote Sensing of Sea Surface Salinity from Space.
+The Soil Moisture Active Passive (SMAP) Mission.
+Global Change Observation Mission (GCOM) for Monitoring Carbon, Water Cycles, and Climate Change.
+The ICESat-2 Laser Altimetry Mission.
+Cold Regions Hydrology High-Resolution Observatory for Snow and Cold Land Processes.
+The Surface Water and Ocean Topography Mission: Observing Terrestrial Surface Water and Oceanic Submesoscale Eddies.
+Advanced Land Observing Satellite (ALOS) and Monitoring Global Environmental Change.
+RADARSAT-2 and Coastal Applications: Surface Wind, Waterline, and Intertidal Flat Roughness.
+Interferometric Synthetic Aperture Radar (SAR) Missions Employing Formation Flying.
+Advancement of Chinese Meteorological Feng-Yun (FY) and Oceanic Hai-Yang (HY) Satellite Remote Sensing.
+Monitoring the Hydrologic Cycle With the PATH Mission.
+FORMOSAT-2 Mission: Current Status and Contributions to Earth Observations.
+Electrical Engineering Hall of Fame: Wilmer L. Barrow [Scanning Our Past].
+M-Payment Between Banks Using SMS [Point of View].
+Applications of Sparse Representation and Compressive Sensing.
+Scanning the Technology.
+Precise Undersampling Theorems.
+Matrix Completion With Noise.
+Sparse Recovery Using Sparse Matrices.
+Computational Methods for Sparse Solution of Linear Inverse Problems.
+Low-Dimensional Models for Dimensionality Reduction and Signal Recovery: A Geometric Perspective.
+On the Role of Sparse and Redundant Representations in Image Processing.
+Image Decomposition and Separation Using Sparse Representations: An Overview.
+Sparse Representations in Audio and Music: From Coding to Source Separation.
+Sparsity and Compressed Sensing in Radar Imaging.
+Astronomical Data Analysis and Sparsity: From Wavelets to Compressed Sensing.
+Sparse Representation for Computer Vision and Pattern Recognition.
+Dictionaries for Sparse Representation Modeling.
+Compressed Channel Sensing: A New Approach to Estimating Sparse Multipath Channels.
+Distributed Sensor Perception via Sparse Representation.
+Compressive Sensing on a CMOS Separable-Transform Image Sensor.
+Electrical Engineering Hall of Fame: Emory L. Chaffee [Scanning Our Past].
+Vehicular Communications: Ubiquitous Networks for Sustainable Mobility [Point of View].
+Challenges and Opportunities in GaN and ZnO Devices and Materials.
+Ultrafast Removal of LO-Mode Heat From a GaN-Based Two-Dimensional Channel.
+Status of Reliability of GaN-Based Heterojunction Field Effect Transistors.
+Small Signal Equivalent Circuit Modeling for AlGaN/GaN HFET: Hybrid Extraction Method for Determining Circuit Elements of AlGaN/GaN HFET.
+GaN Power Transistors on Si Substrates for Switching Applications.
+Solid-State Lighting: An Integrated Human Factors, Technology, and Economic Perspective.
+GaN-Based Light-Emitting Diodes: Efficiency at High Injection Levels.
+High Brightness GaN Vertical Light-Emitting Diodes on Metal Alloy for General Lighting Application.
+Structural Defects and Degradation Phenomena in High-Power Pure-Blue InGaN-Based Laser Diodes.
+Degradation Mechanisms of InGaN Laser Diodes.
+Wide Bandgap Semiconductor-Based Surface-Emitting Lasers: Recent Progress in GaN-Based Vertical Cavity Surface-Emitting Lasers and GaN-/ZnO-Based Polariton Lasers.
+Intersubband Transition-Based Processes and Devices in AlN/GaN-Based Heterostructures.
+Resonant Tunneling in III-Nitrides.
+ZnO Devices and Applications: A Review of Current Status and Future Prospects.
+Doping Asymmetry Problem in ZnO: Current Status and Outlook.
+ZnO-GaN Hybrid Heterostructures as Potential Cost-Efficient LED Technology.
+Ferromagnetism in ZnO- and GaN-Based Diluted Magnetic Semiconductors: Achievements and Challenges.
+Growth of Bulk GaN and AlN: Progress and Challenges.
+The Ammonothermal Crystal Growth of Gallium Nitride - A Technique on the Up Rise.
+GaN Substrates for III-Nitride Devices.
+Bulk ZnO: Current Status, Challenges, and Prospects.
+Comments on "Negative Index Materials With Gain Media for Fast Optical Modulation".
+Reply to "Comments on "Negative Index Materials With Gain Media for Fast Optical Modulation"".
+Comments on "Consensus and cooperation in networked multi-agent systems".
+Reply to "Comments on "Consensus and Cooperation in Networked Multi-Agent Systems"".
+Electrical Engineering Hall of Fame: George H. Brown [Scanning Our Past].
+Cyber-Physical Systems: Close Encounters Between Two Parallel Worlds [Point of View].
+Internet Vision.
+Scene Reconstruction and Visualization From Community Photo Collections.
+Infinite Images: Creating and Exploring a Large Photorealistic Virtual Space.
+Toward Large-Scale Face Recognition Using Social Network Context.
+Contextual Internet Multimedia Advertising.
+It's All About the Data.
+Learning Object Categories From Internet Image Searches.
+LabelMe: Online Image Annotation and Applications.
+I2T: Image Parsing to Text Description.
+Image Interpretation Using Large Corpus: Wikipedia.
+Vision of a Visipedia.
+Electrical Engineering Hall of Fame: Harry Nyquist [Scanning Our Past].
+A Measure of Machine Intelligence [Point of View].
+RFID - A Unique Radio Innovation for the 21st Century.
+Shunt Behavior in RFID UHF Tag According to ISO Standards and Manufacturer Requirements.
+Electromagnetic Modeling of RFID-Modulated Scattering Mechanism. Application to Tag Performance Evaluation.
+Ultrawide Bandwidth RFID: The Next Generation?
+RFID: From Supply Chains to Sensor Nets.
+Low-Cost, Ubiquitous RFID-Tag-Antenna-Based Sensing.
+Progress Towards the First Wireless Sensor Networks Consisting of Inkjet-Printed, Paper-Based RFID-Enabled Sensor Tags.
+The Effect of Conductive Ink Layer Thickness on the Functioning of Printed UHF RFID Antennas.
+Vibration Energy Harvesting for Disaster Asset Monitoring Using Active RFID Tags.
+Long Range Passive UHF RFID System Using HVAC Ducts.
+Logical RFID Reader Using Hybrid Active-Passive Solution.
+Antennas and Propagation of Implanted RFIDs for Pervasive Healthcare Applications.
+Dual-Frequency Active RFID Solution for Tracking Patients in a Children's Hospital. Design Method, Test Procedure, Risk Analysis, and Technical Solution.
+Planetary-Scale RFID Services in an Age of Uberveillance.
+Unpacking the RFID Investment Decision.
+Electrical Engineering Hall of Fame: Edward V. Appleton [Scanning Our Past].
+Radio as a Science Tool [Point of View].
+Prolog to Audiovisual Information Fusion in Human-Computer Interfaces and Intelligent Environments: A Survey.
+Audiovisual Information Fusion in Human-Computer Interfaces and Intelligent Environments: A Survey.
+Prolog to Parameter Variation Tolerance and Error Resiliency: New Design Paradigm for the Nanoscale Era.
+Parameter Variation Tolerance and Error Resiliency: New Design Paradigm for the Nanoscale Era.
+Prolog to A Survey of Trust and Reputation Management Systems in Wireless Communications.
+A Survey of Trust and Reputation Management Systems in Wireless Communications.
+Prolog to A Systemized View of Superluminal Wave Propagation.
+A Systemized View of Superluminal Wave Propagation.
+Electrical Engineering Hall of Fame: George C. Southworth [Scanning Our Past].
+Ideas are Like Rabbits! [Point of View].
+Perceptual Video Processing: Seeing the Future.
+Special issue on sensor network applications.
+Circuit Design Advances for Wireless Sensing Applications.
+Fundamentals of Large Sensor Networks: Connectivity, Capacity, Clocks, and Computation.
+Gossip Algorithms for Distributed Signal Processing.
+IPv6 in Low-Power Wireless Networks.
+Database Abstractions for Managing Sensor Network Data.
+Real-Time Search for Real-World Entities: A Survey.
+Environmental Wireless Sensor Networks.
+Measurement Scheduling for Soil Moisture Sensing: From Physical Models to Optimal Control.
+Embedded Imagers: Detecting, Localizing, and Recognizing Objects and Events in Natural Habitats.
+Wireless Sensor Networks for Healthcare.
+RF Sensor Networks for Device-Free Localization: Measurements, Models, and Algorithms.
+Francisco Salva's Electric Telegraph [Scanning Our Past].
+Quantum computers: A status update [Point of View].
+Nanoelectronics Research for Beyond CMOS Information Processing.
+Regional, National, and International Nanoelectronics Research Programs: Topical Concentration and Gaps.
+In Quest of the "Next Switch": Prospects for Greatly Reduced Power Dissipation in a Successor to the Silicon Field-Effect Transistor.
+Carbon Nanotubes for VLSI: Interconnect and Transistor Applications.
+Graphene for CMOS and Beyond CMOS Applications.
+III-V Nanowires - Extending a Narrowing Road.
+Enhancing CMOS Using Nanoelectronic Devices: A Perspective on Hybrid Integrated Systems.
+Mechanical Computing Redux: Relays for Integrated Circuit Applications.
+Low-Voltage Tunnel Transistors for Beyond CMOS Logic.
+Molecular Nanoelectronics.
+Spin-Transistor Electronics: An Overview and Outlook.
+The Promise of Nanomagnetics and Spintronics for Future Logic and Universal Memory.
+Device and Architecture Outlook for Beyond CMOS Switches.
+Memory Devices: Energy-Space-Time Tradeoffs.
+Phase Change Memory.
+The Atomic Switch.
+Resistive Random Access Memory (ReRAM) Based on Metal Oxides.
+Electrical Engineering Hall of Fame: Irving Langmuir [Scanning Our Past].
+Multiple-Energy Carriers: Modeling of Production, Delivery, and Consumption.
+Integration Issues of Distributed Generation in Distribution Grids.
+Smart Operation of Smart Grid: Risk-Limiting Dispatch.
+Dynamic Monitoring and Decision Systems for Enabling Sustainable Energy Services.
+Wide-Area Monitoring, Protection, and Control of Future Electric Power Networks.
+Mitigating Blackouts via Smart Relays: A Machine Learning Approach.
+An Integrated Framework for Smart Microgrids Modeling, Monitoring, Control, Communication, and Verification.
+The Future Renewable Electric Energy Delivery and Management (FREEDM) System: The Energy Internet.
+Green Cloud Computing: Balancing Energy in Processing, Storage, and Transport.
+Integration of Electric Vehicles in the Electric Power System.
+Achieving Controllability of Electric Loads.
+Demand Response With Micro-CHP Systems.
+Wind Integration in Power Systems: Operational Challenges and Possible Solutions.
+Is electrical noise useful? [Point of View].
+Prolog to "Growing Cells Atop Microelectronic Chips: Interfacing Electrogenic Cells In Vitro With CMOS-Based Microelectrode Arrays".
+Growing Cells Atop Microelectronic Chips: Interfacing Electrogenic Cells In Vitro With CMOS-Based Microelectrode Arrays.
+Prolog to "Fifty Years of Acoustic Feedback Control: State of the Art and Future Challenges".
+Fifty Years of Acoustic Feedback Control: State of the Art and Future Challenges.
+Prolog to "Privacy-Aware Design Principles for Information Networks".
+Privacy-Aware Design Principles for Information Networks.
+Network Coding: A Historical Perspective.
+Linear Network Coding: Theory and Algorithms.
+Network Coding and Matroid Theory.
+Theory and Applications of Network Error Correction Coding.
+Theory of Secure Network Coding.
+Reliable Physical Layer Network Coding.
+Network Coding: Beyond Throughput Benefits.
+A Survey on Network Codes for Distributed Storage.
+Network Coding Meets TCP: Theory and Implementation.
+Random Network Coding in Peer-to-Peer Networks: From Theory to Practice.
+State of the Art in Stereoscopic and Autostereoscopic Displays.
+Three-Dimensional Optical Sensing and Visualization Using Integral Imaging.
+Digital Holographic Three-Dimensional Video Displays.
+Production Rules for Stereo Acquisition.
+Three-Dimensional Video Postproduction and Processing.
+Overview of the Stereo and Multiview Video Coding Extensions of the H.264/MPEG-4 AVC Standard.
+3-D Video Representation Using Depth Maps.
+Multichannel Audio Coding Based on Analysis by Synthesis.
+Transport and Storage Systems for 3-D Video Using MPEG-2 Systems, RTP, and ISO File Format.
+Infrastructures for Home Delivery, Interfacing, Captioning, and Viewing of 3-D Content.
+Flexible Transport of 3-D Video Over Networks.
+Three-Dimensional Media for Mobile Devices.
+Goldstone Solar System Radar Observatory: Earth-Based Planetary Mission Support and Unique Science Results.
+Geologic Studies of Planetary Surfaces Using Radar Polarimetric Imaging.
+Uplink Arraying for Solar System Radar and Radio Science.
+The SHAllow RADar (SHARAD) Onboard the NASA MRO Mission.
+The Lunar Mini-RF Radars: Hybrid Polarimetric Architecture and Initial Results.
+WISDOM GPR Designed for Shallow and High-Resolution Sounding of the Martian Subsurface.
+Subsurface Radar Sounding of the Jovian Moon Ganymede.
+Polarization in Bistatic Radar Probing of Planetary Surfaces: Application to Mars Express Data.
+The Planned Space Science Utilizations of the New Sardinia 64-m Radio Telescope.
+Detecting High Dynamics Signals From Open-Loop Radio Science Investigations.
+A Prototype Radio Transient Survey Instrument for Piggyback Deep Space Network Tracking.
+Smoothing Criteria for Regularized Matrix Inversion of Bistatic Radar Echoes.
+Challenges and Opportunities in Smart Grid: A Position Article.
+Smart Generation and Transmission With Coherent, Real-Time Data.
+A Multilevel State Estimation Paradigm for Smart Grids.
+Translational Knowledge: From Collecting Data to Making Decisions in a Smart Grid.
+For the Grid and Through the Grid: The Role of Power Line Communications in the Smart Grid.
+Multigate Communication Network for Smart Grid.
+High-Assurance Smart Grid: A Three-Part Model for Smart Grid Control Systems.
+Options for Control of Reactive Power by Distributed Photovoltaic Generators.
+Smart Distribution: Coupled Microgrids.
+Advances in Wind Energy Technologies in the Context of Smart Grid.
+Adaptive Stochastic Control for the Smart Grid.
+Vehicle Electrification: Status and Issues.
+The Role of Energy Storage in Development of Smart Grids.
+Dedicated Short-Range Communications (DSRC) Standards in the United States.
+On Medium Access and Physical Layer Standards for Cooperative Intelligent Transport Systems in Europe.
+Vehicular Channel Characterization and Its Implications for Wireless System Design and Performance.
+Cooperative Intelligent Transport Systems: 5.9-GHz Field Trials.
+Waveform Design and Signal Processing Aspects for Fusion of Wireless Communications and Radar Sensing.
+Congestion and Awareness Control in Cooperative Vehicular Systems.
+CORNER: A Radio Propagation Model for VANETs in Urban Scenarios.
+Virtual Drive: A Complete V2X Communication and Radar System Simulator for Optimization of Multiple Antenna Systems.
+Enabling Accurate Cross-Layer PHY/MAC/NET Simulation Studies of Vehicular Communication Networks.
+Prolog to "Near-Capacity Wireless Transceivers and Cooperative Communications in the MIMO Era: Evolution of Standards, Waveform Design, and Future Perspectives".
+Near-Capacity Wireless Transceivers and Cooperative Communications in the MIMO Era: Evolution of Standards, Waveform Design, and Future Perspectives.
+Prolog to "State of the Art in 60-GHz Integrated Circuits and Systems for Wireless Communications".
+State of the Art in 60-GHz Integrated Circuits and Systems for Wireless Communications.
+Prolog to "Estimating the Energy Use and Efficiency Potential of U.S. Data Centers".
+Estimating the Energy Use and Efficiency Potential of U.S. Data Centers.
+Experimental Study and Modeling of Group Retrieval in Ants as an Approach to Collective Transport in Swarm Robotic Systems.
+Dynamic Vehicle Routing for Robotic Systems.
+Deterministic Gossiping.
+Graph-Theoretic Connectivity Control of Mobile Robot Networks.
+Eyes in the Sky: Decentralized Control for the Deployment of Robotic Camera Networks.
+Toward Robotic Sensor Webs: Algorithms, Systems, and Experiments.
+Control of Ensembles of Aerial Robots.
+Admiral Byrd's Antarctic Expedition and the First Graf Zeppelin [Scanning our Past].
+Electromagnetic Design With Transformation Optics.
+Anisotropic Transmission-Line Metamaterials for 2-D Transformation Optics Applications.
+Broadband Electromagnetic Cloaking Realized With Transmission-Line and Waveguiding Structures.
+Bulk Metamaterials Made of Resonant Rings.
+Optical Metamaterials Based on Optical Nanocircuits.
+Development of Bulk Optical Negative Index Fishnet Metamaterials: Achieving a Low-Loss and Broadband Response Through Coupling.
+Bianisotropic Effective Parameters of Optical Metamagnetics and Negative-Index Materials.
+Recent Advances in Metamaterial Transmission Lines Based on Split Rings.
+Metamaterial Dispersion Engineering Concepts and Applications.
+Metamaterial-Inspired Engineering of Antennas.
+Narrowband and Wideband Metamaterial Antennas Based on Degenerate Band Edge and Magnetic Photonic Crystals.
+Evolution of Composite Right/Left-Handed Leaky-Wave Antennas.
+Steering Phased Array Antenna Beams to the Horizon Using a Buckyball NIM Lens.
+Strong Light Confinement With Periodicity.
+The Fundamental Physics of Directive Beaming at Microwave and Optical Frequencies and the Role of Leaky Waves.
+Near-Field Plates: Metamaterial Surfaces/Arrays for Subwavelength Focusing and Probing.
+Reviewing a Century of Electrical Engineering Progress: Approaching 100 Years of Publication.
+Quantum Energy for Space.
+Aerospace Communications and Networking in the Next Two Decades: Current Trends and Future Perspectives [Scanning the Issue].
+1945-2010: 65 Years of Satellite History From Early Visions to Latest Missions.
+EHF for Satellite Communications: The New Broadband Frontier.
+Satellite Radiolocalization From GPS to GNSS and Beyond: Novel Technologies and Applications for Civil Mass Market.
+The Future of Satellite TV: The Wide Range of Applications of the DVB-S2 Standard and Perspectives.
+Aerospace Communications for Emergency Applications.
+The Role of High-Altitude Platforms (HAPs) in the Global Wireless Connectivity.
+Energy Efficiency and Satellite Networking: A Holistic Overview.
+Delay- and Disruption-Tolerant Networking (DTN): An Alternative Solution for Future Satellite Networking Applications.
+Load Balancing and QoS Provisioning Based on Congestion Prediction for GEO/LEO Hybrid Satellite Networks.
+Design of Flower Constellations for Telecommunication Services.
+Deep-Space Optical Communications: Future Perspectives and Applications.
+Future E-Enabled Aircraft Communications and Security: The Next 20 Years and Beyond.
+Reliability Options for Data Communications in the Future Deep-Space Missions.
+The Origins of Behn's "International System".
+The Importance of the New Developments in Antennas for Wireless Communications.
+Scanning the Issue.
+Peer-to-Peer Media Streaming: Insights and New Developments.
+Peer-to-Peer Media Streaming: Insights and New Developments.
+Electric Field-Shaping Microdevices for Manipulation of Collections of Microscale Objects.
+Electric Field-Shaping Microdevices for Manipulation of Collections of Microscale Objects.
+Applications, Architectures, and Protocol Design Issues for Mobile Social Networks: A Survey.
+Applications, Architectures, and Protocol Design Issues for Mobile Social Networks: A Survey.
+Marine Energy: The Key for the Development of Sustainable Energy Supply.
+Special Issue on Cyber-Physical Systems [Scanning the Issue].
+Modeling Cyber-Physical Systems.
+Toward a Science of Cyber-Physical System Integration.
+Distributed Real-Time Software for Cyber-Physical Systems.
+Toward Continuous State-Space Regulation of Coupled Cyber-Physical Systems.
+Challenges and Research Directions in Medical Cyber-Physical Systems.
+Body Sensor Networks: A Holistic Approach From Silicon to Users.
+A Mining Technique Using $N$ n-Grams and Motion Transcripts for Body Sensor Network Data Repository.
+Cyber-Physical Modeling of Implantable Cardiac Medical Devices.
+Powering a Ventricular Assist Device (VAD) With the Free-Range Resonant Electrical Energy Delivery (FREE-D) System.
+Real-Time Feedback-Controlled Robotic Fish for Behavioral Experiments With Fish Schools.
+Robust Control for Mobility and Wireless Communication in Cyber-Physical Systems With Application to Robot Teams.
+A Hierarchical Flight Planning Framework for Air Traffic Management.
+Cyber-Physical Security of a Smart Grid Infrastructure.
+Cyber-Physical System Security for the Electric Power Grid.
+A Hybrid System Approach to the Analysis and Design of Power Grid Dynamic Performance.
+Reducing Transient and Steady State Electricity Consumption in HVAC Using Learning-Based Model-Predictive Control.
+A Cyber-Physical Systems Approach to Data Center Modeling and Control for Energy Efficiency.
+Distributed Coordination of Internet Data Centers Under Multiregional Electricity Markets.
+Ensuring Safety, Security, and Sustainability of Mission-Critical Cyber-Physical Systems.
+Energy Storage & the Grid - From Characteristics to Impact [Point of View].
+Addressing the Intermittency Challenge: Massive Energy Storage in a Sustainable Future [Scanning the Issue].
+The Potential of Intermittent Renewables to Meet Electric Power Demand: Current Methods and Emerging Analytical Techniques.
+How Thermal Energy Storage Enhances the Economic Viability of Concentrating Solar Power.
+The Future of Renewables Linked by a Transnational Asian Grid.
+State of the Art in Ultrahigh-Voltage Transmission.
+A Review of Ammonia-Based Thermochemical Energy Storage for Concentrating Solar Power.
+Seasonal Energy Storage in a Renewable Energy System.
+Hydrogen Production From Water Electrolysis: Current Status and Future Trends.
+Electricity Powering Combustion: Hydrogen Engines.
+, Water, and Renewable Energy.
+A Thermodynamic Analysis of Multistage Adiabatic CAES.
+The History, Present State, and Future Prospects of Underground Pumped Hydro for Massive Energy Storage.
+Geotechnical Issues in the Creation of Underground Reservoirs for Massive Energy Storage.
+Concept and Development of a Pumped Heat Electricity Storage Device.
+Molten-Salt Power Towers: Newly Commercial Concentrating Solar Storage.
+High-Temperature Solid-Media Thermal Energy Storage for Solar Thermal Power Plants.
+Review of Solar Thermal Storage Techniques and Associated Heat Transfer Technologies.
+Concentrating Solar Thermal Heat Storage Using Metal Hydrides.
+The Research University of the Future.
+Interaction Dynamics: The Interface of Humans and Smart Machines.
+Moral Decision Making in Autonomous Systems: Enforcement, Moral Emotions, Dignity, Trust, and Deception.
+Autonomy Spectrum and Performance Perception Issues in Swarm Supervisory Control.
+A Sketch Interface for Robust and Natural Robot Control.
+Human-Oriented Control for Haptic Teleoperation.
+Building and Verifying a Predictive Model of Interruption Resumption.
+The Impact of Human-Automation Collaboration in Decentralized Multiple Unmanned Vehicle Control.
+A Dynamical Queue Approach to Intelligent Task Management for Human Operators.
+Accuracy and Decision Time for Sequential Decision Aggregation.
+A Decision Task in a Social Context: Human Experiments, Models, and Analyses of Behavioral Data.
+Deterministic Modeling and Evaluation of Decision-Making Dynamics in Sequential Two-Alternative Forced Choice Tasks.
+Towards Human-Robot Teams: Model-Based Analysis of Human Decision Making in Two-Alternative Choice Tasks With Social Feedback.
+Decision Making for Rapid Information Acquisition in the Reconnaissance of Random Fields.
+Proceedings of the IEEE Through 100 Years: 1920-1929.
+Corrections to "Hydrogen Production From Water Electrolysis: Current Status and Future Trends".
+Do We Need Video Systems "Beyond HDTV"?
+Frontiers of Audiovisual Communications: New Convergences of Broadband Communications, Computing, and Rich Media.
+Frontiers of Wireless and Mobile Communications.
+Next-Generation Applications on Cellular Networks: Trends, Challenges, and Solutions.
+Evolution of Optical Networking Toward Rich Digital Media Services.
+The Evolution of Video Processing Technology and Its Main Drivers.
+Large-Scale Situation Awareness With Camera Networks and Multimodal Sensing.
+Multimedia Standards: Interfaces to Innovation.
+FTV for 3-D Spatial Communication.
+Display Holography's Digital Second Act.
+Here We Are! Where Are We? Locating Mixed Reality in The Age of the Smartphone.
+Haptic Communications.
+Communication Technologies for People With Sensory Disabilities.
+The Road to Immersive Communication.
+Digital Pathology: Data-Intensive Frontier in Medical Imaging.
+Proceedings of the IEEE Through 100 Years: 1930-1939.
+Bionanoscience in Health and Medicine.
+The Evolution of Optical Networking.
+The Evolution of Configurable Wavelength Multiplexed Optical Networks - A Historical Perspective.
+Capacity Trends and Limits of Optical Communication Networks.
+Wavelength-Selective Reconfiguration in Transparent Agile Optical Networks.
+100G and Beyond Transmission Technologies for Evolving Optical Networks and Relevant Physical-Layer Issues.
+Optical Flow Switching Networks.
+Optical Network Management and Control.
+All-Optical Networking - Evolution, Benefits, Challenges, and Future Vision.
+Cross-Layer Approaches for Planning and Operating Impairment-Aware Optical Networks.
+Next-Generation Optical Network Architecture and Multidomain Issues.
+Multilayer and Multidomain Resilience in Optical Networks.
+Optical Networks for Grid and Cloud Computing Applications.
+Energy Challenges in Current and Future Optical Transmission Networks.
+Evolution of Optical Access Networks: Architectures and Capacity Upgrades.
+Hybrid Optical-Wireless Access Networks.
+Proceedings of the IEEE Through 100 Years: 1940-1949.
+Welcome to Our Centennial Celebration Issue!
+Scanning the Proceedings for History [Centennial History].
+Centennial Special Issue [Scanning the Issue].
+Overview for Reflections and Reviews of Past Predictions [Reflections and Reviews of Past Predictions].
+Back to the Future - 1962 Redux [Reflections and Reviews of Past Predictions].
+Like Being There [Reflections and Reviews of Past Predictions].
+To Learn About Nature Look to Nature Itself [Reflections and Reviews of Past Predictions].
+Computational Social Systems [Reflections and Reviews of Past Predictions].
+Research Funding and the Proceedings of the IEEE Centennial [Reflections and Reviews of Past Predictions].
+100 Years in the Past and 100 Years in The Future [Point of View].
+Prolog to the Section on Cyber-Physical Systems.
+Cyber-Physical Systems: A Perspective at the Centennial.
+A Cyber-Physical Future.
+Prolog to the Section on Electric Power and Energy Engineering.
+Electric Power and Energy Engineering: The First Century.
+Smart Grids and Beyond: Achieving the Full Potential of Electricity Systems.
+Prolog to the Section on Engineering Education.
+Five Major Shifts in 100 Years of Engineering Education.
+Engineering Education Today: Capturing the Afterlife of Sisyphus in Five Snapshots.
+Beyond 2020: Preparing Engineers for the Future.
+Prolog to the Section on Entertainment Technologies.
+A Brief History of Entertainment Technologies.
+The Future of Cloud-Based Entertainment.
+Social Television: Enabling Technologies and Architectures.
+Mobile Clouds: The New Content Distribution Platform.
+Entertainment in the Age of Big Data.
+Prolog to the Section on Hardware/Software Codesign.
+Hardware/Software Codesign: The Past, the Present, and Predicting the Future.
+Prolog to the Section on Mass Storage and Data Retrieval.
+The History of Storage Systems.
+The History of Web Archiving.
+The History of Information Retrieval Research.
+Prolog to the Section on Advanced Materials for Electronics, Photonics, and Energy Storage.
+Silicon Crystal Growth and Wafer Technologies.
+Molecular Engineering to Computer Science: The Role of Photonics in the Convergence of Communications and Computing.
+Flexible Electronics: The Next Ubiquitous Platform.
+History, Evolution, and Future Status of Energy Storage.
+Prolog to the Section on Medical Devices and Electronics.
+Advances in Medical Devices and Medical Electronics.
+Prolog to the Section on Neurotechnological Systems: The Brain-Computer Interface.
+Biosensor Technologies for Augmented Brain-Computer Interfaces in the Next Decades.
+Evolving Signal Processing for Brain-Computer Interfaces.
+Brain-Computer Interface Technologies in the Coming Decades.
+Prolog to the Section on Optics and Photonics.
+Optics and Photonics: Key Enabling Technologies.
+Prolog to the Section on Personal and Home Electronics.
+Personal and Home Electronics and Our Changing Lifestyles.
+Prolog to the Section on Privacy and Cybersecurity.
+Privacy and Cybersecurity: The Next 100 Years.
+Prolog to the Section on Radio Spectrum Access.
+Spectrum Access Technologies: The Past, the Present, and the Future.
+Spectrum Policy for Radio Spectrum Access.
+The Economists' Contribution to Radio Spectrum Access: The Past, the Present, and the Future.
+Prolog to the Section on The Search for Life: SETI.
+Beings on Earth: Is That All There Is?
+Prolog to the Section on Science and Engineering Beyond Moore's Law.
+Science and Engineering Beyond Moore's Law.
+Prolog to the Section on Social Implications of Technology.
+Social Implications of Technology: The Past, the Present, and the Future.
+Prolog to the Section on Space Exploration and Science.
+Spaceflight: The Development of Science, Surveillance, and Commerce in Space.
+Prolog to the Section on Transportation and Navigation Technology.
+Satellite Navigation for Aviation in 2025.
+Autonomous Ground Vehicles - Concepts and a Path to the Future.
+FootSLAM: Pedestrian Simultaneous Localization and Mapping Without Exteroceptive Sensors - Hitchhiking on Human Perception and Cognition.
+Prolog to the Section on Wireless Communications Technology.
+Wireless Myths, Realities, and Futures: From 3G/4G to Optical and Quantum Wireless.
+A Centennial Review of Style and Contents in the Proceedings of the IEEE [Point of View].
+Scanning My Past: Some Personal Reflections Stimulated by the Proceedings Centennial [Scanning the Past].
+Very High-Resolution Remote Sensing: Challenges and Opportunities [Point of View].
+Memristors: Devices, Models, and Applications [Scanning the Issue].
+The Fourth Element.
+Port-Hamiltonian Formulation of Systems With Memory.
+Device Properties of Bernoulli Memristors.
+Metal-Oxide RRAM.
+Memristors With Flexible Electronic Applications.
+ Thin-Film Devices.
+Memristive Device Fundamentals and Modeling: Applications to Circuits and Systems Simulation.
+Multiterminal Memristive Nanowire Devices for Logic and Memory Applications: A Review.
+Analysis of Passive Memristive Devices Array: Data-Dependent Statistical Model and Self-Adaptable Sense Resistance for RRAMs.
+Leveraging Memristive Systems in the Construction of Digital Logic Circuits.
+CMOS and Memristor-Based Neural Network Design for Position Detection.
+Memristor Bridge Synapses.
+Neuromorphic, Digital, and Quantum Computation With Memory Circuit Elements.
+Proceedings of the IEEE THROUGH 100 YEARS: 1950-1959 [Scanning our Past].
+Cognitive Dynamic Systems: Radar, Control, and Radio [Point of View].
+Antennas in Wireless Communications [Scanning the Issue].
+Small Antennas in Wireless Communications.
+A Computationally Efficient Technique for Prototyping Planar Antennas and Printed Circuits for Wireless Applications.
+Nature-Inspired Optimization Techniques in Communication Antenna Designs.
+OTA Testing in Multipath of Antennas and Wireless Devices With MIMO and OFDM.
+Printed Slot and Wire Antennas: A Review.
+Microstrip Patch Antennas - Basic Characteristics and Some Recent Advances.
+Dielectric Resonator Antennas: From the Basic to the Aesthetic.
+Leaky-Wave Antennas.
+Supporting and Enabling Circuits for Antenna Arrays in Wireless Communications.
+Substrate-Integrated Millimeter-Wave and Terahertz Antenna Technology.
+Smart Antennas for Advanced Communication Systems.
+Reconfigurable Antennas for Wireless and Space Applications.
+Antenna Requirements for Software Defined and Cognitive Radios.
+Metamaterial-Based Antennas.
+Antennas in Cellular Phones for Mobile Communications.
+The Magnetoelectric Dipole - A Wideband Antenna for Base Stations in Mobile Communications.
+UWB Antennas for Communication Systems.
+Antennas for WiFi Connectivity.
+Design of Antennas for UHF RFID Tags.
+Antennas for Digital Television Receivers in Mobile Terminals.
+Antennas for Global Navigation Satellite System (GNSS).
+Evaluations of Body-Centric Wireless Communication Channels in a Range From 3 MHz to 3 GHz.
+Integration of Array Antennas in Chip Package for 60-GHz Radios.
+Antenna Concepts for Millimeter-Wave Automotive Radar Sensors.
+Proceedings of the IEEE Through 100 Years: 1960-1969 [Scanning our Past].
+Musing on the Past 60 Years in Electrical Engineering Education.
+Quality of Life Technology.
+Designing and Evaluating Quality of Life Technologies: An Interdisciplinary Approach.
+Herb 2.0: Lessons Learned From Developing a Mobile Manipulator for the Home.
+Home-Assistant Robot for an Aging Society.
+First-Person Vision.
+Cognition-Enabled Autonomous Robot Control for the Realization of Home Chore Task Intelligence.
+Architecture and Applications of Virtual Coaches.
+Toward an Ecosystem for Developing and Programming Assistive Environments.
+Personal Mobility and Manipulation Appliance - Design, Development, and Initial Testing.
+Using Socially Assistive Human-Robot Interaction to Motivate Physical Exercise for Older Adults.
+Therapeutic Seal Robot as Biofeedback Medical Device: Qualitative and Quantitative Evaluations of Robot Therapy in Dementia Care.
+Universal Design for Quality of Life Technologies.
+Back to the Future [Point of View].
+Web-Scale Multimedia Processing and Applications [Scanning the Issue].
+Recent Advances of Large-Scale Linear Classification.
+Optimal Parameters for Locality-Sensitive Hashing.
+Robust and Scalable Graph-Based Semisupervised Learning.
+A Framework for Classifier Adaptation for Large-Scale Multimedia Data.
+Uncertainty Reduction for Knowledge Discovery and Information Extraction on the World Wide Web.
+Statistical Entity Extraction From the Web.
+Web-Scale Multimedia Information Networks.
+Duplicate-Search-Based Image Annotation Using Web-Scale Data.
+Web-Scale Media Recommendation Systems.
+Multimedia Semantics: Interactions Between Content and Community.
+Social Network Analysis in Enterprise.
+The Solution Looking for a Problem.
+Remote Sensing of Natural Disasters.
+ASTER Satellite Observations for International Disaster Management.
+Human Sensor Networks for Improved Modeling of Natural Disasters.
+Remote Sensing Contributions to Prediction and Risk Assessment of Natural Disasters Caused by Large-Scale Rift Valley Fever Outbreaks.
+Mapping Geo-Hazard by Satellite Radar Interferometry.
+Disaster Monitoring by Fully Polarimetric SAR Data Acquired With ALOS-PALSAR.
+Polarimetric SAR Analysis of Tsunami Damage Following the March 11, 2011 East Japan Earthquake.
+Remote Sensing and Earthquake Damage Assessment: Experiences, Limits, and Perspectives.
+GEOSS-Based Thermal Parameters Analysis for Earthquake Anomaly Recognition.
+Remote Sensing of Volcanic Hazards and Their Precursors.
+Remote Sensing of Ocean Oil-Spill Pollution.
+Information Extraction From Remote Sensing Images for Flood Monitoring and Damage Evaluation.
+Proceedings of the IEEE Through 100 Years: 1990-1999.
+Let's Continue to Expand Our Minds...
+Superconductor Electronics and Power Applications [Point of View].
+Prolog to "The Dual-Fuel Strategy: An Energy Transition Plan'.
+The Dual-Fuel Strategy: An Energy Transition Plan.
+Prolog to "Fault Injection Attacks on Cryptographic Devices: Theory, Practice, and Countermeasures".
+Fault Injection Attacks on Cryptographic Devices: Theory, Practice, and Countermeasures.
+Prolog to "tuPOY: Epitomizing a New Epoch in Communications With Polymer Textiles".
+tuPOY: Epitomizing a New Epoch in Communications With Polymer Textiles.
+Prolog to "Cognitive Radar: Step Toward Bridging the Gap Between Neuroscience and Engineering".
+Cognitive Radar: Step Toward Bridging the Gap Between Neuroscience and Engineering.
+Proceedings of the IEEE Through 100 Years: 2000-2009 [Scanning Our Past].
+Some Thoughts on the Communications Field - The Past and the Present.
+Cognitive control.
+Cognitive Control.
+A Survey of Security Challenges in Cognitive Radio Networks: Solutions and Future Research Directions.
+A Survey of Security Challenges in Cognitive Radio Networks: Solutions and Future Research Directions.
+High-Efficiency Doherty Power Amplifiers: Historical Aspect and Modern Trends.
+High-Efficiency Doherty Power Amplifiers: Historical Aspect and Modern Trends.
+The Proceedings of the IEEE: Into the Next Century.
+Changing of the Guard [Point of View].
+"Beyond HDTV" [Scanning the Issue].
+UHDTV Image Format for Better Visual Experience.
+A New Wide-Gamut RGB Primary Set and Efficient Color Encoding Methods for Ultrahigh-Definition Television (UHDTV).
+Color Management for Future Video Systems.
+Wedge Optics in Flat Panel Displays.
+High-Resolution CMOS Video Image Sensors.
+8K Extremely-High-Resolution Camera Systems.
+Ultrahigh-Definition LCOS Projectors.
+Ultrahigh-Resolution Panoramic Imaging for Format-Agnostic Video Production.
+Scalable Resolution Display Walls.
+High-Performance Video Codec for Super Hi-Vision.
+Digital Cinema and Super-High-Definition Content Distribution on Optical High-Speed Networks.
+Progress of Transmission Technologies for UDTV.
+Stereographic Digital Cinema: Production and Exhibition Techniques in 2012.
+Three-Dimensional Imaging for Creating Real-World-Like Environments.
+The Rise & Fall of Electric Vehicles in 1828-1930: Lessons Learned.
+The Motivation and Technique of Writing Scientific Contributions [Point of View].
+Large-Scale Electromagnetic Computation for Modeling and Applications [Scanning the Issue].
+Overview of Large-Scale Computing: The Past, the Present, and the Future.
+Discontinuous Galerkin Time-Domain Methods for Multiscale Electromagnetic Simulations: A Review.
+Electromagnetic Computation in Scattering of Electromagnetic Waves by Random Rough Surface and Dense Media in Microwave Remote Sensing of Land Surfaces.
+Integration of Antennas Onboard Vehicles and Diffraction by Large and Complex Structures With Multiple-Domain-Multiple-Methods Techniques.
+Nonconformal Domain Decomposition Methods for Solving Large Multiscale Electromagnetic Scattering Problems.
+Hybrid Iterative Approach Combined With Domain Decomposition for the Analysis of Large Electromagnetic Problems.
+Hierarchical Parallelization of the Multilevel Fast Multipole Algorithm (MLFMA).
+Accurate Solutions of Extremely Large Integral-Equation Problems in Computational Electromagnetics.
+MLFMA-FFT Parallel Algorithm for the Solution of Extremely Large Problems in Electromagnetics.
+Accelerated Direct Solution of the Method-of-Moments Linear System.
+Direct Matrix Solution of Linear Complexity for Surface Integral-Equation-Based Impedance Extraction of Complicated 3-D Structures.
+Quasi-Block-Cholesky Factorization With Dynamic Matrix Compression for Fast Integral-Equation Simulations of Large-Scale Human Body Models.
+Modified Phase-Extracted Basis Functions for Efficient Analysis of Scattering From Electrically Large Targets.
+Analyzing Large-Scale Arrays Using Tangential Equivalence Principle Algorithm With Characteristic Basis Functions.
+Hierarchical Matrix Preconditioning for Low-Frequency-Full-Maxwell Simulations.
+Electromagnetic Field Theory in $(N+1)$ -Space-Time: A Modern Time-Domain Tensor/Array Introduction.
+Skin-Effect Loss Models for Time- and Frequency-Domain PEEC Solver.
+Spectral Methods and Domain Decomposition for Nanophotonic Applications.
+Highly Tailored Computational Electromagnetics Methods for Nanophotonic Design and Discovery.
+Water Bridges in Electropermeabilized Phospholipid Bilayers.
+Transport-Based Biophysical System Models of Cells for Quantitatively Describing Responses to Electric Fields.
+Quantum Transport Modeling From First Principles.
+Fluctuation-Induced Phenomena in Nanoscale Systems: Harnessing the Power of Noise.
+Early Punched Card Equipment: 1880-1951 [Scanning Our Past].
+Electromagnetic Tomography for Medical and Industrial Applications: Challenges and Opportunities [Point of View].
+Advances in Very-High-Resolution Remote Sensing [Scanning the Issue].
+Human Settlements: A Global Challenge for EO Data Processing and Interpretation.
+Using High-Resolution Airborne and Satellite Imagery to Assess Crop Growth and Yield Variability for Precision Agriculture.
+Active Learning: Any Value for Classification of Remotely Sensed Data?
+A Novel Framework for the Design of Change-Detection Systems for Very-High-Resolution Remote Sensing Images.
+Land-Cover Mapping by Markov Modeling of Spatial-Contextual Information in Very-High-Resolution Remote Sensing Images.
+Advances in Spectral-Spatial Classification of Hyperspectral Images.
+Feature Mining for Hyperspectral Image Classification.
+The Promise of Reconfigurable Computing for Hyperspectral Imaging Onboard Systems: A Review and Trends.
+Processing Multidimensional SAR and Hyperspectral Images With Binary Partition Tree.
+Melt Pond Mapping With High-Resolution SAR: The First View.
+Very-High-Resolution Airborne Synthetic Aperture Radar Imaging: Signal Processing and Applications.
+Airborne SAR-Efficient Signal Processing for Very High Resolution.
+Point Target Classification via Fast Lossless and Sufficient $\Omega$-$\Psi$ -$\Phi$ Invariant Decomposition of High-Resolution and Fully Polarimetric SAR/ISAR Data.
+Monitoring of the March 11, 2011, Off-Tohoku 9.0 Earthquake With Super-Tsunami Disaster by Implementing Fully Polarimetric High-Resolution POLSAR Techniques.
+Differential Analyzers [Scanning Our Past].
+I2csmart: an identity-management-based cognition-enabled cooperative smartphone [point of view].
+Marine Energy Technology [Sanning the Issue].
+An Overview of the U.K. Marine Energy Sector.
+Offshore Wind Power Generation Technologies.
+Ocean Renewable Energy Storage (ORES) System: Analysis of an Undersea Energy Storage Concept.
+Modeling, Control Strategy, and Power Conditioning for Direct-Drive Wave Energy Conversion to Operate With Power Grid.
+Network Security Assessments for Integrating Large-Scale Tidal Current and Ocean Wave Resources Into Future Electrical Grids.
+Power System Security in a Meshed North Sea HVDC Grid.
+Environmental and Human Dimensions of Ocean Renewable Energy Development.
+The Impact of Offshore Wind Farms on Marine Ecosystems: A Review Taking an Ecosystem Services Perspective.
+Meteorological Controls on Wind Turbine Wakes.
+Motion Pictures [Scanning Our Past].
+Cyber-Eco Technology: Engineering of Ecological Systems [Point of View].
+Speech Information Processing: Theory and Applications [Scanning the Issue].
+Acoustic Analysis for Automatic Speech Recognition.
+Conditional Random Fields in Speech, Audio, and Language Processing.
+Multistream Recognition of Speech: Dealing With Unknown Unknowns.
+An Information-Extraction Approach to Speech Processing: Analysis, Detection, Verification, and Recognition.
+Speech-Centric Information Processing: An Optimization-Oriented Approach.
+Spoken Language Recognition: From Fundamentals to Practice.
+POMDP-Based Statistical Spoken Dialog Systems: A Review.
+Statistical Machine Translation for Speech: A Perspective on Structures, Learning, and Decoding.
+Behavioral Signal Processing: Deriving Human Behavioral Informatics From Speech and Language.
+Speech Synthesis Based on Hidden Markov Models.
+Underwater Cables.
+Engineering the Future of Education [Point of View].
+Wireless Power Transmission, Technology, and Applications [Scanning the Issue].
+Inductive Power Transfer.
+Planar Wireless Charging Technology for Portable Electronic Products and Qi.
+An Overview of Technical Challenges and Advances of Inductive Wireless Power Transmission.
+Issues and Initiatives for Practical Deployment of Wireless Power Transfer Technologies in Japan.
+Wireless Power Transmission: From Far Field to Near Field.
+Coil Design and Shielding Methods for a Magnetic Resonant Wireless Power Transfer System.
+Enabling Seamless Wireless Power Delivery in Dynamic Environments.
+Wireless Power Transfer: Metamaterials and Array of Coupled Resonators.
+Midfield Wireless Powering for Implantable Systems.
+Microwave Power Transmission: Historical Milestones and System Components.
+Low-Power Far-Field Wireless Powering for Wireless Sensors.
+RF Energy Harvesting and Transport for Wireless Sensor Network Applications: Principles and Requirements.
+Energy Conversion and Transmission Modules for Space Solar Power.
+Microwave Power Transmission Technologies for Solar Power Satellites.
+Beam Control Technologies With a High-Efficiency Phased Array for Microwave Power Transmission in Japan.
+Array Designs for Long-Distance Wireless Power Transmission: State-of-the-Art and Innovative Solutions.
+Assessing Human Exposure to Electromagnetic Fields From Wireless Power Transmission Systems.
+Cellular and Molecular Responses to Radio-Frequency Electromagnetic Fields.
+Inventing the Computer [Scanning Our Past].
+Reflections of the future [Point of View].
+Emerging graphene-based electronic & photonic devices, circuits, and systems [Scannning the Issue].
+Carbon-Based Nanomaterials From a Historical Perspective.
+Graphene Growth and Device Integration.
+Site-Selective Epitaxy of Graphene on Si Wafers.
+Graphene Transistors: Status, Prospects, and Problems.
+Tunneling Transistors Based on Graphene and 2-D Crystals.
+High-Performance Graphene Field-Effect Transistors With Extremely Small Access Length Using Self-Aligned Source and Drain Technique.
+Graphene Field-Effect Transistors Based on Boron-Nitride Dielectrics.
+Graphene Electronics: Materials, Devices, and Circuits.
+Large-Area 2-D Electronics: Materials, Technology, and Devices.
+Multiscale Modeling for Graphene-Based Nanoscale Transistors.
+Variability Effects in Graphene: Challenges and Opportunities for Device Engineering and Applications.
+Plasmons in Graphene: Fundamental Properties and Potential Applications.
+Graphene for Reconfigurable Terahertz Optoelectronics.
+The Interaction of Light and Graphene: Basics, Devices, and Applications.
+Fully Transparent Resistive Memory Employing Graphene Electrodes for Eliminating Undesired Surface Effects.
+Evaluation of the Potential Performance of Graphene Nanoribbons as On-Chip Interconnects.
+Graphene Nanoelectromechanical Systems.
+Graphene Transistors for Bioelectronics.
+Market Uptake Potential of Graphene as a Disruptive Material.
+Maxwell's equations [Scanning our Past].
+Prolog to "Faster-than-Nyquist signaling".
+Faster-Than-Nyquist Signaling.
+Prolog to "Aviation Cyber-Physical Systems: Foundations for Future Aircraft and Air Transport".
+Aviation Cyber-Physical Systems: Foundations for Future Aircraft and Air Transport.
+Prolog to "IMS: The New Generation of Internet-Protocol-Based Multimedia Services".
+IMS: The New Generation of Internet-Protocol-Based Multimedia Services.
+STARS: Pacemakers [Scanning Our Past].
+Does information have mass? [Point of View].
+Perceptual Coding of High-Quality Digital Audio.
+Spatial Sound With Loudspeakers and Its Perception: A Review of the Current State.
+An Overview on Perceptually Motivated Audio Indexing and Classification.
+Objective Estimation of Speech Quality for Communication Systems.
+Perceptual Properties of Current Speech Recognition Technology.
+Sound Processing for Better Coding of Monaural and Binaural Cues in Auditory Prostheses.
+On Visual Realism of Synthesized Imagery.
+Automatic Prediction of Perceptual Image and Video Quality.
+Perceptual Visual Signal Compression and Transmission.
+Image Analysis: Focus on Texture Similarity.
+Visual Attention and Applications in Multimedia Technologies.
+Representations and Algorithms for Force-Feedback Display.
+Haptic Perception of Material Properties and Implications for Applications.
+Vibrotactile Display: Perception, Technology, and Applications.
+Multimodal Support for Interruption Management: Models, Empirical Findings, and Design Recommendations.
+Efficient Multimodal Cuing of Spatial Attention.
+A Model for Haptic Aesthetic Processing and Its Implications for Design.
+STARS: Early Popular Computers, 1950-1970 [Scanning Out Past].
+The Reasonable Ineffectiveness of Mathematics [Point of View].
+50th Anniversary of the Light-Emitting Diode (LED): An Ultimate Lamp [Scanning the Issue].
+The III-V Alloy p-n Diode Laser and LED Ultimate Lamp.
+From Holonyak to Today.
+Heterostructures for Optoelectronics: History and Modern Trends.
+The Double-Heterostructure Concept: How It Got Started.
+III-V Semiconductor Quantum-Well Devices Grown by Metalorganic Chemical Vapor Deposition.
+GaN-Based p-n Junction Blue-Light-Emitting Devices.
+History of Gallium-Nitride-Based Light-Emitting Diodes for Illumination.
+GaN Substrate Technologies for Optical Devices.
+Vertical-Cavity Surface-Emitting Laser (VCSEL).
+III-V Oxidation: Discoveries and Applications in Vertical-Cavity Surface-Emitting Lasers.
+Application of Laser Diodes to Optical Disk Systems: The History of Laser Diode Development and Mass Production in Three Generations of Optical Disk Systems.
+From Visible Light-Emitting Diodes to Large-Scale III-V Photonic Integrated Circuits.
+The Transistor Laser: Theory and Experiment.
+STARS: Electromechanical Telephone Switching [Scanning our Past].
+Editorial.
+The Old Professor in Action.
+The Smart Home.
+The Multimedia Over Coax Alliance.
+Heterogeneous Networks for Audio and Video: Using IEEE 802.1 Audio Video Bridging.
+PUCC Activities on Overlay Networking Protocols and Metadata for Controlling and Managing Home Networks and Appliances.
+Large-Scale Deployment of Residential Small Cells.
+Wireless Architectures for Heterogeneous Sensing in Smart Home Applications: Concepts and Real Implementation.
+Electric Energy Management in the Smart Home: Perspectives on Enabling Technologies and Consumer Behavior.
+Opportunities and Challenges of Vehicle-to-Home, Vehicle-to-Vehicle, and Vehicle-to-Grid Technologies.
+Ecological Home Network: An Overview.
+Home Smart Home: A Danish Energy-Positive Home Designed With Daylight.
+STARS: IBM System/360.
+Recycling Is Not Always Good.
+A Survey on Ambient Intelligence in Healthcare.
+A Survey on Ambient Intelligence in Healthcare.
+Overview of Beyond-CMOS Devices and a Uniform Methodology for Their Benchmarking.
+Overview of Beyond-CMOS Devices and a Uniform Methodology for Their Benchmarking.
+A Survey on Topology Control in Wireless Sensor Networks: Taxonomy, Comparative Study, and Open Issues.
+A Survey on Topology Control in Wireless Sensor Networks: Taxonomy, Comparative Study, and Open Issues.
+STARS: Electronic Calculators: Desktop to Pocket.
+Where Is Mathematics?
+Managing Performance Overhead of Virtual Machines in Cloud Computing: A Survey, State of the Art, and Future Directions.
+Managing Performance Overhead of Virtual Machines in Cloud Computing: A Survey, State of the Art, and Future Directions.
+Rugged Electrical Power Switching in Semiconductors: A Systems Approach.
+Rugged Electrical Power Switching in Semiconductors: A Systems Approach.
+Spatial Modulation for Generalized MIMO: Challenges, Opportunities, and Implementation.
+Spatial Modulation for Generalized MIMO: Challenges, Opportunities, and Implementation.
+STARS: Telephone Transmission.
+The heritage of mead & conway: what has remained the same, what has changed, what was missed, and what lies ahead [point of view].
+Applications of Augmented Reality [Scanning the Issue].
+Behind the Glass: Driver Challenges and Opportunities for AR Automotive Applications.
+Augmented Reality for Construction Site Monitoring and Documentation.
+Next-Generation Augmented Reality Browsers: Rich, Seamless, and Adaptive.
+Manipulating the Experience of Reality for Rehabilitation Applications.
+Virtual Handcrafting: Building Virtual Wood Models Using ToolDevice.
+Two-Phase Calibration for a Mirror Metaphor Augmented Reality System.
+Combining Photogrammetry and Augmented Reality Towards an Integrated Facility Management System for the Oil Industry.
+STARS: Word Processing for the Japanese Language [Scanning Out Past].
+"Drones" and the Future of Domestic Aviation.
+Future Radio Spectrum Access.
+Practical Issues for Spectrum Management With Cognitive Radios.
+Harmful Interference and Its Role in Spectrum Policy.
+Security and Enforcement in Spectrum Sharing.
+Multiband Spectrum Access: Great Promises for Future Cognitive Radio Networks.
+Putting the Radio in "Software-Defined Radio": Hardware Developments for Adaptable RF Systems.
+RF and Microwave Hardware Challenges for Future Radio Spectrum Access.
+Small-Cell Self-Organizing Wireless Networks.
+Spectrum Without Bounds, Networks Without Borders.
+Millimeter-Wave Cellular Wireless Networks: Potentials and Challenges.
+Challenges and Considerations in Defining Spectrum Efficiency.
+Spectrum Access for the Passive Services: The Past and the Future.
+STARS: Electrocardiography.
+Getting Comfortable Being Uncomfortable [Point of View].
+Cognitive Dynamic Systems [Scanning the Issue].
+The Prefrontal Cortex Makes the Brain a Preadaptive System.
+Cognitive Dynamics: From Attractors to Active Inference.
+The Impact of Active Inference on Engineering [Further Thoughts].
+Biomimetic Echolocation With Application to Radar and Sonar Sensing.
+Sensing, Cognition, and Engineering Application [Further Thoughts].
+Adaptive Networks.
+Impact of Networked Cognition and Learning on Engineered Systems [Further Thoughts].
+Computational Implications of Lognormally Distributed Synaptic Weights.
+Lessons From Spontaneous Neural Noise Genesis on Neuromorphic Engineering [Further Thoughts].
+Cognitive Architectures for Sensory Processing.
+On the Importance of Synergisms Between Neuroscience and Engineering [Further Thoughts].
+The Misbehavior of Reinforcement Learning.
+Race Against the Machine [Further Thoughts].
+Modeling Human Decision Making in Generalized Gaussian Multiarmed Bandits.
+On Human Decision-Making Heuristics and Algorithm Design in Engineering [Further Thoughts].
+Optimization for Centralized and Decentralized Cognitive Radio Networks.
+Optimization, Chaotic Neural Networks, and Coherent Ising Machines [Further Thoughts].
+Self-Organization and Compositionality in Cognitive Brains: A Neurorobotics Study.
+Self-Organization and Compositionality in Cognitive Brains [Further Thoughts].
+On Cognitive Dynamic Systems: Cognitive Neuroscience and Engineering Learning From Each Other.
+STARS: Rise and Fall of Minicomputers [Scanning Our Past].
+In Search of Earth-Like Planets [Point of View].
+Engineering intelligent electronic systems based on computational neuroscience [scanning the issue].
+The SpiNNaker Project.
+Information Systems Opportunities in Brain-Machine Interface Decoders.
+Dynamic and Succinct Statistical Analysis of Neuroscience Data.
+Neurogrid: A Mixed-Analog-Digital Multichip System for Large-Scale Neural Simulations.
+Spike-Based Synaptic Plasticity in Silicon: Design, Implementation, Application, and Challenges.
+Power Consumption During Neuronal Computation.
+Small Brains, Smart Machines: From Fly Vision to Robot Vision and Back Again.
+An Augmented Two-Layer Model Captures Nonlinear Analog Spatial Integration Effects in Pyramidal Neuron Dendrites.
+Prospective Optimization.
+Stereo, Shading, and Surfaces: Curvature Constraints Couple Neural Computations.
+Regulating Cortical Oscillations in an Inhibition-Stabilized Network.
+Stochastic Electronics: A Neuro-Inspired Design Paradigm for Integrated Circuits.
+Noise as a Resource for Computation and Learning in Networks of Spiking Neurons.
+Large-Scale Synthesis of Functional Spiking Neural Circuits.
+Evolved Machines Shed Light on Robustness and Resilience.
+STARS: Telephones [Scanning Our Past].
+Nanotechnology and Life: An Engineer's Perspective.
+Energy Storage - Part I: Batteries and Energy Conversion Systems.
+Lithium-Ion Battery Systems.
+Advanced Lead-Acid Batteries and the Development of Grid-Scale Energy Storage Systems.
+Regenerative Fuel Cells for Energy Storage.
+Redox Flow Batteries: An Engineering Perspective.
+Power Electronics for Grid-Scale Energy Storage.
+Battery Energy Storage System (BESS) and Battery Management System (BMS) for Grid-Scale Applications.
+STARS: Creating Magnetic Disk Storage at IBM.
+Nanoengineered Bioplatforms Based on DNA Origami [Point of View].
+Energy Storage - Part II: Realizing the Value [Scanning the Issue].
+Business Models for Deploying and Operating Energy Storage and Risk Mitigation Aspects.
+Regulatory Policy and Markets for Energy Storage in North America.
+Energy Storage Valuation Under Different Storage Forms and Functions in Transmission and Distribution Applications.
+Integrating Energy Storage Devices Into Market Management Systems.
+Smart Grids Versus the Achilles' Heel of Renewable Energy: Can the Needed Storage Infrastructure Be Constructed Before the Fossil Fuel Runs Out?
+Corrections to "Multiband Spectrum Access: Great Promises for Future Cognitive Radio Networks".
+STARS: Scanning Probe Microscopy [Scanning Our Past].
+Energy return on energy invested (eroi): a quintessential but possibly inadequate metric for sustainability in a solar-powered world? [point of view].
+Trustworthy Hardware [Scanning the Issue].
+Physical Unclonable Functions and Applications: A Tutorial.
+Public Physical Unclonable Functions.
+Microcontrollers as (In)Security Devices for Pervasive Computing Applications.
+Trustworthiness of Medical Devices and Body Area Networks.
+Mobile Trusted Computing.
+Counterfeit Integrated Circuits: A Rising Threat in the Global Semiconductor Supply Chain.
+Hardware Trojan Attacks: Threat Analysis and Countermeasures.
+FPGA Security: Motivations, Features, and Applications.
+Regaining Trust in VLSI Design: Design-for-Trust Techniques.
+A Primer on Hardware Security: Models, Methods, and Metrics.
+STARS: Software Industry [Scanning Our Past].
+Today's Engineering Education Is a Liberal Arts Education of the Future.
+Scanning the Issue.
+A Tutorial on the Flexible Optical Networking Paradigm: State of the Art, Trends, and Research Challenges.
+A Tutorial on the Flexible Optical Networking Paradigm: State of the Art, Trends, and Research Challenges.
+Geometric Algebra for Electrical and Electronic Engineers.
+Geometric Algebra for Electrical and Electronic Engineers.
+Neuromorphic Electronic Circuits for Building Autonomous Cognitive Systems.
+Neuromorphic Electronic Circuits for Building Autonomous Cognitive Systems.
+Nils Gustaf Dalén.
+Future vehicles will be driven by electricity, but not as you think [Point of View].
+Bioinspired Imaging: Discovery, Emulation, and Future Prospects [Scanning the Issue].
+The Remarkable Visual Abilities of Nocturnal Insects: Neural Principles and Bioinspired Night-Vision Algorithms.
+Animal Polarization Imaging and Implications for Optical Processing.
+Bioinspired Focal-Plane Polarization Image Sensor Design: From Application to Implementation.
+Bioinspired Polarization Imaging Sensors: From Circuits and Optics to Signal Processing Algorithms and Biomedical Applications.
+Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output.
+Asynchronous Neuromorphic Event-Driven Image Filtering.
+Reconstructing Natural Visual Scenes From Spike Times.
+Bioinspired Visual Motion Estimation.
+Contour Motion Estimation for Asynchronous Event-Driven Cameras.
+Implementation of Visual Motion Detection in Analog "Neuromorphic" Circuitry - A Case Study of the Issue of Circuit Precision.
+Perceivable Light Fields: Matching the Requirements Between the Human Visual System and Autostereoscopic 3-D Displays.
+Detecting 3-D Mirror Symmetry in a 2-D Camera Image for 3-D Shape Recovery.
+Noise-Enhanced Information Systems.
+A Nonrandom Walk Down Memory Lane With Bernard Widrow [Scanning our Past].
+Editorial.
+Impact of MOOCs and Other Forms of Online Education [Point of View].
+Energy Harvesting and Scavenging [Scanning the Issue].
+Ambient RF Energy-Harvesting Technologies for Self-Sustainable Standalone Wireless Sensor Platforms.
+Radio-Frequency Rectifier for Electromagnetic Energy Harvesting: Development Path and Future Outlook.
+Electromagnetic Energy Harvesting and Wireless Power Transmission: A Unified Approach.
+Solar/Electromagnetic Energy Harvesting and Wireless Power Transmission.
+Smart Surfaces: Large Area Electronics Systems for Internet of Things Enabled by Energy Harvesting.
+Vibration Energy Harvesting Based on Magnet and Coil Arrays for Watt-Level Handheld Power Source.
+Quantity Versus Quality: Optimal Harvesting Wind Power for the Smart Grid.
+Energy Storage Technologies: The Past and the Present.
+Electrical Circuit Model and Dynamic Analysis of Implantable Enzymatic Biofuel Cells Operating In Vivo.
+Remote Powered Medical Implants for Telemonitoring.
+Textile Antennas as Hybrid Energy-Harvesting Platforms.
+STARS: Fax Machines [Scanning Our Past].
+Was Einstein an Engineer?
+The Digital Age and the Future of Social Network Science and Engineering.
+Impact of Changing Technology on the Evolution of Complex Informational Networks.
+Overlapping Communities Explain Core-Periphery Organization of Networks.
+Social Persuasion in Online and Physical Networks.
+Words on the Web: Noninvasive Detection of Emotional Contagion in Online Social Networks.
+Analyzing Temporal Networks in Social Media.
+Tracking the Digital Footprints of Personality.
+Design of Randomized Experiments in Networks.
+Connecting Computers With Robert E. Kahn.
+Automating Analytical Homework.
+Software-Defined Networking: A Comprehensive Survey.
+Software-Defined Networking: A Comprehensive Survey.
+Radar Spectrum Engineering and Management: Technical and Regulatory Issues.
+Radar Spectrum Engineering and Management: Technical and Regulatory Issues.
+Spin-Based Computing: Device Concepts, Current Status, and a Case Study on a High-Performance Microprocessor.
+Spin-Based Computing: Device Concepts, Current Status, and a Case Study on a High-Performance Microprocessor.
+The First Man-Made Memristor: Circa 1801.
+Big Data for Modern Industry: Challenges and Trends [Point of View].
+Global Healthcare: Advances and Challenges [Scanning the Issue].
+Microfluidics and Nanotechnology for Detection of Global Infectious Diseases.
+Advances in Nanotechnology and Microfluidics for Human Papillomavirus Diagnostics.
+Wearable Sensors for Healthier Pregnancies.
+Diagnostic Tools for Lab-on-Chip Applications Based on Coherent Imaging Microscopy.
+Biomedical Applications of Untethered Mobile Milli/Microrobots.
+AMPFLUID: Aggregation Magnified Post-Assay Fluorescence for Ultrasensitive Immunodetection on Digital Microfluidics.
+Advances in Smartphone-Based Point-of-Care Diagnostics.
+Demonstration of a Remote Optical Measurement Configuration That Correlates With Breathing, Heart Rate, Pulse Pressure, Blood Coagulation, and Blood Oxygenation.
+Engineering a Global Response to Infectious Diseases.
+Dov Jaron and the Origins of Biomedical Engineering [Scanning our Past].
+Considering the Total Cost of Electricity From Sunlight and the Alternatives [Point of View].
+Special Issue on Reconfigurable Systems: Foundations [Guest editors' introduction].
+An Introduction to Reconfigurable Systems.
+Three Ages of FPGAs: A Retrospective on the First Thirty Years of FPGA Technology.
+Reconfigurable Computing Architectures.
+Fundamental Underpinnings of Reconfigurable Computing Architectures.
+High-Reliability FPGA-Based Systems: Space, High-Energy Physics, and Beyond.
+High-Level Language Tools for Reconfigurable Computing.
+Software-Defined Radio: Bridging the Analog-Digital Divide.
+Reconfigurable Antennas: Design and Applications.
+Reconfigurable Radios: A Possible Solution to Reduce Entry Costs in Wireless Phones.
+Software Frameworks for SDR.
+There, and Back Again: How Adolf Goetzberger Got to Solar Energy [Scanning Our Past].
+Nuclear Power Versus Renewable Energy - A Trend Analysis [Point of View].
+Special issue on advanced flexible electronics for sensing applications [Scanning the Issue].
+Patterning Processes for Flexible Electronics.
+An Overview of Process and Product Requirements for Next Generation Thin Film Electronics, Advanced Touch Panel Devices, and Ultra High Barriers.
+Perspectives on Energy Storage for Flexible Electronic Systems.
+Key Issues With Printed Flexible Thin Film Transistors and Their Application in Disposable RF Sensors.
+High-Speed Printing of Transistors: From Inks to Devices.
+Additively Manufactured Nanotechnology and Origami-Enabled Flexible Microwave Electronics.
+From Printed Transistors to Printed Smart Systems.
+Inorganic Materials and Assembly Techniques for Flexible and Stretchable Electronics.
+Enabling Electronics With Physically Flexible ICs and Hybrid Manufacturing.
+Transparent Semiconducting Oxide Technology for Touch Free Interactive Flexible Displays.
+Flexible Technologies for Self-Powered Wearable Health and Environmental Sensing.
+Catheter-Based Systems With Integrated Stretchable Sensors and Conductors in Cardiac Electrophysiology.
+Enabling Scalable Hybrid Systems: Architectures for Exploiting Large-Area Electronics in Applications.
+Augustus Matthiessen: His Studies on Electrical Conductivities and the Origins of his "Rule" [Scanning Our Past].
+Digital rights management: The cost to consumers.
+High-power wind energy conversion systems: State-of-the-art and emerging technologies.
+High-Power Wind Energy Conversion Systems: State-of-the-Art and Emerging Technologies.
+Leaky-wave theory, techniques, and applications: From microwaves to visible frequencies.
+Leaky-Wave Theory, Techniques, and Applications: From Microwaves to Visible Frequencies.
+Nano meets security: Exploring nanoelectronic devices for security applications.
+Nano Meets Security: Exploring Nanoelectronic Devices for Security Applications.
+STARS: Manhattan Electric Power Distribution, 1881 - 1901.
+Renewables Can Help Transform Lives in Rural Areas [Point of View].
+The Plurality of Human Brain-Computer Interfacing [Scanning the Issue].
+Signal Processing Approaches to Minimize or Suppress Calibration Time in Oscillatory Activity-Based Brain-Computer Interfaces.
+Learning From More Than One Data Source: Data Fusion Techniques for Sensorimotor Rhythm-Based Brain-Computer Interfaces.
+Noninvasive Brain-Computer Interfaces Based on Sensorimotor Rhythms.
+Towards Noninvasive Hybrid Brain-Computer Interfaces: Framework, Practice, Clinical Application, and Beyond.
+Brain-Computer Interface for Neurorehabilitation of Upper Limb After Stroke.
+Functional Rehabilitation of the Paralyzed Upper Extremity After Spinal Cord Injury by Noninvasive Hybrid Neuroprostheses.
+Towards Independence: A BCI Telepresence Robot for People With Severe Motor Disabilities.
+Thelma Estrin and the Origins of Biomedical Computing [Scanning Our Past].
+Energy Return on Investment (EROI) of Solar PV: An Attempt at Reconciliation [Point of View].
+Reconfigurable Systems: Advanced Applications and Technologies [Scanning the Issue].
+Reconfigurable Memristive Device Technologies.
+Reconfigurable Electromagnetics Through Metamaterials - A Review.
+Novel Polarization-Reconfigurable Converter Based on Multilayer Frequency-Selective Surfaces.
+Tailoring Wideband Signals With a Photonic Hardware Accelerator.
+Analog- and Mixed-Signal Fabrics.
+Reconfigurable Network Systems and Software-Defined Networking.
+Reconfigurable Wireless Networks.
+Field-Programmable Wiring Systems.
+High-Speed Reconfigurable Circuits for Multirate Systems in SiGe HBT Technology.
+Monolithic 3-D FPGAs.
+Microfluidic Stretchable Radio-Frequency Devices.
+The Morphogenetic Path to Programmable Matter.
+Lasers [Scanning Our Past].
+In Defense of Engineering Education [Point of View].
+Memories in the Future of Information Processing [Scanning the Issue].
+Implications of Scales in Processing of Information.
+Phase-Change and Redox-Based Resistive Switching Memories.
+Mott Memory and Neuromorphic Devices.
+Emerging Trends in Design and Applications of Memory-Based Computing and Content-Addressable Memories.
+Evolution of Memory Architecture.
+Heterogeneity and Efficiency in the Brain.
+Memory and Information Processing in Neuromorphic Systems.
+Bioinspired Programming of Memory Devices for Implementing an Inference Engine.
+The Memory Problem of Quantum Information Processing.
+Remembering Jan Rajchman and the Origins of Electronic Memory [Scanning Our Past].
+Frameworks for Companies to Share Data With Researchers [Point of View].
+Multimodal Data Fusion [Scanning the Issue].
+Multimodal Data Fusion: An Overview of Methods, Challenges, and Prospects.
+Multimodal Data Fusion Using Source Separation: Two Effective Models Based on ICA and IVA and Their Properties.
+Multimodal Data Fusion Using Source Separation: Application to Medical Imaging.
+Multivariate Machine Learning Methods for Fusing Multimodal Functional Neuroimaging Data.
+Tensor Analysis and Fusion of Multimodal Brain Images.
+Multimodal Classification of Remote Sensing Images: A Review and Future Directions.
+Challenges and Opportunities of Multimodality and Data Fusion in Remote Sensing.
+Data Fusion in Metabolomics Using Coupled Matrix and Tensor Factorizations.
+Component- and Factor-Based Models for Data Fusion in the Behavioral Sciences.
+Audiovisual Fusion: Challenges and New Approaches.
+Three-Dimensional Imaging With Multiple Degrees of Freedom Using Data Fusion.
+Heinrich Geissler: Pioneer Of Electrical Science and Vacuum Technology [Scanning our Past].
+International Education.
+Secure Communications via Physical-Layer and Information-Theoretic Techniques [Scanning the Issue].
+Broadcasting Into the Uncertainty: Authentication and Confidentiality by Physical-Layer Processing.
+Error-Control Coding for Physical-Layer Secrecy.
+Physical-Layer Security in the Internet of Things: Sensing and Communication Confidentiality Under Resource Constraints.
+Secret-Key Distribution Based on Bounded Observability.
+Universal Hashing for Information-Theoretic Security.
+Secure Communication Under Channel Uncertainty and Adversarial Attacks.
+Wireless Physical-Layer Security: Lessons Learned From Information Theory.
+Wireless Network Security: Building on Erasures.
+Broadcast Networks With Layered Decoding and Layered Secrecy: Theory and Applications.
+Secure Degrees of Freedom of Multiuser Networks: One-Time-Pads in the Air via Alignment.
+A Perspective on the MIMO Wiretap Channel.
+Multivariate Mutual Information Inspired by Secret-Key Agreement.
+Information-Theoretic Security in Stochastic Control Systems.
+Fifty Years of Moore's Law.
+Editorial.
+The Aftermath of the Missing Flight MH370: What Can Engineers Do? [Point of View].
+Design Automation of Electronic Systems: Past Accomplishments and Challenges Ahead [Scanning the Issue].
+Boolean Computation Using Self-Sustaining Nonlinear Oscillators.
+Toeplitz-Plus-Hankel Matrix Recovery for Green's Function Computations on General Substrates.
+Progress and Challenges in VLSI Placement Research.
+Technology-Dependent Logic Optimization.
+Boolean Satisfiability Solvers and Their Applications in Model Checking.
+Combining Induction, Deduction, and Structure for Verification and Synthesis.
+Toward Unification of Synthesis and Verification in Topologically Constrained Logic Design.
+RTL Synthesis: From Logic Synthesis to Automatic Pipelining.
+Application of a Key-Value Paradigm to Logic Factoring.
+System Design Automation: Challenges and Limitations.
+A Platform-Based Design Methodology With Contracts and Related Tools for the Design of Cyber-Physical Systems.
+From Latency-Insensitive Design to Communication-Based System-Level Design.
+Component-Based Design by Solving Language Equations.
+New Logic Synthesis as Nanotechnology Enabler.
+A Framework for Genetic Logic Synthesis.
+Wiener's Cybernetics Legacy and the Growing Need for the Interdisciplinary Approach [Scanning Our Past].
+To Spike or Not to Spike: That Is the Question.
+Electric Ship Technologies.
+History and State of the Art in Commercial Electric Ship Propulsion, Integrated Power Systems, and Future Trends.
+History and the Status of Electric Ship Propulsion, Integrated Power Systems, and Future Trends in the U.S. Navy.
+Early-Stage Design for Electric Ship.
+Hybrid Electric Drive for Naval Combatants.
+Integrated Power Systems - An Outline of Requirements and Functionalities for Ships.
+Advances in Power Conversion and Drives for Shipboard Systems.
+Control Architecture for High Power Electronics Converters.
+Motors for Ship Propulsion.
+Electric Propulsion Motor Development for Commercial Ships in Japan.
+Dynamic Load and Storage Integration.
+Power Flow Control and Network Stability in an All-Electric Ship.
+Shore-to-Ship Power.
+Role of Power Hardware in the Loop in Modeling and Simulation for Experimentation in Power and Energy Systems.
+The Marine Vessel's Electrical Power System: From its Birth to Present Day.
+Solving Puzzles With Missing Pieces: The Power of Systems Biology [Point of View].
+Big Data: Theoretical Aspects [Scanning the Issue].
+A Review of Relational Machine Learning for Knowledge Graphs.
+Learning to Hash for Indexing Big Data - A Survey.
+Implementing Randomized Matrix Algorithms in Parallel and Distributed Environments.
+Foundational Principles for Large-Scale Inference: Illustrations Through Correlation Mining.
+Resource Allocation for Statistical Estimation.
+Magging: Maximin Aggregation for Inhomogeneous Large-Scale Data.
+Learning Reductions That Really Work.
+Taking the Human Out of the Loop: A Review of Bayesian Optimization.
+Machine Learning in Genomic Medicine: A Review of Computational Problems and Data Sets.
+Georg Simon Ohm and the First Comprehensive Theory of Electrical Conductivity in Metals [Scanning our Past].
+Fundamental Research and U.S. National Security [Point of View].
+Biomedical Signal Processing: From a Conceptual Framework to Clinical Applications [Scanning the Issue].
+Reconstructing Time-Dependent Dynamics.
+Multiscale Analysis of Intensive Longitudinal Biomedical Signals and Its Clinical Applications.
+Time-Variant Modeling of Brain Processes.
+Wiener-Granger Causality in Network Physiology With Applications to Cardiovascular Control and Neuroscience.
+Linked Component Analysis From Matrices to High-Order Tensors: Applications to Biomedical Data.
+Multimodal BCIs: Target Detection, Multidimensional Control, and Awareness Evaluation in Patients With Disorder of Consciousness.
+Characterization of Human Motor Units From Surface EMG Decomposition.
+Recording and Decoding for Neural Prostheses.
+Techniques for Ventricular Repolarization Instability Assessment From the ECG.
+Quantitative-Electrogram-Based Methods for Guiding Catheter Ablation in Atrial Fibrillation.
+Closed-Loop Neuromodulation Technology for Baroreflex Blood Pressure Control.
+Machine Learning and Decision Support in Critical Care.
+The Rise of Light - Discovering Its Secrets [Scanning Our Past].
+Patents: When They Make Sense and When They Do Not.
+Phased Array Technologies [Scanning the Issue].
+Digital Phased Arrays: Challenges and Opportunities.
+True Time Delay in Phased Arrays.
+The Evolution to Modern Phased Array Architectures.
+Benefits of Digital Phased Array Radars.
+Unconventional Phased Array Architectures and Design Methodologies - A Review.
+Analog and RF Interference Mitigation for Integrated MIMO Receiver Arrays.
+The Role of FPGAs in the Push to Modern and Ubiquitous Arrays.
+Design of Energy- and Cost-Efficient Massive MIMO Arrays.
+High-Sensitivity Phased Array Receivers for Radio Astronomy.
+A New Era in Elemental Digital Beamforming for Spaceborne Communications Phased Arrays.
+On the Design of Phased Arrays for Medical Applications.
+Multifunction Phased Array Radar for Aircraft and Weather Surveillance.
+Adaptive-Weather-Surveillance and Multifunction Capabilities of the National Weather Radar Testbed Phased Array Radar.
+The fandom of the opera: how the audience for a centuries-old art form has incubated electrical and electronics technologies [scanning our past].
+The Future of Cloud Gaming [Point of View].
+Control Challenges in Microgrids and the Role of Energy-Efficient Buildings [Scanning the Issue].
+Action-Oriented Energy Benchmarking for Nonresidential Buildings.
+Analysis of Georeferenced Building Data for the Identification and Evaluation of Thermal Microgrids.
+Automated Demand Response for Smart Buildings and Microgrids: The State of the Practice and Research Challenges.
+Frequency Regulation From Commercial Building HVAC Demand Response.
+Technologies and Magnitude of Ancillary Services Provided by Commercial Buildings.
+Sustainable Reserve Power From Demand Response and Fluctuating Production - Two Danish Demonstrations.
+Cyber-Physical Modeling of Distributed Resources for Distribution System Operations.
+Co-Optimization of Power and Reserves in Dynamic T&D Power Markets With Nondispatchable Renewable Generation and Distributed Energy Resources.
+Control and Communication Protocols Based on Packetized Direct Load Control in Smart Building Microgrids.
+An Information Exchange Framework Utilizing Smart Buildings for Efficient Microgrid Operation.
+Toward a Consumer-Centric Grid: A Behavioral Perspective.
+Intercept 1961: From Air Defense SA-1 to Missile Defense System A [Scanning our Past].
+Technology Versus Privacy Issues in Preventing Distracted Driver Accidents [Point of View].
+Industrial Cyber-Physical Systems [Scanning the Issue].
+Formal Verification of Fault-Tolerant Startup Algorithms for Time-Triggered Architectures: A Survey.
+MixCPS: Mixed Time/Event-Triggered Architecture of Cyber-Physical Systems.
+Using Smart Edge IoT Devices for Safer, Rapid Response With Industry IoT Control Operations.
+Integration of Classical Components Into Industrial Cyber-Physical Systems.
+Compositionality in the Science of System Design.
+Engineering Methods and Tools for Cyber-Physical Automation Systems.
+Empowering User Interfaces for Industrie 4.0.
+Systems Engineering for Industrial Cyber-Physical Systems Using Aspects.
+Real-Time Wireless Sensor-Actuator Networks for Industrial Cyber-Physical Systems.
+Industrial Wireless IP-Based Cyber -Physical Systems.
+The Cybersecurity Landscape in Industrial Control Systems.
+Smart Grids: A Cyber-Physical Systems Perspective.
+Aggregation and Charging Control of PHEVs in Smart Grid: A Cyber-Physical Perspective.
+Smart Agents in Industrial Cyber-Physical Systems.
+Intelligent Seven-DoF Robot With Dynamic Obstacle Avoidance and 3-D Object Recognition for Industrial Cyber-Physical Systems in Manufacturing Automation.
+A Vertical and Cyber-Physical Integration of Cognitive Robots in Manufacturing.
+Cyber-Physical Control of Road Freight Transport.
+Cyber-Physical Systems for Open-Knowledge-Driven Manufacturing Execution Systems.
+Amedeo Avogadro and His Number [Scanning our Past].
+The Role of New Technologies in Solving the Spectrum Shortage [Point of View].
+Vulnerabilities, threats, and authentication in satellite-based navigation systems [scanning the issue].
+Known Vulnerabilities of Global Navigation Satellite Systems, Status, and Potential Mitigation Techniques.
+Desired Features of Adaptive Antenna Arrays for GNSS Receivers.
+Robust GNSS Receivers by Array Signal Processing: Theory and Implementation.
+Small and Adaptive Antennas and Arrays for GNSS Applications.
+Impact and Detection of GNSS Jammers on Consumer Grade Satellite Navigation Receivers.
+Overview of Spatial Processing Approaches for GNSS Structural Interference Detection and Mitigation.
+GNSS Spoofing and Detection.
+Coding Aspects of Secure GNSS Receivers.
+Concepts, Development, and Validation of Multiantenna GNSS Receivers for Resilient Navigation.
+Sparse Arrays and Sampling for Interference Mitigation and DOA Estimation in GNSS.
+Interference Localization for Satellite Navigation Systems.
+Protecting GNSS Receivers From Jamming and Interference.
+Multisensor Navigation Systems: A Remedy for GNSS Vulnerabilities?
+Robert a. millikan: measuring the controversies of an electron's charge [scanning our past].
+Additive manufacturing: a key enabling technology for next-generation microwave and millimeter-wave systems [point of view].
+Full-Duplex Wireless Communications: Challenges, Solutions, and Future Research Directions.
+Variability Mitigation in Nanometer CMOS Integrated Systems: A Survey of Techniques From Circuits to Software.
+Spin-Transfer Torque Memories: Devices, Circuits, and Systems.
+Francis Ronalds (1788-1873): The First Electrical Engineer?
+Corrections to "Thermoelectric Generation Based on Spin Seebeck Effects" [DOI: 10.1109/JPROC.2016.2535167].
+Interactive Displays: The Next Omnipresent Technology [Point of View].
+Structural health monitoring: technological advances to practical implementations [scanning the issue].
+Strain Sensing Sheets for Structural Health Monitoring Based on Large-Area Electronics and Integrated Circuits.
+Ultralow Power Circuit Design for Wireless Sensor Nodes for Structural Health Monitoring.
+Multifunctional Cement Composites Enhanced With Carbon Nanotube Thin Film Interfaces.
+Measuring Crack Movement in Reinforced Concrete Using Digital Image Correlation: Overview and Application to Shear Slip Measurements.
+Statistical Performance Assessment of an NDE-Based SHM-DP Methodology for the Remaining Fatigue Life Prediction of Monitored Structural Components and Systems.
+Some Recent Developments in SHM Based on Nonstationary Time Series Analysis.
+Predictive Guided Wave Models Through Sparse Modal Representations.
+Independent Component Analysis for Improved Defect Detection in Guided Wave Monitoring.
+Three-Tier Modular Structural Health Monitoring Framework Using Environmental and Operational Condition Clustering for Data Normalization: Validation on an Operational Wind Turbine System.
+Expected Utility Theory for Monitoring-Based Decision-Making.
+What the Public Knew About Wireless Before Titanic [Scanning Our Past].
+Minting Money With Megawatts [Point of View].
+A Comprehensive Study of the Past, Present, and Future of Data Deduplication.
+Toward Massive, Ultrareliable, and Low-Latency Wireless Communication With Short Packets.
+A Survey on Wireless Security: Technical Challenges, Recent Advances, and Future Trends.
+Light and water in the 1929 barcelona exhibition: fighting for the recognition of spectacle authorship [scanning our past].
+Ethics and Autonomous Systems: Perils and Promises [Point of View].
+Spintronics [Scanning the Issue].
+Spintronics, Magnetoresistive Heads, and the Emergence of the Digital World.
+Magnetoresistive Random Access Memory.
+Emerging Three-Terminal Magnetic Memory Devices.
+Standby-Power-Free Integrated Circuits Using MTJ-Based VLSI Computing.
+Spintronics and Security: Prospects, Vulnerabilities, Attack Models, and Preventions.
+Spintronic Sensors.
+Spin-Torque and Spin-Hall Nano-Oscillators.
+Thermoelectric Generation Based on Spin Seebeck Effects.
+Electric-Field Control of Spin-Orbit Interaction for Low-Power Spintronics.
+Control of Spin Defects in Wide-Bandgap Semiconductors for Quantum Technologies.
+Spintronic Nanodevices for Bioinspired Computing.
+Skyrmion-Electronics: An Overview and Outlook.
+The M-3 in Budapest and Szeged [Scanning Our Past].
+Editorial.
+Future Broadband Access Networks [Point of View].
+Big Data: Practical Applications [Scanning the Issue].
+Big Data Analysis for Media Production.
+Parallel Processing Systems for Big Data: A Survey.
+Classification of Big Data With Application to Imaging Genetics.
+"Big Data Assimilation" Toward Post-Petascale Severe Weather Prediction: An Overview and Progress.
+Going Digital: A Survey on Digitalization and Large-Scale Data Analytics in Healthcare.
+Big Data for Remote Sensing: Challenges and Opportunities.
+Some Comments on the Analysis of "Big" Scientific Time Series.
+The Remarkable Edward (Ted) Both, Australia's Not-So-Well-Known Inventor [Scanning Our Past].
+Rewards of Tutorials.
+Plasmonics [Scanning the issue].
+Development of Optical Metasurfaces: Emerging Concepts and New Materials.
+Extraordinary Optical Transmission: Fundamentals and Applications.
+Quantum Plasmonics.
+Amplification and Lasing of Plasmonic Modes.
+Benchmarking System-Level Performance of Passive and Active Plasmonic Components: Integrated Circuit Approach.
+Plasmonic Photodetectors, Photovoltaics, and Hot-Electron Devices.
+Plasmonic Organic Hybrid Modulators - Scaling Highest Speed Photonics to the Microscale.
+Optical Biosensors Based on Plasmonic Nanostructures: A Review.
+Jacques-Arsene d'Arsonval: His life and contributions to electrical instrumentation in physics and medicine. part i: early life and activities in physiology [scanning our past].
+The Car as an Ambient Sensing Platform.
+Advanced Technologies for Brain Research [Scanning the Issue].
+Silicon-Integrated High-Density Electrocortical Interfaces.
+Framework for the Development of Neuroprostheses: From Basic Understanding by Sciatic and Median Nerves Models to Bionic Legs and Hands.
+Stable Detection of Movement Intent From Peripheral Nerves: Chronic Study in Dogs.
+A Nonhuman Primate Brain-Computer Typing Interface.
+Reliable Next-Generation Cortical Interfaces for Chronic Brain-Machine Interfaces and Neuroscience.
+Fusing Multiple Neuroimaging Modalities to Assess Group Differences in Perception-Action Coupling.
+Let There Be Light - Optoprobes for Neural Implants.
+Advances in Two-Photon Scanning and Scanless Microscopy Technologies for Functional Neural Circuit Imaging.
+Implantable Microimaging Device for Observing Brain Activities of Rodents.
+Jacques arsene d'arsonval: his life and contributions to electrical instrumentation in physics and medicine. part ii: communications equipment and electrical measuring instruments [scanning our past].
+Can the Internet Be Greener?
+Principles and Applications of Science of Information.
+High-Probability Guarantees in Repeated Games: Theory and Applications in Information Theory.
+Information-Theoretic Approach to Strategic Communication as a Hierarchical Game.
+Dynamic Watermarking: Active Defense of Networked Cyber-Physical Systems.
+Decision Making With Quantized Priors Leads to Discrimination.
+An Optimization Approach to Locally-Biased Graph Algorithms.
+An Information and Control Framework for Optimizing User-Compliant Human-Computer Interfaces.
+A Study of the Boltzmann Sequence-Structure Channel.
+Fundamentals of Molecular Information and Communication Science.
+Doubly Penalized LASSO for Reconstruction of Biological Networks.
+Addressing the Need for a Model Selection Framework in Systems Biology Using Information Theory.
+A Critical Survey of Deconvolution Methods for Separating Cell Types in Complex Tissues.
+An Information-Theoretic View of EEG Sensing.
+The Information Content of Glutamine-Rich Sequences Define Protein Functional Characteristics.
+Jacques Arsene d'Arsonval: His Life and Contributions to Electrical Instrumentation in Physics and Medicine. Part III: High-Frequency Experiences and the Beginnings of Diathermy.
+Spent Nuclear Fuel is not the Problem [Point of View].
+An Enduring Problem: Radioactive Waste From Nuclear Energy [Point of View].
+Bioinformatics of DNA [Scanning the Issue].
+Building and Improving Reference Genome Assemblies.
+Short Read Mapping: An Algorithmic Tour.
+Reading the Underlying Information From Massive Metagenomic Sequencing Data.
+De Novo Annotation of Transposable Elements: Tackling the Fat Genome Issue.
+A Novel Pathway Analysis Approach Based on the Unexplained Disregulation of Genes.
+DANUBE: Data-Driven Meta-ANalysis Using UnBiased Empirical Distributions - Applied to Biological Pathway Analysis.
+Linking Statistical and Ecological Theory: Hubbell's Unified Neutral Theory of Biodiversity as a Hierarchical Dirichlet Process.
+Bridging Histology and Bioinformatics - Computational Analysis of Spatially Resolved Transcriptomics.
+A Parallel Algorithm for $N$-Way Interval Set Intersection.
+Manual for Using Homomorphic Encryption for Bioinformatics.
+What Sparked Video Research in 1877? The Overlooked Role of the Siemens Artificial Eye [Scanning Our Past].
+Solid-State Drive (SSD): A Nonvolatile Storage System.
+Additive Manufacturing of Radio-Frequency Components.
+Overview on Additive Manufacturing Technologies.
+Enhancing the Performance of Waveguide Filters Using Additive Manufacturing.
+Selective Laser Melting Manufacturing of Microwave Waveguide Devices.
+Application of Direct Metal Laser Sintering to Waveguide-Based Passive Microwave Components, Antennas, and Antenna Arrays.
+Laser-Based Layer-by-Layer Polymer Stereolithography for High-Frequency Applications.
+Stereolithography-Based Antennas for Satellite Communications in Ka-Band.
+Polymer-Based Additive Manufacturing of High-Performance Waveguide and Antenna Components.
+Continuously Tuned Ku-Band Cavity Filter Based on Dielectric Perturbers Made by Ceramic Additive Manufacturing for Space Applications.
+Multimaterial and Multilayer Direct Digital Manufacturing of 3-D Structural Microwave Electronics.
+Additively Manufactured RF Components and Modules: Toward Empowering the Birth of Cost-Efficient Dense and Ubiquitous IoT Implementations.
+Investigation on 3-D-Printing Technologies for Millimeter- Wave and Terahertz Applications.
+3-D-Printed Microwave and THz Devices Using Polymer Jetting Techniques.
+Hybrid 3-D-Printing Technology for Tunable THz Applications.
+A Contrarian History of Early Electric Power Distribution.
+Should Engineers Be on Tap or on Top?
+Emerging 3-D Imaging and Display Technologies.
+Holographic and Light-Field Imaging as Future 3-D Displays.
+Enabling Focus Cues in Head-Mounted Displays.
+Recent Advances in the Capture and Display of Macroscopic and Microscopic 3-D Scenes by Integral Imaging.
+Progress Overview of Capturing Method for Integral 3-D Imaging Displays.
+Multidimensional Optical Sensing and Imaging System (MOSIS): From Macroscales to Microscales.
+Flat Panel Light-Field 3-D Display: Concept, Design, Rendering, and Calibration.
+Numerical Manipulation of Digital Holograms for 3-D Imaging and Display: An Overview.
+Multimodal Imaging Based on Digital Holography.
+Automated Disease Identification With 3-D Optical Imaging: A Medical Diagnostic Tool.
+Full-Parallax Holographic Light-Field 3-D Displays and Interactive 3-D Touch.
+Toward a Flexible, Scalable, and Transparent Thin-Film Camera.
+Computerized Dungeons and Randomly Generated Worlds: From Rogue to Minecraft.
+Corrections to "De Novo Annotation of Transposable Elements: Tackling the Fat Genome Issue" [Jamilloux et al., Proc. IEEE, vol. 105, no. 3, pp. 474-481, Mar. 2017, DOI: 10.1109/JPROC.2016.2590833].
+Safety and Security of Cyber-Physical and Internet of Things Systems [Point of View].
+Terahertz RF Electronics and System Integration [Scanning the Issue].
+THz Diode Technology: Status, Prospects, and Applications.
+Status and Prospects of High-Power Heterostructure Barrier Varactor Frequency Multipliers.
+Advanced Terahertz Sensing and Imaging Systems Based on Integrated III-V Interband Tunneling Devices.
+Si/SiGe: C and InP/GaAsSb Heterojunction Bipolar Transistors for THz Applications.
+InP HBT Technologies for THz Integrated Circuits.
+SiGe HBT Technology: Future Trends and TCAD-Based Roadmap.
+Silicon Millimeter-Wave, Terahertz, and High-Speed Fiber-Optic Device and Benchmark Circuit Scaling Through the 2030 ITRS Horizon.
+Silicon-on-Insulator Substrates as a Micromachining Platform for Advanced Terahertz Circuits.
+Packages for Terahertz Electronics.
+Micromachined Packaging for Terahertz Systems.
+Metrology State-of-the-Art and Challenges in Broadband Phase-Sensitive Terahertz Measurements.
+Terahertz Reflecting and Transmitting Metasurfaces.
+Hamming Window to the Digital World.
+Intellectual Property and Universities: A Path Forward [Point of View].
+Power Grid Resilience [Scanning the Issue].
+Power Systems Resilience Assessment: Hardening and Smart Operational Enhancement Strategies.
+Resilience-Oriented Pre-Hurricane Resource Allocation in Distribution Systems Considering Electric Buses.
+An Integrated Approach for Power System Restoration Planning.
+Battling the Extreme: A Study on the Power System Resilience.
+Modernizing Distribution System Restoration to Achieve Grid Resiliency Against Extreme Weather Events: An Integrated Solution.
+Networked Microgrids for Enhancing the Power System Resilience.
+Distributed Power-Generation Systems and Protection.
+Microgrid Protection.
+Resilience of Energy Infrastructure and Services: Modeling, Data Analytics, and Metrics.
+Cybersecurity in Distributed Power Systems.
+Cyber-Physical Attack-Resilient Wide-Area Monitoring, Protection, and Control for the Power Grid.
+Synchrophasor Sensor Networks for Grid Communication and Protection.
+Hurricanes and Power System Reliability-The Effects of Individual Decisions and System-Level Hardening.
+Demand-Side Resiliency and Electricity Continuity: Experiences and Lessons Learned in Japan.
+Aerospace Needs, Microelectronics, and the Quest for Reliability: 1962-1975 [Scanning Our Past].
+The Cognitive Dynamic System for Risk Control [Point of View].
+A Survey on Web Tracking: Mechanisms, Implications, and Defenses.
+Relativistic Timekeeping, Motion, and Gravity in Distributed Systems.
+Bertha Lamme and the Development of Practical Alternating Current Systems [Scanning our Past].
+Spatial technology and social media in remote sensing: challenges and opportunities [point of view].
+Solid-State Drives (SSDs) [Scanning the Issue].
+Solid-State Drives: Memory Driven Design Methodologies for Optimal Performance.
+Reviewing the Evolution of the NAND Flash Technology.
+Array Architectures for 3-D NAND Flash Memories.
+Software Support Inside and Outside Solid-State Devices for High Performance and High Efficiency.
+Error Characterization, Mitigation, and Recovery in Flash-Memory-Based Solid-State Drives.
+Channel Coding for Nonvolatile Memory Technologies: Theoretical Advances and Practical Considerations.
+Reliability of Solid-State Drives Based on NAND Flash Memory.
+Reliability of nand-Based SSDs: What Field Studies Tell Us.
+Resistive Random Access Memory for Future Information Processing System.
+Phase Change and Magnetic Memories for Solid-State Drive Applications.
+Design of Hybrid SSDs With Storage Class Memory and NAND Flash Memory.
+Platform Storage Performance With 3D XPoint Technology.
+Setting the Standards for Engineering Education: A History [Scanning Our Past].
+Our Hidden Figures {Point of View].
+Spatial Technology and Social Media [Scanningthe Issue].
+Spatial Technology and Social Media in Remote Sensing: A Survey.
+Remote Sensing Image Scene Classification: Benchmark and State of the Art.
+Toward Seamless Multiview Scene Analysis From Satellite to Street Level.
+Social Media: New Perspectives to Improve Remote Sensing for Emergency Response.
+Potentials of Active and Passive Geospatial Crowdsourcing in Complementing Sentinel Data and Supporting Copernicus Service Portfolio.
+A Novel Methodology to Label Urban Remote Sensing Images Based on Location-Based Social Media Photos.
+On Combining Social Media and Spatial Technology for POI Cognition and Image Localization.
+Spatial Event Forecasting in Social Media With Geographically Hierarchical Regularization.
+Geotagging Text Content With Language Models and Feature Mining.
+History of the Endoscope [Scanning Our Past].
+The New Moneyball: How Ballpark Sensors Are Changing Baseball.
+Editorial.
+Power Electronics in Smart Grid and Renewable Energy Systems.
+Power Electronics, Smart Grid, and Renewable Energy Systems.
+Power Semiconductor Devices for Smart Grid and Renewable Energy Systems.
+Multilevel Converters: Fundamental Circuits and Systems.
+Multilevel Converters: Control and Modulation Techniques for Their Operation and Industrial Applications.
+HVDC Systems in Smart Grids.
+Flexible AC Transmission Systems (FACTS) and Resilient AC Distribution Systems (RACDS) in Smart Grid.
+Wind Energy Systems.
+Solar Photovoltaic and Thermal Energy Systems: Current Technology and Future Trends.
+Ocean and Geothermal Energy Systems.
+Fuel Cell Power Systems and Applications.
+Energy Storage and Power Electronics Technologies: A Strong Combination to Empower the Transformation to the Smart Grid.
+Smart Grid Simulations and Their Supporting Implementation Methods.
+Controls for Smart Grids: Architectures and Applications.
+Artificial Intelligence Techniques in Smart Grid and Renewable Energy Systems - Some Example Applications.
+Ernst Werner Von Siemens and the Early Evolution and Diffusion of Electric Telegraphy.
+Beyond Smart Grid - Cyber-Physical-Social System in Energy Future.
+Efficient Processing of Deep Neural Networks: A Tutorial and Survey.
+System Scaling With Nanostructured Power and RF Components.
+Nonorthogonal Multiple Access for 5G and Beyond.
+Materials Science, Instrument Knowledge, and the Power Source Renaissance.
+Forced Decryption and the Fifth Amendment: A Technical Perspective.
+Scanning The Issue.
+Safety and Security in Cyber-Physical Systems and Internet-of-Things Systems.
+System-on-Chip Platform Security Assurance: Architecture and Validation.
+Wireless Communication and Security Issues for Cyber-Physical Systems and the Internet-of-Things.
+HoneyBot: A Honeypot for Robotic Systems.
+Parameter-Invariant Monitor Design for Cyber-Physical Systems.
+SURE: A Modeling and Simulation Integration Platform for Evaluation of Secure and Resilient Cyber-Physical Systems.
+A Framework for Attack-Resilient Industrial Control Systems: Attack Detection and Controller Reconfiguration.
+ARMET: Behavior-Based Secure and Resilient Industrial Control Systems.
+Improving the Safety and Security of Wide-Area Cyber-Physical Systems Through a Resource-Aware, Service-Oriented Development Methodology.
+Privacy and Integrity Considerations in Hyperconnected Autonomous Vehicles.
+Semantics-Preserving Cosynthesis of Cyber-Physical Systems.
+Aliens From Planet Pittsburgh: How Two Young Roboticists From Carnegie Mellon Pioneered Digital Lighting.
+Improving the Diversity of Faculty in Electrical and Computer Engineering (iREDEFINE ECE).
+Message Passing Algorithms for Scalable Multitarget Tracking.
+Neuro-Inspired Computing With Emerging Nonvolatile Memorys.
+Signal Processing and Coding Techniques for 2-D Magnetic Recording: An Overview.
+Origins of the IEEE Edison Medal.
+How Is the Networked Society Impacting Us?
+Issue Small Satellites.
+Modern Small Satellites-Changing the Economics of Space.
+Space Propulsion Technology for Small Spacecraft.
+Development and Testing of a 3-D-Printed Cold Gas Thruster for an Interplanetary CubeSat.
+Advanced Antennas for Small Satellites.
+Radar Technologies for Earth Remote Sensing From CubeSat Platforms.
+Energy Storage Technologies for Small Satellite Applications.
+Robotics and AI-Enabled On-Orbit Operations With Future Generation of Small Satellites.
+A Survey on Formation Control of Small Satellites.
+Onboard Processing With Hybrid and Reconfigurable Computing on Small Satellites.
+Deployable Techniques for Small Satellites.
+Thermospheric Variations From GNSS and Accelerometer Measurements on Small Satellites.
+Who Invented the Earliest Capacitor Bank ("Battery" of Leyden Jars)? It's Complicated.
+The ieee smart cities initiative - accelerating the smartification process for the 21st century cities [point of view].
+Smart Cities [Scanning the Issue].
+Transactive Control in Smart Cities.
+The Price of Anarchy in Transportation Networks: Data-Driven Evaluation and Reduction Strategies.
+Information Patterns in the Modeling and Design of Mobility Management Services.
+Crowdsensing Framework for Monitoring Bridge Vibrations Using Moving Smartphones.
+Versatile Modeling Platform for Cooperative Energy Management Systems in Smart Cities.
+Smart (Electricity) Grids for Smart Cities: Assessing Roles and Societal Impacts.
+City-Friendly Smart Network Technologies and Infrastructures: The Spanish Experience.
+Data-Enabled Building Energy Savings (D-E BES).
+Smart Governance for Smart Cities.
+Predicting Chronic Disease Hospitalizations from Electronic Health Records: An Interpretable Classification Approach.
+Using Smart City Technology to Make Healthcare Smarter.
+Predicting Frailty Condition in Elderly Using Multidimensional Socioclinical Databases.
+The Need of Multidisciplinary Approaches and Engineering Tools for the Development and Implementation of the Smart City Paradigm.
+Simulating the ENIAC [Scanning our Past].
+Reflections on the Future of Research Curation and Research Reproducibility.
+Applications of Graph Theory.
+Topology Identification and Learning over Graphs: Accounting for Nonlinearities and Dynamics.
+Graph Signal Processing: Overview, Challenges, and Applications.
+Graph Anomaly Detection Based on Steiner Connectivity and Density.
+Applications of Community Detection Techniques to Brain Graphs: Algorithmic Considerations and Implications for Neural Function.
+A Graph Signal Processing Perspective on Functional Brain Imaging.
+Application of Graph Theory to Assess Static and Dynamic Brain Connectivity: Approaches for Building Brain Graphs.
+Graph Spectral Image Processing.
+Graph-Theoretic Analysis of Power Systems.
+Network Topology and Communication-Computation Tradeoffs in Decentralized Optimization.
+Electrical Networks and Algebraic Graph Theory: Models, Properties, and Applications.
+From Theory to Practice: G. David Forney, Jr. and the Innovation of Information Theory.
+The Dangers of Following Trends in Research: Sparsity and Other Examples of Hammers in Search of Nails.
+Foundations and Trends in Localization Technologies - Part I.
+Sensor Radar for Object Tracking.
+Acoustic Local Positioning With Encoded Emission Beacons.
+Localization via Visible Light Systems.
+Collaborative Sensor Network Localization: Algorithms and Practical Issues.
+Nikola Tesla's True Wireless: A Paradigm Missed.
+Nurturing the Growth of a National Infrastructure in Emerging Technologies.
+Foundations and Trends in Localization Technologies - Part II [Scanning the Issue].
+A Theoretical Foundation of Network Localization and Navigation.
+Received-Signal-Strength-Based Localization in Wireless Sensor Networks.
+A Survey on the Impact of Multipath on Wideband Time-of-Arrival Based Localization.
+Distributed Localization: A Linear Theory.
+Network Operation Strategies for Efficient Localization and Navigation.
+Origins of the IEEE Medal of Honor [Scanning Our Past].
+The Twin Arts of Writing and Revising Technical Articles.
+Rethinking PCA for Modern Data Sets: Theory, Algorithms, and Applications.
+PCA in High Dimensions: An Orientation.
+Streaming PCA and Subspace Tracking: The Missing Data Case.
+A Selective Overview of Sparse Principal Component Analysis.
+A Review of Distributed Algorithms for Principal Component Analysis.
+Extension of PCA to Higher Order Data Structures: An Introduction to Tensors, Tensor Decompositions, and Tensor PCA.
+Static and Dynamic Robust PCA and Matrix Completion: A Review.
+An Overview of Robust Subspace Recovery.
+Efficient Optimization Algorithms for Robust Principal Component Analysis and Its Variants.
+On the Applications of Robust PCA in Image and Video Processing.
+Imperial Science: Victorian Cable Telegraphy and the Making of "Maxwell's Equations".
+Electronic Taste and Smell: The Case for Performance Standards [Point of View].
+Design Automation for Cyber-Physical Systems [Scanning the Issue].
+Codesign Methodologies and Tools for Cyber-Physical Systems.
+Model and Tool Integration Platforms for Cyber-Physical System Design.
+A Component Architecture for the Internet of Things.
+Platform-Centric Self-Awareness as a Key Enabler for Controlling Changes in CPS.
+Building a Hybrid Systems Modeler on Synchronous Languages Principles.
+Real-Time Decision Policies With Predictable Performance.
+Layering Assume-Guarantee Contracts for Hierarchical System Design.
+SMC: Satisfiability Modulo Convex Programming.
+Design Automation for Smart Building Systems.
+Tools and Methodologies for Autonomous Driving Systems.
+Cyber-Physical Digital-Microfluidic Biochips: Bridging the Gap Between Microfluidics and Microbiology.
+Oasis: A Mobile Cyber-Physical System for Accessible Location Exploration.
+Programming the ENIAC [Scanning our Past].
+Why a Special Issue on Machine Ethics.
+Scanning the Issue.
+A Survey on MIMO Transmission With Finite Input Signals: Technical Challenges, Advances, and Future Trends.
+Ultrareliable and Low-Latency Wireless Communication: Tail, Risk, and Scale.
+Watching Remote Baseball Games Live Before Television.
+Data Transparency: Concerns and Prospects.
+Editorial.
+From High-Level Specification to High-Performance Code.
+Machine Learning in Compiler Optimization.
+Domain-Specific Optimization and Generation of High-Performance GPU Code for Stencil Computations.
+The Sparse Polyhedral Framework: Composing Compiler-Generated Inspector-Executor Code.
+SPIRAL: Extreme Performance Portability.
+Automating the Development of High-Performance Multigrid Solvers.
+The Long and Winding Road Toward Efficient High-Performance Computing.
+The Ongoing Evolution of OpenMP.
+Navigating the Landscape for Real-Time Localization and Mapping for Robotics and Virtual and Augmented Reality.
+Autotuning Numerical Dense Linear Algebra for Batched Computation With GPU Hardware Accelerators.
+Japanese Autotuning Research: Autotuning Languages and FFT.
+Autotuning in High-Performance Computing Applications.
+Between Performance and Complexity: G. David Forney, Jr., and the Utility of Information Theory.
+Robot Revolution: Myth or Reality [Point of View].
+Special Issue of Silicon Photonics [Scanning the Issue].
+The Emergence of Silicon Photonics as a Flexible Technology Platform.
+Advanced Passive Silicon Photonic Devices With Asymmetric Waveguide Structures.
+Subwavelength-Grating Metamaterial Structures for Silicon Photonic Devices.
+High-Speed Silicon Photonics Modulators.
+Photonic Crystal Devices in Silicon Photonics.
+Parametric Nonlinear Silicon-Based Photonics.
+Silicon Nitride in Silicon Photonics.
+Monolithically Integrated Multilayer Silicon Nitride-on-Silicon Waveguide Platforms for 3-D Photonic Circuits and Devices.
+Photonic Integrated Circuits Using Heterogeneous Integration on Silicon.
+Heterogeneous Integration on Silicon Photonics.
+Optical Interfaces for Silicon Photonic Circuits.
+High-Volume Manufacturing Platform for Silicon Photonics.
+Silicon Photonics in Optical Coherent Systems.
+Mid-Infrared (Mid-IR) Silicon-Based Photonics.
+Open-Access Silicon Photonics: Current Status and Emerging Initiatives.
+Debugging the ENIAC [Scanning Our Past].
+The Best Job in the IEEE.
+An Outlook for Quantum Computing [Point of View].
+Nonsilicon, Non-von Neumann Computing - Part I [Scanning the Issue].
+The N3XT Approach to Energy-Efficient Abundant-Data Computing.
+Negative Capacitance Transistors.
+DNA Data Storage and Hybrid Molecular-Electronic Computing.
+Computing With Networks of Oscillatory Dynamical Systems.
+Shannon-Inspired Statistical Computing for the Nanoscale Era.
+The Next Generation of Deep Learning Hardware: Analog Computing.
+Efficient Biosignal Processing Using Hyperdimensional Computing: Network Templates for Combined Learning and Classification of ExG Signals.
+Braindrop: A Mixed-Signal Neuromorphic Architecture With a Dynamical Systems-Based Programming Model.
+Logic Synthesis for Established and Emerging Computing.
+Customizable Computing - From Single Chip to Datacenters.
+Architecture and Advanced Electronics Pathways Toward Highly Adaptive Energy- Efficient Computing.
+When the grid was the grid: the history of north america's brief coast-to-coast interconnected machine [scanning our past].
+E-Skin: From Humanoids to Humans.
+Scanning the Issue.
+The IEEE 1918.1 "Tactile Internet" Standards Working Group and its Standards.
+Low-Latency Networking: Where Latency Lurks and How to Tame It.
+5G-Based Systems Design for Tactile Internet.
+Adaptive 5G Low-Latency Communication for Tactile InternEt Services.
+Softwarization and Network Coding in the Mobile Edge Cloud for the Tactile Internet.
+Leveraging Tactile Internet Cognizance and Operation via IoT and Edge Technologies.
+Ultrareliable and Low-Latency Communication Techniques for Tactile Internet Services.
+Multiconnectivity in Multicellular, Multiuser Systems: A Matching- Based Approach.
+The Tactile Internet for Industries: A Review.
+Cooperative Driving and the Tactile Internet.
+Haptic Codecs for the Tactile Internet.
+Tactile Robots as a Central Embodiment of the Tactile Internet.
+Why Frankenstein Became Electric.
+The Trolley, the Bull Bar, and Why Engineers Should Care About the Ethics of Autonomous Cars.
+Toward the Agile and Comprehensive International Governance of AI and Robotics.
+Machine Ethics: The Design and Governance of Ethical AI and Autonomous Systems.
+Designing a Value-Driven Future for Ethical Autonomous and Intelligent Systems.
+A Value-Driven Eldercare Robot: Virtual and Physical Instantiations of a Case-Supported Principle-Based Behavior Paradigm.
+On Proactive, Transparent, and Verifiable Ethical Reasoning for Robots.
+Motivations and Risks of Machine Ethics.
+Clarifying Privacy, Property, and Power: Case Study on Value Conflict Between Communities.
+Engineering-Based Design Methodology for Embedding Ethics in Autonomous Robots.
+Inside the Organization: Why Privacy and Security Engineering Is a Challenge for Engineers.
+computer graphic re-visited: the virtual reconstruction of one of the first computer art exhibitions [scanning our past].
+Adaptive and Scalable Communication Networks [Scanning the Issue].
+Scalable 360° Video Stream Delivery: Challenges, Solutions, and Opportunities.
+Web AR: A Promising Future for Mobile Augmented Reality - State of the Art, Challenges, and Insights.
+Will Serverless Computing Revolutionize NFV?
+Modeling of Aggregated IoT Traffic and Its Application to an IoT Cloud.
+Scalable Personalized IoT Networks.
+Adaptable and Data-Driven Softwarized Networks: Review, Opportunities, and Challenges.
+Scaling Millimeter-Wave Networks to Dense Deployments and Dynamic Environments.
+Survey of Performance Acceleration Techniques for Network Function Virtualization.
+Energy-Adaptive Error Correcting for Dynamic and Heterogeneous Networks.
+Learning and Management for Internet of Things: Accounting for Adaptivity and Scalability.
+Elements of Application-Layer Internetworking for Adaptive Self-Organizing Networks.
+Self-Organization and Resilience for Networked Systems: Design Principles and Open Research Issues.
+Transitions: A Protocol-Independent View of the Future Internet.
+Jim Brittain and the Allure of Electrical History [Scanning our Past].
+Moving Forward With Molecular Communication: From Theory to Human Health Applications.
+Scanning the Issue.
+Aeronautical $Ad~Hoc$ Networking for the Internet-Above-the-Clouds.
+Translational Potential of Neuroimaging Genomic Analyses to Diagnosis and Treatment in Mental Disorders.
+The Electrical Engineer Who Clarified Glass.
+Real-Time Networks and Protocols for Factory Automation and Process Control Systems.
+Industrial Communication Systems and Their Future Challenges: Next-Generation Ethernet, IIoT, and 5G.
+Coexistence Standardization of Operation Technology and Information Technology.
+Fault Tolerance in Highly Reliable Ethernet-Based Industrial Systems.
+Performance and Reliability Aspects of Clock Synchronization Techniques for Industrial Automation.
+Real-Time and Reliable Industrial Control Over Wireless LANs: Algorithms, Protocols, and Future Directions.
+WIA-FA and Its Applications to Digital Factory: A Wireless Network Solution for Factory Automation.
+High-Performance Wireless Networks for Industrial Control Applications: New Targets and Feasibility.
+A Perspective on IEEE Time-Sensitive Networking for Industrial Communication and Automation Systems.
+An Introduction to OPC UA TSN for Industrial Communication Systems.
+Extending Accurate Time Distribution and Timeliness Capabilities Over the Air to Enable Future Wireless Industrial Automation Systems.
+6TiSCH: Industrial Performance for IPv6 Internet-of-Things Networks.
+Wireless Network Design for Emerging IIoT Applications: Reference Framework and Use Cases.
+Toward Cloud-Assisted Industrial IoT Platform for Large-Scale Continuous Condition Monitoring.
+Seeing Across Oceans: John Logie Baird's 1928 Trans-Atlantic Television Demonstration.
+Thoughts on Engineering Creativity [Point of View].
+Molecular Communications and Networking [Scanning the Issue].
+An Information Theoretic Framework to Analyze Molecular Communication Systems Based on Statistical Mechanics.
+Channel Modeling for Diffusive Molecular Communication - A Tutorial Review.
+Transmitter and Receiver Architectures for Molecular Communications: A Survey on Physical Design With Modulation, Coding, and Detection Techniques.
+Capacity Bounds on Point-to-Point Communication Using Molecules.
+Design of Asynchronous Genetic Circuits.
+The Effect of Loads in Molecular Communications.
+Optogenomic Interfaces: Bridging Biological Networks With the Electronic Digital World.
+Redox Is a Global Biodevice Information Processing Modality.
+Synaptic Communication Engineering for Future Cognitive Brain-Machine Interfaces.
+Methods and Applications of Mobile Molecular Communication.
+Stanford Ovshinsky and the Genesis of the Cognitive Computer.
+Cooking With Computers: The Vision of Digital Gastronomy [Point of View].
+Edge Computing [Scanning the Issue].
+A Survey of Virtual Machine Management in Edge Computing.
+Software-Defined Networking Enhanced Edge Computing: A Network-Centric Survey.
+Dependable Resource Coordination on the Edge at Runtime.
+A Survey on Edge Computing Systems and Tools.
+Ecosystem of Things: Hardware, Software, and Architecture.
+Computation Offloading Toward Edge Computing.
+Edge Computing Security: State of the Art and Challenges.
+Privacy Techniques for Edge Computing Systems.
+Deep Learning With Edge Computing: A Review.
+Edge Video Analytics for Public Safety: A Review.
+Edge Computing for Autonomous Driving: Opportunities and Challenges.
+Wireless Edge Computing With Latency and Reliability Guarantees.
+Edge Intelligence: Paving the Last Mile of Artificial Intelligence With Edge Computing.
+Analog Computer Development in Germany With a Focus on Telefunken [Scanning Our Past].
+Electricity for All: Issues, Challenges, and Solutions for Energy-Disadvantaged Communities [Scanning the Issue].
+Affordable Energy for Humanity: A Global Movement to Support Universal Clean Energy Access.
+Data Standardization for Smart Infrastructure in First-Access Electricity Systems.
+Review and Perspectives on Data Sharing and Privacy in Expanding Electricity Access.
+Renewable Energy Integration in Alaska's Remote Islanded Microgrids: Economic Drivers, Technical Strategies, Technological Niche Development, and Policy Implications.
+Renewable Energy Integration in Diesel-Based Microgrids at the Canadian Arctic.
+Lowering Electricity Access Barriers by Means of Participative Processes Applied to Microgrid Solutions: The Chilean Case.
+Optimal Electrification Planning Incorporating On- and Off-Grid Technologies: The Reference Electrification Model (REM).
+Distributed Resources Shift Paradigms on Power System Design, Planning, and Operation: An Application of the GAP Model.
+Least-Cost Electrification Modeling and Planning - A Case Study for Five Nigerian Federal States.
+The Service Value Method for Design of Energy Access Systems in the Global South.
+Electrical Minigrids for Development: Lessons From the Field.
+Electrification Processes in Developing Countries: Grid Expansion, Microgrids, and Regulatory Framework.
+Microhybrid Electricity System for Energy Access, Livelihoods, and Empowerment.
+Flexible Electronic Skin: From Humanoids to Humans.
+Large-Area Soft e-Skin: The Challenges Beyond Sensor Designs.
+A Comprehensive Realization of Robot Skin: Sensors, Sensing, Control, and Applications.
+E-Skins: Biomimetic Sensing and Encoding for Upper Limb Prostheses.
+Flexible Multimodal Sensors for Electronic Skin: Principle, Materials, Device, Array Architecture, and Data Acquisition Method.
+Flexible Ultralow-Power Sensor Interfaces for E-Skin.
+A Fully Additive Low-Temperature All-Air Low-Variation Printed/Flexible Electronics With Self-Compensation for Bending: Codesign From Materials, Design, Fabrication, and Applications.
+Energy Scavenging and Powering E-Skin Functional Devices.
+Organic Photovoltaics: Toward Self-Powered Wearable Electronics.
+Physical and Chemical Sensing With Electronic Skin.
+Electronic Skins Based on Liquid Metals.
+Materials and Design Strategies of Stretchable Electrodes for Electronic Skin and its Applications.
+Corrections to "Jim Brittain and the Allure of Electrical History".
+Scanning the Issue.
+Wireless Network Intelligence at the Edge.
+Soft Information for Localization-of-Things.
+An Overview of the Development of Antenna-in-Package Technology for Highly Integrated Wireless Devices.
+Standardization of the Ohm as a Unit of Electrical Resistance, 1861-1867.
+Remotely sensed big data: evolution in model development for information extraction [point of view].
+Editorial.
+Scanning the Issue.
+High-Density Power Conversion and Wide-Bandgap Semiconductor Power Electronics Switching Devices.
+Accessing From the Sky: A Tutorial on UAV Communications for 5G and Beyond.
+Could You Have Been a Motoneer? [Scanning Our Past].
+Biomedical Imaging and Analysis in the Age of Big Data and Deep Learning.
+Deep Learning in Ultrasound Imaging.
+Deep-Learning-Based Image Reconstruction and Enhancement in Optical Microscopy.
+Machine Learning in PET: From Photon Detection to Quantitative Image Reconstruction.
+Machine Learning for Rapid Magnetic Resonance Fingerprinting Tissue Property Quantification.
+Image Reconstruction: From Sparsity to Data-Adaptive Methods and Machine Learning.
+Model-Based and Data-Driven Strategies in Medical Image Computing.
+Brain Imaging Genomics: Integrated Analysis and Machine Learning.
+Comparison of Breast MRI Tumor Classification Using Human-Engineered Radiomics, Transfer Learning From Deep Convolutional Neural Networks, and Fusion Method.
+Wireless Capsule Endoscopy: A New Tool for Cancer Screening in the Colon With Deep-Learning-Based Polyp Recognition.
+CAI4CAI: The Rise of Contextual Artificial Intelligence in Computer-Assisted Interventions.
+The Earliest Years of Three-Phase Power - 1891-1893.
+A Grid of Microgrids: Is it the Right Answer?
+Sustainable and Resilient Distribution Systems With Networked Microgrids.
+Internet of Vehicles.
+Mobile Edge Intelligence and Computing for the Internet of Vehicles.
+Learning Driving Models From Parallel End-to-End Driving Data Set.
+SDN/NFV-Empowered Future IoV With Enhanced Communication, Computing, and Caching.
+Future Intelligent and Secure Vehicular Network Toward 6G: Machine-Learning Approaches.
+Evolutionary V2X Technologies Toward the Internet of Vehicles: Challenges and Opportunities.
+Toward Reliable and Scalable Internet of Vehicles: Performance Analysis and Resource Management.
+Deep-Learning-Based Wireless Resource Allocation With Application to Vehicular Networks.
+The Security of Autonomous Driving: Threats, Defenses, and Future Directions.
+5G Vehicle-to-Everything Services: Gearing Up for Security and Privacy.
+A Retrospective and Prospective View of Approximate Computing [Point of View}.
+Scanning the Issue.
+Adversarial Learning Targeting Deep Neural Network Classification: A Comprehensive Review of Defenses Against Attacks.
+Combinatorial Optimization of Graphical User Interface Designs.
+Electrostatic Telegraphy - 1753-1816 [Scanning our Past].
+A Density Metric for Semiconductor Technology [Point of View].
+Scanning the Issue.
+Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey.
+A Key 6G Challenge and Opportunity - Connecting the Base of the Pyramid: A Survey on Rural Connectivity.
+A Tutorial on Clique Problems in Communications and Signal Processing.
+DC is the Future [Point of View].
+Active Nanophotonics [Scanning the Issue].
+Active Nanophotonics.
+Two-Dimensional CdSe-Based Nanoplatelets: Their Heterostructures, Doping, Photophysical Properties, and Applications.
+Optical Properties and Light-Emission Device Applications of 2-D Layered Semiconductors.
+Colloidal Plasmonics for Active Nanophotonics.
+Integrated, Portable, Tunable, and Coherent Terahertz Sources and Sensitive Detectors Based on Layered Superconductors.
+Physical Limits of NanoLEDs and Nanolasers for Optical Communications.
+Active and Tunable Nanophotonics With Dielectric Nanoantennas.
+Structured Semiconductor Interfaces: Active Functionality on Light Manipulation.
+Lattice Resonances in Optical Metasurfaces With Gain and Loss.
+Experimental Investigation of Lasing Modes in Double-Lattice Photonic-Crystal Resonators and Introduction of In-Plane Heterostructures.
+Electrically Pumped Microring Parity-Time-Symmetric Lasers.
+Topological Nanophotonics: Toward Robust Quantum Circuits.
+Scanning the Issue.
+5G Key Technologies for Smart Railways.
+Towards Robust Pattern Recognition: A Review.
+Indoor Millimeter-Wave Systems: Design and Performance Evaluation.
+Methodology for Maximizing Information Transmission of Haptic Devices: A Survey.
+Self-Awareness for Autonomous Systems.
+Neurobiologically Inspired Self-Monitoring Systems.
+Multisensorial Generative and Descriptive Self-Awareness Models for Autonomous Systems.
+Verifiable Self-Aware Agent-Based Autonomous Systems.
+Embodied Self-Aware Computing Systems.
+Self-Aware Neural Network Systems: A Survey and New Perspective.
+Time Series Forecasting for Self-Aware Systems.
+Synergizing Domain Expertise With Self-Awareness in Software Systems: A Patternized Architecture Guideline.
+Acoustic Self-Awareness of Autonomous Systems in a World of Sounds.
+Self-Aware Networks That Optimize Security, QoS, and Energy.
+Self-Aware Swarm Navigation in Autonomous Exploration Missions.
+Achieving Resiliency and Behavior Assurance in Autonomous Navigation: An Industry Perspective.
+Nonsilicon, Non-von Neumann Computing - Part II.
+Addressing Unreliability in Emerging Devices and Non-von Neumann Architectures Using Coded Computing.
+Tunnel-FET Switching Is Governed by Non-Lorentzian Spectral Line Shape.
+The Heterogeneous Deep Neural Network Processor With a Non-von Neumann Architecture.
+Silicon Photonics Codesign for Deep Learning.
+Large-Scale Field-Programmable Analog Arrays.
+Magnetic Racetrack Memory: From Physics to the Cusp of Applications Within a Decade.
+From Charge to Spin and Spin to Charge: Stochastic Magnets for Probabilistic Switching.
+Challenges and Opportunities of Near-Term Quantum Computing Systems.
+Resource-Efficient Quantum Computing by Breaking Abstractions.
+John Logie Baird and the Secret in the Box: The Undiscovered Story Behind the World's First Public Demonstration of Television.
+Multienergy Systems.
+Integrated Electricity- Heat-Gas Systems: Techno-Economic Modeling, Optimization, and Application to Multienergy Districts.
+Multienergy Networks Analytics: Standardized Modeling, Optimization, and Low Carbon Analysis.
+Multicarrier Energy Systems: Shaping Our Energy Future.
+A Hierarchical Approach to Multienergy Demand Response: From Electricity to Multienergy Applications.
+Optimal Capacity Design and Operation of Energy Hub Systems.
+Flexibility From Distributed Multienergy Systems.
+An Uncertainty Management Framework for Integrated Gas-Electric Energy Systems.
+Operations and Long-Term Expansion Planning of Natural-Gas and Power Systems: A Market Perspective.
+Monotonicity Properties of Physical Network Flows and Application to Robust Optimal Allocation.
+Modeling and Simulation of Gas Distribution Networks in a Multienergy System Environment.
+Smarter Smart District Heating.
+Optimal Configuration of Power-to-Cool Technology in District Cooling Systems.
+A Critical Exploration of the Efficiency Impacts of Demand Response From HVAC in Commercial Buildings.
+Chance-Constrained Water Pumping to Manage Water and Power Demand Uncertainty in Distribution Networks.
+Recent Developments in Machine Learning for Energy Systems Reliability Management.

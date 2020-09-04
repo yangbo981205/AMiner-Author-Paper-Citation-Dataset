@@ -1,0 +1,43 @@
+Proceedings of the 27th ACM Symposium on Operating Systems Principles, SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019.
+Proceedings of the 10th Workshop on Programming Languages and Operating Systems, SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019.
+Proceedings of the 4th Workshop on System Software for Trusted Execution, SysTEX@SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019.
+Proceedings of the 26th Symposium on Operating Systems Principles, Shanghai, China, October 28-31, 2017.
+Proceedings of the 9th Workshop on Programming Languages and Operating Systems, Shanghai, China, October 28, 2017.
+Proceedings of the 2nd Workshop on System Software for Trusted Execution, SysTEX@SOSP 2017, Shanghai, China, October 28, 2017.
+Proceedings of the 25th Symposium on Operating Systems Principles, SOSP 2015, Monterey, CA, USA, October 4-7, 2015.
+Proceedings of the 3rd Workshop on Interactions of NVM/FLASH with Operating Systems and Workloads, INFLOW 2015, Monterey, California, USA, October 4, 2015.
+Proceedings of the 8th Workshop on Programming Languages and Operating Systems, PLOS 2015, Monterey, California, USA, October 4, 2015.
+Proceedings of the Workshop on Power-Aware Computing and Systems, HotPower 2015, Monterey, California, USA, October 4, 2015.
+SOSP History Day 2015, Monterey, California, USA, October 4, 2015.
+ACM SIGOPS 24th Symposium on Operating Systems Principles, SOSP '13, Farmington, PA, USA, November 3-6, 2013.
+Proceedings of the First ACM SIGOPS Conference on Timely Results in Operating Systems, TRIOS@SOSP 2013, Farmington, PA, USA, November 3, 2013.
+Proceedings of the 1st Workshop on Interactions of NVM/FLASH with Operating Systems and Workloads, INFLOW 2013, Farmington, Pennsylvania, USA, November 3, 2013.
+Proceedings of the Seventh Workshop on Programming Languages and Operating Systems, PLOS 2013, Farmington, Pennsylvania, USA, November 3-6, 2013.
+Proceedings of the Workshop on Power-Aware Computing and Systems, HotPower 2013, Farmington, Pennsylvania, USA, November 3-6, 2013.
+Proceedings of the 9th Workshop on Hot Topics in Dependable Systems, HotDep 2013, Farmington, Pennsylvania, USA, November 3, 2013.
+Proceedings of the 23rd ACM Symposium on Operating Systems Principles 2011, SOSP 2011, Cascais, Portugal, October 23-26, 2011.
+Proceedings of the 6th Workshop on Programming Languages and Operating Systems, PLOS@SOSP 2011, Cascais, Portugal, October 23, 2011.
+Proceedings of the 22nd ACM Symposium on Operating Systems Principles 2009, SOSP 2009, Big Sky, Montana, USA, October 11-14, 2009.
+Proceedings of the Fifth Workshop on Programming Languages and Operating Systems, PLOS@SOSP 2009, Big Sky, Montana, USA, October 11, 2009.
+Proceedings of the 21st ACM Symposium on Operating Systems Principles 2007, SOSP 2007, Stevenson, Washington, USA, October 14-17, 2007.
+Proceedings of the 4th workshop on Programming languages and operating systems, PLOS@SOSP 2007, Stevenson, Washington, USA, October 18, 2007.
+Proceedings of the 20th ACM Symposium on Operating Systems Principles 2005, SOSP 2005, Brighton, UK, October 23-26, 2005.
+Proceedings of the 19th ACM Symposium on Operating Systems Principles 2003, SOSP 2003, Bolton Landing, NY, USA, October 19-22, 2003.
+Proceedings of the 18th ACM Symposium on Operating System Principles, SOSP 2001, Chateau Lake Louise, Banff, Alberta, Canada, October 21-24, 2001.
+Proceedings of the 17th ACM Symposium on Operating System Principles, SOSP 1999, Kiawah Island Resort, near Charleston, South Carolina, USA, December 12-15, 1999.
+Proceedings of the Sixteenth ACM Symposium on Operating System Principles, SOSP 1997, St. Malo, France, October 5-8, 1997.
+Proceedings of the Fifteenth ACM Symposium on Operating System Principles, SOSP 1995, Copper Mountain Resort, Colorado, USA, December 3-6, 1995.
+Proceedings of the Fourteenth ACM Symposium on Operating System Principles, SOSP 1993, The Grove Park Inn and Country Club, Asheville, North Carolina, USA, December 5-8, 1993.
+Proceedings of the Thirteenth ACM Symposium on Operating System Principles, SOSP 1991, Asilomar Conference Center, Pacific Grove, California, USA, October 13-16, 1991.
+Proceedings of the Twelfth ACM Symposium on Operating System Principles, SOSP 1989, The Wigwam, Litchfield Park, Arizona, USA, December 3-6, 1989.
+Proceedings of the Eleventh ACM Symposium on Operating System Principles, SOSP 1987, Stouffer Austin Hotel, Austin, Texas, USA, November 8-11, 1987.
+Proceedings of the Tenth ACM Symposium on Operating System Principles, SOSP 1985, Orcas Island, Washington, USA, December 1-4, 1985.
+Report of the Program Committee for the 10th SOSP.
+Proceedings of the Ninth ACM Symposium on Operating System Principles, SOSP 1983, Bretton Woods, New Hampshire, USA, October 10-13, 1983.
+Proceedings of the Eighth Symposium on Operating System Principles, SOSP 1981, Asilomar Conference Grounds, Pacific Grove, California, USA, December 14-16, 1981.
+Proceedings of the Seventh Symposium on Operating System Principles, SOSP 1979, Asilomar Conference Grounds, Pacific Grove, California, USA, 10-12, December 1979.
+Proceedings of the Sixth Symposium on Operating System Principles, SOSP 1977, Purdue University, West Lafayette, Indiana, USA, November 16-18, 1977.
+Proceedings of the Fifth Symposium on Operating System Principles, SOSP 1975, The University of Texas at Austin, Austin, Texas, USA, November 19-21, 1975.
+Proceedings of the Fourth Symposium on Operating System Principles, SOSP 1973, Thomas J. Watson, Research Center, Yorktown Heights, New York, USA, October 15-17, 1973.
+Proceedings of the Third Symposium on Operating System Principles, SOSP 1971, Stanford University, Palo Alto, California, USA, October 18-20, 1971.
+Proceedings of the Second Symposium on Operating Systems Principles, SOSP 1969, Princeton, NJ, USA, October 20-22, 1969.

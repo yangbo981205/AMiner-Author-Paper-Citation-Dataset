@@ -1,0 +1,91 @@
+Proceedings of the 41st International Conference on Software Engineering, ICSE 2019, Montreal, QC, Canada, May 25-31, 2019.
+Proceedings of the 41st International Conference on Software Engineering: Companion Proceedings, ICSE 2019, Montreal, QC, Canada, May 25-31, 2019.
+Proceedings of the 41st International Conference on Software Engineering: New Ideas and Emerging Results, ICSE (NIER) 2019, Montreal, QC, Canada, May 29-31, 2019.
+Proceedings of the 41st International Conference on Software Engineering: Software Engineering Education and Training, ICSE (SEET) 2019, Montreal, QC, Canada, May 25-31, 2019.
+Proceedings of the 41st International Conference on Software Engineering: Software Engineering in Practice, ICSE (SEIP) 2019, Montreal, QC, Canada, May 25-31, 2019.
+Proceedings of the 41st International Conference on Software Engineering: Software Engineering in Society, ICSE 2019, Montreal, QC, Canada, May 25-31, 2019.
+Proceedings of the 40th International Conference on Software Engineering, ICSE 2018, Gothenburg, Sweden, May 27 - June 03, 2018.
+Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018, Gothenburg, Sweden, May 27 - June 03, 2018.
+Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results, ICSE (NIER) 2018, Gothenburg, Sweden, May 27 - June 03, 2018.
+Proceedings of the 40th International Conference on Software Engineering: Software Engineering Education and Training, ICSE (SEET) 2018, Gothenburg, Sweden, May 27 - June 03, 2018.
+Proceedings of the 40th International Conference on Software Engineering: Software Engineering in Practice, ICSE (SEIP) 2018, Gothenburg, Sweden, May 27 - June 03, 2018.
+Proceedings of the 40th International Conference on Software Engineering: Software Engineering in Society, ICSE (SEIS) 2018, Gothenburg, Sweden, May 27 - June 03, 2018.
+Proceedings of the 39th International Conference on Software Engineering, ICSE 2017, Buenos Aires, Argentina, May 20-28, 2017.
+Proceedings of the 39th International Conference on Software Engineering, ICSE 2017, Buenos Aires, Argentina, May 20-28, 2017 - Companion Volume.
+39th IEEE/ACM International Conference on Software Engineering: New Ideas and Emerging Technologies Results Track, ICSE-NIER 2017, Buenos Aires, Argentina, May 20-28, 2017.
+39th IEEE/ACM International Conference on Software Engineering: Software Engineering Education and Training Track, ICSE-SEET 2017, Buenos Aires, Argentina, May 20-28, 2017.
+39th IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice Track, ICSE-SEIP 2017, Buenos Aires, Argentina, May 20-28, 2017.
+39th IEEE/ACM International Conference on Software Engineering: Software Engineering in Society Track, ICSE-SEIS 2017, Bueons Aires, Argentina, May 20-28, 2017.
+Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016.
+Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016 - Companion Volume.
+Proceedings of the International Conference on Software and Systems Process, ICSSP 2016, Austin, Texas, USA, May 14-15, 2016.
+37th IEEE/ACM International Conference on Software Engineering, ICSE 2015, Florence, Italy, May 16-24, 2015, Volume 1.
+37th IEEE/ACM International Conference on Software Engineering, ICSE 2015, Florence, Italy, May 16-24, 2015, Volume 2.
+1st IEEE/ACM International Workshop on Software Protection, SPRO 2015, Florence, Italy, May 19, 2015.
+8th IEEE/ACM International Symposium on Software and Systems Traceability, SST 2015, Florence, Italy, May 17, 2015.
+1st IEEE/ACM International Workshop on TEchnical and LEgal aspects of data pRIvacy and SEcurity, TELERISE 2015, Florence, Italy, May 18, 2015.
+36th International Conference on Software Engineering, ICSE '14, Hyderabad, India - May 31 - June 07, 2014.
+36th International Conference on Software Engineering, ICSE '14, Companion Proceedings, Hyderabad, India, May 31 - June 07, 2014.
+Proceedings of the 6th International Workshop on Constraints in Software Testing, Verification, and Analysis, CSTVA 2014, Hyderabad, India, May 31, 2014.
+Proceedings of the 1st International Workshop on Inclusive Web Programming - Programming on the Web with Open Data for Societal Applications, IWP 2014, Hyderabad, India, June 1, 2014.
+1st International Workshop on Rapid Continuous Software Engineering, RCoSE 2014, Hyderabad, India, June 3, 2014.
+35th International Conference on Software Engineering, ICSE '13, San Francisco, CA, USA, May 18-26, 2013.
+Proceedings of the 5th International Workshop on Software Engineering for Computational Science and Engineering, SE-CSE 2013, San Francisco, California, USA, May 18, 2013.
+7th International Workshop on Traceability in Emerging Forms of Software Engineering, TEFSE 2013, 19 May, 2013, San Francisco, CA, USA.
+34th International Conference on Software Engineering, ICSE 2012, June 2-9, 2012, Zurich, Switzerland.
+First International Workshop on Usability and Accessibility Focused Requirements Engineering, UsARE 2012, Zurich, Switzerland, June 4, 2012.
+Proceedings of the 33rd International Conference on Software Engineering, ICSE 2011, Waikiki, Honolulu , HI, USA, May 21-28, 2011.
+TEFSE'11, Proceedings of the 6th International Workshop on Traceability in Emerging Forms of Software Engineering, May 23, 2011, Waikiki, Honolulu, HI, USA.
+Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1, ICSE 2010, Cape Town, South Africa, 1-8 May 2010.
+Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 2, ICSE 2010, Cape Town, South Africa, 1-8 May 2010.
+Proceedings of the 2010 ICSE Workshop on Quantitative Stochastic Models in the Verification and Design of Software Systems, QUOVADIS '10, May 3, 2010, Cape Town, South Africa.
+Proceedings of the 2nd International Workshop on Recommendation Systems for Software Engineering, RSSE 2010, Cape Town, South Africa, May 4, 2010.
+Proceedings of 2010 ICSE Workshop on Search-driven Development: Users, Infrastructure, Tools and Evaluation, SUITE '10, Cape Town, South Africa, May 1, 2010.
+Proceedings of the 1st Workshop on Web 2.0 for Software Engineering, Web2SE@ICSE 2010, Cape Town, South Africa, May 4, 2010.
+31st International Conference on Software Engineering, ICSE 2009, May 16-24, 2009, Vancouver, Canada, Proceedings.
+31st International Conference on Software Engineering, ICSE 2009, May 16-24, 2009, Vancouver, Canada, Companion Volume.
+ICSE 2009 Workshop on Model-Based Methodologies for Pervasive and Embedded Software, MOMPES 2009, May 16, 2009, Vancouver, Canada.
+ICSE Workshop on Software Engineering for Computational Science and Engineering, SE-CSE 2009, Vancouver, BC, Canada, May 23, 2009.
+ICSE Workshop on Traceability in Emerging Forms of Software Engineering, TEFSE@ICSE 2009. Vancouver, BC, Canada, 18 May, 2009.
+30th International Conference on Software Engineering (ICSE 2008), Leipzig, Germany, May 10-18, 2008.
+30th International Conference on Software Engineering (ICSE 2008), Leipzig, Germany, May 10-18, 2008, Companion Volume.
+29th International Conference on Software Engineering (ICSE 2007), Minneapolis, MN, USA, May 20-26, 2007.
+29th International Conference on Software Engineering (ICSE 2007), Minneapolis, MN, USA, May 20-26, 2007, Companion Volume.
+Fifth International Workshop on Dynamic Analysis, WODA@ICSE 2007, Minneapolis, MN, USA, 20-26 May, 2007.
+28th International Conference on Software Engineering (ICSE 2006), Shanghai, China, May 20-28, 2006.
+Architecting Dependable Systems IV [the book is a result of the ICSE 2006 and DSN 2006 workshops].
+27th International Conference on Software Engineering (ICSE 2005), 15-21 May 2005, St. Louis, Missouri, USA.
+Software Engineering Education in the Modern Age, Software Education and Training Sessions at the International Conference on Software Engineering, ICSE 2005, St. Louis, MO, USA, May 15-21, 2005, Revised Lectures.
+26th International Conference on Software Engineering (ICSE 2004), 23-28 May 2004, Edinburgh, United Kingdom.
+Architecting Dependable Systems III [the book is a result of the ICSE 2004 and DSN 2004 workshops].
+Proceedings of the 25th International Conference on Software Engineering, May 3-10, 2003, Portland, Oregon, USA.
+Proceedings of ICSE 2003 Workshop on Bridging the Gaps Between Software Engineering and Human-Computer Interaction, May 3-4, 2003, Portland, Oregon, USA.
+Architecting Dependable Systems II - [the book is a result of the ICSE 2003 Workshop on Software Architectures for Dependable Systems].
+ICSE 2003 - Proceedings of 2nd International Software Requirements to Architectures Workshop, STRAW 2003, May 9, 2003, Portland, Oregon, USA.
+Proceedings of the 24th International Conference on Software Engineering, ICSE 2002, 19-25 May 2002, Orlando, Florida, USA.
+Architecting Dependable Systems [the book is a result of the ICSE 2002 Workshop on Software Architectures for Dependable Systems].
+Proceedings of the 23rd International Conference on Software Engineering, ICSE 2001, 12-19 May 2001, Toronto, Ontario, Canada.
+Proceedings of the 22nd International Conference on on Software Engineering, ICSE 2000, Limerick Ireland, June 4-11, 2000.
+22nd International Conference on on Software Engineering, Future of Software Engineering Track, ICSE 2000, Limerick Ireland, June 4-11, 2000.
+Proceedings of the 1999 International Conference on Software Engineering, ICSE' 99, Los Angeles, CA, USA, May 16-22, 1999.
+Forging New Links, Proceedings of the 1998 International Conference on Software Engineering, ICSE 98, Kyoto, Japan, April 19-25, 1998.
+Pulling Together, Proceedings of the 19th International Conference on Software Engineering, Boston, Massachusetts, USA, May 17-23, 1997.
+18th International Conference on Software Engineering, Berlin, Germany, March 25-29, 1996, Proceedings.
+17th International Conference on Software Engineering, Seattle, Washington, USA, April 23-30, 1995, Proceedings.
+Proceedings of the 16th International Conference on Software Engineering, Sorrento, Italy, May 16-21, 1994.
+Software Engineering and Human-Computer Interaction, ICSE '94 Workshop on SE-HCI: Joint Research Issues, Sorrento, Italy, May 16-17, 1994, Proceedings.
+Proceedings of the 15th International Conference on Software Engineering, Baltimore, Maryland, USA, May 17-21, 1993.
+Studies of Software Design, ICSE'93 Workshop, Baltimore, Maryland, USA, May 17-18, 1993, Selected Papers.
+Proceedings of the 14th International Conference on Software Engineering, Melbourne, Australia, May 11-15, 1992.
+Proceedings of the 13th International Conference on Software Engineering, Austin, TX, USA, May 13-17, 1991.
+Proceedings of the 12th International Conference on Software Engineering, Nice, France, March 26-30, 1990.
+Proceedings of the 11th International Conference on Software Engineering, Pittsburg, PA, USA, May 15-18, 1989.
+Proceedings, 10th International Conference on Software Engineering, Singapore, Singapore, April 11-15, 1988.
+Proceedings, 9th International Conference on Software Engineering, Monterey, California, USA, March 30 - April 2, 1987.
+Proceedings, 8th International Conference on Software Engineering, London, UK, August 28-30, 1985.
+Proceedings, 7th International Conference on Software Engineering, Orlando, Florida, USA, March 26-29, 1984.
+Proceedings, 6th International Conference on Software Engineering, Tokyo, Japan, September 13-16, 1982.
+Proceedings of the 5th International Conference on Software Engineering, San Diego, California, USA, March 9-12, 1981.
+Proceedings of the 4th International Conference on Software Engineering, Munich, Germany, September 1979.
+Proceedings of the 3rd International Conference on Software Engineering, Atlanta, Georgia, USA, May 10-12, 1978.
+Proceedings of the 2nd International Conference on Software Engineering, San Francisco, California, USA, October 13-15, 1976.

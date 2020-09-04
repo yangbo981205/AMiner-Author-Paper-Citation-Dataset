@@ -1,0 +1,44 @@
+30th IEEE Visualization Conference, IEEE VIS 2019 - Short Papers, Vancouver, BC, Canada, October 20-25, 2019.
+14th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2019, Vancouver, BC, Canada, October 20-25, 2019.
+13th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2018, Berlin, Germany, October 21-26, 2018.
+2018 IEEE Scientific Visualization Conference, SciVis 2018, Berlin, Germany, October 21-26, 2018.
+12th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2017, Phoenix, AZ, USA, October 3-6, 2017.
+11th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2016, Baltimore, MD, USA, October 23-28, 2016.
+10th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2015, Chicago, IL, USA, October 25-30, 2015.
+2015 IEEE Scientific Visualization Conference, SciVis 2015, Chicago, IL, USA, October 25-30, 2015.
+9th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2014, Paris, France, October 25-31, 2014.
+2014 IEEE VIS International Workshop on 3DVis, 3DVis@IEEE VIS, Paris, France, November 9, 2014.
+7th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2012, Seattle, WA, USA, October 14-19, 2012.
+6th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2011, Providence, RI, USA, October 23-28, 2011.
+5th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST 2010, Salt Lake City, UT, USA, October 24-29, 2010, part of VisWeek 2010.
+4th IEEE Symposium on Visual Analytics Science and Technology, IEEE VAST 2009, Atlantic City, NJ, USA, October 11-16, 2009, part of VisWeek 2009.
+3rd IEEE Symposium on Visual Analytics Science and Technology, IEEE VAST 2008, Columbus, OH, USA, October 19-24, 2008.
+2nd IEEE Symposium on Visual Analytics Science and Technology, IEEE VAST 2007, Sacramento, CA,USA, October 30 - November 1, 2007.
+1st IEEE Symposium On Visual Analytics Science And Technology, IEEE VAST 2006, Baltimore, MD, USA, October 31 - November 2, 2006.
+16th IEEE Visualization Conference, IEEE Vis 2005, Minneapolis, MN, USA, October 23-28, 2005, Proceedings.
+IEEE Symposium on Information Visualization (InfoVis 2005), 23-25 October 2005, Minneapolis, MN, USA.
+15th IEEE Visualization Conference, IEEE Vis 2004, Austin, TX, USA, October 10-15, 2004, Proceedings.
+10th IEEE Symposium on Information Visualization (InfoVis 2004), 10-12 October 2004, Austin, TX, USA.
+14th IEEE Visualization Conference, IEEE Vis 2003, Seattle, WA, USA, October 19-24, 2003, Proceedings.
+9th IEEE Symposium on Information Visualization (InfoVis 2003), 20-21 October 2003, Seattle, WA, USA.
+13th IEEE Visualization Conference, IEEE Vis 2002, Boston, MA, USA, October 27 - November 1, 2002, Proceedings.
+2002 IEEE Symposium on Information Visualization (InfoVis 2002), 27 October - 1 November 2002, Boston, MA, USA.
+12th IEEE Visualization Conference, IEEE Vis 2001, San Diego, CA, USA, October 24-26, 2001, Proceedings.
+IEEE Symposium on Information Visualization 2001 (INFOVIS'01), San Diego, CA, USA, October 22-23, 2001.
+11th IEEE Visualization Conference, IEEE Vis 2000, Salt Lake City, UT, USA, October 8-13, 2000, Proceedings.
+IEEE Symposium on Information Visualization 2000 (INFOVIS'00), Salt Lake City, Utah, USA, October 9-10, 2000.
+10th IEEE Visualization Conference, IEEE Vis 1999, San Francisco, CA, USA, October 24-29, 1999, Proceedings.
+IEEE Symposium on Information Visualization 1999 (INFOVIS'99), San Francisco, California, USA, October 24-29, 1999.
+9th IEEE Visualization Conference, IEEE Vis 1998, Research Triangle Park, North Carolina, USA, October 18-23, 1998, Proceedings.
+1998 IEEE Symposium on Information Visualization (InfoVis '98), 19-20 October 1998, Research Triangle Park, NC, USA, Proceedings.
+8th IEEE Visualization Conference, IEEE Vis 1997, Phoenix, AZ, USA, October 19-24, 1997, Proceedings.
+1997 IEEE Symposium on Information Visualization (InfoVis '97), October 18-25, 1997, Phoenix, AZ, USA.
+7th IEEE Visualization Conference, IEEE Vis 1996, San Francisco, CA, USA, October 27 - November 1, 1996, Proceedings.
+Proceedings of the IEEE Symposium on Information Visualization 1996, InfoVis '96, San Francisco, CA, USA, October 28-29, 1996.
+6th IEEE Visualization Conference, IEEE Vis 1995, Atlanta, GA, USA, October 29 - November 3, 1995, Proceedings.
+IEEE Symposium On Information Visualization 1995, InfoVis 1995, 30-31 October 1995, Atlanta, Georgia, USA.
+5th IEEE Visualization Conference, IEEE Vis 1994, Washington, DC, USA, October 17-21, 1994, Proceedings.
+4th IEEE Visualization Conference, IEEE Vis 1993, San Jose, CA, USA, October 25-29, 1993, Proceedings.
+3rd IEEE Visualization Conference, IEEE Vis 1992, Boston, MA, USA, October 19-23, 1992, Proceedings.
+2nd IEEE Visualization Conference, IEEE Vis 1991, San Diego, CA, USA, October 22-25, 1991, Proceedings.
+1st IEEE Visualization Conference, IEEE Vis 1990, San Francisco, CA, USA, October 23-26, 1990, Proceedings.

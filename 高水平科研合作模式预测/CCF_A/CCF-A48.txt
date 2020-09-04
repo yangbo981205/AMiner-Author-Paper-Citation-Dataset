@@ -1,0 +1,54 @@
+36th IEEE International Conference on Data Engineering, ICDE 2020, Dallas, TX, USA, April 20-24, 2020.
+36th IEEE International Conference on Data Engineering Workshops, ICDE Workshops 2020, Dallas, TX, USA, April 20-24, 2020.
+35th IEEE International Conference on Data Engineering, ICDE 2019, Macao, China, April 8-11, 2019.
+35th IEEE International Conference on Data Engineering Workshops, ICDE Workshops 2019, Macao, China, April 8-12, 2019.
+34th IEEE International Conference on Data Engineering, ICDE 2018, Paris, France, April 16-19, 2018.
+34th IEEE International Conference on Data Engineering Workshops, ICDE Workshops 2018, Paris, France, April 16-20, 2018.
+33rd IEEE International Conference on Data Engineering, ICDE 2017, San Diego, CA, USA, April 19-22, 2017.
+32nd IEEE International Conference on Data Engineering, ICDE 2016, Helsinki, Finland, May 16-20, 2016.
+32nd IEEE International Conference on Data Engineering Workshops, ICDE Workshops 2016, Helsinki, Finland, May 16-20, 2016.
+31st IEEE International Conference on Data Engineering, ICDE 2015, Seoul, South Korea, April 13-17, 2015.
+31st IEEE International Conference on Data Engineering Workshops, ICDE Workshops 2015, Seoul, South Korea, April 13-17, 2015.
+IEEE 30th International Conference on Data Engineering, Chicago, ICDE 2014, IL, USA, March 31 - April 4, 2014.
+Workshops Proceedings of the 30th International Conference on Data Engineering Workshops, ICDE 2014, Chicago, IL, USA, March 31 - April 4, 2014.
+29th IEEE International Conference on Data Engineering, ICDE 2013, Brisbane, Australia, April 8-12, 2013.
+Workshops Proceedings of the 29th IEEE International Conference on Data Engineering, ICDE 2013, Brisbane, Australia, April 8-12, 2013.
+IEEE 28th International Conference on Data Engineering (ICDE 2012), Washington, DC, USA (Arlington, Virginia), 1-5 April, 2012.
+Workshops Proceedings of the IEEE 28th International Conference on Data Engineering, ICDE 2012, Arlington, VA, USA, April 1-5, 2012.
+Proceedings of the 27th International Conference on Data Engineering, ICDE 2011, April 11-16, 2011, Hannover, Germany.
+Workshops Proceedings of the 27th International Conference on Data Engineering, ICDE 2011, April 11-16, 2011, Hannover, Germany.
+Proceedings of the 26th International Conference on Data Engineering, ICDE 2010, March 1-6, 2010, Long Beach, California, USA.
+Workshops Proceedings of the 26th International Conference on Data Engineering, ICDE 2010, March 1-6, 2010, Long Beach, California, USA.
+Proceedings of the 25th International Conference on Data Engineering, ICDE 2009, March 29 2009 - April 2 2009, Shanghai, China.
+Proceedings of the 24th International Conference on Data Engineering, ICDE 2008, April 7-12, 2008, Cancún, Mexico.
+Proceedings of the 24th International Conference on Data Engineering Workshops, ICDE 2008, April 7-12, 2008, Cancún, Mexico.
+Proceedings of the 23rd International Conference on Data Engineering, ICDE 2007, The Marmara Hotel, Istanbul, Turkey, April 15-20, 2007.
+Proceedings of the 23rd International Conference on Data Engineering Workshops, ICDE 2007, 15-20 April 2007, Istanbul, Turkey.
+Proceedings of the 22nd International Conference on Data Engineering, ICDE 2006, 3-8 April 2006, Atlanta, GA, USA.
+Proceedings of the 22nd International Conference on Data Engineering Workshops, ICDE 2006, 3-7 April 2006, Atlanta, GA, USA.
+Proceedings of the 21st International Conference on Data Engineering, ICDE 2005, 5-8 April 2005, Tokyo, Japan.
+Proceedings of the 21st International Conference on Data Engineering Workshops, ICDE 2005, 5-8 April 2005, Tokyo, Japan.
+2005 International Workshop on Data Engineering Issues in E-Commerce (DEEC 2005), 9 April 2005, Tokyo, Japan.
+2005 International Workshop on Ubiquitous Data Management (UDM 2005), 4 April 2005, Tokyo, Japan.
+2005 International Workshop on Challenges in Web Information Retrieval and Integration (WIRI 2005), 8-9 April 2005, Tokyo, Japan.
+Proceedings of the 20th International Conference on Data Engineering, ICDE 2004, 30 March - 2 April 2004, Boston, MA, USA.
+Proceedings of the 19th International Conference on Data Engineering, March 5-8, 2003, Bangalore, India.
+Proceedings of the 18th International Conference on Data Engineering, San Jose, CA, USA, February 26 - March 1, 2002.
+Proceedings of the 17th International Conference on Data Engineering, April 2-6, 2001, Heidelberg, Germany.
+ICDE 2001, Demo Session Abstracts (Informal Proceedings).
+Proceedings of the 16th International Conference on Data Engineering, San Diego, California, USA, February 28 - March 3, 2000.
+Proceedings of the 15th International Conference on Data Engineering, Sydney, Australia, March 23-26, 1999.
+Proceedings of the Fourteenth International Conference on Data Engineering, Orlando, Florida, USA, February 23-27, 1998.
+Proceedings of the Thirteenth International Conference on Data Engineering, April 7-11, 1997, Birmingham, UK.
+Proceedings of the Twelfth International Conference on Data Engineering, February 26 - March 1, 1996, New Orleans, Louisiana, USA.
+Proceedings of the Eleventh International Conference on Data Engineering, March 6-10, 1995, Taipei, Taiwan.
+Proceedings of the Tenth International Conference on Data Engineering, February 14-18, 1994, Houston, Texas, USA.
+Proceedings of the Ninth International Conference on Data Engineering, April 19-23, 1993, Vienna, Austria.
+Proceedings of the Eighth International Conference on Data Engineering, February 3-7, 1992, Tempe, Arizona, USA.
+Proceedings of the Seventh International Conference on Data Engineering, April 8-12, 1991, Kobe, Japan.
+Proceedings of the Sixth International Conference on Data Engineering, February 5-9, 1990, Los Angeles, California, USA.
+Proceedings of the Fifth International Conference on Data Engineering, February 6-10, 1989, Los Angeles, California, USA.
+Proceedings of the Fourth International Conference on Data Engineering, February 1-5, 1988, Los Angeles, California, USA.
+Proceedings of the Third International Conference on Data Engineering, February 3-5, 1987, Los Angeles, California, USA.
+Proceedings of the Second International Conference on Data Engineering, February 5-7, 1986, Los Angeles, California, USA.
+Proceedings of the First International Conference on Data Engineering, April 24-27, 1984, Los Angeles, California, USA.

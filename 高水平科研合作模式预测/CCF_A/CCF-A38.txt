@@ -1,0 +1,43 @@
+34th IEEE/ACM International Conference on Automated Software Engineering, ASE 2019, San Diego, CA, USA, November 11-15, 2019.
+34th IEEE/ACM International Conference on Automated Software Engineering Workshops, ASE Workshops 2019, San Diego, CA, USA, November 11-15, 2019.
+Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, ASE 2018, Montpellier, France, September 3-7, 2018.
+Proceedings of the 7th International Workshop on Software Mining, ASE 2018, Montpellier, France, September 3, 2018.
+Proceedings of the 1st International Workshop on Machine Learning and Software Engineering in Symbiosis, MASES@ASE 2018, Montpellier, France, September 3, 2018.
+Proceedings of the 2nd International Workshop on Refactoring, IWoR@ASE 2018, Montpellier, France, September 4, 2018.
+Proceedings of the 1st International Workshop on Advances in Mobile App Analysis, A-Mobile@ASE 2018, Montpellier, France, September 4, 2018.
+Proceedings of the 32nd IEEE/ACM International Conference on Automated Software Engineering, ASE 2017, Urbana, IL, USA, October 30 - November 03, 2017.
+Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering, ASE 2016, Singapore, September 3-7, 2016.
+Proceedings of the 5th International Workshop on Software Mining, SoftwareMining@ASE 2016, Singapore, Singapore, September 3, 2016.
+Proceedings of the International Workshop on Formal Methods for Analysis of Business Systems, ForMABS@ASE 2016, Singapore, Singapore, September 4, 2016.
+Proceedings of the 1st International Workshop on Software Refactoring, IWoR@ASE 2016, Singapore, Singapore, September 4, 2016.
+Proceedings of the 1st International Workshop on Specification, Comprehension, Testing, and Debugging of Concurrent Programs, SCTDCP@ASE 2016, Singapore, Singapore, September 3, 2016.
+30th IEEE/ACM International Conference on Automated Software Engineering, ASE 2015, Lincoln, NE, USA, November 9-13, 2015.
+30th IEEE/ACM International Conference on Automated Software Engineering Workshops, ASE Workshops 2015, Lincoln, NE, USA, November 9-13, 2015.
+ACM/IEEE International Conference on Automated Software Engineering, ASE '14, Vasteras, Sweden - September 15 - 19, 2014.
+WISE'14, Proceedings of the 2014 ACM International Workshop on Long-term Industrial Collaboration on Software Engineering, Vasteras, Sweden, September 16, 2014.
+2013 28th IEEE/ACM International Conference on Automated Software Engineering, ASE 2013, Silicon Valley, CA, USA, November 11-15, 2013.
+IEEE/ACM International Conference on Automated Software Engineering, ASE'12, Essen, Germany, September 3-7, 2012.
+26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011), Lawrence, KS, USA, November 6-10, 2011.
+ASE 2010, 25th IEEE/ACM International Conference on Automated Software Engineering, Antwerp, Belgium, September 20-24, 2010.
+Proceedings of the 3rd Workshop on Living with Inconsistencies in Software Development, LWI@ASE 2010, Antwerp, Belgium, September 21st, 2010.
+ASE 2009, 24th IEEE/ACM International Conference on Automated Software Engineering, Auckland, New Zealand, November 16-20, 2009.
+23rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2008), 15-19 September 2008, L'Aquila, Italy.
+23rd IEEE/ACM International Conference on Automated Software Engineering - Workshop Proceedings (ASE Workshops 2008), 15-16 September 2008, L'Aquila, Italy.
+22nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2007), November 5-9, 2007, Atlanta, Georgia, USA.
+21st IEEE/ACM International Conference on Automated Software Engineering (ASE 2006), 18-22 September 2006, Tokyo, Japan.
+20th IEEE/ACM International Conference on Automated Software Engineering (ASE 2005), November 7-11, 2005, Long Beach, CA, USA.
+The 3rd International Workshop on Traceability in Emerging Forms of Software Engineering, co-located with the ASE 2005 Conference, TEFSE@ASE 2005, Long Beach, CA, USA, November 88, 2005.
+19th IEEE International Conference on Automated Software Engineering (ASE 2004), 20-25 September 2004, Linz, Austria.
+18th IEEE International Conference on Automated Software Engineering (ASE 2003), 6-10 October 2003, Montreal, Canada.
+17th IEEE International Conference on Automated Software Engineering (ASE 2002), 23-27 September 2002, Edinburgh, Scotland, UK.
+16th IEEE International Conference on Automated Software Engineering (ASE 2001), 26-29 November 2001, Coronado Island, San Diego, CA, USA.
+The Fifteenth IEEE International Conference on Automated Software Engineering, ASE 2000, Grenoble, France, September 11-15, 2000.
+The 14th IEEE International Conference on Automated Software Engineering, ASE 1999, Cocoa Beach, Florida, USA, 12-15 October 1999.
+The Thirteenth IEEE Conference on Automated Software Engineering, ASE 1998, Honolulu, Hawaii, USA, October 13-16, 1998.
+1997 International Conference on Automated Software Engineering, ASE 1997, Lake Tahoe, CA, USA, November 2-5, 1997.
+Proceedings of the 11th Knowledge-Based Software Engineering Conference, KBSE 1996, Syracuse, NY, USA, September 25-28, 1996.
+Proceedings KBSE'95, the Tenth Knowledge-Based Software Engineering Conference, Boston, Massachusetts, USA, November 12-15, 1995.
+Proceedings KBSE'94, the Ninth Knowledge-Based Software Engineering Conference, Monterey, California, USA, September 20-23, 1994.
+Proceedings of the Eighth Knowledge-Based Software Engineering Conference, KBSE 1993, Chicago, IL, USA, September 20-23, 1993.
+Proceedings of the Seventh Knowledge-Based Software Engineering Conference, KBSE 1992, McLean, VA, USA, September 20-23, 1992.
+Proceedings 6th Annual Knowledge-Based Software Engineering Conference, KBSE 1991, Syracuse, New York, USA, September 22-25, 1991.

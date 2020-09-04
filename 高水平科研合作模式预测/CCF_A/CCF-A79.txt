@@ -1,0 +1,29 @@
+Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, CSCW 2019, Austin, TX, USA, November 09-13, 2019.
+Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing, CSCW 2018, Jersey City, NJ, USA, November 03-07, 2018.
+Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing, CSCW 2017, Portland, OR, USA, February 25 - March 1, 2017.
+Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing, CSCW 2017, Portland, OR, USA, February 25 - March 1, 2017, Companion Volume.
+Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing, CSCW 2016, San Francisco, CA, USA, February 27 - March 2, 2016.
+Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing, CSCW 2015, San Francisco, CA, USA, February 27 - March 2, 2016, Companion Volume.
+Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing, CSCW 2015, Vancouver, BC, Canada, March 14 - 18, 2015.
+18th ACM Conference on Computer Supported Cooperative Work & Social Computing, CSCW 2015, Vancouver, BC, Canada, March 14-18, 2015, Companion Volume.
+Computer Supported Cooperative Work, CSCW '14, Baltimore, MD, USA, February 15-19, 2014.
+Computer Supported Cooperative Work, CSCW '14, Baltimore, MD, USA, February 15-19, 2014, Companion Volume.
+Computer Supported Cooperative Work, CSCW 2013, San Antonio, TX, USA, February 23-27, 2013.
+Computer Supported Cooperative Work, CSCW 2013, San Antonio, TX, USA, February 23-27, 2013, Companion Volume.
+CSCW '12 Computer Supported Cooperative Work, Seattle, WA, USA, February 11-15, 2012.
+CSCW '12 Computer Supported Cooperative Work, Seattle, WA, USA, February 11-15, 2012 - Companion Volume.
+Proceedings of the 2011 ACM Conference on Computer Supported Cooperative Work, CSCW 2011, Hangzhou, China, March 19-23, 2011.
+Proceedings of the 2010 ACM Conference on Computer Supported Cooperative Work, CSCW 2010, Savannah, Georgia, USA, February 6-10, 2010.
+Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work, CSCW 2008, San Diego, CA, USA, November 8-12, 2008.
+Proceedings of the 2006 ACM Conference on Computer Supported Cooperative Work, CSCW 2006, Banff, Alberta, Canada, November 4-8, 2006.
+Proceedings of the 2004 ACM Conference on Computer Supported Cooperative Work, CSCW 2004, Chicago, Illinois, USA, November 6-10, 2004.
+CSCW 2002, Proceeding on the ACM 2002 Conference on Computer Supported Cooperative Work, New Orleans, Louisiana, USA, November 16-20, 2002.
+Proceedings of the 2002 ACM on Computer supported cooperative work video program, CSCW '02, New Orleans, Louisiana, USA, November 16-20, 2002.
+CSCW 2000, Proceeding on the ACM 2000 Conference on Computer Supported Cooperative Work, Philadelphia, PA, USA, December 2-6, 2000.
+CSCW '98, Proceedings of the ACM 1998 Conference on Computer Supported Cooperative Work, Seattle, WA, USA, November 14-18, 1998.
+CSCW '96, Proceedings of the ACM 1996 Conference on Computer Supported Cooperative Work, Boston, MA, USA, November 16-20, 1996.
+CSCW '94, Proceedings of the Conference on Computer Supported Cooperative Work, Chapel Hill, NC, USA, October 22-26, 1994.
+CSCW '92, Proceedings of the Conference on Computer Supported Cooperative Work, Toronto, Canada, October 31 - November 4, 1992.
+CSCW '90, Proceedings of the Conference on Computer Supported Cooperative Work, Los Angeles, CA, USA, October 7-10, 1990.
+CSCW '88, Proceedings of the Conference on Computer-Supported Cooperative Work, Portland, OR, USA, September 26-28, 1988.
+CSCW '86, Proceedings of the 1986 ACM conference on Computer-supported cooperative work, Austin, Texas, USA, December 3-5, 1986.

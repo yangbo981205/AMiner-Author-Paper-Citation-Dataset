@@ -1,0 +1,30 @@
+13th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2018, Carlsbad, CA, USA, October 8-10, 2018.
+12th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2016, Savannah, GA, USA, November 2-4, 2016.
+4th Workshop on Interactions of NVM/Flash with Operating Systems and Workloads, INFLOW@OSDI 2016, Savannah, GA, USA, November 1, 2016.
+11th USENIX Symposium on Operating Systems Design and Implementation, OSDI '14, Broomfield, CO, USA, October 6-8, 2014.
+10th Workshop on Hot Topics in System Dependability, HotDep '14, Broomfield, CO, USA, October 5, 2014.
+6th Workshop on Power-Aware Computing and Systems, HotPower '14, Broomfield, CO, USA, October 5, 2014.
+2nd Workshop on Interactions of NVM/Flash with Operating Systems and Workloads, INFLOW '14, Broomfield, CO, USA, October 5, 2014.
+2014 Conference on Timely Results in Operating Systems, TRIOS '14, Broomfield, CO, USA, October 5, 2014.
+10th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2012, Hollywood, CA, USA, October 8-10, 2012.
+2012 Workshop on Power-Aware Computing Systems, HotPower'12, Hollywood, CA, USA, October 7, 2012.
+2012 Workshop on Managing Systems Automatically and Dynamically, MAD'12, Hollywood, CA, USA, October 7, 2012.
+9th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2010, October 4-6, 2010, Vancouver, BC, Canada, Proceedings.
+2010 Workshop on the Economics of Networks, Systems, and Computation, NetEcon@OSDI 2010, Vancouver, BC, Canada, October 3, 2010.
+Workshop on Managing Systems via Log Analysis and Machine Learning Techniques, SLAML'10, Vancouver, BC, Canada, October 3, 2010.
+8th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings.
+Proceedings of the Fourth Workshop on Hot Topics in System Dependability, HotDep 2008, San Diego, CA, USA, December 7, 2008.
+First USENIX Workshop on the Analysis of System Logs, WASL 2008, San Diego, CA, USA, December 7, 2008, Proceedings.
+Workshop on Power Aware Computing and Systems, HotPower 2008, December 7, 2008, San Diego, CA, USA, Proceedings.
+First Workshop on I/O Virtualization, WIOV'08, San Diego, CA, USA, December 10-11, 2008, Proceedings.
+Third Workshop on Tackling Computer Systems Problems with Machine Learning Techniques, SysML 2008, December 11, 2008, San Diego, CA, USA, Proceedings.
+7th Symposium on Operating Systems Design and Implementation (OSDI '06), November 6-8, Seattle, WA, USA.
+Proceedings of the Second Workshop on Hot Topics in System Dependability, HotDep 2006, Seattle, WA, USA, November 8, 2006.
+3rd USENIX Workshop on Real, Large Distributed Systems, WORLDS'06, Seattle, WA, USA, November 5, 2006.
+6th Symposium on Operating System Design and Implementation (OSDI 2004), San Francisco, California, USA, December 6-8, 2004.
+First USENIX Workshop on Real, Large Distributed Systems, WORLDS'04, San Francisco, CA, USA, December 5, 2004.
+5th Symposium on Operating System Design and Implementation (OSDI 2002), Boston, Massachusetts, USA, December 9-11, 2002.
+4th Symposium on Operating System Design and Implementation (OSDI 2000), San Diego, California, USA, October 23-25, 2000.
+Proceedings of the Third USENIX Symposium on Operating Systems Design and Implementation (OSDI), New Orleans, Louisiana, USA, February 22-25, 1999.
+Proceedings of the Second USENIX Symposium on Operating Systems Design and Implementation (OSDI), Seattle, Washington, USA, October 28-31, 1996.
+Proceedings of the First USENIX Symposium on Operating Systems Design and Implementation (OSDI), Monterey, California, USA, November 14-17, 1994.

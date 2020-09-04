@@ -1,0 +1,804 @@
+Editor's introduction.
+The Design of Star's Records Processing: Data Processing for the Noncomputer Professional.
+An OIS Model for Internal Accounting Control Evaluation.
+Supporting Organizational Problem Solving with a Work Station.
+Integrating Diverse Knowledge Sources in Text Recognition.
+Message Files.
+How Do People Organize Their Desks? Implications for the Design of Office Information Systems.
+An Experimental Distributed Modeling System.
+Document Processing in a Relational Database System.
+Details of Command-Language Keystrokes.
+Message System Mores: Etiquette in Laurel.
+Authentication in Office System Internetworks.
+Projecting Demand for Electronic Communications in Automated Offices.
+The Clearinghouse: A Decentralized Agent for Locating Named Objects in a Distributed Environment.
+Learning to Use Word Processors: Problems and Prospects.
+Human Factors Challenges in Creating a Principal Support Office System - The Speech Filing System Approach.
+A Data Modeling Approach for Office Information Systems.
+Office Procedure as Practical Action: Models of Work and System Design.
+LDC-1: A Transportable, Knowledge-Based Natural Language Processor for Office Environments.
+An Iterative Design Methodology for User-Friendly Natural Language Office Information Applications.
+Interface Design and Multivariate Analysis of UNIX Command Use.
+Message Addressing Schemes.
+The COSIE Communication Subsystem: Support for Distributed Office Applications.
+Object Management in Distributed Information Systems.
+Channel Selection and Effective Communication for Managerial Decision Making.
+The Dimensions of Accessibility to Online Information: Implications for Implementing Office Information Systems.
+The Design Requirements of Office Systems.
+Selected Papers from the Conference on Office Information Systems (Toronto, 1984) - Editor's Introduction.
+An Architecture for Object Management in OIS.
+Task Support in an Office System.
+Managing Transient Internetwork Links in the Xerox Internet.
+38 Offices: Analyzing Needs in Individual Offices.
+FORMANAGER: An Office Forms Management System.
+Signature Files: An Access Method for Documents and Its Analytical Performance Evaluation.
+Office Automation Projects and Their Impact on Organization, Planning, and Control.
+Logical Routing Specification in Office Information Systems.
+A Critical Appraisal of Task Taxonomies as a Tool for Studying Office Activities.
+A Database Design Methodology and Tool for Information Systems.
+Cursor Movement during Text Editing.
+Query Optimization on Local Area Networks.
+A Prototype Electronic Encyclopedia.
+Electronic Calendars in the Office: An Assessment of User Needs and Current Technology.
+Transportable Natural Language Processing through Simplicity - The PRE System.
+Transporting the Linguistic String Project System from a Medical to a Navy Domain.
+Portability of Syntax and Semantics in Datalog.
+Problems and Some Solutions in Customization of Natural Language Database Front Ends.
+ASK is Transportable in Half a Dozen Ways.
+Transportability to Other Languages: The Natural Language Processing Project in the AI Program at MCC.
+A Butler Process for Resource Sharing on Spice Machines.
+A Federated Architecture for Information Management.
+A Prototype System for the Electronic Storage and Retrieval of Document Images.
+Design Implications of a Task-Driven Approach to Unstructured Cognitive Tasks in Office Work.
+Usage Patterns in an Integrated Voice and Data Communications System.
+An Imperative Sentence Processor for Voice Interactive Office Applications.
+Document Architecture and Text Formatting.
+Productivity Trends in Certain Office-Intensive Sectors of the U.S. Federal Government.
+DITROFF/FFORTID, An Adaptation of the UNIX DITROFF for Formatting Bidirectional Text.
+Ensuring the Court Admissibility of Computer-Generated Records.
+TEXTNET: A Network-Based Approach to Text Handling.
+Whiteboards: A Graphical Database Tool.
+The Spatial Metaphor for User Interfaces: Experimental Tests of Reference by Location versus Name.
+Complete Logical Routings in Computer Mail Systems.
+Communications Design for Co-oP: A Group Decision Support System.
+A Society Model for Office Information Systems.
+A Generator of Direct Manipulation Office Systems.
+BAROQUE: A Browser for Relational Databases.
+Supporting Distributed Office Problem Solving in Organizations.
+The Integration of Computing and Routine Work.
+A Visual Interface for a Database with Version Management.
+Analyzing Due Process in the Workplace.
+Offices Are Open Systems.
+A Model for Naming, Addressing, and Routing.
+SEAVE: A Mechanism for Verifying User Presuppositions in Query Systems.
+Understanding the Office: A Social-Analytic Perspective.
+Multimedia Document Presentation, Information Extraction, and Document Formation in MINOS: A Model and a System.
+Data Model Issues for Object-Oriented Applications.
+Integrating an Object Server with Other Worlds.
+ (
+A Shared, Segmented Memory System for an Object-Oriented Database.
+KNOs: KNowledge Acquisition, Dissemination, and Manipulation Objects.
+Semistructured Messages Are Surprisingly Useful for Computer-Supported Coordination.
+Project Nick: Meetings Augmentation and Analysis.
+WYSIWIS Revised: Early Experiences with Multiuser Interfaces.
+Contexts - A Partitioning Concept for Hypertext.
+Data Sharing in Group Work.
+A Knowledge-Based Message Management System.
+Description and Performance Analysis of Signature File Methods for Office Filing.
+An Experimental Study of People Creating Spreadsheets.
+Cost-Benefit Methodology for Office Systems.
+Cooperating Knowledge-Based Assistants for the Office.
+Evolution of an Organizational Interface: The New Business Department at a Large Insurance Firm.
+Strategies for Encouraging Successful Adoption of Office Communication Systems.
+Behavioral Experiments on Handmarkings.
+Augmenting Thesauri for Information Systems.
+Office-by-Example: An Integrated Office System and Database Manager.
+Query Processing in a Multimedia Document System.
+Implementing Ranking Strategies Using Text Signatures.
+An Experimental Multimedia Mail System.
+Bureaucracies as Deontic Systems.
+Diplans: A New Language for the Study and Implementation of Coordination.
+A Speech-Act-Based Office Modeling Approach.
+Computer Systems and the Design of Organizational Interaction.
+Designing with the User - Book Review.
+VAGUE: A User Interface to Relational Databases that Permits Vague Queries.
+Knowledge-Based Tools to Promote Shared Goals and Terminology Between Interface Designers.
+A Rule-Based Message Filtering System.
+Access to, Usage of, and Outcomes from an Electronic Messaging System.
+Wireless Intraoffice Networks.
+gIBIS: A Hypertext Tool for Exploratory Policy Discussion.
+Object Lens: A "Spreadsheet" for Cooperative Work.
+Work Group Structures and Computer Support: A Field Experiment.
+Diversity in the Use of Electronic Mail: A Preliminary Inquiry.
+Guided Tours and Tabletops: Tools for Communicating in a Hypertext Environment.
+ (
+Petri-Net-Based Hypertext: Document Structure with Browsing Semantics.
+Formative Design-Evaluation of SuperBook.
+Context and Orientation in Hypermedia Networks.
+A Data Model for Flexible Hypertext Database Systems.
+Object Specialization.
+An Algebra for Structured Office Documents.
+Partitioned Signature Files: Design Issues and Performance Evaluation.
+Optimum Polynomial Retrieval Functions Based on the Probability Ranking Principle.
+A Critical Investigation of Recall and Precision as Measures of Retrieval System Performance.
+Storing Text Retrieval Systems on CD-ROM: Compression and Encryption Considerations.
+Knowledge-Based Search Tactics for an Intelligent Intermediary System.
+Information Retrieval Using a Hypertext-Based Help System.
+The Constituent Object Parser: Syntactic Structure Matching for Information Retrieval.
+Work at Home for Computer Professionals: Current Attitudes and Future Prospects.
+The 3DIS: An Extensible Object-Oriented Information Management Environment.
+C-TODOS: An Automatic Tool for Office System Conceptual Design.
+Partially Shared Views: A Scheme for Communicating among Groups that Use Different Type Hierarchies.
+Compression, Information Theory, and Grammars: A Unified Approach.
+Distributed Form Management.
+A Transient Hypergraph-Based Model for Data Access.
+Design of the Mneme Persistent Object Store.
+New Techniques for Best-Match Retrieval.
+Imprecise Information and Uncertainty in Information Systems.
+The UAN: A User-Oriented Representation for Direct Manipulation Interface Designs.
+ITS: A Tool for Rapidly Developing Interactive Applications.
+Unidraw: A Framework for Building Domain-Specific Graphical Editors.
+Interactive Specification of Flexible User Interface Displays.
+A New Model for Handling Input.
+Telos: Representing Knowledge About Information Systems.
+Experiments with a Component Theory of Probabilistic Information Retrieval Based on Single Terms as Document Components.
+Queries and Query Processing in Object-Oriented Database Systems.
+Optimal Placement of High-Probability Randomly Retrieved Blocks on CLV Optical Discs.
+A Distributed Object-Oriented Database System Supporting Shared and Private Databases.
+Exploiting Parallelism in Pattern Matching: An Information Retrieval Application.
+Integrating Expert Systems with Group Decision Support Systems.
+ (
+A Morphological Analysis of the Design Space of Input Devices.
+The Role of Critiquing in Cooperative Problem Solving.
+The Use of Eye Movements in Human-Computer Interaction Techniques: What You Look At is What You Get.
+VideoDraw: A Video Interface for Collaborative Drawing.
+ (
+Evaluation of an Inference Network-Based Retrieval Model.
+A Probabilistic Learning Approach for Document Indexing.
+Search Improvement via Automatic Query Reformulation.
+Order-Preserving Minimal Perfect Hash Functions and Information Retrieval.
+Computer Analysis of User Interfaces Based on Repetition in Transcripts of User Sessions.
+Dynamic Partitioning of Signature Files.
+Inter-Organization Networks, Computer Integration, and Shifts in Interdependence: The Case of the Semiconductor Industry.
+PROXHY: A Process-Oriented Extensible Hypertext Architecture.
+DAIDA: An Environment for Evolving Information Systems.
+Principles of Delay-Sensitive Multimedia Data Storage and Retrieval.
+The Active Badge Location System.
+Consistency, Standards, and Formal Approaches to Interface Development and Evaluation: A Note on Wiecha, Bennett, Boies, Gould, and Greene.
+ITS and User Interface Consistency: A Response to Grudin.
+Lexical Ambiguity and Information Retrieval.
+Structural Analysis of Hypertexts: Identifying Hierarchies and Useful Metrics.
+Getting Around the Task-Artifact Cycle: How to Make Claims and Design by Scenario.
+ (
+The Envoy Framework: An Open Architecture for Agents.
+Conceptual Learning in Database Design.
+Converting a Textbook to Hypertext.
+Lessons Learned from SUIT, the Simple User Interface Toolkit.
+A High-Level and Flexible Framework for Implementing Multiuser User Interfaces.
+EmbeddedButtons: Supporting Buttons in Documents.
+A General Framework for Bidirectional Translation between Abstract and Pictorial Data.
+A Model for Input and Output for Multilingual Text in a Windowing Environment.
+HDM - A Model-Based Approach to Hypertext Application Design.
+Semantic Data Modeling of Hypermedia Associations.
+An Investigation of Content Representation Using Text Grammars.
+TAE Plus: Transportable Applications Environment Plus: A User Interface Development Environment.
+Designing Database Interfaces with DBface.
+Estimating Accesses in Partitioned Signature File Organizations.
+Incremental Clustering for Dynamic Information Processing.
+A Reappraisal of Structured Analysis: Design in an Organizational Context.
+Virtual Reality for Palmtop Computers.
+A Design Method for "Whole-Hand" Human-Computer Interaction.
+Evaluating 3D Task Performance for Fish Tank Virtual Worlds.
+The Role of Another Spatial Dimension in Software Visualization.
+Decoupled Simulation in Virtual Reality with the MR Toolkit.
+Groupwork Close Up: A Comparison of the Group Design Process With and Without a Simple Group Editor.
+Integration of Interpersonal Space and Shared Workspace: ClearBoard Design and Experiments.
+Capturing, Structuring, and Representing Ubiquitous Audio.
+Phone-Based CSCW: Tools and Trials.
+ (
+ (
+Evaluating Hypermedia and Learning: Methods and Results from the Perseus Project.
+A Nested-Graph Model for the Representation and Manipulation of Complex Objects.
+On the Expressive Power of Query Languages.
+Probabilistic Information Retrieval as a Combination of Abstraction, Inductive Learning, and Probabilistic Assumptions.
+ (
+Finding a Happy Medium: Explaining the Negative Effects of Electronic Communication on Social Life at Work.
+Information Systems Strategy and Implementation: A Case Study of a Building Society.
+Technological Frames: Making Sense of Information Technology in Organizations.
+Rich and Lean Representations of Information for Knowledge Work: The Role of Computing Packages in the Work of Classical Scholars.
+ (
+Automated Learning of Decision Rules for Text Categorization.
+An Example-Based Mapping Method for Text Categorization and Retrieval.
+Text Categorization for Multiple Users Based on Semantic Features from a Machine-Readable Dictionary.
+Information as Basic for High-Precision Text Classification.
+Direct: A Query Facility for Multiple Databases.
+A Speech-Act Negotiation Protocol: Design, Implementation, and Test Use.
+An Exploratory Evaluation of Three Interfaces for Browsing Large Hierarchical Tables of Contents.
+ (
+Toward a Logical/Physical Theory of Spreadsheet Modeling.
+On Modeling Information Retrieval with Probabilistic Inference.
+From Text to Hypertext by Indexing.
+Some Inconsistencies and Misidentified Modeling Assumptions in Probabilistic Information Retrieval.
+Design and Evaluation of Algorithms for Image Retrieval by Spatial Similarity.
+Feedback Techniques for Continuity and Synchronisation in Multimedia Information Retrieval.
+Experiments with Oval: A Radically Tailorable Tool for Cooperative Work.
+Exceptions and Exception Handling in Computerized Information Processes.
+Document Retrieval in Office Environment: Knowledge Modelling and Browsing.
+Templar: A Knowledge-Based Language for Software Specifications Using Temporal Logic.
+ (
+ (
+ (
+A Video Retrieval and Sequencing System.
+Motion Recovery for Video Content Classification.
+Embedded Video in Hypermedia Documents: Supporting Integration and Adaptive Control.
+XMovie: Architecture and Implementation of a Distributed Movie System.
+A Visual Retrieval Environment for Hypermedia Information Systems.
+Sequential Patterns in Information Systems Development: An Application of a Social Process Model.
+Evaluation of Model-Based Retrieval Effectiveness with OCR Text.
+An Extension of Ukkonen's Enhanced Dynamic Programming ASM Algorithm.
+Document Ranking on Weight-Partitioned Signature Files.
+Using Local Optimality Criteria for Efficient Information Retrieval with Redundant Information Filters.
+TROLL - A Language for Object-Oriented Specification of Information Systems.
+Computerized Performance Monitors as Multidimensional Systems: Derivation and Application.
+Natural-Language Retrieval of Images Based on Descriptive Captions.
+Extending Object-Oriented Systems with Roles.
+A General Explanation Component for Conceptual Modeling in CASE Environments.
+Bias in Computer Systems.
+Self-Indexing Inverted Files for Fast Text Retrieval.
+Information System Behavior Specification by High-Level Petri Nets.
+The Model-Assisted Global Query System for Multiple Databases in Distributed Enterprises.
+Hyperform: A Hypermedia System Development Environment.
+A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems.
+Customizing Information Capture and Access.
+Making a Digital Library: The Contents of the CORE Project.
+A text Compression Scheme that Allows Fast Searching Directly in the Compressed File.
+The Effect of Accessing Nonmatching Documents on Relevance Feedback.
+Access Control for Large Collections.
+Experiences with Selecting Search Engines Using Metasearch.
+Data Structures for Efficient Broker Implementation.
+Modeling Word Occurrences for the Compression of Concordances.
+Recursive Hashing Functions for n-Grams.
+On Automated Message Processing in Electronic Commerce and Work Support Systems: Speech Act Theory and Expressive Felicity.
+A Multilevel Approach to Intelligent Information Filtering: Model, System, and Evaluation.
+Proximal Nodes: A Model to Query Document Databases by Content and Structure.
+Hyperdocuments as Automata: Verification of Trace-Based Browsing Properties by Model Checking.
+Evaluation of an Algorithm for Finding a Match of a Distorted Texture Pattern in a Large Image Database.
+Corpus-Based Stemming Using Cooccurrence of Word Variants.
+Electronic Mail as a Coalition-Building Information Technology.
+The Knowledge in Multiple Human Relevance Judgments.
+A Hypermedia Version Control Framework.
+Self-Spacial Join Selectivity Estimation Using Fractal Concepts.
+Augmenting Organizational Memory: A Field Study of Answer Garden.
+A Study of Probability Kinematics in Information Retrieval.
+Arithmetic Coding Revisited.
+Metric Details for Natural-Language Spatial Relations.
+A Semidiscrete Matrix Decomposition for Latent Semantic Indexing Information Retrieval.
+Collaborative Conceptual Schema Design: A Process Model and Prototype System.
+Structured Hypertext with Domain Semantics.
+Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System.
+Methods for Information Server Selection.
+The Equalizing Impact of a Group Support System on Status Differentials.
+A Flexible Authorization Mechanism for Relational Data Management Systems.
+Context-Sensitive Learning Methods for Text Categorization.
+A Robust Framework for Content-based Retrieval by Spatial Similarity in Image Databases.
+Incremental Formalization with the Hyper-Object Substrate.
+A Decision-Theoretic Approach to Database Selection in Networked IR.
+A Corpus Analysis Approach for Automatic Query Expansion and Its Extension to Multiple Databases.
+Context Interchange: New Features and Formalisms for the Intelligent Integration of Information.
+Harp: A Distributed Query System for Legacy Public Libraries and Structured Databases.
+Interface and Data Architecture for Query Preview in Networked Information Systems.
+Integrating geometrical and linguistic analysis for email signature block parsing.
+PIC matrices: a computationally tractable class of probabilistic query operators.
+Efficient passage ranking for document databases.
+The impact on retrieval effectiveness of skewed frequency distributions.
+Evaluating the performance of distributed architectures for information retrieval using a variety of workloads.
+Shortest-substring retrieval and ranking.
+Improving the effectiveness of information retrieval with local context analysis.
+Fast and flexible word searching on compressed text.
+Extending document management systems with user-specific active properties.
+Efficient content-based indexing of large image databases.
+Chimera: hypermedia for heterogeneous software development enviroments.
+The maximum entropy approach and probabilistic IR models.
+Data integration using similarity joins and a word-based information representation language.
+Model-driven development of Web applications: the AutoWeb system.
+Beneath the surface of organizational processes: a social representation framework for business process redesign.
+Beyond intratransaction association analysis: mining multidimensional intertransaction association rules.
+An information-theoretic approach to automatic query expansion.
+A statechart-based model for hypermedia applications.
+Approximate spatio-temporal retrieval.
+Query-based sampling of text databases.
+SALSA: the stochastic approach for link-structure analysis.
+Complete answer aggregates for treelike databases: a novel approach to combine querying and navigation.
+Building a distributed full-text index for the web.
+Scaling question answering to the web.
+WebQuilt: A proxy-based approach to remote web usability testing.
+On the design of a learning crawler for topical resource discovery.
+A highly scalable and effective method for metasearch.
+Application of aboutness to functional benchmarking in information retrieval.
+Computing graphical queries over XML data.
+Genre taxonomy: A knowledge repository of communicative actions.
+PicASHOW: pictorial authority search by hyperlinks on the web.
+Knowledge encapsulation for focused search from pervasive devices.
+When experts agree: using non-affiliated experts to rank popular topics.
+Query clustering using user logs.
+Efficient web browsing on handheld devices using page and form summarization.
+Placing search in context: the concept revisited.
+Peer-to-peer data trading to preserve information.
+Collection statistics for fast duplicate document detection.
+Burst tries: a fast, efficient data structure for string keys.
+Theory of keyblock-based image retrieval.
+Improving retrieval feedback with multiple term-ranking function combination.
+An intelligent approach to handling imperfect information in concept-based natural language queries.
+A general-purpose compression scheme for large collections.
+Probabilistic models of information retrieval based on measuring the divergence from randomness.
+A semantic network-based design methodology for XML documents.
+Cumulated gain-based evaluation of IR techniques.
+QProber: A system for automatic classification of hidden-Web databases.
+Local versus global link information in the Web.
+Exploiting hierarchical domain structure to compute similarity.
+Early user - system interaction for database selection in massive domain-specific online environments.
+Performance issues and error analysis in an open-domain question answering system.
+A hierarchical access control model for video database systems.
+Region proximity in metric spaces and its use for approximate similarity search.
+The use of dynamic context to improve casual internet searching.
+Logical and physical design issues for smart card databases.
+Query-independent evidence in home page finding.
+Measuring praise and criticism: Inference of semantic orientation from association.
+MEGA - the maximizing expected generalization algorithm for learning complex query concepts.
+Coverage, relevance, and ranking: The impact of query operators on Web search engine results.
+Comparing the performance of collection selection algorithms.
+A semisupervised learning method to merge search engine results.
+Introduction to recommender systems: Algorithms and Evaluation.
+Evaluating collaborative filtering recommender systems.
+Ontological user profiling in recommender systems.
+Latent semantic models for collaborative filtering.
+Applying associative retrieval techniques to alleviate the sparsity problem in collaborative filtering.
+ recommendation algorithms.
+A study of smoothing methods for language models applied to information retrieval.
+Multidocument summarization: An added value to clustering in interactive retrieval.
+Anchor text mining for translation of Web queries: A transitive translation approach.
+Streams, structures, spaces, scenarios, societies (5s): A formal model for digital libraries.
+XIRQL: An XML query language based on information retrieval concepts.
+Relevance models to help estimate document and query parameters.
+Efficient mining of both positive and negative association rules.
+Trustworthy 100-year digital objects: Evidence after every witness is dead.
+PocketLens: Toward a personal recommender system.
+Distributed content-based visual information retrieval system on peer-to-peer networks.
+Qualitative decision making in adaptive presentation of structured information.
+Analysis of lexical signatures for improving information persistence on the World Wide Web.
+Fast phrase querying with combined indexes.
+Information systems interoperability: What lies beneath?
+Introduction to genomic information retrieval.
+An efficient normalized maximum likelihood algorithm for DNA sequence compression.
+A methodology for analyzing SAGE libraries for cancer profiling.
+Historical spatio-temporal aggregation.
+Incorporating contextual information in recommender systems using a multidimensional approach.
+Evaluating implicit measures to improve web search.
+Ad Hoc, self-supervising peer-to-peer search networks.
+CrimeNet explorer: a framework for criminal network knowledge discovery.
+A market-based approach to recommender systems.
+A novel document retrieval method using the discrete wavelet transform.
+Trustworthy 100-year digital objects: durable encoding for when it's too late to ask.
+Evaluating implicit feedback models using searcher simulations.
+Taxonomy generation for text segments: A practical web-based approach.
+Set-based vector model: An efficient approach for correlation-based ranking.
+Learning to crawl: Comparing classification schemes.
+Evolution of web site design patterns.
+Detection of video sequences using compact signatures.
+Boosting the performance of Web search engines: Caching and prefetching query results by exploiting historical usage data.
+A space-partitioning-based indexing method for multidimensional non-ordered discrete data spaces.
+Summary in context: Searching versus browsing.
+TOIS reviewers 2003-2005.
+User evaluation of Físchlár-News: An automatic broadcast news delivery system.
+A maximal figure-of-merit (MFoM)-learning approach to robust classifier design for text categorization.
+Enhancing relevance feedback in image retrieval using unlabeled data.
+iVIBRATE: Interactive visualization-based framework for clustering large datasets.
+Extraction of coherent relevant passages using hidden Markov models.
+Query enrichment for web-query classification.
+CLAIRE: A modular support vector image indexing and classification system.
+A large scale, corpus-based approach for automatically disambiguating biomedical abbreviations.
+Introduction to the special issue on XML retrieval.
+Articulating information needs in XML query languages.
+Dynamic element retrieval in a structured environment.
+Preparing heterogeneous XML for full-text search.
+A system for the static analysis of XPath.
+eXtended cumulated gain measures for the evaluation of content-oriented XML retrieval.
+Precision recall with user modeling (PRUM): Application to structured information retrieval.
+Named entity translation matching and learning: With application for mining unseen translations.
+An empirical investigation of user term feedback in text-based targeted image search.
+Creating and exploiting a comparable corpus in cross-language information retrieval.
+Interest-based personalized search.
+An exploration of the principles underlying redundancy-based factoid question answering.
+Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search.
+Soft pattern matching models for definitional question answering.
+Automatic classification of Web queries using very large unlabeled query logs.
+Answering XML queries by means of data summaries.
+Online supervised spam filter evaluation.
+Discovering personally meaningful places: An interactive clustering approach.
+On setting the hyper-parameters of term frequency normalization for information retrieval.
+Temporal profiles of queries.
+TOIS reviewers January 2006 through May 2007.
+Adaptive hypermedia through contextualized open hypermedia structures.
+ServiceFinder: A method towards enhancing service portals.
+YASS: Yet another suffix stripper.
+A novel XML music information retrieval method using graph invariants.
+Reducing human interactions in Web directory searches.
+Repeatable evaluation of search services in dynamic environments.
+Frequency-based identification of correct translation equivalents (FITE) obtained through transformation rules.
+A formal model of annotations of digital content.
+Does a one-size recommendation system fit all? the effectiveness of collaborative filtering based recommendation systems across different domains and search modes.
+Error correction vs. query garbling for Arabic OCR document retrieval.
+Classification-aware hidden-web text database selection.
+Writeprints: A stylometric approach to identity-level identification and similarity detection in cyberspace.
+Towards a belief-revision-based adaptive and context-sensitive information retrieval system.
+Locality-Based pruning methods for web search.
+DirichletRank: Solving the zero-one gap problem of PageRank.
+On ranking techniques for desktop search.
+Sentiment analysis in multiple languages: Feature selection for opinion classification in Web forums.
+Interpreting TF-IDF term weights as making relevance decisions.
+A basis for information retrieval in context.
+Incremental cluster-based retrieval using compressed cluster-skipping inverted files.
+Unified relevance models for rating prediction in collaborative filtering.
+Assessing multivariate Bernoulli models for information retrieval.
+Introduction to keeping, refinding and sharing personal information.
+How people recall, recognize, and reuse search results.
+Improved search engines and navigation preference in personal information management.
+Exploring memory in email refinding.
+Meta methods for model sharing in personal information systems.
+Organizing and managing personal electronic files: A mechanical engineer's perspective.
+Information scraps: How and why information eludes our personal information management tools.
+Editorial: Reviewer merits and review control in an age of electronic manuscript management systems.
+TOIS reviewers June 2007 through May 2008.
+Sound and complete relevance assessment for XML retrieval.
+Rank-biased precision for measurement of retrieval effectiveness.
+Trusting spam reporters: A reporter-based reputation system for email filtering.
+Extended probabilistic HAL with close temporal association for psychiatric query document retrieval.
+combinFormation: Mixed-initiative composition of image and text surrogates promotes information discovery.
+Toward automatic facet analysis and need negotiation: Lessons from mediated search.
+Automatic metadata generation using associative networks.
+An analysis of latent semantic term self-correlation.
+An adaptive threshold framework for event detection using HMM-based life profiles.
+Information filtering and query indexing for an information retrieval model.
+User language model for collaborative personalized search.
+Textual analysis of stock market prediction using breaking financial news: The AZFin text system.
+Clusters, language models, and ad hoc information retrieval.
+Robust result merging using sample-based score estimates.
+SEA: Segment-enrich-annotate paradigm for adapting dialog-based content for improved accessibility.
+Semisupervised SVM batch mode active learning with applications to image retrieval.
+Bounded coordinate system indexing for real-time video clip search.
+A novel framework for efficient automated singer identification in large music databases.
+PageRank: Functional dependencies.
+Building a framework for the probability ranking principle by a family of expected weighted rank.
+A few good topics: Experiments in topic set reduction for retrieval evaluation.
+A distributed, service-based framework for knowledge applications with multimedia.
+Cyberchondria: Studies of the escalation of medical concerns in Web search.
+MUADDIB: A distributed recommender system supporting device adaptivity.
+Probabilistic static pruning of inverted files.
+Statistical lattice-based spoken document retrieval.
+Semantic clustering of XML documents.
+Learning author-topic models from text corpora.
+Tuning the capacity of search engines: Load-driven routing and incremental caching to reduce and balance the load.
+Exploiting query logs for cross-lingual query suggestions.
+Efficient k-nearest neighbor searching in nonordered discrete data spaces.
+Exploiting neighborhood knowledge for single document summarization and keyphrase extraction.
+Effects of position and number of relevant documents retrieved on users' evaluations of system performance.
+Dynamic lightweight text compression.
+Arnoldi versus GMRES for computing pageRank: A theoretical contribution to google's pageRank problem.
+Learning with click graph for query intent classification.
+Using topic themes for multi-document summarization.
+Combining relations for information extraction from free text.
+STEvent: Spatio-temporal event model for social network discovery.
+Probabilistic models for answer-ranking in multilingual question-answering.
+Clustering-based incremental web crawling.
+PageRank without hyperlinks: Structural reranking using links induced by language models.
+An information-theoretic framework for semantic-multimedia retrieval.
+A similarity measure for indefinite rankings.
+The task-dependent effect of tags and ratings on social media access.
+Mining near-duplicate graph for cluster-based reranking of web video search results.
+Efficient set intersection for inverted indexing.
+Engineering basic algorithms of an in-memory text search engine.
+Utilizing inter-passage and inter-document similarities for reranking search results.
+Improving graph-walk-based similarity with reranking: Case studies for personal information management.
+Dependable filtering: Philosophy and realizations.
+Extraction, characterization and utility of prototypical communication groups in the blogosphere.
+Diagnostic Evaluation of Information Retrieval Models.
+Concept-Based Information Retrieval Using Explicit Semantic Analysis.
+Improving Recommender Systems by Incorporating Social Contextual Information.
+Contextual Video Recommendation by Multimodal Relevance and User Feedback.
+Effects of Usage-Based Feedback on Video Retrieval: A Simulation-Based Study.
+Identifying, Indexing, and Ranking Chemical Formulae and Chemical Names in Digital Documents.
+Content redundancy in YouTube and its application to video tagging.
+Exploring the music similarity space on the web.
+Toward a semantic granularity model for domain-specific information retrieval.
+Fast construction of the HYB index.
+Upper-bound approximations for dynamic pruning.
+Ranking function adaptation with boosting trees.
+GRAS: An effective and efficient stemming algorithm for information retrieval.
+Recommendation systems with complex constraints: A course recommendation perspective.
+Correlation-based retrieval for heavily changed near-duplicate videos.
+Query modeling for entity search based on terms, categories, and examples.
+Word-based self-indexes for natural language text.
+Static index pruning in web search engines: Combining term and document popularities with query views.
+Summarizing figures, tables, and algorithms in scientific publications to augment search results.
+Multiple testing in statistical analysis of systems-based information retrieval experiments.
+High-performance processing of text queries with tunable pruned term and term pair indexes.
+Large-scale validation and analysis of interleaved search evaluation.
+Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives.
+A Probabilistic Model to Combine Tags and Acoustic Similarity for Music Retrieval.
+Peer-to-Peer Information Retrieval: An Overview.
+Exploring Question Selection Bias to Identify Experts and Potential Experts in Community Question Answering.
+Predicting Query Performance by Query-Drift Estimation.
+Authorship Attribution Based on Specific Vocabulary.
+Oracle in Image Search: A Content-Based Approach to Performance Prediction.
+A Measurement Framework for Evaluating Emulators for Digital Preservation.
+Special issue on searching speech.
+Direct posterior confidence for out-of-vocabulary spoken term detection.
+The nonverbal structure of patient case discussions in multidisciplinary medical team meetings.
+Comparison of methods for language-dependent and language-independent query-by-example spoken term detection.
+Sibyl, a factoid question-answering system for spoken documents.
+An Online Learning Framework for Refining Recency Search Results with User Click Feedback.
+Detecting and Tracking Topics and Events from Web Search Logs.
+Detecting Fake Medical Web Sites Using Recursive Trust Labeling.
+Stability of Recommendation Algorithms.
+Sentimental Spidering: Leveraging Opinion Information in Focused Crawlers.
+Efficient Entity Translation Mining: A Parallelized Graph Alignment Approach.
+Aggregation Methods for Proximity-Based Opinion Retrieval.
+TOIS Reviewers: October 2009 To September 2012.
+Enriching Documents with Examples: A Corpus Mining Approach.
+Approximate Recall Confidence Intervals.
+X-Class: Associative Classification of XML Documents by Structure.
+The Effect of Social and Physical Detachment on Information Need.
+Regularized Latent Semantic Indexing: A New Approach to Large-Scale Topic Modeling.
+Modeling reformulation using query distributions.
+Transfer joint embedding for cross-domain named entity recognition.
+Studying the clustering paradox and scalability of search in highly distributed environments.
+Sparse hashing for fast multimedia search.
+Efficient fuzzy search in large text collections.
+About learning models with multiple query-dependent features.
+Mining pure high-order word associations via information geometry for information retrieval.
+Fast candidate generation for real-time tweet search with bloom filter chains.
+Discovering tasks from search engine query logs.
+(1)-workspace suffix sorting for constant alphabets.
+Behavioral dynamics on the web: Learning, modeling, and prediction.
+Fidelity, Soundness, and Efficiency of Interleaved Comparison Methods.
+Effective and Robust Query-Based Stemming.
+Improving Text Classification Accuracy by Training Label Cleaning.
+Social Link Prediction in Online Social Tagging Systems.
+The Impacts of Structural Difference and Temporality of Tweets on Retrieval Effectiveness.
+Efficient Video Stream Monitoring for Near-Duplicate Detection and Localization in a Large-Scale Repository.
+Suffix Array Construction in External Memory Using D-Critical Substrings.
+Document Score Distribution Models for Query Performance Inference and Prediction.
+Indexing Word Sequences for Ranked Retrieval.
+Cost-Aware Collaborative Filtering for Travel Tour Recommendations.
+Learning to Recommend Descriptive Tags for Questions in Social Forums.
+Efficient Index-Based Snippet Generation.
+Modeling Term Associations for Probabilistic Information Retrieval.
+Social-Sensed Image Search.
+Theoretical, Qualitative, and Quantitative Analyses of Small-Document Approaches to Resource Selection.
+Topic Modeling for Wikipedia Link Disambiguation.
+LCARS: A Spatial Item Recommender System.
+Georeferencing Wikipedia Documents Using Data from Social Media Sources.
+XXS: Efficient XPath Evaluation on Compressed XML Documents.
+Content-Based Video Copy Detection Benchmarking at TRECVID.
+Trust Prediction via Belief Propagation.
+Patent Query Formulation by Synthesizing Multiple Sources of Relevance Evidence.
+Matrix Factorization with Explicit Trust and Distrust Side Information for Improved Social Recommendation.
+Browse-to-Search: Interactive Exploratory Search with Visual Entities.
+Exploiting Representations from Statistical Machine Translation for Cross-Language Information Retrieval.
+Understanding Intrinsic Diversity in Web Search: Improving Whole-Session Relevance.
+Cache Design of SSD-Based Search Engine Architectures: An Experimental Study.
+Overview of the Special Issue on Contextual Search and Recommendation.
+User Activity Patterns During Information Search.
+Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users.
+Task-Based Information Interaction Evaluation: The Viewpoint of Program Theory.
+Profile-Based Summarisation for Web Site Navigation.
+A Comparative Analysis of Interleaving Methods for Aggregated Search.
+Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context.
+TASC: A Transformation-Aware Soft Cascading Approach for Multimodal Video Copy Detection.
+Two-Stage Document Length Normalization for Information Retrieval.
+Unsupervised Visual and Textual Information Fusion in CBMIR Using Graph-Based Methods.
+Dynamic User Modeling in Social Media Systems.
+Stochastic Query Covering for Fast Approximate Document Retrieval.
+Induced Sorting Suffixes in External Memory.
+Browsing Hierarchy Construction by Minimum Evolution.
+Metrics and Algorithms for Routing Questions to User Communities.
+A General SIMD-Based Approach to Accelerating Compression Algorithms.
+Understanding and Supporting Cross-Device Web Search for Exploratory Tasks with Mobile Touch Interactions.
+Selective Search: Efficient and Effective Search of Large Textual Collections.
+Belief Dynamics and Biases in Web Search.
+Fast-Forward Index Methods for Pseudo-Relevance Feedback Retrieval.
+The Query Change Model: Modeling Session Search as a Markov Decision Process.
+A Pólya Urn Document Language Model for Improved Information Retrieval.
+Identifying Opportunities for Valuable Encounters: Toward Context-Aware Social Matching Systems.
+Latent Discriminative Models for Social Emotion Detection with Emotional Dependency.
+Deep Dependency Substructure-Based Learning for Multidocument Summarization.
+KNET: A General Framework for Learning Word Embedding Using Morphological Knowledge.
+MWI-Sum: A Multilingual Summarizer Based on Frequent Weighted Itemsets.
+A Document Retrieval Model Based on Digital Signal Filtering.
+Transfer Learning to Infer Social Ties across Heterogeneous Networks.
+Power Law Distributions in Information Retrieval.
+Influence Estimation and Maximization in Continuous-Time Diffusion Networks.
+Volunteerism Tendency Prediction via Harvesting Multiple Social Networks.
+A Tensor-Based Information Framework for Predicting the Stock Market.
+Subspace Frequency Analysis-Based Field Indices Extraction for Electricity Customer Classification.
+On Effective Location-Aware Music Recommendation.
+Overview of the Special Issue on Trust and Veracity of Information in Social Media.
+Digital Wildfires: Propagation, Verification, Regulation, and Responsible Innovation.
+Geoparsing and Geosemantics for Social Media: Spatiotemporal Grounding of Content Propagating Rumors to Support Trust and Veracity Analysis during Breaking News.
+TISoN: Trust Inference in Trust-Oriented Social Networks.
+Misinformation in Online Social Networks: Detect Them All with a Limited Budget.
+Query Performance Prediction Using Reference Lists.
+Comparing Pointwise and Listwise Objective Functions for Random-Forest-Based Learning-to-Rank.
+Probabilistic Models for Contextual Agreement in Preferences.
+TopPRF: A Probabilistic Framework for Integrating Topic Space into Pseudo Relevance Feedback.
+Examining Additivity and Weak Baselines.
+Measuring the Semantic Uncertainty of News Events for Evolution Potential Estimation.
+Diversifying Query Auto-Completion.
+Accounting for Language Changes Over Time in Document Similarity Search.
+The Effects of Aggregated Search Coherence on Search Behavior.
+Causal Relationship Detection in Archival Collections of Product Reviews for Understanding Technology Evolution.
+Social Question Answering: Textual, User, and Network Features for Best Answer Prediction.
+Trip Recommendation Meets Real-World Constraints: POI Availability, Diversity, and Traveling Time Uncertainty.
+Answering Arabic Why-Questions: Baseline vs. RST-Based Approach.
+A Meta-Framework for Modeling the Human Reading Process in Sentiment Analysis.
+A Probabilistic Lifestyle-Based Trajectory Model for Social Strength Inference from Human Trajectory Data.
+Cross-Lingual Topic Discovery From Multilingual Search Engine Query Log.
+Ranking-Oriented Collaborative Filtering: A Listwise Approach.
+Joint Modeling of User Check-in Behaviors for Real-time Point-of-Interest Recommendation.
+Boosting Recommendation in Unexplored Categories by User Price Preference.
+Learning Informative Priors from Heterogeneous Domains to Improve Recommendation in Cold-Start User Domains.
+Context Trees: Augmenting Geospatial Trajectories with Context.
+Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees.
+Time-Aware Click Model.
+Hilbert Exclusion: Improved Metric Search through Finite Isometric Embeddings.
+Cost-Effective Online Trending Topic Detection and Popularity Prediction in Microblogging.
+On Crowdsourcing Relevance Magnitudes for Information Retrieval Evaluation.
+Targeted Advertising in Public Transportation Systems with Quantitative Evaluation.
+Re-Finding Behaviour in Vertical Domains.
+Inverted Treaps.
+Search Result Prefetching on Desktop and Mobile.
+Incorporating User Expectations and Behavior into the Measurement of Search Effectiveness.
+Improving the Quality of Recommendations for Users and Items in the Tail of Distribution.
+Encoding Syntactic Knowledge in Neural Networks for Sentiment Classification.
+Compact Indexing and Judicious Searching for Billion-Scale Microblog Retrieval.
+ Advertisement Matching in News Stream Applications.
+Search, Mining, and Their Applications on Mobile Devices: Introduction to the Special Issue.
+Collaborative Intent Prediction with Real-Time Contextual Data.
+A Time-Aware Personalized Point-of-Interest Recommendation via High-Order Tensor Factorization.
+Mining Exploratory Behavior to Improve Mobile App Recommendations.
+Curious Cat-Mobile, Context-Aware Conversational Crowdsourcing Knowledge Acquisition.
+Search by Screenshots for Universal Article Clipping in Mobile Apps.
+User Modeling on Demographic Attributes in Big Mobile Social Networks.
+A Neural Network Approach to Jointly Modeling Social Networks and Mobile Trajectories.
+Cross-Platform App Recommendation by Jointly Modeling Ratings and Texts.
+Version-Aware Rating Prediction for Mobile App Recommendation.
+Deriving User Preferences of Mobile Apps from Their Management Activities.
+Computing Urban Traffic Congestions by Incorporating Sparse GPS Probe Data and Social Media Data.
+DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data.
+Tweet Can Be Fit: Integrating Data from Wearable Sensors and Multiple Social Networks for Wellness Profile Learning.
+Understanding the Purpose of Permission Use in Mobile Apps.
+Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages.
+Clustered Elias-Fano Indexes.
+GVoS: A General System for Near-Duplicate Video-Related Applications on Storm.
+Unifying Virtual and Physical Worlds: Learning Toward Local and Global Consistency.
+IDF for Word N-grams.
+SWIM: Stepped Weighted Shell Decomposition Influence Maximization for Large-Scale Networks.
+Yum-Me: A Personalized Nutrient-Based Meal Recommender System.
+Search Result Diversification in Short Text Streams.
+Learning to Align Comments to News Topics.
+Inferring Dynamic User Interests in Streams of Short Texts for User Clustering.
+Enhancing Topic Modeling for Short Texts with Auxiliary Word Embeddings.
+Using Replicates in Information Retrieval Evaluation.
+ Similarity Search on Large Networks.
+Social Influence Spectrum at Scale: Near-Optimal Solutions for Multiple Budgets at Once.
+Active Learning for Classification with Maximum Model Change.
+DBpedia-Based Entity Linking via Greedy Search and Adjusted Monte Carlo Random Walk.
+Parallelization of Massive Textstream Compression Based on Compressed Sensing.
+Modeling and Mining Domain Shared Knowledge for Sentiment Analysis.
+What Does Affect the Correlation Among Evaluation Measures?
+AWARE: Exploiting Evaluation Measures to Combine Multiple Assessors.
+Understanding and Leveraging the Impact of Response Latency on User Behaviour in Web Search.
+Local Representative-Based Matrix Factorization for Cold-Start Recommendation.
+Suggesting Points-of-Interest via Content-Based, Collaborative, and Hybrid Fusion Methods in Mobile Devices.
+Towards Efficient Framework for Time-Aware Spatial Keyword Queries on Road Networks.
+Explicit Diversification of Event Aspects for Temporal Summarization.
+Exploiting User and Venue Characteristics for Fine-Grained Tweet Geolocation.
+Automatically Learning Topics and Difficulty Levels of Problems in Online Judge Systems.
+Selective Cluster Presentation on the Search Results Page.
+Joint Modeling of Participant Influence and Latent Topics for Recommendation in Event-based Social Networks.
+The Characteristics of Voice Search: Comparing Spoken with Typed-in Mobile Web Search Queries.
+: Inferring Personal Interests From Raw Footprints by Connecting the Offline World with the Online World.
+Unsupervised Learning of Parsimonious General-Purpose Embeddings for User and Location Modeling.
+GeoMF++: Scalable Location Recommendation via Joint Geographical Modeling and Matrix Factorization.
+QuoteRec: Toward Quote Recommendation for Writing.
+Swipe and Tell: Using Implicit Feedback to Predict User Engagement on Tablets.
+Further Insights on Drawing Sound Conclusions from Noisy Judgments.
+An Integrated Signature-Based Framework for Efficient Visual Similarity Detection and Measurement in Video Shots.
+Neural Vector Spaces for Unsupervised Information Retrieval.
+Sentence Relations for Extractive Summarization with Deep Neural Networks.
+Location Extraction from Social Media: Geoparsing, Location Disambiguation, and Geotagging.
+Factors Influencing Users' Information Requests: Medium, Target, and Extra-Topical Dimension.
+How Does Domain Expertise Affect Users' Search Interaction and Outcome in Exploratory Search?
+Location-aware Influence Maximization over Dynamic Social Streams.
+Interactive Intent Modeling for Exploratory Search.
+Personalized Context-Aware Point of Interest Recommendation.
+Binary Sketches for Secondary Filtering.
+ Workers in Large-Scale Crowdsourcing Systems.
+Learning to Adaptively Rank Document Retrieval System Configurations.
+Brotli: A General-Purpose Data Compressor.
+Product-Based Neural Networks for User Response Prediction over Multi-Field Categorical Data.
+From Question to Text: Question-Oriented Feature Attention for Answer Selection.
+A Deep Bayesian Tensor-Based System for Video Recommendation.
+Shallow and Deep Syntactic/Semantic Structures for Passage Reranking in Question-Answering Systems.
+Seed-Guided Topic Model for Document Filtering and Classification.
+Transfer to Rank for Heterogeneous One-Class Collaborative Filtering.
+Jointly Minimizing the Expected Costs of Review for Responsiveness and Privilege in E-Discovery.
+Adversarial Distillation for Efficient Recommendation with External Knowledge.
+SMAPH: A Piggyback Approach for Entity-Linking in Web Queries.
+Understanding Faceted Search from Data Science and Human Factor Perspectives.
+Top-N Recommendation with Multi-Channel Positive Feedback using Factorization Machines.
+MMALFM: Explainable Recommendation by Leveraging Reviews and Images.
+Fine-grained Geolocation of Tweets in Temporal Proximity.
+Spatiotemporal Representation Learning for Translation-Based POI Recommendation.
+Attentive Long Short-Term Preference Modeling for Personalized Product Search.
+Gaussian Processes for Rumour Stance Classification in Social Media.
+ELSA: A Multilingual Document Summarization Algorithm Based on Frequent Itemsets and Latent Semantic Analysis.
+A Context-Aware User-Item Representation Learning for Item Recommendation.
+A Multi-View-Based Collective Entity Linking Method.
+Risk-Sensitive Learning to Rank with Evolutionary Multi-Objective Feature Selection.
+-Gram Datasets Efficiently.
+Learning from Multi-annotator Data: A Noise-aware Classification Framework.
+Temporal Relational Ranking for Stock Prediction.
+Attentive Aspect Modeling for Review-Aware Recommendation.
+On Annotation Methodologies for Image Search Evaluation.
+Using Collection Shards to Study Retrieval Performance Effect Sizes.
+Personalised Reranking of Paper Recommendations Using Paper Content and User Behavior.
+Exploring High-Order User Preference on the Knowledge Graph for Recommender Systems.
+Deep Item-based Collaborative Filtering for Top-N Recommendation.
+Memory-Augmented Dialogue Management for Task-Oriented Dialogue Systems.
+Does Diversity Affect User Satisfaction in Image Search.
+The Effects of Working Memory, Perceptual Speed, and Inhibition in Aggregated Search.
+Funnelling: A New Ensemble Method for Heterogeneous Transfer Learning and Its Application to Cross-Lingual Text Classification.
+Search Result Reranking with Visual and Structure Information Sources.
+Joint Neural Collaborative Filtering for Recommender Systems.
+Question Answering in Knowledge Bases: A Verification Assisted Model with Iterative Training.
+Boosting Search Performance Using Query Variations.
+Offline versus Online Representation Learning of Documents Using External Knowledge.
+Constructing Click Model for Mobile Search with Viewport Time.
+Relevance Feedback: The Whole Is Inferior to the Sum of Its Parts.
+Adaptive Local Low-rank Matrix Approximation for Recommendation.
+Next and Next New POI Recommendation via Latent Behavior Pattern Inference.
+Modeling Embedding Dimension Correlations via Convolutional Neural Collaborative Filtering.
+Enhancing Personalized Recommendation by Implicit Preference Communities Modeling.
+ Volume 37.
+Geographic Diversification of Recommended POIs in Frequently Visited Areas.
+Understanding Assimilation-contrast Effects in Online Rating Systems: Modelling, Debiasing, and Applications.
+BoRe: Adapting to Reader Consumption Behavior Instability for News Recommendation.
+Explainable Product Search with a Dynamic Relation Embedding Model.
+A Multi-Label Classification Method Using a Hierarchical and Transparent Representation for Paper-Reviewer Recommendation.
+A Deep Learning Architecture for Psychometric Natural Language Processing.
+Next-Item Recommendation via Collaborative Filtering with Bidirectional Item Similarity.
+Emotional Conversation Generation Based on a Bayesian Deep Neural Network.
+The Effects of Task Complexity on the Use of Different Types of Information in a Search Assistance Tool.
+Investigating Searchers' Mental Models to Inform Search Explanations.
+Improving Implicit Recommender Systems with Auxiliary Data.
+ New Items.
+A Price-per-attention Auction Scheme Using Mouse Cursor Information.
+Efficient Neural Matrix Factorization without Sampling for Recommendation.
+An Enhanced Neural Network Approach to Person-Job Fit in Talent Recruitment.
+Jointly Learning Representations of Nodes and Attributes for Attributed Networks.
+Learning Semantic Representations from Directed Social Links to Tag Microblog Users at Scale.
+Emotion Dynamics of Public Opinions on Twitter.
+Learning or Forgetting? A Dynamic Approach for Tracking the Knowledge Proficiency of Students.
+Large-Scale Question Tagging via Joint Question-Topic Embedding Learning.
+Challenges in Building Intelligent Open-domain Dialog Systems.
+Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks.
+OutdoorSent: Sentiment Analysis of Urban Outdoor Images by Using Semantic and Deep Features.
+Safe Exploration for Optimizing Contextual Bandits.
+FNED: A Deep Network for Fake News Early Detection on Social Media.
+Keeping the Data Lake in Form: Proximity Mining for Pre-Filtering Schema Matching.
+Towards Question-based High-recall Information Retrieval: Locating the Last Few Relevant Documents for Technology-assisted Reviews.
+Nonuniform Hyper-Network Embedding with Dual Mechanism.
+Using an Inverted Index Synopsis for Query Latency and Performance Prediction.
+Robust Unsupervised Cross-modal Hashing for Multimedia Retrieval.
+Dual-factor Generation Model for Conversation.

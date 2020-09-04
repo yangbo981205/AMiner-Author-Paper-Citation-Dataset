@@ -1,0 +1,99 @@
+AISec - AI & Security Workshop:
+
+ASHES - Attacks and Solutions in Hardware Security:
+
+CCSW - Cloud Computing Security Workshop:
+
+CPS-SPC - Cyber-Physical Systems-Security and/or PrivaCy:
+
+CSAW - Computer Security Architecture Workshop:
+
+CyCAR - Security, Privacy and Dependability for CyberVehicles:
+
+CYSARM - Cyber-Security Arms Race:
+
+ -
+Digital Identity Management:
+
+ -
+Digital Rights Management Workshop:
+
+FEAST - Forming an Ecosystem Around Software Transformation:
+
+FMSE - Formal Methods in Security Engineering:
+
+IoT S&P - IoT Security and Privacy:
+
+MIST - Managing Insider Security Threats:
+
+MPS - Multimedia Privacy and Security:
+
+MTD - Moving Target Defense:
+
+NDA - Network Data Anonymization:
+
+PETShop - Language Support for Privacy-Enhancing Technologies:
+
+PLAS - Programming Languages and Analysis for Security:
+
+QoP - Quality of Protection:
+
+SafeConfig -
+
+SEGS - Smart Energy Grid Security:
+
+SIW - Security Information Workers:
+
+SPRO - Software PROtection:
+
+SPSM - Security and Privacy in Smartphones & Mobile Devices:
+
+STC -
+Scalable Trusted Computing:
+
+ -
+Storage Security And Survivability:
+
+ -
+Secure Web Services:
+
+TIS - Theory of Implementation Security
+
+TrustED - Trustworthy Embedded Devices
+
+VMSec -
+Virtual Machine Security:
+
+WAHC - Encrypted Computing & Applied Homomorphic Cryptography:
+
+WISCS - Information Sharing & Collaborative Security:
+
+ -
+Workshop on Privacy in the Electronic Society:
+
+Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, CCS 2019, London, UK, November 11-15, 2019.
+Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security, CCS 2018, Toronto, ON, Canada, October 15-19, 2018.
+Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, CCS 2017, Dallas, TX, USA, October 30 - November 03, 2017.
+Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security, Vienna, Austria, October 24-28, 2016.
+Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security, Denver, CO, USA, October 12-16, 2015.
+Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security, Scottsdale, AZ, USA, November 3-7, 2014.
+2013 ACM SIGSAC Conference on Computer and Communications Security, CCS'13, Berlin, Germany, November 4-8, 2013.
+the ACM Conference on Computer and Communications Security, CCS'12, Raleigh, NC, USA, October 16-18, 2012.
+Proceedings of the 18th ACM Conference on Computer and Communications Security, CCS 2011, Chicago, Illinois, USA, October 17-21, 2011.
+Proceedings of the 17th ACM Conference on Computer and Communications Security, CCS 2010, Chicago, Illinois, USA, October 4-8, 2010.
+Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 9-13, 2009.
+Proceedings of the 2008 ACM Conference on Computer and Communications Security, CCS 2008, Alexandria, Virginia, USA, October 27-31, 2008.
+Proceedings of the 2007 ACM Conference on Computer and Communications Security, CCS 2007, Alexandria, Virginia, USA, October 28-31, 2007.
+Proceedings of the 13th ACM Conference on Computer and Communications Security, CCS 2006, Alexandria, VA, USA, Ioctober 30 - November 3, 2006.
+Proceedings of the 12th ACM Conference on Computer and Communications Security, CCS 2005, Alexandria, VA, USA, November 7-11, 2005.
+Proceedings of the 11th ACM Conference on Computer and Communications Security, CCS 2004, Washington, DC, USA, October 25-29, 2004.
+Proceedings of the 10th ACM Conference on Computer and Communications Security, CCS 2003, Washington, DC, USA, October 27-30, 2003.
+Proceedings of the 9th ACM Conference on Computer and Communications Security, CCS 2002, Washington, DC, USA, November 18-22, 2002.
+CCS 2001, Proceedings of the 8th ACM Conference on Computer and Communications Security, Philadelphia, Pennsylvania, USA, November 6-8, 2001.
+CCS 2000, Proceedings of the 7th ACM Conference on Computer and Communications Security, Athens, Greece, November 1-4, 2000.
+CCS '99, Proceedings of the 6th ACM Conference on Computer and Communications Security, Singapore, November 1-4, 1999.
+CCS '98, Proceedings of the 5th ACM Conference on Computer and Communications Security, San Francisco, CA, USA, November 3-5, 1998.
+CCS '97, Proceedings of the 4th ACM Conference on Computer and Communications Security, Zurich, Switzerland, April 1-4, 1997.
+CCS '96, Proceedings of the 3rd ACM Conference on Computer and Communications Security, New Delhi, India, March 14-16, 1996.
+CCS '94, Proceedings of the 2nd ACM Conference on Computer and Communications Security, Fairfax, Virginia, USA, November 2-4, 1994.
+CCS '93, Proceedings of the 1st ACM Conference on Computer and Communications Security, Fairfax, Virginia, USA, November 3-5, 1993.

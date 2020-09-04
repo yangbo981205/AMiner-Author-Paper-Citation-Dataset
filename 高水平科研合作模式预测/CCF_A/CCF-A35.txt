@@ -1,0 +1,72 @@
+Proceedings of the ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 26-30, 2019.
+Proceedings of the 2nd ACM SIGSOFT International Workshop on Software Qualities and Their Dependencies, SQUADE@ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 26, 2019.
+Proceedings of the 3rd ACM SIGSOFT International Workshop on Machine Learning Techniques for Software Quality Evaluation, MaLTeSQuE@ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 27, 2019.
+Proceedings of the 2nd ACM SIGSOFT International Workshop on Software-Intensive Business: Start-ups, Platforms, and Ecosystems, IWSiB@ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 26, 2019.
+Proceedings of the 3rd ACM SIGSOFT International Workshop on App Market Analytics, WAMA@ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 27, 2019.
+Proceedings of the 1st ACM SIGSOFT International Workshop on Education through Advanced Software Engineering and Artificial Intelligence, EASEAI@ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 26, 2019.
+Proceedings of the 10th ACM SIGSOFT International Workshop on Automating TEST Case Design, Selection, and Evaluation, A-TEST@ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 16-17, 2019.
+Proceedings of the 2nd ACM SIGSOFT International Workshop on Ensemble-Based Software Engineering for Modern Computing Platforms, EnSEmble@ESEC/SIGSOFT FSE 2019, Tallinn, Estonia, August 26, 2019.
+Proceedings of the 2018 ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE 2018, Lake Buena Vista, FL, USA, November 04-09, 2018.
+Proceedings of the 4th ACM SIGSOFT International Workshop on Software Analytics, SWAN@ESEC/SIGSOFT FSE 2018, Lake Buena Vista, FL, USA, November 5, 2018.
+Proceedings of the 1st ACM SIGSOFT International Workshop on Ensemble-Based Software Engineering, EnSEmble@ESEC/SIGSOFT FSE 2018, Lake Buena Vista, FL, USA, November 4, 2018.
+Proceedings of the 1st ACM SIGSOFT International Workshop on Automated Specification Inference, WASPI@ESEC/SIGSOFT FSE, Lake Buena Vista, FL, USA, November 9, 2018.
+Proceedings of the 9th ACM SIGSOFT International Workshop on Automating TEST Case Design, Selection, and Evaluation, A-TEST@ESEC/SIGSOFT FSE 2018, Lake Buena Vista, FL, USA, November 05, 2018.
+Proceedings of the 4th ACM SIGSOFT International Workshop on NLP for Software Engineering, NL4SE@ESEC/SIGSOFT FSE 2018, Lake Buena Vista, FL, USA, November 4, 2018.
+Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2017, Paderborn, Germany, September 4-8, 2017.
+Proceedings of the 1st ACM SIGSOFT International Workshop on Software Engineering and Digital Forensics, SERF@ESEC/SIGSOFT FSE 2017, Paderborn, Germany, September 4, 2017.
+Proceedings of the 3rd ACM SIGSOFT International Workshop on Software Analytics, SWAN@ESEC/SIGSOFT FSE 2017, Paderborn, Germany, September 4, 2017.
+Proceedings of the 2nd ACM SIGSOFT International Workshop on App Market Analytics, WAMA@ESEC/SIGSOFT FSE 2017, Paderborn, Germany, September 5, 2017.
+Proceedings of the 8th ACM SIGSOFT International Workshop on Automated Software Testing, A-TEST@ESEC/SIGSOFT FSE 2017, Paderborn, Germany, September 4-5, 2017.
+Proceedings of the 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering, FSE 2016, Seattle, WA, USA, November 13-18, 2016.
+Proceedings of the 2nd International Workshop on Software Analytics, SWAN@SIGSOFT FSE 2016, Seattle, WA, USA, November 13, 2016.
+Proceedings of the International Workshop on App Market Analytics, WAMA@SIGSOFT FSE, Seattle, WA, USA, November 14, 2016.
+Proceedings of the 7th International Workshop on Automating Test Case Design, Selection, and Evaluation, A-TEST@SIGSOFT FSE 2016, Seattle, WA, USA, November 18, 2016.
+Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2015, Bergamo, Italy, August 30 - September 4, 2015.
+Proceedings of the 3rd International Workshop on Software Development Lifecycle for Mobile, DeMobile 2015, Bergamo, Italy, August 31 - September 4, 2015.
+Proceedings of the 1st International Workshop on Quality-Aware DevOps, QUDOS 2015, Bergamo, Italy, September 1, 2015.
+Proceedings of the 1st International Workshop on Control Theory for Software Engineering, CTSE@SIGSOFT FSE 2015, Bergamo, Italy, August 31 - September 04, 2015.
+Proceedings of the 7th International Workshop on Social Software Engineering, SSE 2015, Bergamo, Italy, September 1, 2015.
+Proceedings of the 6th International Workshop on Automating Test Case Design, Selection and Evaluation, A-TEST 2015, Bergamo, Italy, August 30-31, 2015.
+Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering, (FSE-22), Hong Kong, China, November 16 - 22, 2014.
+Proceedings of the 9th International Workshop on Advanced Modularization Techniques, AOAsia 2014, Hong Kong, China, November 16, 2014.
+Proceedings of the 1st International Workshop on Crowd-based Software Development Methods and Technologies, CrowdSoft 2014, Hong Kong, China, November 17, 2014.
+Proceedings of the 2nd International Workshop on Software Development Lifecycle for Mobile, DeMobile 2014, Hong Kong, China, November 17, 2014.
+Proceedings of the International Workshop on Innovative Software Development Methodologies and Practices, InnoSWDev 2014, Hong Kong, China, November 16, 2014.
+Proceedings of the 6th International Workshop on Social Software Engineering, SSE 2014, Hong Kong, China, November 17, 2014.
+Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, ESEC/FSE'13, Saint Petersburg, Russian Federation, August 18-26, 2013.
+The 1st International Workshop on Software Ecosystem Architectures, WEA 2013, Saint Petersburg, Russian Federation, August 19, 2013.
+20th ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE-20), SIGSOFT/FSE'12, Cary, NC, USA - November 11 - 16, 2012.
+SIGSOFT/FSE'11 19th ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE-19) and ESEC'11: 13th European Software Engineering Conference (ESEC-13), Szeged, Hungary, September 5-9, 2011.
+Proceedings of the 8th international workshop on Software quality, WoSQ@ESEC/FSE 2011, Szeged, Hungary, September 4, 2011.
+Proceedings of the 18th ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2010, Santa Fe, NM, USA, November 7-11, 2010.
+Proceedings of the Workshop on Future of Software Engineering Research, FoSER 2010, at the 18th ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2010, Santa Fe, NM, USA, November 7-11, 2010.
+Proceedings of the 7th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2009, Amsterdam, The Netherlands, August 24-28, 2009.
+SAVCBS'09, Proceedings of the 8th International Workshop on Specification and Verification of Component-Based Systems, August 25, 2009, Amsterdam, The Netherlands.
+Proceedings of the first international workshop on Context-aware software technology and applications, CASTA@ESEC/SIGSOFT FSE 2009, Amsterdam, The Netherlands, August 24, 2009.
+Proceedings of the 16th ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2008, Atlanta, Georgia, USA, November 9-14, 2008.
+Proceedings of the 4th International Workshop on Exception Handling, WEH 2008, Atlanta, Georgia, USA, November 14, 2008.
+Proceedings of the 2008 International Workshop on Recommendation Systems for Software Engineering, RSSE 2008, Atlanta, GA, USA, November 9, 2008.
+Proceedings of the 6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2007, Dubrovnik, Croatia, September 3-7, 2007.
+Proceedings of the 6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2007, Dubrovnik, Croatia, September 3-7, 2007, Companion Papers.
+Proceedings of the 2007 Workshop on Engineering Fault Tolerant Systems, EFTS 2007, Dubrovnik, Croatia, September 4, 2007.
+Proceedings of the 2007 Workshop on Domain Specific Approaches to Software Test Automation, DOSTA 2007, Dubrovnik, Croatia, September 4, 2007.
+Proceedings of the 2007 International Workshop on Engineering of Software Services for Pervasive Environments, ESSPE 2007, Dubrovnik, Croatia, September 4, 2007.
+Fourth International Workshop on Software Quality Assurance, SOQUA 2007, in conjunction with the 6th ESEC/FSE joint meeting, Dubrovnik, Croatia, September 3-4, 2007.
+9th International Workshop on Principles of Software Evolution (IWPSE 2007), in conjunction with the 6th ESEC/FSE joint meeting, Dubrovnik, Croatia, September 3-4, 2007.
+Proceedings of the 2007 Conference Specification and Verification of Component-Based Systems, SAVCBS 2007, Dubrovnik, Croatia, September 3-4, 2007.
+Proceedings of the International Workshop on Synthesis and Analysis of Component Connectors: in conjunction with the 6th ESEC/FSE joint meeting, SYANCO 2007, Dubrovnik, Croatia, September 3-4, 2007.
+Proceedings of the 2nd International Workshop on Service Oriented Software Engineering: in conjunction with the 6th ESEC/FSE joint meeting, IW-SOSWE 2007, Dubrovnik, Croatia, September 3, 2007.
+Proceedings of the 14th ACM SIGSOFT International Symposium on Foundations of Software Engineering, FSE 2006, Portland, Oregon, USA, November 5-11, 2006.
+Proceedings of the 10th European Software Engineering Conference held jointly with 13th ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2005, Lisbon, Portugal, September 5-9, 2005.
+Proceedings of the 12th ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2004, Newport Beach, CA, USA, October 31 - November 6, 2004.
+Proceedings of the 11th ACM SIGSOFT Symposium on Foundations of Software Engineering 2003 held jointly with 9th European Software Engineering Conference, ESEC/FSE 2003, Helsinki, Finland, September 1-5, 2003.
+Proceedings of the Tenth ACM SIGSOFT Symposium on Foundations of Software Engineering 2002, Charleston, South Carolina, USA, November 18-22, 2002.
+Proceedings of the 8th European Software Engineering Conference held jointly with 9th ACM SIGSOFT International Symposium on Foundations of Software Engineering 2001, Vienna, Austria, September 10-14, 2001.
+ACM SIGSOFT Symposium on Foundations of Software Engineering, an Diego, California, USA, November 6-10, 2000, Proceedings.
+Software Engineering - ESEC/FSE'99, 7th European Software Engineering Conference, Held Jointly with the 7th ACM SIGSOFT Symposium on the Foundations of Software Engineering, Toulouse, France, September 1999, Proceedings.
+SIGSOFT '98, Proceedings of the ACM SIGSOFT International Symposium on Foundations of Software Engineering, Lake Buena Vista, Florida, USA, November 3-5, 1998.
+Software Engineering - ESEC/FSE '97, 6th European Software Engineering Conference Held Jointly with the 5th ACM SIGSOFT Symposium on Foundations of Software Engineering, Zurich, Switzerland, September 22-25, 1997, Proceedings.
+SIGSOFT '96, Proceedings of the Fourth ACM SIGSOFT Symposium on Foundations of Software Engineering, San Francisco, California, USA, October 16-18, 1996.
+5th European Software Engineering Conference, Sitges, Spain, September 25-28, 1995, Proceedings.
+SIGSOFT '94, Proceedings of the Second ACM SIGSOFT Symposium on Foundations of Software Engineering, New Orleans, Louisiana, USA, December 6-9, 1994.
+Software Engineering - ESEC '93, 4th European Software Engineering Conference, Garmisch-Partenkirchen, Germany, September 13-17, 1993, Proceedings.

@@ -1,0 +1,2966 @@
+The Association for Computing Machinery.
+The IBM 701 Speedcoding System.
+Life Insurance Premium Billing and Combined Operations by Electronic Equipment.
+The IBM Magnetic Drum Calculator Type 650.
+Equipment Reliability as Applied to Analogue Computers.
+Survey of Analog Multiplication Schemes.
+Automatic Strain-Gage and Thermocouple Recording on Punched Cards.
+System Specifications for the DYSEAC.
+Problems in Acceptance Testing of Digital Computers.
+The Generation of Pseudo-Random Numbers on a Decimal Calculator.
+A Method of Solving Boundary Value Problems of Mathematical Physics on Punch Card Machines.
+A Method of Determining Plate Bending by Use of a Punched-Card Machine.
+Numerical Treatment of a Fourth Order Parabolic Partial Differential Equation.
+On Single vs. Triple Address Computing Machines.
+Running a Computer Efficiently.
+An Electronic Differential Analyzer as a Difference Analyzer.
+The IBM Type 702, An Electronic Data Processing Machine for Business.
+Calculation of Generalized Hypergeometric Series.
+Public Utility Customer Accounting on the Type 650 Magnetic Drum Data Processing Machine.
+On the Demonstration of High-Speed Digital Computers.
+A Multiple Purpose Orthonormalizing Code and its Uses.
+Some Programming Techniques for the ERMETH.
+Propagation of Truncation Errors in the Numerical Solution of Ordinary Differential Equations by Repeated Closures.
+A General Card-Program for the Evaluation of the Inverse Laplace Transform.
+Analogue Study of Electron Trajectories.
+Implicit vs. Explicit Recurrence Formulas for the Linear Diffusion Equation.
+Mechanisms and Robots.
+Analog Interpolator for Automatic Control.
+Testing of Operational Amplifiers.
+Maintenance and Acceptance Tests Used on the MIDAC.
+Reduction of Runs in Multiparameter Computations.
+Some Experiments in Ideal Factorization on the MIDAC.
+ORDVAC Solutions of the Dirichlet Problem.
+On the Vibration of a Square Clamped Plate.
+Memory Matrix Using Ferroelectric Condensers as Bistable Elements.
+Digital Computers for Real-Time Simulation.
+A Simple Desk-Calculator Method for Checking Binary Results of Digital-Computer Arithmetic Operations.
+Correction: "Testing of Operational Amplifiers".
+Precision Modulators and Demodulators.
+Transcode, A System of Automatic Coding for FERUT.
+Automatic Coding for the IBM 701.
+On the Computation of Exponential and Hyperbolic Functions Using Continued Fractions.
+Correlation Computation on Analog Devices.
+Presidential Address to the ACM.
+An Optimizing Program for the IBM 650.
+A Subroutine for Computations with Rational Numbers.
+Automatic Computations with Power Series.
+Simulation of Digital Filters on an Electronic Analog Computer.
+A Kutta Third-Order Procedure for Solving Differential Equations Requiring Minimum Storage.
+Report on Experiments in Approximating the Solution of a Differential Equation.
+Rates of Convergence in Numerical Solution of the Diffusion Equation.
+Erratum: "Some Experiments in Ideal Factorization on the MIDAC".
+EASIAC, A Pseudo-Computer.
+Conditional Monte Carlo.
+A Note on Microprogramming.
+Bibliography on Numerical Analysis.
+Wind Tunnel Data Reduction Using Paper-Tape Storage Media.
+The High-Speed Electronic Calculating Machine of the Academy of Sciences of the U.S.S.R..
+Sorting on Electronic Computer Systems.
+Sorting by Address Calculation.
+A General System for Handling Alphameric Information on the IBM 701 Computer.
+An Integrated Computation System for the ERA-1103.
+Transfer Function Simulation by Means of Amplifiers and Potentiometers.
+On the Generation of Errors in the Digital Evaluation of Continued Fractions.
+Some Inverse Characteristic Value Problems.
+A Note on the Midpoint Method of Integration.
+An Extension of Milne's Three-Point Method.
+An Iterative Procedure for the Calculation of the Eigenvalues and Eigenvectors of a Real Symmetric Matrix.
+A Description of a Cooperative Venture in the Production of an Automatic Coding System.
+The PACT I Coding System for the IBM Type 701.
+Logical Organization of the PACT I Compiler.
+Producing Computer Instructions for the PACT I Compiler.
+PACT Loop Expansion.
+Semi-Automatic Allocation of Data Storage for PACT I.
+Conclusions After Using the PACT I Advanced Coding Technique.
+On the Convergence of Matrix Iterations.
+Higher Order Differences in the Analogue Solution of Partial Differential Equations.
+Prevention of Propagation of Machine Errors in Long Problems.
+The Digital Approximation of Contours.
+Arithmetical Analysis of Digital Computing Nets.
+Retiring Presidential Address.
+Inaugural Presidential Address.
+Pact IA.
+A System for General-Purpose Analog-Digital Computation.
+A Stable Implicit Finite Difference Approximation to a Fourth Order Parabolic Equation.
+Rational Approximations to the Exponential Function.
+Chebyshev Approximation of a Continuous Function by a Class of Functions.
+Effect of Propagated Error on Inverse of Hilbert Matrix.
+Sorting Cards with Respect to a Modulus.
+The Design and Use of Hazard-Free Switching Networks.
+A Variant to Turing's Theory of Computing Machines.
+Test of an Inventory Control System on FERUT.
+Information Searching with the 701 Calculator.
+Hydrodynamic Problems Involving Large Fluid Distortions.
+Designing Computer Circuits with a Computer.
+The Down-Hill Method of Solving f(z)=0.
+An Automatic Programming Routine for the Elliott 401.
+Micro-Programming.
+Machine Features for a More Automatic Monitoring System on Digital Computers.
+Experiments in Chess.
+On the Recognition of Information With a Digital Computer.
+Burroughs Truth Function Evaluator.
+The Logic of Automata - Part I.
+Account Identification for Automatic Data Processing.
+Standardized Programming Methods and Universal Coding.
+Two Programming Techniques for One-Plus-One Address Computers.
+The Logic of Automata - Part II.
+The Characteristic Value-Vector Problem.
+The Method of Reduced Matrices for a General Transportation Problem.
+On Bateman's Method for Solving Linear Integral Equations.
+A Method for Increasing the Efficiency of Monte Carlo Integration.
+On the "Best" and "Least Qth" Approximation of an Overdetermined System of Linear Equations.
+Psychological Tests and Selection of Computer Programmers.
+Simulation Techniques for the Test and Evaluation of Real-Time Computer Programs.
+Computations in the Field of Engineering Chemistry.
+Symbolic Designations for Electrical Connections.
+Formal Procedures for Connecting Terminals with a Minimum Total Wire Length.
+SWAC Computations for Some m×n Scheduling Problems.
+Programmed Multiplication on the IBM 407.
+Errors Due to Overflow in Arithmetic Operations Particularly as Regards FINAC Electronic Computer.
+Condensation and Look-Up Procedures for Double Entry Tables.
+Maximizing Functions of Rotations - Experiments Concerning Speed of Diagonalization of Symmetric Matrices Using Jacobi's Method.
+Optimum Recurrence Formulas for a Fourth Order Parabolic Partial Differential Equation.
+ Distribution Function.
+Codes for the Classical Membrane Problem.
+Tshebysheff Approximations for Power Series.
+On the Computation of the Number of Solutions of Certain Trinomial Congruences.
+The Universal Electronic Digital Machine (URAL) for Engineering Research.
+Conference on Matrix Computations (Abstracts).
+Remarks on "The Digital Approximation of Contours".
+Erratum: "A Method for Increasing the Efficiency of Monte Carlo Integration".
+Language Translation.
+SWAC Experiments on the Use of Orthogonal Polynomials for Data Fitting.
+A Chebycheff Fitting Criterion.
+On the Truncation Error of Discrete Approximations to the Solutions of Dirichlet Problems in a Domain with Corners.
+Error Bounds for the Runge-Kutta Single-Step Integration Process.
+On the Numerical Solution of Characteristic Equations in Flutter Analysis.
+A "Curve Plotting" Routine for the Inverse Laplace Transform of Rational Functions.
+Automatic Preparation of Flow Chart Listings.
+Simplification of a Class of Boolean Functions.
+A High-Scanning-Rate Storage Device for Computer Applications.
+AYDAR, Special Purpose Analog Machine for Raw Data Reduction.
+Conference on Matrix Computations (Abstracts).
+Evaluation of Integrals Involving Combinations of Bessel Functions and Circular Functions.
+On Some Error Bounds of Givens.
+A High-Speed Computer Technique for the Transportation Problem.
+Finding Zeros of Arbitrary Functions.
+A Numerical Method of Solving a Heat Flow Problem with Moving Boundary.
+Sequential Functions.
+Realization of Events by Logical Nets.
+The Approximate Solution of Matrix Problems.
+A Property of Semi-Definite Hermitian Matrices.
+On Modern Matrix Iteration Processes of Bernoulli and Graeffe Type.
+A Note on Numerical Solution of Certain Linear Boundary Value Problems.
+On a Periodic Property of Pseudo-Random Sequences.
+On the Length of the Smallest Uniform Experiment which Distinguishes the Terminal States of a Machine.
+Methods of Simulating a Differential Analyzer on a Digital Computer.
+Calculating Open Loop Transfer Functions from Closed Loop Measurements.
+Computer Programming for Young Students.
+A Dual Master File System for a Tape Processing Computer.
+Coding and Code Compression.
+On the Inversion Complexity of a System of Functions.
+Generated Error in Rotational Tridiagonalization.
+Unitary Triangularization of a Nonsymmetric Matrix.
+The Application of Sequential Estimation to Computer Simulation and Monte Carlo Procedures.
+On Sequences of Pseudo-Random Numbers of Maximal Length.
+Proposed Methods for the Analog Solution of Fredholm's Integral Equation.
+On the Solution of Poisson's Difference Equation.
+A Method for Transposing a Matrix.
+Analysis of Shift Register Counters.
+Generalization: Key to Successful Electronic Data Processing.
+Three Levels of Linguistic Analysis in Machine Translation.
+Test Routines Based on Symbolic Logical Statements.
+Stable Predictor-Corrector Methods for Ordinary Differential Equations.
+Round-Off Error in the Numerical Solution of the Heat Equation.
+The Jacobi Method for Real Symmetric Matrices.
+Solution of Algebraic and Transcendental Equations on an Automatic Digital Computer.
+Origin and Development of the Chinese Abacus.
+Remarks On "Tshebysheff Approximations for Power Series".
+ACM Publication Policies and Plans.
+The Share 709 System: A Cooperative Effort.
+The Share 709 System: Programming and Modification.
+The Share 709 System: Machine Implementation of Symbolic Programming.
+The Share 709 System: Input-Output Translation.
+The Share 709 System: Programmed Input-Output Buffering.
+The Share 709 System: Supervisory Control.
+Radix Exchange - An Internal Sorting Method for Digital Computers.
+A New Method of Checking the Consistency of Precedence Matrices.
+Memory Efficiency.
+A Procedure for the Diagonalization of Normal Matrices.
+Stability of a Numerical Solution of Differential Equations.
+ +Ky6u6 y=0.
+Numerical Quadrature in Many Dimensions.
+A Note on the Downhill Method.
+Boundary Contraction Solution of Laplace's Differential Equation.
+A Method of Normalized Block Iteration.
+A Functional Canonical Form.
+On the Reduction of Superfluous States in a Sequential Machine.
+On Exponential Digital Filters.
+Letter to the Editor on "A Method for Transposing a Matrix".
+PILOT - A New Multiple Computer System.
+Stability of the Reduction of a Matrix to Almost Triangular and Triangular Forms by Elementary Similarity Transformations.
+Note on the Practical Computation of Proper Values.
+A Stability Criterion for Numerical Integration.
+Generation of Spherical Bessel Functions in Digital Computers.
+A Comparison of Methods for Generating Normal Deviates on Digital Computers.
+A Family of Quadrature Formulas Which Achieve High Accuracy in Composite Rules.
+An Algorithm for the Determination of the Polynomial of Best Minimax Approximation to a Function Defined on a Finite Point Set.
+Logic Matrices and the Truth Function Problem.
+Unnormalized Floating Point Arithmetic.
+On Computer Transcription of Manual Morse.
+Amphisbaenic Sorting.
+A General Analysis of Variance Scheme Applicable to a Computer With a Very Large Memory.
+A Comparison of Machine Organizations by Their Performance of the Iterative Solution of Linear Equations.
+On an Application of Dynamic Programming to the Synthesis of Logical Systems.
+On the Spectral Norms of Several Iterative Processes.
+th Best Path Problem.
+New Formulas for Computing Incomplete Elliptic Integrals of the First and Second Kind.
+Empirical Tests of an Additive Random Number Generator.
+Multifunctional Circuits in Functional Canonical Form.
+Input-Output Buffering and Fortran.
+Changing from Analog to Digital Programming by Digital Techniques.
+Sequential Machines, Ambiguity, and Dynamic Programming.
+On the Increase of Convergence Rates of Relaxation Procedures for Elliptic Partial Difference Equations.
+Boundary Contraction Solution of Laplace's Differential Equation II.
+Stability of a Numerical Solution of Differential Equations - Part II.
+A Generalization of a Theorem of Carr on Error Bounds for Rung-Kutta Procedures.
+A Numerical Method for Solving Control Differential Equations on Digital Computers.
+Truncation Error in the Graeffe Root-Squaring Method.
+Serial Correlation in the Generation of Pseudo-Random Numbers.
+A New Pseudo-Random Number Generator.
+Footnote to a Recent Paper.
+A Fortran-Compiled List-Processing Language.
+A Mechanical Proof Procedure and its Realization in an Electronic Computer.
+Floating-Point Arithmetics.
+A New Method for the Payment of Bills and the Transfer of Credit.
+Methods for Fitting Rational Approximations, Part I: Telescoping Procedures for Continued Fractions.
+A Necessary and Sufficient Condition for Stability of Partial Difference Equation Problems.
+A Starting Method for the Three-Point Adams Predictor-Corrector Method.
+A Modification of Filon's Method of Numerical Integration.
+Remarks on the Unitary Triangularization of a Nonsymmetric Matrix.
+Letter to the Editor.
+Corrigendum to "A Comparison of Machine Organizations by Their Performance of the Iterative Solution of Linear Equations".
+A Computing Procedure for Quantification Theory.
+On Relevance, Probabilistic Indexing and Information Retrieval.
+Computation of the Frequency Function of a Quadratic Form in Random Normal Variables.
+Analysis of Nets by Numerical Methods.
+On the Consistency of Precedence Matrices.
+On Sturm Sequences for Tridiagonal Matrices.
+On an Alternating Direction Method for Solving the Plate Problem with Mixed Boundary Conditions.
+Solution of Linear Systems by Richardson's Method.
+Synthesis of Binary Ring Counters of Given Periods.
+Computational Aids for Determining the Minimal Form of a Truth Function.
+Connective Properties Preserved in Minimal State Machines.
+Integer Programming Formulation of Traveling Salesman Problems.
+Techniques for Enumerating Veblen-Wedderburn Systems.
+On Pre-Conditioning of Matrices.
+Resultant Procedure and the Mechanization of the Graeffe Process.
+A Note on a Method of Computing the Gamma Function.
+Computer Time for Address Calculation Sorting.
+Finite Automata, Pattern Recognition and Perceptrons.
+Recursive Computation of Certain Integrals.
+Analysis of Internal Computer Sorting.
+Sets of Tapes Accepted by Different Types of Automata.
+The Use of Index Calculus and Mersenne Primes for the Design of a High-Speed Digital Multiplier.
+A System for Generating "Pronounceable" Names Using a Computer.
+Computer Generation of Optimized Subroutines.
+An Answer to Mr. J. A. Lively's Remarks on the Paper "Amphisbaenic Sorting".
+More on "Amphisbaenic Sorting".
+Minimizing Drum Latency Time.
+A Machine Method for Solving Polynomial Equations.
+Notes on a New Pseudo-Random Number Generator.
+System Handling of Functional Operators.
+Two-Dimensional Parity Checking.
+Computer-Feasible Method for Handling Incomplete Data in Regression Analysis.
+"Direct Search" Solution of Numerical and Statistical Problems.
+An Investigation of Real-Time Solution of the Transportation Problem.
+The Prospects for the Utilization of Informational-Logical Machines in Chemistry (USSR).
+Generalized Simulation of Post Office Systems.
+The Design and Simulation of an Information Processing System.
+The Association Factor in Information Retrieval.
+Error Analysis of Direct Methods of Matrix Inversion.
+A Modified Givens Method for the Eigenvalue Evaluation of Large Matrices.
+Numerical Solution of the Neumann and Mixed Boundary Value Problems by Boundary Contraction.
+Some Computational Results on "Two-Line" Iterative Methods for the Biharmonic Difference Equation.
+Zeros of Nonlinear Functions.
+Numerical Construction of Taylor Series Approximations for a Set of Simultaneous First Order Differential Equations.
+Categorizing Automata by W-Machine Programs.
+Compatibility of States in Input-Independent Machines.
+Automatic Indexing: An Experimental Inquiry.
+Locating the Largest Word in a File Using a Modified Memory.
+Sequencing Aspects of Multiprogramming.
+Design of Numerical Filters with Applications to Missile Data Processing.
+Turing Machines, Finite Automata and Neural Nets.
+5-Symbol 8-State and 5-Symbol 6-State Universal Turing Machines.
+A Generalized Tree Circuit.
+Some Methods for Simplifying Switching Circuits Using "Don't Care" Conditions.
+An Automatic Sequencing Procedure with Application to Parallel Programming.
+A Study of Methods for Systematically Abbreviating English Words and Names.
+Semantic Road Maps for Literature Searchers.
+A Descriptive Language for Symbol Manipulation.
+Design of Sequential Machines from Their Regular Expressions.
+Least Upper Bounds on Minimal Terminal State Experiments for Two Classes of Sequential Machines.
+Representation of Power Series in Terms of Polynomials, Rational Approximations and Continued Fractions.
+On Least Squares Solutions of Linear Equations.
+An Evaluation of Runge-Kutta Type Methods for Higher Order Differential Equations.
+Asymptotic Behavior of the Best Polynomial Approximation.
+Letter to the Editor: Optimized Subroutines.
+Letter to the Editor: Internal Sorting and External Merging.
+A General Translation Program for Phrase Structure Languages.
+A Theorem on Boolean Matrices.
+Some Combinatorial Properties of Certain Trees With Applications to Searching and Sorting.
+Algebra of Polynomials in Several Variables for a Digital Computer.
+Organization of a "Fixed-Plus-Variable" Structure Computer for Computation of Eigenvalues and Eigenvectors of Real Symmetric Matrices.
+Dynamic Programming Treatment of the Travelling Salesman Problem.
+Fifth-Order Methods for the Numerical Solution of Ordinary Differential Equations.
+Inversion of Triple-Diagonal Compound Matrices.
+A Technique for the Numerical Solution of Certain Integral Equations of the First Kind.
+Optimal Mesh Size in the Numerical Integration of an Ordinary Differential Equation.
+Stability of a Generalized Corrector Formula.
+On Quasicyclic Jacobi Methods.
+Mathematical Structure of Nonarithmetic Data Processing Procedures.
+Structure and Use of ALGOL 60.
+An Algorithm for Translating Boolean Expressions.
+Digital Pattern Recognition by Moments.
+Operations Useful for Similarity-Invariant Pattern Recognition.
+Maintained Activity in Neural Nets.
+A Note on the Self-Consistency of Definitions of Generalization and Inductive Inference.
+A Sorting Problem.
+Outline for a Logical Theory of Adaptive Systems.
+A Decision Procedure for Computations of Finite Automata.
+Multiple Reduction of Variable Dependency of Sequential Machines.
+The Structure of an Automaton and Its Operation-Preserving Transformation Group.
+Two Families of Languages Related to ALGOL.
+Oscillating Sort - A New Sort Merging Technique.
+Single Function Shifting Counters.
+A Method for Obtaining Specific Values of Compiling-Parameter Functions.
+Management Techniques for Real Time Computer Programming.
+Cumulative Binomial Probabilities.
+Matrices Associated With the Hitchcock Problem.
+On Approximation Methods for the Assignment Problem.
+An Algorithm for the Numerical Application of a Linear Operator.
+Alternating Direction Methods for Parabolic Systems in m Space Variables.
+Stability Properties of Predictor-Corrector Methods for Ordinary Differential Equations.
+Isomorphism Groups of Automata.
+On The Ambiguity Problem of Backus Systems.
+A Translator-Oriented Symbolic Programming Language.
+Algorithms for Parallel-Search Memories.
+Information Retrieval Based upon Latent Class Analysis.
+Correction and Addendum: "Organization of a 'Fixed-Plus-Variable' Structure Computer for Computation of Eigenvalues and Eigenvectors of Real Symmetric Matrices".
+A Semi-Decision Procedure for the Functional Calculus.
+The Number of Classes of Invertible Boolean Functions.
+Some Recursively Unsolvable Problems in ALGOL-Like Languages.
+On a Computer Program for Obtaining Irreducible Representations for Two-Level Multiple Input-Output Logical Systems.
+Further Results on the Structure of Sequential Machines.
+A Method for Obtaining Suboptimal Group-Testing Policies Using Dynamic Programming and Information Theory.
+On the Numerical Solution of Fredholm Integral Equations of the First Kind by the Inversion of the Linear System Produced by Quadrature.
+On the Danilewski Method.
+On a Weight Distribution Problem, with Application to the Design of Stochastic Generators.
+On the Coding of Jacobi's Method for Computing Eigenvalues and Eigenvectors of Real Symmetric Matrices.
+Formulas for Computing Incomplete Elliptic Integrals of the First and Second Kinds.
+Mixed Congruential Random Number Generators for Decimal Machines.
+A Simple Sorting Algorithm.
+Automatic Document Classification.
+Theorem-Proving on the Computer.
+Operations Which Preserve Definability in Languages.
+Detection of Generative Ambiguities in Context-Free Mechanical Languages.
+A State Variable Assignment Method for Asynchronous Sequential Switching Circuits.
+Computability of Recursive Functions.
+Erratum: "On a Computer Program for Obtaining Irreducible Representations for Two-Level Multiple Input-Output Logical Systems".
+Methods for Fitting Rational Approximations, Parts II and III.
+On Economization of Rational Functions.
+An Algorithm for Minimax Polynomial Curve-Fitting of Discrete Data.
+Efficiency of Predictor-Corrector Procedures.
+Monte Carlo Computations in Normal Correlation Problems.
+Addressing for Random-Access Storage with Multiple Bucket Capacities.
+Syntactic Analysis and Operator Precedence.
+A Computational Approach to Grammatical Coding of English Words.
+A Computer Program for a Solvable Case of the Decision Problem.
+Program for Double-Dummy Bridge Problems--A New Strategy for Mechanical Game Playing.
+Lattice Properties of Sequential Machines.
+Use of Decomposition Theory in the Solution of the State Assignment Problem of Sequential Machines.
+Erratum: "Formulas for Computing Incomplete Elliptic Integrals of the First and Second Kind".
+A Dictionary for Minimum Redundancy Encoding.
+Associative Document Retrieval Techniques Using Bibliographic Information.
+Feature Word Construction for Use with Pattern Recognition Algorithms: An Experimental Study.
+Tape Searching Techniques.
+Quotients of Context-Free Languages.
+Experiments with a Heuristic Compiler.
+A Heuristic Program that Solves Symbolic Integration Problems in Freshman Calculus.
+On the Structures of an Automaton and Its Input Semigroup.
+Words in the History of a Turing Machine with a Fixed Input.
+Finite Automata and the Set of Squares.
+An Elimination Method for Computing the Generalized Inverse of an Arbitrary Complex Matrix.
+On the Reduction of Number Range in the Use of the Graeffe Process.
+A Method for Finding All the Zeros of f(x).
+Numerical Solution of Systems of Nonlinear Equations.
+The Wilf Stability Criterion for Numerical Integration.
+Generalized Tree Circuit - The Basic Building Block of an Extended Decomposition Theory.
+On Ianov's Program Schemata.
+Tape Sets and Automata.
+Universality of Tag Systems with P=2.
+SNOBOL, A String Manipulation Language.
+Mixed Congruential Random Number Generators for Binary Machines.
+Calculations with Pseudo-Random Numbers.
+Two New Classes of Algorithms for Finding the Eigenvalues and Eigenvectors of Real Symmetric Matrices.
+A Direct Method for Chebyshev Approximation by Rational Functions.
+Tables of the Generalized Stirling Numbers of the First Kind.
+A Mathematical Method for the Automatic Scaling of a Function.
+Application of Ternary Algebra to the Study of Static Hazards.
+Estimation of Power Spectral Density by Filters.
+Message Route Control in a Large Teletype Network.
+Fact Retrieval and Deductive Question-Answering Information Retrieval Systems.
+Automatic Document Classification Part II. Additional Experiments.
+Input Data Source Limitations for Real-Time Operation of Digital Computers.
+Single-Scan Techniques for the Translation of Arithmetic Expressions into ALGOL 60.
+Function Evaluation in Unnormalized Arithmetic.
+Generalized Multistep Predictor-Corrector Methods.
+Convergence of Multipoint Iterative Methods.
+Multivariable Curve Interpolation.
+Tables for the Step-by-Step Integration of Ordinary Differential Equations of the First Order.
+Algebraic Specification of Statistical Models for Analysis of Variance Computations.
+Digital Computer System for Dynamic Analysis of Speech and Sound Feedback Mechanisms.
+An Efficient Algorithm for Finding Certain Minimum-Cost Procedures for Making Binary Decisions.
+Derivation of a Waiting-Time Factor for a Multiple-Bank Memory.
+An Approach to Multilevel Boolean Minimization.
+Properties of Linear Machines.
+Solvability of Machine Mappings of Regular Sets to Regular Sets.
+RS -Machines with Almost Blank Tape.
+Input-Error-Limiting Automata.
+Aitken-Hermite Interpolation.
+Evaluation of a Pseudorandom Normal Number Generator.
+Random-Access Stored-Program Machines, an Approach to Programming Languages.
+Nonlinear Programming with the Aid of a Multiple-Gradient Summation Technique.
+Some Analytical Procedures for Computers and Their Applications to a Class of Multidimensional Integrals.
+Generalized Inverse Computations Using the Gradient Projection Method.
+A Flow Analysis Algorithm.
+Mechanized Indexing Methods and Their Testing.
+Investigation of Computer Operating Time and System Capacity for Man-Machine Digital Systems.
+Can A Priori Probabilities Help in Character Recognition?
+Error Rates for Two Methods of Statistical Pattern Recognition.
+Derivatives of Regular Expressions.
+A Turing Machine Simulator.
+A Programming Language for Simulating Digital Systems.
+A Machine-Oriented Logic Based on the Resolution Principle.
+A New Normal-Form Theorem for Context-Free Phrase Structure Grammars.
+A Fixed Optimum Cell-Size for Records of Various Lengths.
+Sequential Search: A Method for Solving Constrained Optimization Problems.
+Uniform Random Number Generators.
+Numerical Evaluation of Symmetric Polynomials.
+A Fast Direct Solution of Poisson's Equation Using Fourier Analysis.
+Approximation of Solutions of Mixed Boundary Value Problems for Poisson's Equation by Finite Differences.
+A Modified Multistep Method for the Numerical Integration of Ordinary Differential Equations.
+An Error Bound for a Numerical Filtering Technique.
+Analysis and Synthesis of Stable Linear Sequential Circuits.
+Discrete Orthonormal Sequences.
+Examination of Multiple Roots and Root Clusters of a Polynomial Using the Bernoulli Procedure.
+On the Numerical Solution of Ordinary and Partial Differential Equations Using Integral Relations.
+Convergence Problems in Maehly's Second Method.
+The Automorphism Group of the Direct Product of Strongly Related Automata.
+Computer Studies of Turing Machine Problems.
+Optimal Decision Functions for Computer Character Recognition.
+A Predictor-Corrector Algorithm with an Increased Range of Absolute Stability.
+Number Base Conversion in a Significant Digit Arithmetic.
+A "Binary" System for Complex Numbers.
+Document Association and Classification Based on L-Languages.
+Concerning the Merging of Equal Length Tape Files.
+The Choice of Origin and Scale for Graphs.
+Threshold Logic Elements Used as a Probability Transformer.
+On the Time Required to Perform Addition.
+Digital Time-Domain Analysis of Systems with Widely Separated Poles.
+A Survey of Methods of Computing Minimax and Near-Minimax Polynomial Approximations for Functions of a Single Independent Variable.
+One View of Man-Machine Interaction.
+An Online Display for the Study of Approximating Functions.
+On a Problem Concerning a Central Storage Device Served by Multiple Terminals.
+A Modified Method of Latent Class Analysis for File Organization in Information Retrieval.
+Statistical Complexity of Algorithms for Boolean Function Minimization.
+On the Boolean Matrix Equation M....
+Chebyshev Solution of n+1 Linear Equations in n Unknowns.
+Generation of Primes by a One-Dimensional Real-Time Iterative Array.
+Location of the Maximum on Unimodal Surfaces.
+Ultimate-Definite and Symmetric-Definite Events and Automata.
+Generalized Cascade Decompositions of Automata.
+Mappings of languages by two-tape devices.
+Correction.
+Morphological Classification in the National Bureau of Standards Mechanical Translation System.
+Is Automatic Classification a Reasonable Application of Statistical Analysis of Text?
+Automatic Subject Recognition in Scientific Papers: An Empirical Study.
+Backtrack Programming.
+An Investigation of Some Computational Aspects of Integer Programming.
+Efficiency and Completeness of the Set of Support Strategy in Theorem Proving.
+On Mappings for Modular Arithmetic, I.
+On Mappings for Modular Arithmetic, II.
+Iterative Procedures for Nonlinear Integral Equations.
+Groups of Automorphisms and Sets of Equivalence Classes of Input for Automata.
+On the Automorphism Group of an Automaton.
+On Formalisms for Turing Machines.
+Analysis of Real Time Multiprogramming.
+Segmentation and the Design of Multiprogrammed Computer Systems.
+Updating the Product Form of the Inverse for the Revised Simplex Method.
+Program and Addressing Structure in a Time-Sharing Environment.
+ALPHA - An Automatic Programming System of High Efficiency.
+Large Parallel Computers.
+Realization of Input-Output Relations by Sequential Machines.
+Index Register Allocation.
+Ambiguity in context free languages.
+On the Syntax of Algorithmic Languages.
+Convergence Problems in Maehly's Second Method: Part II.
+Pseudo-Runge-Kutta Methods Involving Two Points.
+A Procedure for Nonlinear Least Squares Refinement in Adverse Practical Conditions.
+A Method for the Solution of Roots of a Nonlinear Equation and for Solution of the General Eigenvalue Problem.
+A Note on Linear Extrapolation of Multivariable Functions by the Monte Carlo Method.
+On Asymptotic Estimates in Switching and Automata Theory.
+Two Complete Axiom Systems for the Algebra of Regular Events.
+Group-Type Automata.
+Sequential Processing Machines (S.P.M) Analyzed With a Queuing Theory Model.
+BE VISION, A Package of IBM 7090 FORTRAN Programs to Draw Orthographic Views of Combinations of Plane and Quadric Surfaces.
+A Mechanical Analysis of the Cyclic Structure of Undirected Linear Graphs.
+Analysis of Graphs by Connectivity Considerations.
+The Solvability of the Derivability Problem for One-Normal Systems.
+A Theory of Computer Instructions.
+On the Class of Predicates Decidable by Two-Way Multitape Finite Automata.
+The Synthesis of Recursive Digital Filters.
+Unrecognizable Sets of Numbers.
+Boundary Value Techniques for the Numerical Solution of Certain Initial Value Problems in Ordinary Differential Equations.
+Numerical Experiments in Conformal Mapping by the Method of Orthonormal Polynomials.
+Some Results on Multicategory Pattern Recognition.
+Time-Shared Computer Operations With Both Interarrival and Service Times Exponential.
+Conversion of Limited-Entry Decision Tables to Optimal Computer Programs I: Minimum Average Processing Time.
+Monogenic Post Normal Systems of Arbitrary Degree.
+Preservation of unambiguity and inherent ambiguity in context-free languages.
+Use of Multiwrite for General Programmability of Search Memories.
+Predictor-Corrector Methods of High Order With Improved Stability Characteristics.
+Automatic Controlled Precision Calculations.
+Internal Sorting by Radix Plus Sifting.
+Generalized Single-Ended Counters.
+Numerical Inversion of Laplace Transforms Using Laguerre Functions.
+A Class of Integration Formulas.
+On the "Reverse Order Law" Related to the Generalized Inverse of Matrix Products.
+An Abstract Machine for Symbolic Computation.
+Corrigenda: "Statistical Complexity of Algorithms for Boolean Function Minimization".
+Sequential Operations in Digital Picture Processing.
+A Formal System for Differentiation.
+An Extension of Romberg Integration Procedures to N-Variables.
+Statistical Determination of Certain Mathematical Constants and Functions Using Computers.
+Analysis of the Address Assignment Problem for Clustered Keys.
+Two-Tape Simulation of Multitape Turing Machines.
+On the Length of Programs for Computing Finite Binary Sequences.
+On Context-Free Languages.
+The Unsolvability of the Recognition of Linear Context-Free Languages.
+The Independence of Inherent Ambiguity From Complementedness Among Context-Free Languages.
+The Immortality Problem for Post Normal Systems.
+Discrete Analogs for Continuous Filters.
+Digital One-Third Octave Spectral Analysis.
+The Placement of Computer Logic Modules.
+The Synthesis of Algorithmic Systems.
+Sieving Procedures on a Digital Computer.
+Statistical Discrimination of the Synonymy/Antonymy Relationship Between Words.
+A Computer Program for the Nonnumerical Testing and Reduction of Sets of Algebraic Partial Differential Equations.
+Computable Error Bounds for Direct Solution of Linear Equations.
+A Modification of Davidon's Minimization Method to Accept Difference Approximations of Derivatives.
+A Multistep Generalization of Runge-Kutta Methods With Four or Five Stages.
+Fourier Analysis of Uniform Random Number Generators.
+Binomial-Weighted Orthogonal Polynomials.
+Subresultants and Reduced Polynomial Remainder Sequences.
+Modified Multistep Methods Based on a Nonpolynomial Interpolant.
+Multistep Methods With Modified Predictors and Correctors.
+A Remark on Post Normal Systems.
+Stack automata and compiling.
+A Survey of Microcellular Research.
+Time-shared Systems: a theoretical treatment.
+Some Mathematical Considerations of Time-Sharing Scheduling Algorithms.
+Error Probability in Decision Functions for Character Recognition.
+Models of Computations and Systems - Evaluation of Vertex Probabilities in Graph Models of Computations.
+Path Detection in Multidimensional Iterative Arrays.
+A Convergent Algorithm for Solving Polynomial Algorithms.
+Iterative Refinement in Floating Point.
+A Machine-Independent Theory of the Complexity of Recursive Functions.
+A Uniform Random Number Generator Based on the Combination of Two Congruential Generators.
+Resolution by Iteration of Some Nonlinear Systems.
+A Test for Instability in the Numerical Solution of Ordinary Differential Equations.
+A Procedure for Checking Equality of Regular Expressions.
+On the Numerical Solution of a Quasi-Linear Elliptic Equation.
+Irreducible Topological Components of an Arbitrary Boolean Truth Function and Generation of Their Minimal Coverings.
+Note Concerning the Algebraic Theory of Automata.
+One-way stack automata.
+Corrigendum: "On the Boolean Matrix Equation M...".
+Corrigendum: "The Automorphism Group of the Direct Product of Strongly Related Automata".
+Probability Models for Multiprogramming Computer Systems.
+Production and Stabilization of Real-Time Task Schedules.
+Roots of Star Events.
+Some Bounds on the Storage Requirements of Sequential Machines and Turing Machines.
+Parenthesis Grammars.
+Matrix Equations and Normal Forms for Context-Free Grammars.
+Analysis of Factorial Experiments Using Generalized Matrix Operations.
+A Method for Constructing Circuit Codes.
+An Algorithm for Generating Stable Feedback Shift Registers of Order n.
+On the Compatibility of a Given Solution With the Data of a Linear System.
+Numerical Solution of Parabolic Partial Differential Equations With Two-Point Boundary Conditions by Use of the Method of Lines.
+The Organization of Computations for Uniform Recurrence Equations.
+Application of Parallel Processing to Numerical Weather Prediction.
+Programming Language for Automata.
+Nondeterministic Algorithms.
+Real-Time Definable Languages.
+On Memory Requirements for Context-Free Language Recognition.
+Periodic Decomposition of Sequential Machines.
+The Solvability of the Halting Problem for 2-State Post Machines.
+Minimal Experiments for Input-Independent Machines.
+Automatic Theorem Proving With Renamable and Semantic Resolution.
+The Concept of Demodulation in Theorem Proving.
+Morphology of "Information Flow".
+An Algorithm for Reconstructing Protein and RNA Sequences.
+On a Continuous Method of Approximating Solutions of the Heat Equation.
+Conversion of Limited-Entry Decision Tables to Optimal Computer Programs II: minimum storage requirement.
+Matrix Inversion Using Parallel Processing.
+On Computing the Fixed-Point Probability Vector of Ergodic Transition Matrices.
+Solution of Ordinary Differential Equations Using Two "Off-Step" Points.
+Some New Results in Pseudo-Random Number Generation.
+On the Time Required to Perform Multiplication.
+Computers Then and Now.
+Computer Evaluation of Indexing and Text Processing.
+PL360, a Programming Language for the 360 Computers.
+Solution of Integer Linear Programming Problems by Direct Search.
+Experiments With a Multipurpose, Theorem-Proving Heuristic Program.
+Statistical Estimation of the Numerical Solution of a Fredholm Integral Equation of the First Kind.
+Numerical Inversion of Laplace Transforms by Relating Them to the Finite Fourier Cosine Transform.
+Some Completeness Results in the Mathematical Theory of Computation.
+Structure and Transition-Preserving Functions of Finite Automata.
+A Permutation Network.
+A Formalism for Program Translation.
+Structuring of Parallel Algorithms.
+The Perspective Representation of Functions of Two Variables.
+A Mathematical Model for the Analysis of Contour-Line Data.
+A Bidirectional Simplex Algorithm.
+Mechanical Theorem-Proving by Model Elimination.
+An Adaptation of the Fast Fourier Transform for Parallel Processing.
+Quasi-Newton Methods for Nonlinear Equations.
+Common Solutions for n Matrix Equations With Applications.
+Analysis in the Computable Number Field.
+A Remark on Acceptable Sets of Numbers.
+Generalized Pair Algebra With Applications to Automata Theory.
+Decidable and Undecidable Questions About Automata.
+Computational Complexity of One-Tape Turing Machine Computations.
+Corrigendum: "A Permutation Network".
+Analysis of Two Time-Sharing Algorithms Designed for Limited Swapping.
+A Procedure for Detecting Intersections of Three-Dimensional Objects.
+Resolution With Merging.
+On the Recognition of Primes by Automata.
+A Modification of Nordsieck's Method Using an "Off-Step" Point.
+Inversion of Modified Symmetric Matrices.
+The Unsolvability of the Equivalence Problem for Lambda-Free Nondeterministic Generalized Machines.
+Relations Between Time and Tape Complexities.
+One-way nondeterministic real-time list-storage languages.
+A Universal Syntax-Directed Top-Down Analyzer.
+Syntax-Directed Transduction.
+Corrigendum: "PL360, a Programming Language for the 360 Computers".
+Semantic Clustering of Index Terms.
+PATRICIA - Practical Algorithm To Retrieve Information Coded in Alphanumeric.
+The Influence of Data Base Characteristics and Usage on Direct Access File Organization.
+Feedback Queueing Models for Time-Shared Systems.
+Queueing Analysis of the IBM 2314 Disk Storage Facility.
+Scheduling Parallel Computations.
+A Method for Obtaining Skeletons Using a Quasi-Euclidean Distance.
+A Formal Deductive Problem-Solving System.
+Indexed Grammars - An Extension of Context-Free Grammars.
+On the Independence of Real-Time Definability and Certain Structural Properties of Context-Free Languages.
+Degrees of Unsolvability in Formal Grammars.
+Representation of Events in the von Neumann Cellular Model.
+A Theorem for the Stability of General Predictor-Corrector Methods for the Solution of Systems of Differential Equations.
+Generalized Multistep Methods in Satellite Orbit Computation.
+A Correction Concerning Resolution.
+A Policy for JACM.
+One Man's View of Computer Science.
+MERCURY: H system for the computer-aided distribution of technical reports.
+Automatic Question-Answering of English-Like Questions About Simple Diagrams.
+Semi-Automated Mathematics.
+Recursive Formulas for the Evaluation of the Convolutions Integral.
+Analysis of a Drum Input/Output Queue Under Scheduled Operation in a Paged Computer System.
+An Infinite Hierarchy of Context-Free Languages.
+Programmed Grammars and Classes of Formal Languages.
+On Decompositions of Regular Events.
+On the Length of Programs for Computing Finite Binary Sequences: statistical considerations.
+On the Complexity of Undecidable Problems in Automata Theory.
+Some Results on Tape-Bounded Turing Machines.
+A Model of Replication.
+Experiments With Some Programs That Search Game Trees.
+Automorphisms of Polyadic Automata.
+A Note on Star-Free Events.
+Synchronizations and General Repetitive Machines, with Applications to Ultimate Definite Automata.
+The Time Required for Group Multiplication.
+Properties of Programs and the First-Order Predicate Calculus.
+A Direct Proof of the Inherent Ambiguity of a Simple Context-Free Language.
+Translation Networks and Function Composition.
+New Methods in Automatic Extracting.
+Lattice Approximations to the Minima of Functions of Several Variables.
+Linear Multistep Methods for Volterra Integro-Differential Equations.
+Inversion of Matrices by Partitioning.
+A Time-Sharing Queue with a Finite Number of Customers.
+The Recursive Unsolvability of the Decision Problem for the Class of Definite Formulas.
+Toward a Theory of Enumerations.
+A Simplified Format for the Model Elimination Theorem-Proving Procedure.
+A Planning Problem Solver Based on Look-Ahead in Stochastic Game Trees.
+Nested Stack Automata.
+On the Simplicity and Speed of Programs for Computing Infinite Sets of Natural Numbers.
+A Syntax-Analysis Procedure for Unambiguous Context-Free Grammars.
+On the Periodic Representations and the Reducibility of Periodic Automata.
+Lattice Functions, Pair Algebras, and Finite-State Machines.
+An Algorithm for Finding a Minimum Equivalent Graph of a Digraph.
+A Generalization of Shift-Register Sequence Generators.
+Organization of Large Scale Fourier Processors.
+Notes on the Adaptive Simpson Quadrature Routine.
+A New Look at the Numerical Integration of Ordinary Differential Equations.
+On Monotone Decomposable Operators.
+A Stochastic Approximation Method for Optimization Problems.
+Sufficient Conditions for the Success of GPS.
+Continuous Skeletons from Digitized Images.
+Halting Stack Automata.
+A Cycle Generation Algorithm for Finite Undirected Linear Graphs.
+File Organization: On the Selection of Random Access Index Points for Sequential Files.
+Nonnormality and Jordan Condition Numbers of Matrices.
+Finite Difference Scheme for a Third Boundary Value Problem.
+Toeplitz Matrix Inversion: The Algorithm of W. F. Trench.
+Analysis and Optimization of Disk Storage Devices for Time-Sharing Systems.
+Random Sets in Subrecursive Hierarchies.
+Computer Time-Sharing Queues with Priorities.
+Erratum: "Analysis of a Drum Input/Output Queue Under Scheduled Operation in a Paged Computer System".
+Erratum: "Automorphisms of polyadic automata".
+Erratum: "Mechanical Theorem-Proving by Model Elimination".
+On the Role of the ACM Journal.
+Two-way balloon automata and AFL.
+Total Precedence Relations.
+General Problems of Formal Grammars.
+A Note on Ambiguity of Context-Free Languages and Presentations of Semilinear Sets.
+An Efficient Algorithm for Graph Isomorphism.
+Storage Requirements for Information Handling Centers.
+An Algorithm for Convex Polytopes.
+Symbolic Generation of an Optimal Crout Algorithm for Sparse Systems of Linear Equations.
+Note on a Least Squares Inverse for a Matrix.
+Algorithmic Solution of the Change-Making Problem.
+Waiting Time Distributions for Processor-Sharing Systems.
+A Queueing Theory Study of Round-Robin Scheduling of Time-Shared Computer Systems.
+Connectivity in Digital Pictures.
+Thresholded Convolutions Operations.
+Simplification of the Covering Problem with Application to Boolean Expressions.
+An Algorithm for Modular Partitioning.
+Form and Content in Computer Science (1970 ACM turing lecture).
+A Programming Language With Automatic Goal Generation and Selection.
+Connectivity and Reversibility in Automata.
+Computational Complexity and Probability Constructions.
+Kronecker Matrices, Computer Implementation, and Generalized Spectra.
+Sequences of Numbers That Are Approximately Completely Equidistributed.
+Methods of Search for Solving Polynomial Equations.
+Stability Analysis of a New Algorithm Used for Integrating a System of Ordinary Differential Equations.
+Application of the Method of Lines to Parabolic Partial Differential Equations With Error Estimates.
+An Approach to Solving Linear Discrete Optimization Problems.
+A Feedback Queueing System With Batch Arrivals, Bulk Service, and Queue-Dependent Service Time.
+Preemptive Scheduling of Real-Time Tasks on Multiprocessor Systems.
+The Logical Complexity of Geometric Properties in the Plane.
+On Limit Properties in Digitization Schemes.
+An Algorithmic Semantics for ALGOL 60 Identifier Denotation.
+Accelerating List Processing in Discrete Programming.
+On Canonical Forms and Simplification.
+On the Approximate Solution of Free Boundary Problems Using Finite Differences.
+An Initial-Value Theory for Fredholm Integral Equations With Semidegenerate Kernels.
+Nonlinear Interpolation of Multivariable Functions by the Monte Carlo Method.
+Optimization of Memory Hierarchies in Multiprogrammed Systems.
+Nonlinear Regression With Linear Constraints: An Extension of the Magnified Diagonal Method.
+Parsing of Graph-Representable Pictures.
+The Use of Information in Sorting.
+Samplesort: A Sampling Approach to Minimal Storage Tree Sorting.
+Tree Structures for Optimal Searching.
+Controllability of Nonlinear Sequential Networks.
+A Linear Format for Resolution With Merging and a New Technique for Establishing Completeness.
+Interpolation Theorems for Resolution in Lower Predicate Calculus.
+Legality and Other Properties of Graph Models of Computations.
+Formalization of Properties of Functional Programs.
+An Analysis of Some Graph Theoretical Cluster Techniques.
+A New Method of Interpolation and Smooth Curve Fitting Based on Local Procedures.
+Computer Interval Arithmetic: Definition and Proof of Correct Implementation.
+Pseudo-Runge-Kutta Methods of the Fifth Order.
+A Method for Solving Large Matrix Equations Reduced From Fredholm Integral Equations of the Second Kind.
+Accumulation of Round-Off Error in Fast Fourier Transforms.
+Efficiency of a Procedure for Near-Minimax Approximation.
+Error Bounds for Zeros of a Polynomial Based Upon Gerschgorin's Theorems.
+Necessary and Sufficient Conditions for Dynamic Programming of Combinatorial Type.
+Statistical Properties of the Buddy System.
+The Unit Proof and the Input Proof in Theorem Proving.
+On the Efficiency of Algorithms.
+The Generation of Optimal Code for Arithmetic Expressions.
+The Equivalence Problem of Simple Programs.
+Errata: "On the Periodic Representations and the Reducibility of Periodic Automata".
+Some Thoughts on Scientific Information Dissemination.
+Characterizations of Pushdown Machines in Terms of Time-Bounded Computers.
+An Augmented Content-Addressed Memory Array for Implementation With Large-Scale Integration.
+Optimal Sequential Partitions of Graphs.
+ Solutions of Overdetermined Linear Equations.
+A Mean Square Estimate of the Generated Roundoff Error in Constant Matrix Iterative Processes.
+Topological Problems Arising When Solving Boundary Value Problems for Elliptic Partial Differential Equations by the Method of Finite Differences.
+A Graphical Search for Stiffly Stable Methods for Ordinary Differential Equations.
+Principles of Optimal Page Replacement.
+Effects of Constrained Information on Player Decisions in Experimental Business Simulation: Some Empirical Evidence.
+The Boundary Count of Digital Pictures.
+An Operator Which Locates Edges in Digitized Pictures.
+Completeness of Linear Refutation for Theories with Equality.
+Some Comments from a Numerical Analyst.
+A Grammatical Characterization of One-Way Nondeterministic Stack Languages.
+A Mathematical Method for Analyzing the Growth of a Scientific Discipline.
+Probability Models for Buffer Storage Allocation Problems.
+A Cyclic-Queue Model of System Overhead in Multiprogrammed Computer Systems.
+Busy Period Analysis of a Time-Sharing System Modeled as a Semi-Markov Process.
+On the Topological Properties of Quantized Spaces, I. The Notion of Dimension.
+On the Topological Properties of Quantized Spaces, II. Connectivity and Order of Connectivity.
+Some Parallel Thinning Algorithms for Digital Pictures.
+Chow Parameters in Threshold Logic.
+On Effective Procedures for Speeding Up Algorithms.
+Deterministic Pushdown Store Machines and Real-Time Computation.
+A Note on Degrees of Self-Describing Turing Machines.
+Simple Computation-Universal Cellular Spaces.
+On the Optimal Solutions to AND/OR Series-Parallel Graphs.
+Numerical Analysis of a Nonlinear Diffusion Problem.
+The Runs Up-and-Down Performance of Tausworthe Pseudo-Random Number Generators.
+An Accessing Model.
+Analysis of Remote Terminal Backlogs under Heavy Demand Conditions.
+An Estimate of the Store Size Necessary for Dynamic Storage Allocation.
+Some Results Concerning the Reduction of Binary Matrices.
+Minimal Sets of Distinct Literals for a Logically Passive Function.
+An Overview of the Theory of Computational Complexity.
+Introduction.
+On Euclid's Algorithm and the Computation of Polynomial Greatest Common Divisors.
+On Euclid's Algorithm and the Theory of Subresultants.
+The Calculation of Multivariate Polynomial Resultants.
+Integer Arithmetic Algorithms for Polynomial Real Zero Determination.
+Determining the Equivalence of Algebraic Expressions by Hash Coding.
+On the Problem of Recognizing Zero.
+Equilibration of Symmetric Matrices in the Max-Norm.
+A Note on Consistent Ordering and Zero Circulation.
+A Note on Quadrilateral Interpolation.
+Multiplicative Pseudo-Random Number Generators with Prime Modulus.
+Solving Boundary-Value Problems by Imbedding.
+A Dynamic Time-Sharing Priority Queue.
+A Note on Some Mathematical Models of Time-Sharing Systems.
+On Network Linguistics and the Conversational Design of Queueing Networks.
+Two Results on Ordering for Resolution with Merging and Linear Format.
+What Is Computer Science?
+S-Semigroups of Automata.
+Linear and Context-Free Graph Grammars.
+Analysis of Graphs by Ordering of Nodes.
+A New Search Algorithm for Finding the Simple Cycles of a Finite Directed Graph.
+Memory Requirements in a Multiprocessing Environment.
+Analysis of Two Time-Sharing Queueing Models.
+Service in a Loop System.
+Fuzzy Logic and the Resolution Principle.
+Automatic Theorem Proving with Built-in Theories Including Equality, Partial Ordering, and Sets.
+Addressless Units for Carrying Out Loop-Free Computations.
+Computational Complexity and the Existence of Complexity Gaps.
+The Operator Gap.
+Theoretical Efficiency of the Edmonds-Karp Algorithm for Computing Maximal Flows.
+Multitape AFA.
+A Note on Bracketed Grammars.
+Weak and Mixed Strategy Precedence Parsing.
+Corrections to Bierstone's Algorithm for Generating Cliques.
+Theoretical Improvements in Algorithmic Efficiency for Network Flow Problems.
+On the Maximization of a Pseudo-Boolean Function.
+One-Pass Complexity of Digital Picture Properties.
+Recursive Properties of Abstract Complexity Classes.
+Addressable Data Graphs.
+Sorting Using Networks of Queues and Stacks.
+Statistical Studies of Theoremhood in Classical Propositional and First Order Predicate Calculus.
+A Unifying View of Some Linear Herbrand Procedures.
+An Algorithm for the Design of Simple Precedence Grammars.
+The Halting Problem for Probabilistic Context-Free Generators.
+Permutation Graphs and Transitive Graphs.
+Graph Structures.
+Finding the Lengths of All Shortest paths in N-Node Nonnegative-Distance Complete Networks Using ½N³ Additions and N³ Comparisons.
+Practical Aspects of Doubly Chained Trees for Retrieval.
+Inversion of Persymmetric Matrices Having Toeplitz Inverses.
+Nonpriority Multiprogramming Systems Under Heavy Demand Conditions--Customers' Viewpoint.
+Busy Period Analysis of a Time-Sharing System: transform inversion.
+Processor Sharing Queueing Models of Mixed Scheduling Disciplines for Time Shared System.
+A Stochastic Model for Message Assembly Buffering with a Comparison of Block Assignment Strategies.
+An Approach for Finding C-Linear Complete Inference Systems.
+The Expression of Algorithms by Charts.
+Subrecursive Programming Languages, Part I: efficiency and program structure.
+A Note on the Efficiency of Hashing Functions.
+Corrigendum: "Computational Complexity and the Existence of Complexity Gaps".
+Computer Approaches to the Representations of Lie Algebras.
+Real-Time Simulation of Multihead Tape Units.
+A Note Concerning Nondeterministic Tape Complexities.
+An axiomatic approach to code optimization for expressions.
+Bounds on Optimal Merge Performance, and a Strategy for Optimality.
+On the Optimality of Some Set Algorithms.
+Computational Work and Time on Finite Machines.
+On the Covering and Reduction Problems for Context-Free Grammars.
+The Generation of Minimal Trees with a Steiner Topology.
+Accelerated Algorithms for Labeling and Relabeling of Trees, with Applications to Distribution Problems.
+A Note on Feedback Queues with Bulk Service.
+A Minimum Variance Sampling Technique for Simulation Models.
+Toward a Formal Theory of Modeling and Simulation: Structure Preserving Morphisms.
+Upper Bounds for the Total Path Length of Binary Trees.
+A-Stable Composite Multistep Methods.
+An Efficient Parallel Algorithm for the Solution of a Tridiagonal Linear System of Equations.
+A Combinatorial Problem Related to Interleaved Memory Systems.
+Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment.
+Mathematical Models for Automatic Line Detection.
+Arcs and Curves in Digital Pictures.
+Efficient Exercising of Switching Elements in Nets of Identical Gates.
+The Solvability of the Decision Problem for Classes of Proper Formulas and Related Results.
+Z-Resolution: Theorem-Proving with Compiled Axioms.
+A Class of Merging Algorithms.
+Tree-Manipulating Systems and Church-Rosser Theorems.
+Errata: "An axiomatic approach to code optimization for Expressions".
+Set Covering by an All Integer Algorithm: Computational Experience.
+Benefit-Cost Analysis of Coding Techniques for the Primal Transportation Algorithm.
+Canonical Precedence Schemes.
+A Formalization of Transition Diagram Systems.
+Recent Studies in Automatic Text Analysis and Document Retrieval.
+Best Least Squares Solutions to Finite Difference Equations Using the Generalized Inverse and Tensor Product Methods.
+Optimal Covering Algorithms in Methods of Search for Solving Polynomial Equations.
+A Midpoint Phenomenon.
+Note on a Lower Bound on the Linear Complexity of the Fast Fourier Transform.
+Optimization of Static Loading and Sizing of Multilevel Memory Systems.
+Efficient Exercising of Switching Elements in Combinatorial Nets.
+A Complete Mechanization of Second-Order Type Theory.
+A Backtrack Procedure for Isomorphism of Directed Graphs.
+A Path Entropy Function for Rooted Trees.
+A Note on Dijkstra's Shortest Path Algorithm.
+A Note on Yen's Algorithm for Finding the Length of All Shortest Paths in N-Node Nonnegative-Distance Networks.
+Reply to Williams and White's Note.
+On Local Roundoff Errors in Floating-Point Arithmetic.
+Toward Abstract Numerical Analysis.
+An Algorithm for the Inversion of Block Matrices of Toeplitz Form.
+Cyclic Queues with Bulk Arrivals.
+Placement of Records on a Secondary Storage Device to Minimize Access Time.
+Some Results in Computational Topology.
+Generalized Feedback Shift Register Pseudorandom Number Algorithm.
+An Asymptotically Random Tausworthe Sequence.
+Efficient Ordering of Set Expressions for Symbolic Expansion.
+Decidable Properties of Monadic Functional Schemas.
+Loopless Algorithms for Generating Permutations, Combinations, and Other Combinatorial Configurations.
+Parallel Program Schemata and Maximal Parallelism I. Fundamental Results.
+Erratum: "An axiomatic approach to code optimization for expressions".
+Bernoulli's Method with Implicit Shifting.
+On Testing a Subroutine for the Numerical Integration of Ordinary Differential Equations.
+The Exact Solution of Systems of Linear Equations with Polynomial Coefficients.
+A Multiprogramming Queue.
+Performance of Movable-Head Disk Storage Devices.
+On the Optimality of the Probability Ranking Scheme in Storage Applications.
+A Local Visual Operator Which Recognizes Edges and Lines.
+The Concept of Weak Substitution in Theorem-Proving.
+Ordinal Hierarchies and Naming Complexity Classes.
+An Example of Information and Computation Resource Trade-Off.
+Parallel Program Schemata and Maximal Parallelism II: Construction of Closures.
+On a Statistical Model of Strand and Westwater for the Numerical Solution of a Fredholm Integral Equation of the First Kind.
+Some a Posteriori Error Bounds in Floating-Point Computations.
+Processing Times for Segmented Jobs with I/O Compute Overlap.
+Some Distribution-Free Aspects of Paging Algorithm Performance.
+Finding Optimal Demand Paging Algorithms.
+Some Aspects of Hierarchical Memory Systems.
+Scheduling for Minimum Total Loss Using Service Time Distributions.
+Some Topics in Code Optimization.
+Simulating Stable Stochastic Systems, I: General Multiserver Queues.
+Simulating Stable Stochastic Systems, II: Markov Chains.
+An Implementation of the Model Elimination Proof Procedure.
+Characterization and Theoretical Comparison of Branch-and-Bound Algorithms for Permutation Problems.
+A Theorem in the Theory of Compromise Merge Methods.
+On the Number of Multiplications for the Evaluation of a Polynomial and Some of Its Derivatives.
+The String-to-String Correction Problem.
+Some Binary Derivation Systems.
+A New Class of Automated Theorem-Proving Algorithms.
+The Parallel Evaluation of General Arithmetic Expressions.
+Further Results on the Problem of Finding Minimal Length Programs for Decision Tables.
+Grammar Schemata.
+A Modified List Technique Allowing Binary Search.
+A Document Storage Method Based on Polarized Distance.
+Efficient Storage and Retrieval by Content and Address of Static Files.
+Calculating the Eigenvectors of Diagonally Dominant Matrices.
+The Solution of a Toeplitz Set of Linear Equations.
+Computing Partitions with Applications to the Knapsack Problem.
+Bernstein-Bézier Methods for the Computer-Aided Design of Free-Form Curves and Surfaces.
+Efficiency of Chebyshev Approximation on Finite Subsets.
+Comments on a Paper by Gaver.
+Application of the Diffusion Approximation to Queueing Networks I: Equilibrium Queue Distributions.
+Synthesis of a Feedback Queueing Discipline for Computer Operation.
+Priority Disciplines in a Loop System.
+Erratum: "A Local Visual Operator Which Recognizes Edges and Lines".
+Corrigendum: "Some Topics in Code Optimization".
+An Efficient Algorithm for Finding an Irredundant Set Cover.
+The Diclique Representation and Decomposition of Binary Relations.
+Characterizations of Reducible Flow Graphs.
+Efficiency of a Binary Comparison Storage Technique.
+An Algorithm for the Chromatic Number of a Graph.
+A Combinatorial Problem Related to Multimodule Memory Organizations.
+Information-Theoretic Limitations of Formal Systems.
+On Almost Everywhere Complex Recursive Functions.
+Iterated Limiting Recursion and the Program Minimization Problem.
+Context-Limited Grammars.
+Computing a Subinterval of the Image.
+Application of the Diffusion Approximation to Queueing Networks II: Nonequilibrium Distributions and Applications to Computer Modeling.
+Waiting Lines and Times in a System with Polling.
+Bounds for Some Functions Concerning Dynamic Storage Allocation.
+Transformation of Multisalesman Problem to the Standard Traveling Salesman Problem.
+An Algorithm for the Bounded Variable Integer Programming Problem.
+Some New Bounds on the Condition Numbers of Optimally Scaled Matrices.
+On the Parsing of Deterministic Languages.
+Efficient Planarity Testing.
+An Optimal Algorithm to Detect a Line Graph and Output Its Root Graph.
+A Search Procedure for Hamilton Paths and Circuits.
+Linear Least Squares by Elimination and MGS.
+The Undecidability of the Existence of Zeros of Real Elementary Functions.
+Unit Refutations and Horn Sets.
+A Human Oriented Logic for Automatic Theorem-Proving.
+Automated Theorem-Proving for Theories with Simplifiers Commutativity, and Associativity.
+Optimal Order of One-Point and Multipoint Iteration.
+Allocating Storage for Extendible Arrays.
+Testing for the Church-Rosser Property.
+An Analysis of Some Relationships Between Post and Boolean Algebras.
+Regularity and Related Problems for Deterministic Pushdown Automata.
+An Algorithm for Finding a Minimal Equivalent Graph of a Digraph.
+A Formal Construction of Term Classes.
+On Computing the Exact Determinant of Matrices with Polynomial Entries.
+High Order Search Methods for Finding Roots.
+A Metalgorithm for Adaptive Quadrature.
+An Analysis of Drum Storage Units.
+Exact, Approximate, and Guaranteed Accuracy Algorithms for the Flow-Shop Problem n/2/F/\bar F.
+Approximate Algorithms for the 0/1 Knapsack Problem.
+The Change-Making Problem.
+Proving Theorems about LISP Functions.
+Derivation of a Path-Connectivity Matrix for Tagged Flowcharts.
+On the Structure of Polynomial Time Reducibility.
+Errata: "Performance of Movable-Head Disk Storage Devices".
+An Extension of the String-to-String Correction Problem.
+The Linear Complexity of Computation.
+Bounds to Complexities of Networks for Sorting and for Switching.
+Efficient Generation of Optimal Prefix Code: Equiprobable Words Using Unequal Cost Letters.
+Efficiency of a Good But Not Linear Set Union Algorithm.
+A Simple Planarity Criterion.
+A Generalized Multi-Entrance Time-Sharing Priority Queue.
+Open, Closed, and Mixed Networks of Queues with Different Classes of Customers.
+On Approximate Computer System Models.
+A Processor in Series with Demand-Interrupting Devices - A Stochastic Model.
+Multivariate Polynomial Factorization.
+Corrigendum: "Allocating Storage for Extendible Arrays".
+Inference and Paraphrase by Computer.
+A Theory of Program Size Formally Identical to Information Theory.
+On Reducibility to Complex or Sparse Sets.
+A New Linear-Time "On-Line" Algorithm for Finding the Smallest Initial Palindrome of a String.
+Advances on the Hamiltonian Completion Problem.
+Representing Graphs by Knuth Trees.
+The Complexity of Some Simple Retrieval Problems.
+Primes with a Prime Subscript.
+The Generation of Optimal Code for Stack Machines.
+Queueing Analysis of the Scan Policy for Moving-Head Disks.
+A Computational Study of the Effects of Problem Dimensions on Solution Times for Transportation Problems.
+Errata: "Testing for the Church-Rosser Property".
+The Concept of Term Exclusiveness and Its Effect on the Theory of Boolean Functions.
+The Effect of a Capacity Constraint on the Minimal Cost of a Partition.
+A Sorting Algorithm for Polynomial Multiplication.
+Fast Approximation Algorithms for the Knapsack and Sum of Subset Problems.
+On Finding the Maxima of a Set of Vectors.
+On the Parallel Evaluation of Certain Arithmetic Expressions.
+An Observation on Relative Parsing Time.
+A Note on Tape-Bounded Complexity Classes and Linear Context-Free languages.
+A Sufficient Bound for Codes Correcting Bursts with Weight Constraint.
+A Class of Implicit Runge-Kutta Methods for the Numerical Integration of Stiff Ordinary Differential Equations.
+Computer Search for Numerical Instability.
+Analysis of Several Task-Scheduling Algorithms for a Model of Multiprogramming Computer Systems.
+The Fanout Structure of Switching Functions.
+A Proof Procedure Using Connection Graphs.
+On the Interconnection of Asynchronous Control Structures.
+Bounds on the Complexity of the Longest Common Subsequence Problem.
+Bounds for the String Editing Problem.
+On the Complete Covering Problem for LR(k)Grammars.
+An Algorithm for Subgraph Isomorphism.
+The Complexity of Near-Optimal Graph Coloring.
+A Shortest Path Algorithm for Edge-Sparse Graphs.
+A Gaussian Elimination Algorithm for the Enumeration of Cut Sets in a Graph.
+Note on Hopcroft and Tarjan's Planarity Algorithm.
+Precision Weighting - An Effective Automatic Indexing Method.
+Numerical Inversion of Laplace Transforms Using a Fourier Series Approximation.
+Adaptive Allocation of Central Processing Unit Quanta.
+Record Allocation for Minimizing Expected Retrieval Costs on Drum-Like Storage Devices.
+Algorithms for Scheduling Independent Tasks.
+The independence of miss ratio on page size.
+A Polynomial-Time Algorithm for the Knapsack Problem with Two Variables.
+A Code for the Transportation Problem of Linear Programming.
+Global Data Flow Analysis and Iterative Algorithms.
+A Fast and Usually Linear Algorithm for Global Flow Analysis.
+A Completeness Theorem for Straight-Line Programs with Structured Variables.
+An Efficient Implementation of Edmonds' Algorithm for Maximum Matching on Graphs.
+Efficiency of Computation of Cayley Tables of 2-Groups.
+Fast Multiple-Precision Evaluation of Elementary Functions.
+New Algorithms and Lower Bounds for the Parallel Evaluation of Certain Rational Expressions and Recurrences.
+A Space-Economical Suffix Tree Construction Algorithm.
+A Statistical Model for Relevance Feedback in Information Retrieval.
+Convergence Estimates for the Distribution of Trailing Digits.
+Array Permutation by Index-Digit Permutation.
+On the Linear Convergence of a Covariance Factorization Algorithm.
+Exact and Approximate Algorithms for Scheduling Nonidentical Processors.
+A Queueing Model with Finite Waiting Room and Blocking.
+A Note on the Effect or the Central Processor Service Time Distribution on Processor Utilization in Multiprogrammed Computer Systems.
+Simulating Stable Stochastic Systems, VI: Quantile Estimation.
+A Simple Approximation to the Average Queue Size in the Time-Dependent M/M/1 Queue.
+Picture Segmentation by a Tree Traversal Algorithm.
+Proving Properties of Complex Data Structures.
+ (
+Resolution Strategies as Decision Procedures.
+Canonical Coin Changing and Greedy Solutions.
+Shifting Graphs and Their Applications.
+A Fast Backtracking Algorithm to Test Directed Graphs for Isomorphism Using Distance Matrices.
+R-Domination in Graphs.
+An Analysis of Binary Search Trees Formed from Sequences of Nondistinct Keys.
+Semi-Implicit Runge-Kutta Procedures with Error Estimates for the Numerical Integration of Stiff Systems of Ordinary Differential Equations.
+Scheduling Tasks with Nonuniform Deadlines on Two Processors.
+Solution of Integer Programs with a Quadratic Objective Function.
+Linear Programming Computational Procedures for Ordinal Regression.
+Optimal Code Generation for Expression Trees.
+Code Generation for a One-Register Machine.
+Transforming LR(k) Grammars to LR(1), SLR(1), and (1, 1) Bounded Right-Context Grammars.
+Restructuring of Arithmetic Expressions For Parallel Evaluation.
+On the complexity of edge traversing.
+P-Complete Approximation Problems.
+Lower Bounds on Merging Networks.
+Errata: "Record Allocation for Minimizing Expected Retrieval Costs on Drum-Like Storage Devices".
+Theorem Proving with Lemmas.
+Size complexity in context-free grammars forms.
+Boundary and Object Detection in Real World Images.
+Mathematical Techniques for Efficient Record Segmentation in Large Shared Databases.
+Accelerated Iterative Methods for the Solution of Tridiagonal Systems on Parallel Computers.
+Sequencing Jobs with Stochastic Task Structures on a Single Machine.
+Open Shop Scheduling to Minimize Finish Time.
+Multilevel Queues with Extremal Priorities.
+Verifying Program Performance.
+Enumeration of Fanout-Free Boolean Functions.
+A Combinatorial Problem Which Is Complete in Polynomial Space.
+Space and Time Hierarchies for Classes of Control Structures and Data Structures.
+The Semantics of Predicate Logic as a Programming Language.
+Efficient Algorithms for Shortest Paths in Sparse Networks.
+A General Model for the Performance of Disk Systems.
+A Level Algorithm for Preemptive Scheduling.
+A Transformation System for Developing Recursive Programs.
+Initial Algebra Semantics and Continuous Algebras.
+Special Editor's Note.
+An Algorithm for Structuring Flowgraphs.
+Program Improvement by Source-to-Source Transformation.
+Code Generation for Expressions with Common Subexpressions.
+A Methodology for LISP Program Construction from Examples.
+An Improved Bidirectional Heuristic Search Algorithm.
+Covering Points of a Digraph with Point-Disjoint Paths and Its Application to Code Optimization.
+Hashing Schemes for Extendible Arrays.
+A Queueing Model of Multiprogrammed Computer Systems Under Full Load Conditions.
+On Certain Output-Buffer Management Techniques--A Stochastic Model.
+Product Form and Local Balance in Queueing Networks.
+The Power of Dominance Relations in Branch-and-Bound Algorithms.
+Heuristic Algorithms for Scheduling Independent Tasks on Nonidentical Processors.
+Information Content of Programs and Operation Encoding.
+Proof, Completeness, Transcendentals, and Sampling.
+Algebras Having Linear Multiplicative Complexities.
+On Time Versus Space.
+Even Simple Programs Are Hard To Analyze.
+Automatic Proofs of Theorems in Analysis Using Nonstandard Techniques.
+Stability and Optimal Control of the Packet Switching Broadcast Channel.
+On Equivalence and Containment Problems for Formal Languages.
+Local Feedback in Full-Text Retrieval Systems.
+Operations Research Applied to Document Indexing and Retrieval Decisions.
+The Complexity of Trie Index Construction.
+Optimal Batched Searching of Tree Structured Files in Multiprocessor Computer Systems.
+A Linear Time Algorithm for Deciding Subject Security.
+Development of a Parametric Generating Procedure for Integer Programming Test Problems.
+On Live-Dead Analysis for Global Data Flow Problems.
+Semantics of the Domain of Flow Diagrams.
+Complexity of Synthesizing Inductive Assertions.
+The Complexity of Parallel Evaluation of Linear Recurrences.
+Word Problems Solvable in Logspace.
+Errata: "Analysis of Several Task-Scheduling Algorithms for a Model of Multiprogramming Computer Systems".
+On the SUP-INF Method for Proving Presburger Formulas.
+A Study of Schedules as Models of Synchronous Parallel Computation.
+Queueing Models for Computer Systems Connected by a Communication Line.
+Log Space Recognition and Translation of Parenthesis Languages.
+Big Buckets Are (Are Not) Better!
+Analysis of Effectiveness of Retrieval in Clustered Files.
+Errata and Comments on a Paper by J. R. Cash.
+On Solving Fredholm Integral Equations of the First Kind.
+Flow Switching Approach to the Maximum Flow Problem: I.
+Capacity Bounds for Multiresource Queues.
+Algorithms for the Longest Common Subsequence Problem.
+ Topologies.
+Optimization Among Provably Equivalent Programs.
+Finding Two Disjoint Paths Between Two Pairs of Vertices in a Graph.
+Renamings and Economy of Memory in Program Schemata.
+Simple Representations of Certain Classes of Languages.
+Lower Bounds and Reductions Between Grammar Problems.
+KEDMA - Linguistic Tools for Retrieval Systems.
+Foundations of Probabilistic and Utility-Theoretic Indexing.
+On Stable Parallel Linear System Solvers.
+Preemptive Scheduling of Uniform Processor Systems.
+A Linear-Time On-Line Recognition Algorithm for "Palstar".
+Some Complexity Results for Matrix Computations on Parallel Processors.
+Reversal-Bounded Multicounter Machines and Their Decision Problems.
+Renaming a Set of Clauses as a Horn Set.
+Satisfiability Is Quasilinear Complete in NQL.
+Separating Nondeterministic Time Complexity Classes.
+A New Incompleteness Result for Hoare's System.
+Stable Sorting in Asymptotically Optimal Time and Extra Space.
+Optimal Arrangement of Keys in a Hash Table.
+Effective Automatic Indexing Using Term Addition and Deletion.
+Asynchronous Iterative Methods for Multiprocessors.
+All Algebraic Functions Can Be Computed Fast.
+An Example of a Skewing Function.
+Pivot Strategies for Primal-Simplex Network Codes.
+On the Efficiency of a Polynomial Irreducibility Test.
+Analysis and Applications of the Delay Cycle for the M/M/c Queueing System.
+A Direct Descent Binary Knapsack Algorithm.
+The Complexity of Finite Memory Programs with Recursion.
+The Complexity of Some Problems on Subsequences and Supersequences.
+k+1 Heads Are Better than k.
+Another Generalization of Resolution.
+Properties of Conflict-Free and Persistent Petri Nets.
+An Algorithm to Design the Memory Configuration of a Computer Network.
+Performance Analysis of Cache Memories.
+Generation of Binary Trees from Ballot Sequences.
+On the Tape Complexity of Deterministic Context-Free Languages.
+A Global Bisection Algorithm for Computing the Zeros of Polynomials in the Complex Plane.
+Dynamic Placement of Records in Linear Storage.
+The Bottleneck Traveling Salesman Problem: Algorithms and Probabilistic Analysis.
+Regenerative Simulation of Response Times in Networks of Queues.
+Some Properties of Predicate Transformers.
+Analysis and Design of Fanout-Free Networks of Positive Symmetric Gates.
+"Strong" NP-Completeness Results: Motivation, Examples, and Implications.
+A Time-Space Trade-Off.
+Some Matching Problems for Bipartite Graphs.
+Self-Organizing Binary Search Trees.
+On the Average Number of Maxima in a Set of Vectors and Applications.
+The Analysis of Hashing Techniques That Exhibit k-ary Clustering.
+Lower Bounds for Selection in X+Y and Other Multisets.
+Noncounting Context-Free Languages.
+Fast Algorithms for Manipulating Formal Power Series.
+Two-Commodity Flow.
+On Preemptive Scheduling of Unrelated Parallel Processors by Linear Programming.
+Exact Aggregation in Exponential Queueing Networks.
+Path Calculus in Program Verification.
+Assignment Commands with Array References.
+Conditional Expressions with Equality Tests.
+Partitioning the Period of a Class of m-Sequences and Application to Pseudorandom Number Generation.
+Corrigendum: "Lower Bounds and Reductions Between Grammar Problems".
+Control System Model for Critically Timed Sources.
+Characterizing the Storage Process and Its Effect on the Update of Main Memory by Write Through.
+Bounds on Storage for Consecutive Retrieval.
+On Axiomatizing Multivalued Dependencies in Relational Databases.
+Security in Databases: A Combinatorial Study.
+A Fast Selection Algorithm and the Problem of Optimum Distribution of Effort.
+Speedup in Parallel Algorithms for Adaptive Quadrature.
+Odd-Even Reduction for Banded Linear Equations.
+Estimating the Mean of a Correlated Binary Sequence with an Application to Discrete Event Simulation.
+Optimality of the Fast Fourier transform.
+Time Bounded Random Access Machines with Parallel Processing.
+A Complete and Consistent Hoare Axiomatics for a Simple Programming Language.
+Programming Language Constructs for Which It Is Impossible To Obtain Good Hoare Axiom Systems.
+Minimal and Optimal Computations of Recursive Programs.
+An O(n log n) Algorithm for Rectilinear Minimal Spanning Trees.
+A Linear Time Algorithm for Deciding Interval Graph Isomorphism.
+Optimality Properties of Multiple-Key Hashing Functions.
+A Fast Merging Algorithm.
+A Counting Approach to Lower Bounds for Selection Problems.
+Integrals with a Kernel in the Solution of Nonlinear Equations in N Dimensions.
+Convergence and Complexity of Newton Iteration for Operator Equations.
+On the Optimum Checkpoint Interval.
+Regenerative Simulation with Internal Controls.
+Data Structures and Correctness of Programs.
+Concurrent Processes and Their Syntax.
+Data Flow Analysis for Procedural Languages.
+A Purely Homomorphic Characterization of Recursively Enumerable Sets.
+A Practical Decision Procedure for Arithmetic with Function Symbols.
+Relations Among Complexity Measures.
+Theorem Proving by Covering Expressions.
+Two Algorithms for Determining Volumes of Convex Polyhedra.
+An Optimal Algorithm for Finding the Kernel of a Polygon.
+The Tree-to-Tree Correction Problem.
+Significant Improvements to the Hwang-Lin Merging Algorithm.
+The Ford-Johnson Sorting Algorithm Is Not Optimal.
+Search within a Page.
+Some A-Stable and L-Stable Methods for the Numerical Integration of Stiff Ordinary Differential Equations.
+Scaling for Numerical Stability in Gaussian Elimination.
+Maximal Order and Order of Information for Numerical Quadrature.
+Approximation Algorithms for Some Postman Problems.
+A Comparison of Multilevel break and next Statements.
+An NP-Complete Number-Theoretic Problem.
+Combining Dimensionality and Rate of Growth Arguments for Establishing Lower Bounds on the Number of Multiplications and Divisions.
+Linear Algorithms for Isomorphism of Maximal Outerplanar Graphs.
+A Linear Time Planarity Algorithm for 2-Complexes.
+The Effect of a Connectivity Requirement on the Complexity of Maximum Subgraph Problems.
+The serializability of concurrent database updates.
+Performance Measures for Ordered Lists in Random-Access Files.
+Encoding Data Structures in Trees.
+Applications of Path Compression on Balanced Trees.
+Improved Trailing Digits Estimates Applied to Optimal Computer Arithmetic.
+A Transformed implicit Runge-Kutta Method.
+Reducibility Among Floating-Point Graphs.
+An Evaluation of CPU Efficiency Under Dynamic Quantum Allocation.
+A Generalized Queueing Discipline for Product Form Network Solutions.
+Flowgraphs and Flow Algebras.
+Renamings, Maximal Parallelism, and Space-Time Tradeoff in Program Schemata.
+On the Generation of Binary Trees.
+A Note on Enumerating Binary Trees.
+An optimal routing algorithm for mesh-connected Parallel computers.
+Message Waiting Time in a Packet Switching System.
+Polling in a Loop System.
+Synchronization Problems Solvable by Generalized PV Systems.
+Consistency in Hierarchical Database Systems.
+External Hashing Schemes for Collections of Data Structures.
+Stack Machines and Classes of Nonnested Macro Languages.
+A Polynomial Algorithm for the Two-Variable Integer Programming Problem.
+Space-Time Trade-Offs in Structured Programming: An Improved Combinatorial Embedding Theorem.
+A Scheme for the Automatic Inference of Variable Types.
+Efficient Computation of Expressions with Common Subexpressions.
+Continuation-Based Program Transformation Strategies.
+The Number of Fanout-Free Functions with Various Gates.
+Verification Decidability of Presburger Array Programs.
+New Algorithms for Bin Packing.
+Reaching Agreement in the Presence of Faults.
+Equality and Domain Closure in First-Order Databases.
+An Algorithm for Inferring Multivalued Dependencies with an Application to Propositional Logic.
+Can Any Stationary Iteration Using Linear Information Be Globally Convergent?.
+Testing Deadlock-Freedom of Computer Systems.
+The Cycle Time Distribution of Exponential Cyclic Queues.
+A New Algorithm for Preemptive Scheduling of Trees.
+Mean-Value Analysis of Closed Multichain Queuing Networks.
+Queuing Network Models with State-Dependent Routing.
+On the Correctness of Semantic-Syntax-Directed Translations.
+Fast Decision Procedures Based on Congruence Closure.
+A Syntactic Theory of Message Passing.
+Lower Bounds on Information Transfer in Distributed Computations.
+GO Is Polynomial-Space Hard.
+Corrigendum: "Control System Model for Critically Timed Success".
+Reasoning About Recursively Defined Data Structures.
+Codes: Unequal Probabilities, Unequal Letter Cost.
+Information Bounds Are Weak in the Shortest Distance Problem.
+A Polynomial Solution to the Undirected Two Paths Problem.
+Optimal Selection of CPU Speed, Device Capacities, and File Assignments.
+A New Approach to the Analysis of Linear Probing Schemes.
+Complex Properties of Grammars.
+Fixed Point Languages, Equality Languages, and Representation of Recursively Enumerable Languages.
+Sharing a Processor Among Many Job Classes.
+Flowshop scheduling with limited temporary storage.
+Scheduling Independent Tasks with Due Times on a Uniform Processor System.
+Augmenting Parsers to Support Incrementality.
+Constructing Call-by-Value Continuation Semantics.
+A Note on Fuzzy Deduction.
+-Metric.
+An Algorithm to Enumerate All Cutsets of a Graph in Linear Time per Cutset.
+Equivalences Among Relational Expressions with the Union and Difference Operators.
+The Sequence Equivalence Problem is Decidable for 0S Systems.
+Minimum Covers in Relational Database Model.
+Superdeterministic PDAs: A Subcase with a Decidable Inclusion problem.
+Fast Probabilistic Algorithms for Verification of Polynomial Identities.
+Database Location in Computer Networks.
+Solving Two-Commodity Transportation Problems with Coupling Constraints.
+Variations on the Common Subexpression Problem.
+Operational and Semantic Equivalence Between Recursive Programs.
+Confluent Reductions: Abstract Properties and Applications to Term Rewriting Systems: Abstract Properties and Applications to Term Rewriting Systems.
+Computations of Bilinear Forms over Finite Fields.
+Parallel Prefix Computation.
+Improved Bounds on the Problem of Time-Space Trade-Off in the Pebble Game.
+An On-Line Edge-Deletion Problem.
+Max-Min Tree Partitioning.
+Linear Algorithm for Data Compression via String Matching.
+Using Semi-Joins to Solve Relational Queries.
+On Databases with Incomplete Information.
+n-Evaluation Conjecture for Multipoint Iterations for the Solution of Scalar Nonlinear Equations.
+Bounds on Schedules for Independent Tasks with Similar Execution Times.
+Sequencing Tasks with Exponential Service Times to Minimize the Expected Flow Time or Makespan.
+Alternation.
+String Matching in Real Time.
+A Unified Lower Bound for Selection and Set Partitioning Problems.
+New Real-Time Simulations of Multihead Tape Units.
+On the Use of Transcendentals for Program Testing.
+Theorem Proving via General Matings.
+A Decision Procedure for the Correctness of a Class of Programs.
+Complete Sets of Reductions for Some Equational Theories.
+A Note on Multiple Error Detection in ASCII Numeric Data Communication.
+Optimal Design of Linear Storage Hierarchies.
+Expected Length of the Longest Probe Sequence in Hash Code Searching.
+Summation in Finite Terms.
+Measurement Bias in Feedback Queues.
+The Distribution of Queuing Network States at Input and Output Instants.
+Derivation of Logic Programs.
+The Closure Statement: A Programming Language Construct Allowing Ultraconcurrent Execution.
+Complexity of Partial Satisfaction.
+A Unification Algorithm for Associative-Commutative Functions.
+An Equivalence Between Relational Database Dependencies and a Fragment of Propositional Logic.
+Optimal Time Minimal Space Selection Algorithms.
+On J-maximal and J-minimal Flow-Shop Schedules.
+On Optimal Scheduling Algorithms for Time-Shared Systems.
+Connected Component Labeling Using Quadtrees.
+Probabilistic Aspects of Boolean Switching Functions via a New Transform.
+The Area-Time Complexity of Binary Multiplication.
+The Complexity of the Equivalence Problem for Simple Programs.
+The Complexity of the Finite Containment Problem for Petri Nets.
+A Unified Approach to Path Problems.
+Fast Algorithms for Solving Path Problems.
+Should Tables Be Sorted?
+Corrigendum: "Mean-Value Analysis of Closed Multichain Queuing Networks".
+On Matrices with Connections.
+Deleting Repeated Goals in the Problem Reduction Format.
+Algorithmic Analysis of a Multiprogramming-Multiprocessor Computer System.
+On the Complexity of Testing Implications of Functional and Join Dependencies.
+A Lower Bound on the Complexity of Orthogonal Range Queries.
+A Morphic Representation of Complements of Recursively Enumerable Sets.
+A Simpler Construction for Showing the Intrinsically Exponential Complexity of the Circularity Problem for Attribute Grammars.
+Algorithms for Scheduling Tasks on Unrelated Processors.
+Dynamic Programming as Graph Searching: An Algebraic Approach.
+An Algorithm for the K Best Solutions of the Resource Allocation Problem.
+On the complexity of integer programming.
+Deciding Linear Inequalities by Computing Loop Residues.
+A Lower Bound to Finding Convex Hulls.
+Mechanical Discovery of Classes of Problem-Solving Strategies.
+A Sufficient Condition for Backtrack-Free Search.
+Nonmonotonic Logic II: Nonmonotonic Modal Theories.
+A Shifting Algorithm for Min-Max Tree Partitioning.
+Pattern Matching in Trees.
+An Almost Linear-Time Algorithm for Computing a Dependency Basis in a Relational Database.
+Subset Dependencies and a Completeness Result for a Subclass of Embedded Multivalued Dependencies.
+Dense Hierarchies of Grammatical Families.
+On the Construction of Feedback Queries.
+Term Weighting in Information Retrieval Using the Term Precision Model.
+Confluent and Other Types of Thue Systems.
+Data Requirements for Implementation of N-Process Mutual Exclusion Using a Single Shared Variable.
+On the Theory of Specification, Implementation, and Parametrization of Abstract Data Types.
+On the Complexity of Flowchart and Loop Program Schemes and Programming Languages.
+The Complexity of Maintaining an Array and Computing Its Partial Sums.
+Relativized Questions Involving Probabilistic Algorithms.
+Generation and Verification of Finite Models and Counterexamples Using an Automated Theorem Prover Answering Two Open Questions.
+The complexity of restricted spanning tree problems.
+On Database Logic.
+On the Equivalence of Database Models.
+Template Dependencies: A Large Class of Dependencies in Relational Databases and Its Complete Axiomatization.
+A Complete Axiomatization of Full Join Dependencies.
+Useless Actions Make a Difference: Strict Serializability of Database Updates.
+A Generalization of Ogden's Lemma.
+Upper Bounds for Speedup in Parallel Parsing.
+On the Decidability of Grammar Problems.
+Determination of the conditional response for quantum allocation algorithms.
+Maximum Processing Rates of Memory Bound Systems.
+A Finite-Source Queue with Different Customers.
+Dynamic Scaling and Growth Behavior of Queuing Network Normalization Constants.
+The Performance of Job Classes with Distinct Policy Functions.
+An Approach to Program Behavior Modeling and Optimal Memory Control.
+Axiomatic Definitions of Programming Languages: A Theoretical Assessment.
+The Pattern-of-Calls Expansion Is the Canonical Fixpoint for Recursive Definitions.
+The Compilation of Regular Expressions into Integrated Circuits.
+Linear-time computability of combinatorial problems on series-parallel graphs.
+Parallel permutation and sorting algorithms and a new generalized connection network.
+Testing satisfaction of functional dependencies.
+Properties of functional-dependency families.
+Equivalence of Relational Algebra and Relational Calculus Query Languages Having Aggregate Functions.
+A Theory of Safe Locking Policies in Database Systems.
+Inference of Reversible Languages.
+An Almost-Linear Algorithm for Two-Processor Scheduling.
+Critical Path Scheduling with Resource and Processor Constraints.
+Preemptive Scheduling with Release Times, Deadlines, and Due Times.
+A Note on Product-Form Solution for Queuing Networks with Poisson Arrivals and General Service-Time Distributions with Finite Means.
+Contributions to the Theory of Logic Programming.
+Two-Way Counter Machines and Diophantine Equations.
+Some Exact Complexity Results for Straight-Line Computations over Semirings.
+On Parallel Computation for the Knapsack Problem.
+Corrigendum: "The Area-Time Complexity of Binary Multiplication".
+Distributions of packet delay and interdeparture time in slotted ALOHA and carrier sense multiple access.
+Data compression via textual substitution.
+Horn clauses and database dependencies.
+On the family of generalized dependency constraints.
+A theorem in database concurrency control.
+On the relationship between LL(1) and LR(1) grammars.
+Deadlock avoidance revisited.
+Semaphore primitives and starvation-free mutual exclusion.
+A universal interconnection pattern for parallel computers.
+Asymptotically tight bounds on time-space trade-offs in a pebble game.
+Basic digit sets for radix representation.
+The Power of Pluralism for Automatic Program Synthesis.
+The equivalence problem for some non-real-time deterministic pushdown automata.
+Search Algorithms Under Different Kinds of Heuristics-A Comparative Study.
+Bidirectional Heuristic Search Again.
+A Note on "A Note on Multiple Error Detection in ASCII Numeric Data Communication".
+Locking Expressions for Increased Database Concurrency.
+Locking Primitives in a Database System.
+Implicit Data Structures for the Dictionary Problem.
+A Supernormal-Form Theorem for Context-Free Grammars.
+Solving Linear Algebraic Equations on an MIMD Computer.
+Formulations and Algorithms for the Capacitated Minimal Directed Tree Problem.
+Polynomial-Time Aggregation of Integer Programming Problems.
+The Time for a Round Trip in a Cycle of Exponential Queues.
+The Expressiveness of Simple and Second-Order Type Structures.
+Vector Execution of Flow Graphs.
+Formal Justification of a Proof System for Communicating Sequential Processes.
+Probabilistic Algorithms for Deciding Equivalence of Straight-Line Programs.
+Analysis of the Search Performance of Coalesced Hashing.
+The Complexity of LALR(k) Testing.
+Computable Error Bounds for Aggregated Markov Chains.
+A Characterization of Product-Form Queuing Networks.
+Decentralized Simulation of Resource Managers.
+On Communicating Finite-State Machines.
+Abstract Implementations and Their Correctness Proofs.
+An Efficient General-Purpose Parallel Computer.
+Optimal Search on Some Game Trees.
+Three-Dimensional VLSI: A Case Study.
+Smallest-Last Ordering and clustering and Graph Coloring Algorithms.
+The Relative Neighborhood Graph, with an Application to Minimum Spanning Trees.
+Efficiency of Synchronous Versus Asynchronous Distributed Systems.
+Instruction Sets for Evaluating Arithmetic Expressions.
+On the Desirability of Acyclic Database Schemes.
+Degrees of Acyclicity for Hypergraphs and Relational Database Schemes.
+Parametric Combinatorial Computing and a Problem of Program Module Distribution.
+Robustness of Queuing Network Formulas.
+Properties of a Notation for Combining Functions.
+Effective Axiomatizations of Hoare Logics.
+The Complexity of Solving Polynomial Equations by Quadrature.
+On the Simplification and Equivalence Problems for Straight-Line Programs.
+Time-Space Trade-offs for Some Algebraic Problems.
+The Weak Byzantine Generals Problem.
+Refining Nondeterminism in Relativizations of Complexity Classes.
+Decision Quality As a Function of Search Depth on Game Trees.
+Cost Trade-offs in Graph Embeddings, with Applications.
+Improving the Performance Guarantee for Approximate Graph Coloring.
+Design of Minimum-Cost Deadlock-Free Systems.
+Graph Algorithms for Functional Dependency Manipulation.
+Syntactic Characterization of Tree Database Schemas.
+Locking Protocols: From Exclusive to Shared Locks.
+Analysis of Uniform Hashing.
+An Iteration Theorem for Simple Precedence Languages.
+The Proof of a Folk Theorem on Queuing Delay with Applications to Routing in Networks.
+Applying Parallel Computation Algorithms in the Design of Serial Algorithms.
+Deciding Combinations of Theories.
+Bounding Fan-out in Logical Networks.
+Some Hamilton Paths and a Minimal Change Algorithm.
+On the Structure of Armstrong Relations for Functional Dependencies.
+On compiling queries in recursive first-order databases.
+Optimal Flow Control of an M/M/m Queue.
+A Fast Algorithm for the Two-Variable Integer Programming Problem.
+Linear Programming in Linear Time When the Dimension Is Fixed.
+The Product Form for Sojourn Time Distributions in Cyclic Exponential Queues.
+Priority Queues with Feedback.
+Information Transfer in Distributed Computing with Applications to VLSI.
+Random Trees and the Analysis of Branch and Bound Procedures.
+Complexity Results for Permuting Data and Other Computations on Parallel Processors.
+Finitely Specifiable Implicational Dependency Families.
+Serializability by Locking.
+Worst-case Analysis of Set Union Algorithms.
+The omega-Sequence Problem for DOL Systems Is Decidable.
+Terminating Turing Machine Computations and the Complexity and/or decidability of Correspondence Problems, Grammars, and Program Schemes.
+Beyond Floating Point.
+Lower Bounds and Fast Algorithms for Sequence Acceleration.
+The Three-Machine No-Wait Flow Shop is NP-Complete.
+Asymptotic Expansions and Integral Representations of Moments of Queue Lengths in Closed Markovian Networks.
+) Time.
+The VLSI Complexity of Selected Graph Problems.
+On the complexity of unique solutions.
+Symmetric Complementation.
+Space-Time Trade-Offs for Banded Matrix Problems.
+A Mechanical Proof of the Unsolvability of the Halting Problem.
+Solving NP-Hard Problems on Graphs That Are Almost Trees and an Application to Facility Location Problems.
+An End-to-End Approach to the Resequencing Problem.
+Synthesis of a Class of Deadlock-Free Petri Nets.
+Efficient Schemes for Parallel Communication.
+The Format Model: A Theory of database Organization.
+Storing a Sparse Table with 0(1) Worst Case Access Time.
+On the Optimal Solution of Large Linear Systems.
+A Theory of Communicating Sequential Processes.
+A Formal Method for the Abstract Specification of Software.
+Analysis of Interleaved Storage Via a Constant-Service Queuing System with Markov-Chain-Driven Input.
+Graph Problems on a Mesh-Connected Processor Array.
+A Polynomial Linear Search Algorithm for the n-Dimensional Knapsack Problem.
+Depth-First Search and Kuratowski Subgraphs.
+Configuration of VLSI Arrays in the Presence of Defects.
+A Proof Procedure for Data Dependencies.
+Updates of Relational Views.
+Incomplete Information in Relational Databases.
+Optimal Asynchronous Newton Method for the Solution of Nonlinear Equations.
+Bounds for the Positive Eigenvectors of Nonnegative Matrices and for their Approximations by Decomposition.
+Optimum Head Separation in a Disk System with Two Read/Write Heads.
+Numerical Computation of Sojourn-Time Distributions in Queuing Networks.
+Probabilistic Models of Database Locking: Solutions, Computational Algorithms, and Asymptotics.
+Algebraic Structures with Hard Equivalence and Minimization Problems.
+Lower Bounds for Distributed Maximum-Finding Algorithms.
+Three Approaches to Heuristic Search in Networks.
+AND/OR Graph Heuristic Search Methods.
+Synchronizing Clocks in the Presence of Faults.
+Disaggregations in Databases.
+Memory-Constrained Task Scheduling on a Network of Dual Processors.
+Approximation Schemes for Covering and Packing Problems in Image Processing and VLSI.
+Algebraic Laws for Nondeterminism and Concurrency.
+).
+Bounds on Information Exchange for Byzantine Agreement.
+Hard-Core Theorems for Complexity Classes.
+A Tight Bound for Black and White Pebbles on the Pyramid.
+Solving Low-Density Subset Sum Problems.
+Soundness and Completeness of a Synthesis Algorithm Based on Example Computations.
+On the Efficiency of Subsumption Algorithms.
+Feedback Vertex Sets and Cyclically Reducible Graphs.
+Beyond Two-Phase Locking.
+Algorithms for Resolving Conflicts in Dynamic Storage Allocation.
+Parallel Algorithms for Data Compression.
+Impossibility of Distributed Consensus with One Faulty Process.
+The Traveling Salesman Problem in Graphs with 3-Edge Cutsets.
+A Fixpoint Semantics for Nondeterministic Data Flow.
+Optimal Static Load Balancing in Distributed Computer Systems.
+Decidable Problems for Powerful Programs.
+A Complexity Theory Based on Boolean Algebra.
+Generalized Best-First Search Strategies and the Optimality of A*.
+Enumeration of Structured Flowcharts.
+Optimal Attach and Reinforcement of a Network.
+A Simple On-Line Bin-Packing Algorithm.
+A Model of Computation for VLSI with Related Complexity Results.
+A Lower Bound on the Time Needed in the Worst Case to Resolve Conflicts Deterministically in Multiple Access Channels.
+Adding Range Restriction Capability to Dynamic Data Structures.
+A Mean Value Performance Model for Locking in Databases: The No-Waiting Case.
+Self-Adjusting Binary Search Trees.
+Uniform Hashing Is Optimal.
+Generating Binary Trees Using Rotations.
+Iterative Aggregation/Disaggregation Techniques for Nearly Uncoupled Markov Chains.
+The Complexity of Problems on Probabilistic Nondeterministic, and Alternating Decision Trees.
+The Complexity of Propositional Linear Temporal Logics.
+ (
+A Sufficient Condition for Backtrack-Bounded Search.
+A Fast Parallel Algorithm for the Maximal Independent Set Problem.
+Closures of Database Hypergraphs.
+Complexity of Network Synchronization.
+Asynchronous Consensus and Broadcast Protocols.
+How to Assign Votes in a Distributed System.
+On Ordered Languages and the Optimization of Linear Functions by Greedy Algorithms.
+A Simplex Algorithm Whose Average Number of Steps Is Bounded between Two Quadratic Functions of the Smaller Dimension.
+Acceptance Trees.
+Lower Bounds for Solving Linear Diophantine Equations on Random Access Machines.
+Applications of Ramsey's Theorem to Decision Tree Complexity.
+A Polynomial Algorithm for the Min-Cut Linear Arrangement of Trees.
+Special relations in automated deduction.
+Routing through a rectangle.
+An application of number theory to the organization of raster-graphics memory.
+Notions of dependency satisfaction.
+A chaotic asynchronous algorithm for computing the fixed point of a nonnegative matrix of unit spectral radius.
+"Sometimes" and "Not Never" revisited: on branching versus linear time temporal logic.
+Bound hierarchies for multiple-class queuing networks.
+ servers in a loop.
+Effective transformations on infinite trees, with applications to high undecidability, dominoes, and fairness.
+Equality-based binary resolution.
+Partitioning a polygonal region into trapezoids.
+The mutual exclusion problem: part I - a theory of interprocess communication.
+The mutual exclusion problem: partII - statement and solutions.
+A sound and sometimes complete query evaluation algorithm for relational databases with null values.
+Partial match retrieval of multidimensional data.
+Tuple sequences and lexicographic indexes.
+Elimination of intersection anomalies from database schemes.
+Security problems on inference control for SUM, MAX, and MIN queries.
+Sort sets in the relational model.
+A note on the height of binary search trees.
+Reaching approximate agreement in the presence of faults.
+Predicting fill for sparse orthogonal factorization.
+A unified approach to approximation algorithms for bottleneck problems.
+Improved methods for storing and updating information in the out-of-kilter algorithm.
+Asymptotic expansions for closed Markovian networks with state-dependent service rates.
+The performance of a precedence-based queuing discipline.
+The polynomial-time hierarchy and sparse oracles.
+Relativizing complexity classes with sparse oracles.
+Subproblem finder and instance checker, two cooperating modules for theorem provers.
+The combinatorics of local constraints in model-based recognition and localization from sparse data.
+On driving many long wires in a VLSI layout.
+Approximating grammar probabilities: solution of a conjecture.
+Initializing generalized feedback shift register pseudorandom number generators.
+Complexity of parallel QR factorization.
+Countable nondeterminism and random assignment.
+RECAL - a new efficient algorithm for the exact analysis of multiple-chain closed queuing networks.
+How to construct random functions.
+Polynomial-time algorithm for the orbit problem.
+ (
+Intersection of convex objects in two and three dimensions.
+Dynamic functional dependencies and database aging.
+A logarithmic time sort for linear size networks.
+On the minimal synchronism needed for distributed consensus.
+Electing a leader in a synchronous ring.
+How to share memory in a distributed system.
+On the Church-Rosser property for the direct sum of term rewriting systems.
+Using dual approximation algorithms for scheduling problems theoretical and practical results.
+Simultaneous WRITES of parallel random access machines do not help to compute simple arithmetic functions.
+Analysis of a composite performance reliability measure for fault-tolerant systems.
+Slowing down sorting networks to obtain faster sorting algorithms.
+Hard examples for resolution.
+Inference with path resolution and semantic graphs.
+Recognizing planar perfect graphs.
+Estimating the multiplicities of conflicts to speed their resolution in multiple access channels.
+Optimal reconfiguration strategy for a degradable multimodule computing system.
+Answering queries on embedded-complete database schemes.
+Associative table lookup processing for multioperand residue arithmetic.
+Linear probing with a nonuniform address distribution.
+A model for distributed systems based on graph rewriting.
+Concurrent dynamic logic.
+Minimal degrees for polynomial reducibilities.
+Decidability of the purely existential fragment of the theory of term algebras.
+An O(n³log n) deterministic and an O(n³) Las Vegs isomorphism test for trivalent graphs.
+An efficient algorithm for the "optimal" stable marriage.
+A theory of intersection anomalies in relational database schemes.
+Complete inverted files for efficient text retrieval and analysis.
+Fibonacci heaps and their uses in improved network optimization algorithms.
+New applications of failure functions.
+Optimal clock synchronization.
+Systems of linear equations with dense univariate polynomial coefficients.
+Stochastic catastrophe theory in computer performance modeling.
+Infinitesimal perturbation analysis for general discrete event systems.
+The existence and density of generalized complexity cores.
+The equivalence problem for real-time DPDAs.
+Convexity algorithms in parallel coordinates.
+Randomized parallel communications on an extension of the omega network.
+Design and analysis of dynamic Huffman codes.
+Multidimensional search trees that provide new types of memory reductions.
+A weighted voting algorithm for replicated directories.
+An O(log n) expected rounds randomized byzantine generals protocol.
+Lower bounds on communication complexity in distributed computer networks.
+On the discrepancy of GFSR pseudorandom numbers.
+Parallel algorithms for minimum cuts and maximum flows in planar networks.
+A linear time algorithm for residue computation and a fast algorithm for division with a sparse divisor.
+Asymptotic expansions of the sojourn time distribution functions of jobs in closed, product-form queuing networks.
+Monotone versus positive.
+Correction to "An equivalence between relational database dependencies and a fragment of propositional logic".
+Many-sorted unification.
+The complexity of searching a graph.
+Optimal design and use of retry in fault-tolerant computer systems.
+Equivalence and optimization of relational transactions.
+A theory of reliability in database systems.
+On conjunctive queries containing inequalities.
+External hashing with limited internal storage.
+Automating program analysis.
+A vertex-allocation theorem for resources in queuing networks.
+Greatest common divisors of polynomials given by straight-line programs.
+On the shortest paths between two convex polyhedra.
+Consensus in the presence of partial synchrony.
+Church-Rosser Thue systems and formal languages.
+Efficient tests for top-down termination of logical rules.
+An O(n²(m + n log n)log n) min-cost flow algorithm.
+The time complexity of maximum matching by simulated annealing.
+The schematic protection model: its definition and analysis for acyclic attenuating schemes.
+Optimal directory placement on disk storage devices.
+Comparing the combinational complexities of arithmetic functions.
+On the complexity of branching programs and decision trees for clique functions.
+A mechanical proof of the Church-Rosser theorem.
+Finding a maximum-genus graph imbedding.
+The coloring and maximum independent set problems on planar perfect graphs.
+Some distributions that allow perfect packing.
+Stability of binary exponential backoff.
+The physical mapping problem for parallel architectures.
+Optimal simulations between mesh-connected arrays of processors.
+The parallel complexity of exponentiating polynomials over finite fields.
+Busy periods for subnetworks in stochastic networks: mean value analysis.
+The reduction of perturbed Markov generators: an algorithm exposing the role of transient states.
+On the power of one-way communication.
+Nonconstructive tools for proving polynomial-time decidability.
+Fast algorithms for N-dimensional restrictions of hard problems.
+A nonlinear lower bound for random-access machines under logarithmic cost.
+Many Hard Examples for Resolution.
+A new class of heuristic algorithms for weighted perfect matching.
+Optimal VLSI circuits for sorting.
+A linear time algorithm for optimal routing around a rectangle.
+Optimal scheduling policies for a class of queues with customer deadlines to the beginning of service.
+Computing on an anonymous ring.
+Parallel hashing: an efficient implementation of shared memory.
+Eliminating go to's while preserving program structure.
+A new approach to the maximum-flow problem.
+.
+Meager and replete failures of relative completeness.
+Computational limitations on learning from examples.
+Counting is easy.
+ (
+Incremental modular decomposition.
+A unified framework for race analysis of asynchronous networks.
+Maintaining state constraints in relational databases: a proof theoretic basis.
+Minimizing function-free recursive inference rules.
+A counter-example for "A simpler construction for showing the intrinsically exponential complexity of the circularity problem for attribute grammars".
+A common schema for dynamic programming and branch and bound algorithms.
+Inferring sequences produced by pseudo-random number generators.
+A note on probabilistically verifying integer and polynomial products.
+Multiplicative complexity of polynomial multiplication over finite fields.
+Calculating availability and performability measures of repairable computer systems using randomization.
+Calculating joint queue-length distributions in product-form queuing networks.
+Rasterizing curves of constant width.
+A model for concurrency in nested transactions systems.
+Average case selection.
+On the path length of binary trees.
+Optimum combinations of sorting and merging.
+Efficient dispersal of information for security, load balancing, and fault tolerance.
+A generalized algorithm for centrality problems on trees.
+Size-time complexity of Boolean networks for prefix computations.
+Probabilistic inductive inference.
+Recognizing circle graphs in polynomial time.
+Hierarchical planarity testing algorithms.
+A trade-off between space and efficiency for routing tables.
+Invariance of complexity measures for networks with unreliable gates.
+Efficient implementation of graph algorithms using contraction.
+Optimum lopsided binary trees.
+Simple constant-time consensus protocols in realistic failure models.
+Acyclic fork-join queuing networks.
+Optimal bounds for decision problems on the CRCW PRAM.
+New lower bounds for parallel computation.
+Using temporal hierarchies to efficiently maintain large temporal databases.
+Spacefilling curves and the planar travelling salesman problem.
+The periodic balanced sorting network.
+A transaction-based approach to relational database specification.
+A uniform approach toward handling atomic and structured information in the nested relational database model.
+On the design of some systolic algorithms.
+Passes, sweeps, and visits in attribute grammars.
+The conjecture of Fliess on commutative context-free languages.
+Finding minimum-cost circulations by canceling negative cycles.
+Distributed bisimulations.
+P-uniform circuit complexity.
+Learnability and the Vapnik-Chervonenkis dimension.
+Some Computational Aspects of Circumscription.
+Polynomial-Time Implication Problems for Unary Inclusion Dependencies.
+Minimal and Complete Word Unification.
+Completeness of Rewrite Rules and Rewrite Strategies for FP.
+Asymptotic Expansions for Large Closed Queuing Networks.
+Nondeterministic Polynomial-Time Computations and Models of Arithmetic.
+Cost-Error Relationships in A* Tree-Searching.
+Lower Bounds for Orthogonal Range Searching: I. The Reporting Case.
+Faster Algorithms for the Shortest Path Problem.
+The Cost Distribution of Clustering in Random Probing.
+A Trade-Off between Information and Communication in Broadcast Protocols.
+Concurrency and Availability as Dual Properties of Replicated Atomic Data.
+Nonclausal Deduction in First-Order Temporal Logic.
+The Maximum Concurrent Flow Problem.
+Module Algebra.
+On the Execution of Parallel Programs on Multiprocessor Systems-A Queuing Theory Approach.
+Separating and Collapsing Results on the Relativized Probabilistic Polynomial-Time Hierarchy.
+Lower Bounds for Orthogonal Range Searching II. The Arithmetic Model.
+A Fast Algorithm for Optimal Length-Limited Huffman Codes.
+On the Equivalence of an Egd to a Set of Fd's.
+Analysis of Database Performance with Dynamic Locking.
+Renaming in an Asynchronous Environment.
+Knowledge and Common Knowledge in a Distributed Environment.
+Parallel Asynchronous Algorithms for Discrete Data.
+Shortest-Path and Minimum-Delay Algorithms in Networks with Time-Dependent Edge-Length.
+An Efficient and Fast Parallel-Connected Component Algorithm.
+Approximate Mean Value Analysis Algorithms for Queuing Networks: Existence, Uniqueness, and Convergence Results.
+Nondeterministic Linear-Time Tasks May Require Substantially Nonlinear Deterministic Time in the Case of Sublinear Work Space.
+Patricia Tries Again Revisited.
+A Correction of the Termination Conditions of the Henschen-Naqvi Technique.
+Early Stopping in Byzantine Agreement.
+Unification in Primal Algebras, Their Powers and Their Varieties.
+Higher-Order Horn Clauses.
+Decision Tree Reduction.
+Convex Separable Optimization Is Not Much Harder than Linear Optimization.
+The Representation of Multistage Interconnection Networks in Queuing Models of Parallel Systems.
+A Random Polynomial Time Algorithm for Approximating the Volume of Convex Bodies.
+The Weighted Region Problem: Finding Shortest Paths Through a Weighted Planar Subdivision.
+A Fast Planar Partition Algorithm, II.
+Optimal Sample Cost Residues for Differential Database Batch Query Problems.
+Evaluation of Queries in Independent Database Schemes.
+Planar Graph Decomposition and All Pairs Shortest Paths.
+Extended Horn Sets In Propositional Logic.
+Upper and Lower Bounds on Switching Energy in VLSI.
+Modularity of Cycles and Paths in Graphs.
+Maintenance of Geometric Extrema.
+A Methodology for Hardware Verification Based on Logic Simulation.
+Towards an Algebraic Theory of Recursion.
+A Model-Theoretic Analysis of Knowledge.
+On Stability and Performance of Parallel Processing Systems.
+A Lower Bound for Integer Greatest Common Divisor Computations.
+Space-Bounded Probabilistic Game Automata.
+Efficient Simulation of Finite Automata by Neural Nets.
+ (
+An Optimal Parallel Algorithm for the Visibility of a Simple Polygon from a Point.
+Abstraction in Query Processing.
+Proving Refutational Completeness of Theorem-Proving Strategies: The Transfinite Semantic Tree Method.
+Autoepistemic Logic.
+The Well-Founded Semantics for General Logic Programs.
+Two-Way String Matching.
+Optimal Load Balancing and Scheduling in a Distributed Computer System.
+Proofs that Yield Nothing But Their Validity for All Languages in NP Have Zero-Knowledge Proof Systems.
+Stability and Stabilizability of Discrete Event Dynamic Systems.
+Complexity Classes Defined by Counting Quantifiers.
+Multiobjective A*.
+Faster Scaling Algorithms for General Graph-Matching Problems.
+Independence-Reducible Database Schemes.
+Floyd-Hoare Logic in Iteration Theories.
+A Propositional Modal Logic of Time Intervals.
+Nonmonotonic Default Modal Logics.
+A Parallel Shortest Augmenting Path Algorithm for the Assignment Problem.
+Structural Conditions for Perturbation Analysis of Queuing Systems.
+Simulating (log c n)-Wise Independence in NC.
+An Optimal Algorithm for Intersecting Line Segments in the Plane.
+An O(log(N)) Deterministic Packet-Routing Scheme.
+Syntactical Characterization of a Subset of Domain-Independent Formulas.
+Institutions: Abstract Model Theory for Specification and Programming.
+Termination, Deadlock, and Divergence.
+Single-Class Bounds of Multi-Class Queuing Networks.
+How to Sign Given Any Trapdoor Permutation.
+Lower Bounds for the Low Hierarchy.
+A General Approach to Connected-Component Labelling for Arbitrary Image Representations.
+An Analysis of the Longest Match and the Greedy Heuristics in Text Encoding.
+Nonlinear Pattern Matching in Trees.
+The Generation of Binary Trees as a Numerical Problem.
+What Can Machines Know? On the Properties of Knowledge in Distributed Systems.
+Theorem Proving Using Equational Matings and Rigid E-Unification.
+A Four Russians Algorithm for Regular Expression Pattern Matching.
+A Little Knowledge Goes a Long Way: Knowledge-Based Derivations and Correctness Proofs for a Family of Protocols.
+The Pagenumber of Genus g Graphs is O(g).
+An Efficient Algorithm for a Task Allocation Problem.
+Sparse Dynamic Programming I: Linear Cost Functions.
+Sparse Dynamic Programming II: Convex and Concave Cost Functions.
+How Fair is Fair Queuing?
+The Membership Problem in Aperiodic Transformation Monoids.
+On Pointers versus Addresses.
+Learning via Queries.
+Reasoning about Systems with Many Processes.
+Monotone Circuits for Matching Require Linear Depth.
+An Optimal On-Line Algorithm for Metrical Task System.
+Nonoblivious Hashing.
+The Intractability of Bounded Protocols for On-Line Sequence Transmission over Non-FIFO Channels.
+Finite State Verifiers I: The Power of Interaction.
+Finite State Verifiers II: Zero Knowledge.
+Algebraic Methods for Interactive Proof Systems.
+IP = PSPACE.
+IP = PSPACE: Simplified Proof.
+On the Correctness of Orphan Management Algorithms.
+A VLSI Decomposition of the deBruijn Graph.
+Efficient Dataflow Analysis of Logic Programs.
+ (
+An Algorithm for Finding Canonical Sets of Ground Rewrite Rules in Polynomial Time.
+Perfectly Secure Message Transmission.
+Generating Automatically Tuned Bitmaps from Outlines.
+The Minimum Consistent DFA Problem Cannot be Approximated within any Polynomial.
+A Framework for Defining Logics.
+Learning Read-Once Formulas with Queries.
+On the Complexity of Functions for Random Access Machines.
+Recontamination Does Not Help to Search a Graph.
+Taxonomic Syntax for First Order Inference.
+Automatic Recognition of Tractability in Inference Relations.
+The Cost of Conservative Synchronization in Parallel Discrete Event Simulations.
+Simulating Synchronized Clocks and Common Knowledge in Distributed Systems.
+Efficient Decision Procedures for Graph Properties on Centext-Free Graph Languages.
+An Execution/Sleep Scheduling Policy for Serving an Additional Job in Priority Queueing Systems.
+Random Walks on Weighted Graphs and Applications to On-line Algorithms.
+Randomized Algorithms and Pseudorandom Numbers.
+Unification in Commutative Theories, Hilbert's Basis Theorem, and Gröbner Bases.
+Dissolution: Making Paths Vanish.
+Factorization and Circuit in the Connection Method.
+Z-Module Reasoning: An Equality-Oriented Proving Method with Built-in Ring Axioms.
+Constant Depth Circuits, Fourier Transform, and Learnability.
+Dynamic Interpolation Search.
+Union-Copy Structures and Dynamic Segment Trees.
+Decidability of Bisimulation Equivalence for Processes Generating Context-Free Languages.
+Undecidable Optimization Problems for Database Logic Programs.
+A Performance Evaluation of Several Priority Policies for Parallel Processing Systems.
+Taking Random Walks to Grow Trees in Hypercubes.
+Randomized Parallel Algorithms for Backtrack Search and Branch-and-Bound Computation.
+Strongly Polynomial-Time and NC Algorithms for Detecting Cycles in Periodic Graphs.
+On the Analytical Modeling of Database Concurrency Control.
+Atomic Snapshots of Shared Memory.
+The Parallel Complexity of Simple Logic Programs.
+Knowledge, Probability, and Adversaries.
+Modal Nonmonotonic Logics: Ranges, Characterization, Computation.
+Proof of the 4/3 Conjecture for Preemptive vs. Nonpreemptive Two-Processor Scheduling.
+On the Communication Complexity of Distributed Algebraic Computation.
+Kinodynamic Motion Planning.
+On the Optimality of Strategies for Multiple Joins.
+The Impossibility of Implementing Reliable Communication in the Face of Crashes.
+Complexity and Algorithms for Reasoning about Time: A Graph-Theoretic Approach.
+An Algebraic Theory of Graph Reduction.
+Dynamic Programming and the Graphical Traveling Salesman Problem.
+Parallel Queues with Resequencing.
+Extremal Scheduling of Parallel Processing with and without Real-Time Constraints.
+On the Sojourn Time Distribution in a Finite Capacity Processor Shared Queue.
+Fishspear: A Priority Queue Algorithm.
+Efficient Computation of Fourier Inversion for Finite Groups.
+Cryptographic Limitations on Learning Boolean Formulae and Finite Automata.
+Instance Complexity.
+Bounds on the Time to Reach Agreement in the Presence of Timing Uncertainty.
+Approximation Algorithms for NP-Complete Problems on Planar Graphs.
+A Really Temporal Logic.
+Faster Tree Pattern Matching.
+Biconnectivity Approximations and Graph Carvings.
+Equational Inference, Canonical Proofs, and Proof Orderings.
+Tight Lower Bounds for Probabilistic Solitude Verification on Anonymous Rings.
+The Elusive Atomic Register.
+Reasoning About Knowledge and Probability.
+An Analysis of ML Typability.
+Optimal Algorithms for Parallel Givens Factorization on a Coarse-Grained PRAM.
+Parallel Linear Programming in Fixed Dimension Almost Surely in Constant Time.
+On Binary Constraint Problems.
+New Approximation Algorithms for Graph Coloring.
+On the Power of Bounded Concurrency I: Finite Automata.
+On the Power of Bounded Concurrency II: Pushdown Automata.
+Diversity-Based Inference of Finite Automata.
+On Solving Equations and Disequations.
+Linear Approximation of Shortest Superstrings.
+Efficient Decomposition Methods for the Analysis of Multi-Facility Blocking Models.
+Computing Bounds on Steady State Availability of Repairable Computer Systems.
+The Relationship between Greedy Parsing and Symbolwise Text Compression.
+Are Wait-Free Algorithms Fast?
+Motion Planning in the Presence of Moving Obstacles.
+Channel Routing of Multiterminal Nets.
+Circumscription with Homomorphisms: Solving the Equality and Counterexample Problems.
+The Turn Model for Adaptive Routing.
+Equivalence, Reversibility, Symmetry and Concavity Properties in Fork-Join Queueing Networks with Blocking.
+Fully Persistent Lists with Catenation.
+On the Hardness of Approximating Minimization Problems.
+Shortest Paths in the Plane with Polygonal Obstacles.
+A Single-Exponential Upper Bound for Finding Shortest Paths in Three Dimensions.
+Counting Networks.
+Parallel Algorithms for Evaluating Sequences of Set-Manipulation Operations.
+Robust Sharing of Secrets When the Dealer is Honest or Cheating.
+Monte Carlo Summation and Integration Applied to Multiclass Queuing Networks.
+Probabilistic Recurrence Relations.
+How to Forget the Past Without Repeating It.
+Mixed Integer Programming Methods for Computing Nonmonotonic Deductive Databases.
+Modular Stratification and Magic Sets for Datalog Programs with Negation.
+Reliable Communication Over Unreliable Channels.
+Learning Boolean Formulas.
+Average-Case Analysis of Algorithms for Matchings and Related Problems.
+The Complexity of Logic-Based Abduction.
+Reasoning about Temporal Relations: A Maximal Tractable Subclass of Allen's Interval Algebra.
+A Decomposition of Multidimensional Point Sets with Applications to k-Nearest-Neighbors and n-Body Potential Fields.
+Planar-Adaptive Routing: Low-Cost Adaptive Networks for Multiprocessors.
+Sharing Memory Robustly in Message-Passing Systems.
+Dynamic Fault-Tolerant Clock Synchronization.
+Constructing 1-Writer Multireader Multivalued Atomic Variable from Regular Variables.
+Bounds on the Speedup and Efficiency of Partial Synchronization in Parallel Processing Systems.
+Bisimulation Can't be Traced.
+Designing Programs that Check Their Work.
+Provably Correct Theories of Action.
+A Randomized Linear-Time Algorithm to Find Minimum Spanning Trees.
+Decomposition of Magic Rewriting.
+On the Average Communication Complexity of Asynchronous Distributed Algorithms.
+The Isomorphism Conjecture Fails Relative to a Random Oracle.
+NP Trees and Carnap's Modal Logic.
+Three Logics for Branching Bisimulation.
+Las Vegas Algorithms for Linear and Integer Programming when the Dimension is Small.
+Nearly Optimal Algorithms and Bounds for Multilayer Channel Routing.
+On the Minimality and Decomposability of Row-Convex Constraint Networks.
+Expected Deadlock Time in a Multiprocessing System.
+On the Existence of Equilibria in Noncooperative Optimal Flow Control.
+Deterministic On-Line Routing on Area-Universal Networks.
+An Optimal Service Policy for Buffer Systems.
+Parametricity and Local Variables.
+Translating Default Logic into Standard Autoepistemic Logic.
+Logical Foundations of Object-Oriented and Frame-Based Languages.
+Color-Coding.
+The Complexity of Probabilistic Verification.
+A Constant-Time Optimal Parallel String-Matching Algorithm.
+Greed Sort: Optimal Deterministic Sorting on Parallel Disks.
+Calculating Normalization Constants of Closed Queueing Networks by Numerically Inverting Their Generating Functions.
+On the k-Server Conjecture.
+A Theory of Using History for Equational Systems with Applications.
+Online Tracking of Mobile Users.
+Recoverable Sequence Transmission Protocols.
+Eigenvalues and Expansion of Regular Graphs.
+A Class of Logic Problems Solvable by Linear Programming.
+Improved Approximation Algorithms for Maximum Cut and Satisfiability Problems Using Semidefinite Programming.
+On the Impact of Forgetting on Learning Machines.
+Subquadratic Zero-Knowledge.
+Equational Specifications, Complete Term Rewriting Systems, and Computable and Semicomputable Algebras.
+Computing With Faulty Shared Objects.
+Termination for Direct Sums of Left-Linear Complete Term Rewriting Systems.
+Local Management of a Global Resource in a Communication Network.
+Tabled Evaluation With Delaying for General Logic Programs.
+A Comprehensive Study of the Complexity of Multiparty Interaction.
+The Benefits of Relaxing Punctuality.
+The Asymptotic Complexity of Merging Networks.
+Automated Proofs of Object Code for a Widely Used Microprocessor.
+Knowledge Compilation and Theory Approximation.
+Unreliable Failure Detectors for Reliable Distributed Systems.
+Interactive Proofs and the Hardness of Approximating Cliques.
+Optimal Emulations by Butterfly-Like Networks.
+Sorting on a Parallel Pointer Machine with Applications to Set Expression Evaluation.
+Confluence Properties of Weak and Strong Calculi of Explicit Substitutions.
+On Linear Potential Functions for Approximating Bayesian Computations.
+Software Protection and Simulation on Oblivious RAMs.
+Foundations of Multimedia Database Systems.
+Linear-Time Suffix Parsing for Deterministic Languages.
+Branching Time and Abstraction in Bisimulation Semantics.
+A New Approach to the Minimum Cut Problem.
+Bounding Errors Introduced by Clustering of Customers in Closed Product-Form Queueing Networks.
+Complexity of Makanin's Algorithm.
+The Weakest Failure Detector for Solving Consensus.
+How to Share Concurrent Wait-Free Variables.
+On the Fourier Spectrum of Monotone Functions.
+Optimal Prefetching via Data Compression.
+A Combinatorial Treatment of Balancing Networks.
+How Many Queries Are Needed to Learn?
+The Meaning of Negative Premises in Transition System Specifications.
+Fast Text Searching for Regular Expressions or Automaton Searching on Tries.
+Constructing Deterministic Finite-State Automata in Recurrent Neural Networks.
+Efficient Routing in Optical Networks.
+On the Combinatorial and Algebraic Complexity of Quantifier Elimination.
+An Analysis of Magic Sets and Related Optimization Strategies for Logic Queries.
+Separators for sphere-packings and nearest neighbor graphs.
+Fixpoint logics, relational machines, and computational complexity.
+Avoiding Cartesian products for multiple joins.
+The maintenance of common data in a distributed system.
+Work-preserving emulations of fixed-connection networks.
+Optimizing two-phase, level-clocked circuitry.
+Semiring-based constraint satisfaction and optimization.
+Two heads are better than two tapes.
+Dynamic word problems.
+On the completeness of object-creating database transformation languages.
+Decomposition of tautologies into regular formulas and strong completeness of connection-graph resolution.
+Evaluating uniform expressions within two steps of minimum parallel time.
+On becoming editor-in-chief of JACM.
+Exponential bounds with applications to call admission.
+Mesh refinement via bidirected flows: modeling, complexity, and computational results.
+How to use expert advice.
+On-line routing of virtual circuits with applications to load balancing and machine scheduling.
+On the power and limitations of strictness analysis.
+Closure properties of constraints.
+Constraint tightness and looseness versus local and global consistency.
+Approximating shortest paths on a convex polytope in three dimensions.
+A simple min-cut algorithm.
+Robust wait-free hierarchies.
+Scale-sensitive dimensions, uniform convergence, and learnability.
+Erratum: "Two heads are better that two tapes".
+Applications of a logic of knowledge to motion planning under uncertainty.
+Sparsification - a technique for speeding up dynamic graph algorithms.
+Learning to reason.
+How much can hardware help routing?
+Time-work tradeoffs for parallel algorithms.
+Contention in shared memory algorithms.
+Exact analysis of Dodgson elections: Lewis Carroll's 1876 voting system is complete for parallel access to NP.
+Software reliability via run-time result-checking.
+Compositional refinement of interactive systems.
+Relational Expressive Power of Constraint Query Languages.
+Implementing Sequentially Consistent Shared Objects using Broadcast and Point-to-Point Communication.
+Probabilistic Checking of Proofs: A New Characterization of NP.
+Explicit OR-Dispersers with Polylogarithmic Degree.
+Theory of Neuromata.
+A New General Derandomization Method.
+How to Learn an Unknown Environment I: The Rectilinear Case.
+Approximate Graph Coloring by Semidefinite Programming.
+.
+Randomized Binary Search Trees.
+On Contention Resolution Protocols and Associated Probabilistic Phenomena.
+Time to Publication: A Progress Report.
+Efficient Descriptor-Vector Multiplications in Stochastic Automata Networks.
+Lower Bounds for Distributed Coin-Flipping and Randomized Consensus.
+Fault-Tolerant Wait-Free Shared Objects.
+Proof Verification and the Hardness of Approximation Problems.
+Formal Verification of Complex Coherence Protocols Using Symbolic State Models.
+On the Decidability and Axiomatization of Query Finiteness in Deductive Databases.
+ for Approximating Set Cover.
+Property Testing and its Connection to Learning and Approximation.
+Polynomial Time Approximation Schemes for Euclidean Traveling Salesman and other Geometric Problems.
+Beyond the Flow Decomposition Barrier.
+Object Identity as a Query Language Primitive.
+On the Space Complexity of Randomized Synchronization.
+Noise-Tolerant Distribution-Free Learning of General Geometric Concepts.
+An Optimal Algorithm for Approximate Nearest Neighbor Searching Fixed Dimensions.
+Electrostatic Fields Without Singularities: Theory, Algorithms and Error Analysis.
+Private Information Retrieval.
+Efficient Noise-Tolerant Learning from Statistical Queries.
+Ordered Chaining Calculi for First-Order Theories of Transitive Relations.
+On Parallel Evaluation of Game Trees.
+Transforming Cabbage into Turnip: Polynomial Algorithm for Sorting Signed Permutations by Reversals.
+Fully Dynamic Planarity Testing with Applications.
+ Page Replacement Algorithm.
+Complexity Estimates Depending on Condition and Round-Off Error.
+The Computational Complexity of Knot and Link Problems.
+Reconstructing a Three-Dimensional Model with Arbitrary Errors.
+The String B-tree: A New Data Structure for String Search in External Memory and Its Applications.
+Provably Efficient Scheduling for Languages with Fine-Grained Parallelism.
+Some Contributions to the Metatheory of the Situation Calculus.
+Undirected Single-Source Shortest Paths with Positive Integer Weights in Linear Time.
+A Fast Bit-Vector Algorithm for Approximate String Matching Based on Dynamic Programming.
+Generation of Universal Series-Parallel Boolean Functions.
+Efficient Algorithms for Inverting Evolution.
+Primality Testing Using Elliptic Curves.
+On the Efficiency of Pairing Heaps and Related Data Structures.
+Randomized Fully Dynamic Graph Algorithms with Polylogarithmic Time per Operation.
+Mutual Search.
+New Results on Quantifier Elimination over Real Closed Fields and Applications to Constraint Databases.
+Finding Circular Attributes in Attribute Grammars.
+Authoritative Sources in a Hyperlinked Environment.
+Linear Hash Functions.
+Sample-Efficient Strategies for Learning in the Presence of Noise.
+Scheduling Multithreaded Computations by Work Stealing.
+Multicommodity max-flow min-cut theorems and their use in designing approximation algorithms.
+Analysis of a bounding box heuristic for object intersection.
+The topological structure of asynchronous computability.
+Approximation in stochastic scheduling: the power of LP-based priority policies.
+-server algorithm is competitive.
+Parallel RAMs with owned global memory and deterministic context-free language recognition.
+Minimum cuts in near-linear time.
+Existential second-order logic over strings.
+Polylog-time and near-linear work approximation scheme for undirected shortest paths.
+From Algol to polymorphic linear lambda-calculus.
+Eavesdropping games: a graph-theoretic approach to privacy in distributed systems.
+The fault span of crash failures.
+) connectivity in undirected graphs.
+An automata-theoretic approach to branching-time model checking.
+Making abstract interpretations complete.
+A subdivision-based algorithm for the sparse resultant.
+An axiomatic treatment of three qualitative decision criteria.
+The expressibility of languages and relations by word equations.
+Learning functions represented as multiplicity automata.
+Behavioral equivalence in the polymorphic pi-calculus.
+Divide-and-conquer approximation algorithms via spreading metrics.
+Speed is as powerful as clairvoyance.
+Relational queries over interpreted structures.
+Complexity of finite-horizon Markov decision process problems.
+Orthologic and quantum logic: models and computational elements.
+Balanced sequences and optimal routing.
+A needed narrowing strategy.
+Editorial: a bill of rights and responsibilities.
+Building tractable disjunctive constraints.
+A neuroidal architecture for cognitive computation.
+Sliver exudation.
+A lower bound on the average-case complexity of shellsort.
+-set agreement.
+Periodification scheme: constructing sorting networks with constant period.
+Minimizing stall time in single and parallel disk systems.
+On the sorting-complexity of suffix tree construction.
+The soft heap: an approximate priority queue with optimal error rate.
+A minimum spanning tree algorithm with Inverse-Ackermann type complexity.
+Contention resolution with constant expected delay.
+Dynamic planar convex hull operations in near-logarithmaic amortized time.
+Adversarial queuing theory.
+Universal-stability results and performance bounds for greedy contention-resolution protocols.
+Automated complexity analysis based on ordered resolution.
+Lattice computers for approximating Euclidean space.
+Erratum: a counterexample to W. Bibel's and E. Eder's strong completeness result for connection graph resolution.
+Short proofs are narrow - resolution made simple.
+Improved master theorems for divide-and-conquer recurrences.
+Convex quadratic and semidefinite programming relaxations in scheduling.
+On-line analysis of the TCP acknowledgment delay problem.
+-Median problems using the primal-dual schema and Lagrangian relaxation.
+Concurrent threads and optimal parallel minimum spanning trees algorithm.
+A general approach to dynamic packet routing with bounded buffers.
+Unconditional security in quantum cryptography.
+An analysis of the Burrows-Wheeler transform.
+The complexity of acyclic conjunctive queries.
+Simplifying fault-tolerance: providing the abstraction of crash failures.
+A modal analysis of staged computation.
+Decomposable negation normal form.
+Plausibility measures and default reasoning.
+An efficient algorithm for image segmentation, Markov random fields and related problems.
+Efficient generation of shared RSA keys.
+Poly-logarithmic deterministic fully-dynamic algorithms for connectivity, minimum spanning tree, 2-edge, and biconnectivity.
+A combinatorial strongly polynomial algorithm for minimizing submodular functions.
+Quantum lower bounds by polynomials.
+Some optimal inapproximability results.
+Extractors and pseudorandom generators.
+Logics with aggregate operators.
+A model of multimedia information retrieval.
+Static analysis in datalog extensions.
+Improved implementations of binary universal operations.
+Interval arithmetic: From principles to implementation.
+A unified approach to approximating resource allocation and scheduling.
+Monotonic reductions, representative equivalence, and compilation of intractable problems.
+A Laplace transform algorithm for the volume of a convex polytope.
+Managing periodically updated data in relational databases: a stochastic modeling approach.
+Deciding first-order properties of locally tree-decomposable structures.
+Register-machine based processes.
+Fast context-free grammar parsing requires fast boolean matrix multiplication.
+An optimal minimum spanning tree algorithm.
+On a model of indexability and its bounds for range queries.
+Expressiveness of structured document query languages based on attribute grammars.
+Bounded concurrent timestamp systems using vector clocks.
+Map graphs.
+Polynomial-time approximation schemes for geometric min-sum median clustering.
+On the closest string and substring problems.
+Timed regular expressions.
+Understanding TCP Vegas: a duality model.
+How bad is selfish routing?
+Task assignment with unknown duration.
+All pairs shortest paths using bridging sets and rectangular matrix multiplication.
+Compactly encoding unstructured inputs with differential compression.
+On XML integrity constraints in the presence of DTDs.
+Paradoxes in distributed decisions on optimal load balancing for networks of homogeneous computers.
+Tight bounds on cache use for stencil operations on rectangular grids.
+Qualitative decision theory: from savage's axioms to nonmonotonic reasoning.
+Dense quantum coding and quantum finite automata.
+On the complexity analysis of static analyses.
+Formal verification of standards for distance vector routing protocols.
+Truth revelation in approximately efficient combinatorial auctions.
+The greedy path-merging algorithm for contig scaffolding.
+Approximation algorithms for classification problems with pairwise relationships: metric labeling and Markov random fields.
+On the online bin packing problem.
+Alternating-time temporal logic.
+Update: Time to publication statistics.
+Query evaluation via tree-decompositions.
+Cosmological lower bound on the circuit complexity of a small problem in logic.
+Correctness properties in a shared-memory parallel language.
+Towards a theory of cache-efficient algorithms.
+JACM's 50th anniversary.
+JACM editors-in-chief.
+Journal of the ACM - the beginnings.
+Transitions 1959-1964.
+A Golden Age for JACM.
+JACM 1973-1975.
+JACM 1976-1979.
+JACM 1983-1986.
+JACM 1986-1990.
+JACM 1991-1997.
+A report from Headquarters.
+Three great challenges for half-century-old computer science.
+The importance of the P versus NP question.
+On computer system challenges.
+Some challenges and grand challenges for computational intelligence.
+What next?: A dozen information-technology research goals.
+Separation of complexity classes.
+The verifying compiler: A grand challenge for computing research.
+Getting computers to understand.
+Problems and projections in CS for the next 49 year.
+Propositional proof complexity.
+Three open problems in AI.
+Why haven't more quantum algorithms been found?.
+Deterministic versus nondeterministic time and lower bound problems.
+Three problems in computer science.
+Classical physics and the Church-Turing Thesis.
+Mini-buckets: A general scheme for bounded inference.
+Time-space trade-off lower bounds for randomized computation of decision problems.
+A complete problem for statistical zero knowledge.
+A foundation for designing deadlock-free routing algorithms in wormhole networks.
+Erratum: P. van Beek and R. Dechter's theorem on constraint looseness and local consistency.
+A differential approach to inference in Bayesian networks.
+The height of a random binary search tree.
+An analytic approach to the height of binary search trees II.
+Algorithms for computing the static single assignment form.
+Editorial: Preserving excellence through change.
+Primality and identity testing via Chinese remaindering.
+Algorithms adapting to point contention.
+Computatbility theory of generalized functions.
+Noise-tolerant learning, the parity problem, and the statistical query model.
+Bounds on delays and queue lengths in input-queued cell switches.
+Minimizing flow time nonclairvoyantly.
+How asymmetry helps load balancing.
+Reasoning about temporal relations: The tractable subalgebras of Allen's interval algebra.
+The geometric maximum traveling salesman problem.
+The performance of difference coding for sets and relational tables.
+Definable relations and first-order query languages over strings.
+Counterexample-guided abstraction refinement for symbolic model checking.
+Greedy facility location algorithms analyzed using dual fitting with factor-revealing LP.
+Improving table compression with combinatorial optimization.
+Magic Functions.
+Conditions on input vectors for consensus solvability in asynchronous distributed systems.
+ symbols.
+Foreword.
+Containment and equivalence for a fragment of XPath.
+From discrepancy to declustering: Near-optimal multidimensional declustering strategies for range queries.
+Monadic datalog and the expressive power of languages for Web information extraction.
+Resolution lower bounds for the weak pigeonhole principle.
+Lenses in arrangements of pseudo-circles and their applications.
+The security of all RSA and discrete log bits.
+Number-theoretic constructions of efficient pseudo-random functions.
+Segmentation problems.
+On sufficient conditions for unsatisfiability of random formulas.
+Existential second-order logic over graphs: Charting the tractability frontier.
+Polynomial-time data reduction for dominating set.
+Smoothed analysis of algorithms: Why the simplex algorithm usually takes polynomial time.
+Lower bounds on the bounded coefficient complexity of bilinear maps.
+Satisfiability of word equations with constants is in PSPACE.
+On clusterings: Good, bad and spectral.
+Nonclairvoyant scheduling to minimize the total flow time on single and parallel machines.
+Solving convex programs by random walks.
+The random oracle methodology, revisited.
+Quantum lower bounds for the collision and the element distinctness problems.
+Approximating extent measures of points.
+Edge-disjoint routing in plane switch graphs in linear time.
+A polynomial-time approximation algorithm for the permanent of a matrix with nonnegative entries.
+Almost tight upper bounds for vertical decompositions in four dimensions.
+Automatic information extraction from large websites.
+Self-stabilizing clock synchronization in the presence of Byzantine faults.
+A unified theory of shared memory consistency.
+Concurrent zero-knowledge.
+New lattice-based cryptographic constructions.
+Spatial gossip and resource location protocols.
+A new approach to dynamic all pairs shortest paths.
+Compact oracles for reachability and approximate distances in planar digraphs.
+Fast monte-carlo algorithms for finding low-rank approximations.
+Approximate distance oracles.
+Determining approximate shortest paths on weighted polyhedral surfaces.
+Aggregate operators in probabilistic databases.
+Analyzing security protocols with secrecy types and logic programs.
+ barrier.
+Lower bounds for linear degeneracy testing.
+Simple extractors for all min-entropies and a new pseudorandom generator.
+Trade-offs in probabilistic packet marking for IP traceback.
+Introduction.
+An information-theoretic approach to normal forms for relational and XML data.
+The complexity of XPath query evaluation and XML typing.
+-SAT.
+Simplify: a theorem prover for program checking.
+Beyond proof-of-compliance: security analysis in trust management.
+) moves.
+-hard to approximate.
+Indexing compressed text.
+Source routing and scheduling in packet networks.
+Approximation algorithms for asymmetric TSP by decomposing directed regular multigraphs.
+Remote attribute grammars.
+Boosting textual compression in optimal linear time.
+Frontier search.
+Lattice problems in NP cap coNP.
+.
+Hardness of approximating the shortest vector problem in lattices.
+Scheduling over a time-varying user-dependent channel with applications to high-speed wireless data.
+Time-space lower bounds for satisfiability.
+-minor-free graphs.
+Ownership confinement ensures representation independence for object-oriented programs.
+Behavioral theory for mobile ambients.
+On the Sum-of-Squares algorithm for bin packing.
+A dichotomy theorem for constraint satisfaction problems on a 3-element set.
+A new average case analysis for completion time scheduling.
+Hidden word statistics.
+Limits on the ability of quantum states to convey classical messages.
+Introduction.
+On preservation under homomorphisms and unions of conjunctive queries.
+Conjunctive queries over trees.
+A characterization of first-order topological properties of planar spatial data.
+Stable distributions, pseudorandom generators, embeddings, and data stream computation.
+Dependent rounding and its applications to approximation algorithms.
+Interface surfaces for protein-protein complexes.
+Split-ordered lists: Lock-free extensible hash tables.
+Probabilistic parsing strategies.
+The generalized two-server problem.
+Alpha-structural recursion and induction.
+Computing with highly mixed states.
+Fast and accurate algorithms for protein side-chain packing.
+Locally testable codes and PCPs of almost-linear length.
+Distribution sort with randomized cycling.
+Backing up in singly linked lists.
+New hardness results for congestion minimization and machine scheduling.
+Finding a maximum likelihood tree is hard.
+Logarithmic hardness of the undirected edge-disjoint paths problem.
+Combining expert advice in reactive environments.
+Using expander graphs to find vertex connectivity.
+Online algorithms for market clearing.
+On the composition of authenticated Byzantine Agreement.
+Linear work suffix array construction.
+).
+An approximation scheme for stochastic linear programming and its application to stochastic integer programs.
+The complexity of homomorphism and constraint satisfaction problems seen from the other side.
+Polymorphic higher-order recursive path orderings.
+Speed scaling to manage energy and temperature.
+Polynomial-time quantum algorithms for Pell's equation and the principal ideal problem.
+Deciding equivalences among conjunctive aggregate queries.
+A characterization of regular expressions under bisimulation.
+The rational numbers as an abstract data type.
+The measurement calculus.
+Fast computation of low-rank matrix approximations.
+On the maximum satisfiability of random formulas.
+Approximation via cost sharing: Simpler and better approximation algorithms for network design.
+The PCP theorem by gap amplification.
+Dynamic ordered sets with exponential search trees.
+When are elections with few candidates hard to manipulate?.
+Characterizing and reasoning about probabilistic and non-probabilistic expectation.
+(Almost) Tight bounds and existence theorems for single-commodity confluent flows.
+A new look at survey propagation and its generalizations.
+Optimal pants decompositions and shortest homotopic cycles on an orientable surface.
+On deciding well-definedness for query languages on trees.
+Periodicity and unbordered words: A proof of the extended duval conjecture.
+Sampling from large matrices: An approach through geometric functional analysis.
+AdWords and generalized online matching.
+Low distortion embeddings for edit distance.
+On computing all abductive explanations from a propositional Horn theory.
+Lossless abstraction of imperfect information games.
+A bisimulation for type abstraction and recursion.
+On counting homomorphisms to directed acyclic graphs.
+Equivalence between priority queues and sorting.
+A testing scenario for probabilistic processes.
+Time lower bounds for implementations of multi-writer snapshots.
+On specification of Read/Write shared variables.
+Priority sampling for estimation of arbitrary subset sums.
+Towards 3-query locally decodable codes of subexponential length.
+On the minimization of XPath queries.
+Bit complexity of breaking and achieving symmetry in chains and rings.
+A formal foundation for XrML.
+Undecidability of bisimilarity by defender's forcing.
+Security analysis of cryptographically controlled access to XML documents.
+XML data exchange: Consistency and query answering.
+XPath satisfiability in the presence of DTDs.
+Efficient core computation in data exchange.
+Optimal probabilistic fingerprint codes.
+Minimum-weight triangulation is NP-hard.
+Beyond separation of duty: An algebra for specifying high-level security policies.
+Matching algorithmic bounds for finding a Brouwer fixed point.
+Computing correlated equilibria in multi-player games.
+Homomorphism preservation theorems.
+The approximability of MAX CSP with fixed-value constraints.
+Undirected connectivity in log-space.
+Optimal maintenance of a spanning tree.
+Semantic subtyping: Dealing set-theoretically with function, union, intersection, and negation types.
+Tight bounds for asynchronous randomized consensus.
+A fixed-parameter algorithm for the directed feedback vertex set problem.
+Market equilibrium via a primal-dual algorithm for a convex program.
+Aggregating inconsistent information: Ranking and clustering.
+Random sampling from a search engine's index.
+On the impact of combinatorial structure on congestion games.
+Linear-time disk-based implicit graph search.
+Almost-tight hardness of directed congestion minimization.
+Weak ε-nets and interval chains.
+Recursive Markov chains, stochastic grammars, and monotone systems of nonlinear equations.
+The complexity of online memory checking.
+Evolvability.
+Single-value combinatorial auctions and algorithmic implementation in undominated strategies.
+Expander flows, geometric embeddings and graph partitioning.
+Polynomial flow-cut gaps and hardness of directed cut problems.
+The gene evolution model and computing its associated probabilities.
+Multi-linear formulas for permanent and determinant are of super-polynomial size.
+-flow in a directed planar graph.
+Permuting streaming data using RAMs.
+Introduction to PODS 2006 special section.
+Lower bounds for processing data with few random accesses to external memory.
+Two-variable logic on data trees and XML reasoning.
+Settling the complexity of computing two-player Nash equilibria.
+A quasi-polynomial time approximation scheme for minimum weight triangulation.
+Adding nesting structure to words.
+Improved bounds on the average length of longest common subsequences.
+Adaptive simulated annealing: A near-optimal connection between sampling and counting.
+Graph partitioning using single commodity flows.
+Unbalanced expanders and randomness extractors from Parvaresh-Vardy codes.
+On the bias of traceroute sampling: Or, power-law degree distributions in regular graphs.
+Empirical hardness models: Methodology and a case study on combinatorial auctions.
+Quantifying inefficiency in cost-sharing mechanisms.
+The complexity of obstruction-free implementations.
+A measure & conquer approach for the analysis of exact algorithms.
+On the expressiveness and complexity of randomization in finite state monitors.
+On approximating the ideal random access machine by physical machines.
+A unified approach to scheduling on unrelated parallel machines.
+Introduction to PODS 2007 special section.
+Generalized hypertree decompositions: NP-hardness and tractable variants.
+The complexity of query containment in expressive fragments of XPath 2.0.
+Triangulation and embedding using small sets of beacons.
+A property of quantum relative entropy with an application to privacy in quantum communication.
+On lattices, learning with errors, random linear codes, and cryptography.
+Space-time tradeoffs for approximate nearest neighbor searching.
+On the union of fat tetrahedra in three dimensions.
+Efficient and secure authenticated key exchange using weak passwords.
+Compressing and indexing labeled trees, with applications.
+Linear-time approximation schemes for clustering problems in any dimensions.
+Schema mapping discovery from data instances.
+The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies.
+Tight bounds for clock synchronization.
+The complexity of temporal constraint satisfaction problems.
+The next 700 data description languages.
+A constructive proof of the general lovász local lemma.
+Editorial: JACM at the start of a new decade.
+Eigenvalue bounds, spectral partitioning, and metrical deformations via flows.
+Amplifying lower bounds by means of self-reducibility.
+Geometric suffix tree: Indexing protein 3-D structures.
+A dynamic data structure for 3-D convex hulls and 2-D nearest neighbor queries.
+Improved bounds and new techniques for Davenport-Schinzel sequences and their generalizations.
+Transitive closure logic, nested tree walking automata, and XPath.
+A discriminative model for semi-supervised learning.
+Simulating independence: New constructions of condensers, ramsey graphs, dispersers, and extractors.
+Ultra-low-dimensional embeddings for doubling metrics.
+Tight failure detection bounds on atomic object implementations.
+Set constraints with projections.
+) expected time.
+Routing betweenness centrality.
+An axiomatic approach to personalized ranking systems.
+ search with consistent heuristics.
+ circuits.
+Two-query PCP with subconstant error.
+Reconciling description logics and rules.
+The structure of inverses in schema mappings.
+A random-sampling-based algorithm for learning intersections of halfspaces.
+Newtonian program analysis.
+Limitations of quantum coset states for graph isomorphism.
+Invited articles section foreword.
+Epistemic privacy.
+Approximation algorithms for restless bandit problems.
+XML with incomplete information.
+On P vs. NP and geometric complexity theory: Dedicated to Sri Ramakrishna.
+)) time and more.
+Dynamic atomic storage without consensus.
+Randomized algorithms for estimating the trace of an implicit symmetric positive semi-definite matrix.
+On the competitive ratio of evaluating priced functions.
+Market equilibrium under separable, piecewise-linear, concave utilities.
+Robust principal component analysis?
+ invited article.
+Estimating PageRank on graph streams.
+Online geometric reconstruction.
+Probabilistic data exchange.
+Invited articles foreword.
+XPath evaluation in linear time.
+) bit barrier: Scalable byzantine agreement with an adaptive adversary.
+Smoothed Analysis of the k-Means Method.
+Hardness of Approximating Flow and Job Shop Scheduling Problems.
+Approximation Schemes for Steiner Forest on Planar Graphs and Graphs of Bounded Treewidth.
+Invited Articles Foreword.
+Deterministic Distributed Vertex Coloring in Polylogarithmic Time.
+Complete Fairness in Secure Two-Party Computation.
+Truthful and Near-Optimal Mechanism Design via Linear Programming.
+Compositional Shape Analysis by Means of Bi-Abduction.
+Randomized Shellsort: A Simple Data-Oblivious Sorting Algorithm.
+New Constructive Aspects of the Lovász Local Lemma.
+Invited Article Foreword.
+QIP = PSPACE.
+Probabilistic ω-automata.
+Polylogarithmic concurrent data structures from monotone circuits.
+New combinatorial topology bounds for renaming: The upper bound.
+Invited article foreword.
+Highly acyclic groups, hypergraph covers, and the guarded fragment.
+On the (im)possibility of obfuscating programs.
+The notion of a rational convex program, and an algorithm for the arrow-debreu Nash bargaining game.
+A theory of goal-oriented communication.
+Invited article foreword.
+Continuous sampling from distributed streams.
+New Techniques for Noninteractive Zero-Knowledge.
+An Efficient Rigorous Approach for Identifying Statistically Significant Frequent Itemsets.
+Defining Fairness in Reactive and Concurrent Systems.
+The Power of Simple Tabulation Hashing.
+Invited Article Foreword.
+Size and Treewidth Bounds for Conjunctive Queries.
+From Almost Optimal Algorithms to Logics for Complexity Classes via Listings and a Halting Problem.
+SINR Diagrams: Convexity and Its Applications in Wireless Networks.
+A Primal-Dual Randomized Algorithm for Weighted Paging.
+Invited Article Foreword.
+Dynamic Indexability and the Optimality of B-Trees.
+On the trade-off between network connectivity, round complexity, and communication complexity of reliable message transmission.
+Sublinear optimization for machine learning.
+A quantum lovász local lemma.
+Approximating the partition function of the ferromagnetic potts model.
+Invited article foreword.
+Fixed-point definability and polynomial time on graphs with excluded minors.
+The effectiveness of lloyd-type methods for the k-means problem.
+An invariance principle for polytopes.
+The dichotomy of probabilistic inference for unions of conjunctive queries.
+Theories, solvers and static analysis by abstract interpretation.
+Graph expansion and communication costs of fast matrix multiplication.
+Strategy Iteration Is Strongly Polynomial for 2-Player Turn-Based Stochastic Games with a Constant Discount Factor.
+Distributed Random Walks.
+Testing Product States, Quantum Merlin-Arthur Games and Tensor Optimization.
+Testing Closeness of Discrete Distributions.
+Invited Article Foreword.
+Steiner Tree Approximation via Iterative Randomized Rounding.
+Paging and list update under bijective analysis.
+Clustering under approximation stability.
+Forbidden information.
+The complexity of conservative valued CSPs.
+Asynchronous gossip.
+A learning theory approach to noninteractive database privacy.
+An in-depth analysis of stochastic Kronecker graphs.
+Invited article foreword.
+Relational transducers for declarative networking.
+A Master Theorem for Discrete Divide and Conquer Recurrences.
+The VPN Conjecture Is True.
+Local Reasoning for Global Invariants, Part I: Region Logic.
+Local Reasoning for Global Invariants, Part II: Dynamic Boundaries.
+Model Checking Higher-Order Programs.
+Invited Article Foreword.
+CompCertTSO: A Verified Compiler for Relaxed-Memory Concurrency.
+The HOM problem is decidable.
+Decomposing combinatorial auctions and set packing problems.
+Matrix sparsification and nested dissection over arbitrary fields.
+) time with high probability.
+Invited articles foreword.
+Data exchange beyond complete data.
+Game semantics for a polymorphic programming language.
+Editorial: JACM redux.
+Fast matrix rank algorithms and applications.
+The expressibility of functions on the boolean domain, with applications to counting CSPs.
+From sylvester-gallai configurations to rank bounds: Improved blackbox identity test for depth-3 circuits.
+The complexity of the counting constraint satisfaction problem.
+Towards a complexity theory for local distributed computing.
+Testing first-order properties for subclasses of sparse graphs.
+Random graphs and the parity quantifier.
+Invited article foreword.
+Lower bounds for local approximation.
+Tensor-Rank and Lower Bounds for Arithmetic Formulas.
+Persistence-Based Clustering in Riemannian Manifolds.
+Tractable Hypergraph Properties for Constraint Satisfaction and Conjunctive Queries.
+On Ideal Lattices and Learning with Errors over Rings.
+From Low-Distortion Norm Embeddings to Explicit Uncertainty Relations and Efficient Information Locking.
+Most Tensor Problems Are NP-Hard.
+Linear-Time Approximation for Maximum Weight Matching.
+Nonuniform ACC Circuit Lower Bounds.
+Constraint Satisfaction Problems Solvable by Local Consistency Methods.
+Sparser Johnson-Lindenstrauss Transforms.
+Approximating Markov Processes by Averaging.
+Foreword to Invited Articles Section.
+The Space Complexity of Long-Lived and One-Shot Timestamp Implementations.
+Querying Regular Graph Patterns.
+ String Retrieval.
+Avoiding Three Consecutive Blocks of the Same Size and Same Sum.
+Nearly Optimal Solutions for the Chow Parameters Problem and Low-Weight Approximation of Halfspaces.
+XML Schema Mappings: Data Exchange and Metadata Management.
+: On Time Bounds and the Ordering of Events in Distributed Systems.
+Undecidability of Propositional Separation Logic and Its Neighbours.
+Efficient and Dynamic Algorithms for Alternating Büchi Games and Maximal End-Component Decomposition.
+Merge-and-Shrink Abstraction: A Method for Generating Lower Bounds in Factored State Spaces.
+Computing All Maps into a Sphere.
+Tight Bounds for Asynchronous Renaming.
+The Cost of Fault Tolerance in Multi-Party Communication Complexity.
+Solving the Weighted Stable Set Problem in Claw-Free Graphs via Decomposition.
+The Convergence of Bird Flocking.
+An Additive Combinatorics Approach Relating Rank to Communication Complexity.
+Satisfiability Allows No Nontrivial Sparsification unless the Polynomial-Time Hierarchy Collapses.
+A Logic for True Concurrency.
+Invited Articles Foreword.
+Ranking Functions for Linear-Constraint Loops.
+Denotational Semantics with Nominal Scott Domains.
+High-rate codes with sublinear-time decoding.
+Privacy amplification with asymptotically optimal entropy loss.
+Fault-tolerant algorithms for tick-generation in asynchronous logic: Robust pulse generation.
+Invited article foreword.
+Transducing Markov sequences.
+Approaching the Chasm at Depth Four.
+Communication Lower Bounds Using Directional Derivatives.
+Fast Interactive Coding against Adversarial Noise.
+: A Self-Stabilizing Skip Graph.
+Multiway Spectral Partitioning and Higher-Order Cheeger Inequalities.
+Privacy Aware Learning.
+A New Approach to Image Sharing with High-Security Threshold Structure.
+Invited Article Foreword.
+Efficient Analysis of Probabilistic Programs with an Unbounded Counter.
+Approximating Minimum Bounded Degree Spanning Trees to within One of Optimal.
+Approximate Verification of the Symbolic Dynamics of Markov Chains.
+Limited-Use Atomic Snapshots with Polylogarithmic Step Complexity.
+Improved Smoothed Analysis of Multiobjective Optimization.
+Constant-Round Nonmalleable Commitments from Any One-Way Function.
+Invited Articles Foreword.
+On the Complexity of Universal Leader Election.
+.
+Measuring and Synthesizing Systems in Probabilistic Environments.
+Truthful Mechanisms with Implicit Payment Computation.
+Recursive Markov Decision Processes and Recursive Stochastic Games.
+Document Spanners: A Formal Approach to Information Extraction.
+Finding Correlations in Subquadratic Time, with Applications to Learning Parities and the Closest Pair Problem.
+Preemptive Uniprocessor Scheduling of Mixed-Criticality Sporadic Task Systems.
+Monitoring Metric First-Order Temporal Properties.
+Invited Article Foreword.
+Exponential Lower Bounds for Polytopes in Combinatorial Optimization.
+Polyhedral Clinching Auctions and the AdWords Polytope.
+Schaefer's Theorem for Graphs.
+New Strong Direct Product Results in Communication Complexity.
+Learning without Concentration.
+Guarded Negation.
+A Framework for Space Complexity in Algebraic Proof Systems.
+Invited Article Foreword.
+On Kinetic Delaunay Triangulations: A Near-Quadratic Bound for Unit Speed Motions.
+Robust Satisfiability of Systems of Equations.
+Delegating Computation: Interactive Proofs for Muggles.
+Algorithmic Applications of Baur-Strassen's Theorem: Shortest Cycles, Diameter, and Matchings.
+Invited Articles Foreword.
+Upper Bounds for Newton's Method on Monotone Polynomial Systems, and P-Time Model Checking of Probabilistic One-Counter Automata.
+Signature-Free Asynchronous Binary Byzantine Consensus with t < n/3, O(n2) Messages, and O(1) Expected Time.
+Intrinsic Robustness of the Price of Anarchy.
+LSH-Preserving Functions and Their Applications.
+Improving Christofides' Algorithm for the s-t Path TSP.
+Optimal Euclidean Spanners: Really Short, Thin, and Lanky.
+Sharp Bounds on Davenport-Schinzel Sequences of Every Order.
+The Topology of Wireless Communication.
+Improved Distributed Approximate Matching.
+Regular Languages Are Church-Rosser Congruential.
+-Server Problem.
+Invited Articles Foreword.
+Subexponential Algorithms for Unique Games and Related Problems.
+Query-Based Data Pricing.
+Net and Prune: A Linear Time Algorithm for Euclidean Distance Problems.
+Attribute-Based Encryption for Circuits.
+Substitution-Permutation Networks, Pseudorandom Functions, and Natural Proofs.
+Simple, Fast and Deterministic Gossip and Rumor Spreading.
+Solving Linear Programs without Breaking Abstractions.
+Revocable Quantum Timed-Release Encryption.
+Inapproximability for Antiferromagnetic Spin Systems in the Tree Nonuniqueness Region.
+Revisiting Asynchronous Linear Solvers: Provable Convergence Rate through Randomization.
+Communication is Bounded by Root of Rank.
+Removing and Adding Edges for the Traveling Salesman Problem.
+Network-Oblivious Algorithms.
+Recompression: A Simple and Powerful Technique for Word Equations.
+Impossibility Results for Truthful Combinatorial Auctions with Submodular Valuations.
+An Optimal Ancestry Labeling Scheme with Applications to XML Trees and Universal Posets.
+Algebraic Structures for Capturing the Provenance of SPARQL Queries.
+Invited Articles Foreword.
+Multiparty Asynchronous Session Types.
+Parameterized Verification of Asynchronous Shared-Memory Systems.
+Bayesian Combinatorial Auctions.
+A Combinatorial, Primal-Dual Approach to Semidefinite Programs.
+Byzantine Agreement in Expected Polynomial Time.
+Querying Graphs with Data.
+Almost Optimal Local Graph Clustering Using Evolving Sets.
+A New Kind of Tradeoffs in Propositional Proof Complexity.
+Local Computation: Lower and Upper Bounds.
+Invited Articles Foreword.
+Computational Complexity of Quantum Satisfiability.
+The Locality of Distributed Symmetry Breaking.
+Sample Compression Schemes for VC Classes.
+Random Walks That Find Perfect Objects and the Lovász Local Lemma.
+On the Complexity of the Orbit Problem.
+Formally Reasoning About Quality.
+Semantics Out of Context: Nominal Absolute Denotations for First-Order Logic and Computation.
+Analyzing Network Coding (Gossip) Made Easy.
+Invited Articles Foreword.
+Approximation Resistance from Pairwise-Independent Subgroups.
+Improved Algorithms for Constructing Consensus Trees.
+Efficient Computation of Representative Families with Applications in Parameterized and Exact Algorithms.
+Optimal Mechanisms for Combinatorial Auctions and Combinatorial Public Projects via Convex Rounding.
+Are Lock-Free Concurrent Algorithms Practically Wait-Free?
+Constant Rate PCPs for Circuit-SAT with Sublinear Query Complexity.
+Robust Protocols for Securely Expanding Randomness and Distributing Keys Using Untrusted Quantum Devices.
+Approximate Constraint Satisfaction Requires Large LP Relaxations.
+Optimal Rate Code Constructions for Computationally Simple Channels.
+Query Complexity of Approximate Nash Equilibria.
+The Complexity of Finite-Valued CSPs.
+Invited Paper Foreword.
+2-Server PIR with Subpolynomial Communication.
+Polynomial Bounds for the Grid-Minor Theorem.
+Highway Dimension and Provably Efficient Shortest Path Algorithms.
+Playing Mastermind With Many Colors.
+The Local Lemma Is Asymptotically Tight for SAT.
+(Meta) Kernelization.
+Invited Articles Foreword.
+A Polylogarithmic Approximation Algorithm for Edge-Disjoint Paths with Congestion 2.
+Exponential Separation of Information and Communication for Boolean Functions.
+Deterministic (Δ + 1)-Coloring in Sublinear (in Δ) Time in Static, Dynamic, and Faulty Networks.
+A Nearly Optimal Algorithm for Deciding Connectivity Queries in Smooth and Bounded Real Algebraic Sets.
+Belief Propagation Guided Decimation Fails on Random Formulas.
+The Power of Localization for Efficiently Learning Linear Separators with Noise.
+Faster Polynomial Multiplication over Finite Fields.
+A Temporal Logic Approach to Binding-Time Analysis.
+Upward Max-Min Fairness.
+Instance-Optimal Geometric Algorithms.
+ Colors.
+Amplifiers for the Moran Process.
+Invited Article Foreword.
+Property-Directed Inference of Universal Invariants or Proving Their Absence.
+Statistical Algorithms and a Lower Bound for Detecting Planted Cliques.
+Analysis of a Classical Matrix Preconditioning Algorithm.
+Arithmetic Cryptography.
+High-Rate Locally Correctable and Locally Testable Codes with Sub-Polynomial Query Complexity.
+On the Switch Markov Chain for Perfect Matchings.
+Invited Articles Foreword.
+Monadic Decomposition.
+Verifying Increasingly Expressive Temporal Logics for Infinite-State Systems.
+Plane Formation by Synchronous Mobile Robots in the Three-Dimensional Euclidean Space.
+Deciding First-Order Properties of Nowhere Dense Graphs.
+Tight Lower Bounds on Graph Embedding Problems.
+Complexity of Counting CSP with Complex Weights.
+The Complexity of Non-Monotone Markets.
+On Learning and Testing Dynamic Environments.
+Invited Article Foreword.
+A Distributed (2 + ε)-Approximation for Vertex Cover in O(log Δ / ε log log Δ) Rounds.
+Reconciliation With Nonbinary Gene Trees Revisited.
+Source Sets: A Foundation for Optimal Dynamic Partial Order Reduction.
+The Tractability Frontier of Graph-Like First-Order Query Sets.
+Optimal Induced Universal Graphs and Adjacency Labeling for Trees.
+The 4/3 Additive Spanner Exponent Is Tight.
+ 
+Bounds on Monotone Switching Networks for Directed Connectivity.
+Near-Optimal Regret Bounds for Thompson Sampling.
+Streaming Tree Transducers.
+Separations in Query Complexity Based on Pointer Functions.
+Qualitative Determinacy and Decidability of Stochastic Games with Signals.
+The Complexity of Mean-Payoff Pushdown Games.
+ 
+An Average-Case Depth Hierarchy Theorem for Boolean Circuits.
+Parallel-Correctness and Transferability for Conjunctive Queries.
+Estimating the Unseen: Improved Estimators for Entropy and Other Properties.
+Polynomial Time Corresponds to Solutions of Polynomial Ordinary Differential Equations of Polynomial Length.
+Which Is the Fairest (Rent Division) of Them All?
+ 
+Communication Steps for Parallel Query Processing.
+The Matching Polytope has Exponential Extension Complexity.
+The Applied Pi Calculus: Mobile Values, New Names, and Secure Communication.
+Characterizing Transactional Memory Consistency Conditions Using Observational Refinement.
+Competitive Algorithms from Competitive Equilibria: Non-Clairvoyant Scheduling under Polyhedral Constraints.
+Constant-Rate Coding for Multiparty Interactive Communication Is Impossible.
+ 
+Embeddability in the 3-Sphere Is Decidable.
+Proving the Incompatibility of Efficiency and Strategyproofness via SMT Solving.
+-Colourings of a Random Graph.
+Fair Enough: Guaranteeing Approximate Maximin Shares.
+Discrete Temporal Constraint Satisfaction Problems.
+Excluded Grid Minors and Efficient Polynomial-Time Approximation Schemes.
+Invited Article Foreword.
+Analysing Snapshot Isolation.
+Fast Hamiltonicity Checking Via Bases of Perfect Matchings.
+Bandits with Knapsacks.
+ Constant Bias Implies One-Way Functions.
+Spectral Properties of Hypergraph Laplacian and Approximation Algorithms.
+ 
+Worst-case Optimal Join Algorithms.
+Rumor Spreading and Conductance.
+Path ORAM: An Extremely Simple Oblivious RAM Protocol.
+Distributed (Δ +1)-Coloring in Sublogarithmic Rounds.
+Non-Malleable Codes.
+Equivalence of Deterministic Top-Down Tree-to-String Transducers Is Decidable.
+Threesomes, Degenerates, and Love Triangles.
+Full Abstraction for Probabilistic PCF.
+Optimal Multi-Way Number Partitioning.
+Invited Article Foreword.
+Minimization of Tree Patterns.
+Subcubic Equivalences Between Path, Matrix, and Triangle Problems.
+Ontology-Mediated Queries: Combined Complexity and Succinctness of Rewritings via Circuit Complexity.
+General Belief Revision.
+Weakest Precondition Reasoning for Expected Runtimes of Randomized Algorithms.
+The Cost of Unknown Diameter in Dynamic Networks.
+On Algebraic Branching Programs of Small Width.
+Reachability Is in DynFO.
+-Biclique Problem.
+Matroid Secretary Problems.
+Decremental Single-Source Shortest Paths on Undirected Graphs in Near-Linear Total Update Time.
+Circuit Complexity, Proof Complexity, and Polynomial Identity Testing: The Ideal Proof System.
+Erratum: Limited-Use Atomic Snapshots with Polylogarithmic Step Complexity.
+Indistinguishability Obfuscation from Functional Encryption.
+Settling the Query Complexity of Non-adaptive Junta Testing.
+Shuffles and Circuits (On Lower Bounds for Modern Parallel Computation).
+Solving Optimization Problems with Diseconomies of Scale via Decoupling.
+Parallel Metric Tree Embedding Based on an Algebraic View on Moore-Bellman-Ford.
+Invited Article Foreword.
+Unifying Concurrent Objects and Distributed Tasks: Interval-Linearizability.
+Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API.
+The PCL Theorem: Transactions cannot be Parallel, Consistent, and Live.
+Fast Learning Requires Good Memory: A Time-Space Lower Bound for Parity Learning.
+Deterministic Edge Connectivity in Near-Linear Time.
+Computing the Homology of Basic Semialgebraic Sets in Weak Exponential Time.
+Scaling Exponential Backoff: Constant Throughput, Polylogarithmic Channel-Access Attempts, and Robustness.
+Near Optimal Online Algorithms and Fast Approximation Algorithms for Resource Allocation Problems.
+Exact Algorithms via Monotone Local Search.
+Capacity Upper Bounds for Deletion-type Channels.
+Approximate Counting, the Lovász Local Lemma, and Inference in Graphical Models.
+Pseudorandomness from Shrinkage.
+Going Higher in First-Order Quantifier Alternation Hierarchies on Words.
+Bar Induction is Compatible with Constructive Type Theory.
+-path TSP.
+On the Decidability of Membership in Matrix-exponential Semigroups.
+Near-optimal Linear Decision Trees for k-SUM and Related Problems.
+Parallel Bayesian Search with No Coordination.
+Uniform Sampling Through the Lovász Local Lemma.
+From Real-time Logic to Timed Automata.
+Invited Articles Foreword.
+Shellability is NP-complete.
+Toward Verifying Nonlinear Integer Arithmetic.
+On the Computability of Conditional Probability.
+Nonhomogeneous Place-dependent Markov Chains, Unsynchronised AIMD, and Optimisation.
+On the Complexity of Hazard-free Circuits.
+Hierarchical Clustering: Objective Functions and Algorithms.
+A Theory of NP-completeness and Ill-conditioning for Approximate Real Computations.
+The Salesman's Improved Paths through Forests.
+Approximation Schemes for Independent Set and Sparse Subsets of Polygons.
+Bandits and Experts in Metric Spaces.
+Infinite-duration Bidding Games.
+Self-Stabilising Byzantine Clock Synchronisation Is Almost as Easy as Consensus.
+On the Parameterized Complexity of Approximating Dominating Set.
+White-Box vs. Black-Box Complexity of Search Problems: Ramsey and Graph Property Testing.
+Index Reduction for Differential-algebraic Equations with Mixed Matrices.
+The Moser-Tardos Framework with Partial Resampling.
+) Replacements.
+An Operational Characterization of Mutual Information in Algorithmic Information Theory.
+Deciding Context Unification.
+Tight Bounds for Undirected Graph Exploration with Pebbles and Multiple Agents.
+On the Complexity of Cache Analysis for Different Replacement Policies.
+An Unrestricted Learning Procedure.
+Invited Articles Foreword.
+The Weisfeiler-Leman Dimension of Planar Graphs Is at Most 3.
+Computing the Geometric Intersection Number of Curves.
+Matrix Multiplication, a Little Faster.
+Fully Functional Suffix Trees and Optimal Text Searching in BWT-Runs Bounded Space.
+Silence.
+Foundations of Context-aware Preference Propagation.
+Detecting an Odd Hole.
+Differential Equation Invariance Axiomatization.
+Approximating Generalized Network Design under (Dis)economies of Scale with Applications to Energy Efficiency.
+Deterministic Factorization of Sparse Polynomials with Bounded Individual Degree.
+Frege Systems for Quantified Boolean Logic.
+A Simpler and Faster Strongly Polynomial Algorithm for Generalized Flow Maximization.
+Polynomial Counting in Anonymous Dynamic Networks with Applications to Anonymous Dynamic Algebraic Computations.
+Invited Article Foreword.
+A Simple Deterministic Distributed MST Algorithm with Near-Optimal Time and Message Complexities.
+The Power of Shunning: Efficient Asynchronous Byzantine Agreement Revisited.
+Distributed Exact Shortest Paths in Sublinear Time.
+Representative Sets and Irrelevant Vertices: New Tools for Kernelization.
+Fully Online Matching.
+A Near-linear Time ε-Approximation Algorithm for Geometric Bipartite Matching.

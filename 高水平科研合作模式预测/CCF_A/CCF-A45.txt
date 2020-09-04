@@ -1,0 +1,906 @@
+ 
+Transaction Management Issues in a Failure-Prone Multidatabase System Environment.
+Cooperative Transaction Hierarchies: Transaction Support for Design Applications.
+Model Independent Assertions for Integration of Heterogeneous Schemas.
+Federated Databases and Systems: Part I - A Tutorial on Their Data Sharing.
+ 
+Overview of Multidatabase Transaction Management.
+A Toolkit for the Incremental Implementation of Heterogeneous Database Management Systems.
+Federated Databases and Systems: Part II - A Tutorial on Their Resource Consolidation.
+ 
+Buffer Management Based on Return on Consumption in a Multi-Query Environment.
+Concurrency Control Issues in Nested Transactions.
+Using Differential Techniques to Efficiently Support Transaction Time.
+ 
+Value-Based Scheduling in Real-Time Database Systems.
+Query Languages for Relational Multidatabases.
+Generating Consistent Test Data for a Variable Set of General Consistency Constraints.
+Support Consistent Updates in Replicated Multidatabase Systems.
+ 
+Query Processing and Inverted Indices in Shared-Nothing Document Information Retrieval Systems.
+Parallel Query Processing with Zigzag Trees.
+Considering Data Skew Factor in Multi-Way Join Query Optimization for Parallel Execution.
+A Theory of Global Concurrency Control in Multidatabase Systems.
+ 
+Performance of B+ Tree Concurrency Algorithms.
+Multi-Level Transaction Management for Complex Objects: Implementation, Performance, Parallelism.
+Understanding Semantic Relationships.
+Searching a Minimal Semantically-Equivalent Subset of a Set of Partial Values.
+ 
+Chronological Scheduling of Transactions with Temporal Dependencies.
+Dynamic Maintenance of Data Distribution for Selectivity Estimation.
+A Pattern-Based Object Calculus.
+Versioning and Configuration Management in an Object-Oriented Data Model.
+ 
+An Introduction to Deductive Database Languages and Systems.
+The Glue-Nail Deductive Database System: Design, Implementation, and Evaluation.
+The CORAL Deductive System.
+DECLARE and SDS: Early Efforts to Commercialize Deductive Database Technology.
+The Aditi Deductive Database System.
+ 
+Efficiently Instantiating View-Objects From Remote Relational Databases.
+The Demarcation Protocol: A Technique for Maintaining Constraints in Distributed Database Systems.
+Index Configuration in Object-Oriented Databases.
+ 
+An Introduction to Spatial Database Systems.
+Management of Multidimensional Discrete Data.
+A Semantic Modeling Approach for Image Retrieval by Content.
+Qualitative Representation of Spatial Knowledge in Two-Dimensional Space.
+The TV-Tree: An Index Structure for High-Dimensional Data.
+ 
+The Software Information Base: A Server for Reuse.
+HyperFile: A Data and Query Model for Documents.
+Ordered Shared Locks for Real-Time Databases.
+Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability.
+ 
+Data Model for Extensible Support of Explicit Relationships in Design Databases.
+Updating Knowledge Bases While Maintaining Their Consistency.
+Realm-Based Spatial Data Types: The ROSE Algebra.
+InterViso: Dealing With the Complexity of Federated Database Access.
+ 
+Orthogonally Persistent Object Systems.
+Fibonacci: A Programming Language for Object Databases.
+TIGUKAT: A Uniform Behavioral Objectbase Management System.
+Thémis: A Database Programming Language Handling Integrity Constraints.
+Adaptable Pointer Swizzling Strategies in Object Bases: Design, Realization, and Quantitative Analysis.
+ 
+Sleepers and Workaholics: Caching Strategies in Mobile Environments.
+AlphaSort: A Cache-Sensitive Parallel External Sort.
+QuickStore: A High Performance Mapped Object Store.
+Estimating Page Fetches for Index Scans with Finite LRU Buffers.
+Historical Queries Along Multiple Lines of Time Evolution.
+The Power of Languages for the Manipulation of Complex Values.
+Parallelising OODBMS Traversals: A Performance Evaluation.
+Priority Assignment in Real-Time Active Databases.
+A Predicate-based Caching Scheme for Client-Server Database Architectures.
+Mariposa: A Wide-Area Distributed Database System.
+Join Algorithm Costs Revisited.
+A Taxonomy of Correctness Criteria in Database Applications.
+The GMAP: A Versatile Tool for Physical Data Independence.
+Algebraic Query Optimisation for Database Programming Languages.
+Type-safe Relaxing of Schema Consistency Rules for Flexible Modeling in OODBMS.
+An Experimental System for Object-Based Sharing in Federated Databases.
+A Complete Temporal Relational Algebra.
+The Design and Implementation of K: A High-Level Knowledge-Base Programming Language of OSAM*.KBMS.
+Access Path Support for Referential Integrity in SQL2.
+Index Nesting - An Efficient Approach to Indexing in Object-Oriented Databases.
+Query Processing and Optimization in Oracle Rdb.
+Building Knowledge Base Management Systems.
+An Asymptotically Optimal Multiversion B-Tree.
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach.
+The hB-Pi-Tree: A Multi-Attribute Index Supporting Concurrency, Recovery and Node Consolidation.
+Dictionary-Based Order-Preserving String Compression.
+Analysis of Locking Behavior in Three Real Database Systems.
+Data Placement in Shared-Nothing Parallel Database Systems.
+A Database Model for Object Dynamics.
+Graphical Interaction with Heterogeneous Databases.
+On Applying Hash Filters to Improving the Execution of Multi-Join Queries.
+Parametric Query Optimization.
+Concurrency Control in Hierarchical Multidatabase Systems.
+The Impact of Technology on Commercial Transaction Processing.
+Heuristic and Randomized Optimization for the Join Ordering Problem.
+Synchronization and Recovery in a Client-Server Storage System.
+Concurrency and Recovery for Index Trees.
+Seeking the Truth About ad hoc Join Costs.
+Erratum: A Database Model for Object Dynamics.
+Query Processing Over Object Views of Relational Data.
+EXACT: An Extensible Approach to Active Object-Oriented Databases.
+Structured Document Storage and Refined Declarative and Navigational Access Mechanisms in HyperStorM.
+A Configrable Type Hierarchy Index for OODB.
+Using Extended Feature Objects for Partial Similarity Retrieval.
+Optimizing Relational Queries in Connection Hypergraphs: Nested Queries, Views, and Binding Propagations.
+A Flexible and Recoverable Client/Server Database Event Notification System.
+The OODB Path-Method Generator (PMG) Using Access Weights and Precomputed Access Relevance.
+Data Partitioning and Load Balancing in Parallel Disk Systems.
+Maintenance of Implication Integrity Constraints Under Updates to Constraints.
+Advanced Data Processing in KRISYS: Modeling Concepts, Implementation Techniques, and Client/Server Issues.
+A Logical View of Structured Files.
+Fast Image Retrieval Using Color-Spatial Information.
+Enhanced Abstract Data Types in Object-Relational Databases.
+Integrated Document Caching and Prefetching in Storage Hierarchies Based on Markov-Chain Predictions.
+Scalable Feature Selection, Classification and Signature Generation for Organizing Large Text Databases into Hierarchical Topic Taxonomies.
+Garbage Collection in Object-Oriented Databases Using Transactional Cyclic Reference Counting.
+Integrating Reliable Memory in Databases.
+Introduction (Special Issue on Multimedia Databases).
+On Periodic Resource scheduling for Continuous-Media Databases.
+Spatial and Temporal Content-Based Access to Hypervideo Databases.
+Optimal Clip Ordering for Multi-Clip Queries.
+Integrating Symbolic Images into a Multimedia Database System Using Classification and Abstraction Approaches.
+Approximate Similarity Retrieval with M-Trees.
+Delivering Presentations from Multimedia Servers.
+Fast Joins Using Join Indices.
+The Intrinsic Problems of Structural Heterogeneity and an Approach to Their Solution.
+Constant Time Permutation: An Efficient Block Allocation Strategy for Variable-Bit-Rate Continuous Media Data.
+OPT++: An Object-Oriented Implementation for Extensible Database Query Optimization.
+Deadlock Detection in Distributed Database Systems: A New Algorithm and a Comparative Performance Analysis.
+MIL Primitives for Querying a Fragmented World.
+Semantic Heterogeneity Resolution in Federated Databases by Metadata Implantation and Stepwise Evolution.
+Efficient Support for Interactive Service in Multi-Resolution VOD Systems.
+Foreword by the VLDB '98 PC Chairmen: Best Papers of VLDB '98.
+Functional-Join Processing.
+Secure Bufering in Firm Real-Time Database Systems.
+The LHAM Log-Structured History Data Access Method.
+Clustering Categorical Data: An Approach Based on Dynamical Systems.
+Distance-Based Outliers: Algorithms and Applications.
+Quantifiable Data Mining Using Ratio Rules.
+Effective Timestamping in Databases.
+WaveCluster: A Wavelet Based Clustering Approach for Spatial Data in Very Large Databases.
+Update Propagation Strategies to Improve Freshness in Lazy Master Replicated Databases.
+Optimizing Multiple Dimensional Queries Simultaneously in Multidimensional Databases.
+Guest Editorial: Databases and the Web.
+Semantic Caching of Web Queries.
+Learning Response Time for WebSources Using Query Feedback and Application in Query Optimization.
+Declarative Specification of Web Sites with Strudel.
+Analysis of Navigation Behaviour in Web Sites Integrating Multiple Information Systems.
+UnQL: A Query Language and Algebra for Semistructured Data Based on Structural Recursion.
+Checking the Temporal Integrity of Interactive Multimedia Documents.
+View Management in Multimedia Databases.
+Dynamic vp-Tree Indexing for n-Nearest Neighbor Search Given Pair-Wise Distances.
+Guest editorial.
+Context-based prefetch - an optimization for implementing objects on relations.
+Exploiting early sorting and early partitioning for decisionsupport query processing.
+One-dimensional and multi-dimensional substring selectivity estimation.
+Optimizing database architecture for the new bottleneck: memory access.
+Online dynamic reordering.
+Progressive evaluation of nested aggregate queries.
+Combining multi-visual features for efficient indexing in a large image database.
+HMAP - A temporal data model managing intervals with different granularities and indeterminacy from natural language sentences.
+Supporting efficient multimedia database exploration.
+A graph-theoretic model for optimizing queries involving methods.
+Indexing very high-dimensional sparse and quasi-sparse vectors for similarity searches.
+E-Services - Guest editorial.
+Designing wrapper components for e-services in integrating heterogeneous systems.
+Integrating and customizing heterogeneous e-commerce applications.
+Active rules for XML: A new paradigm for E-services.
+ObjectGlobe: Ubiquitous query processing on the Internet.
+An Internet-based negotiation server for e-commerce.
+XML-enabled workflow management for e-services across heterogeneous platforms.
+An architecture to support scalable online personalization on the Web.
+Guest editorial.
+PicoDBMS: Scaling down database techniques for the smartcard.
+Efficiently publishing relational data as XML documents.
+Approximate query mapping: Accounting for translation closeness.
+MiniCon: A scalable algorithm for answering queries using views.
+Approximate query processing using wavelets.
+User-cognizant multidimensional analysis.
+Semantic integrity support in SQL: 1999 and commercial (object-)relational database management systems.
+Answering queries using views: A survey.
+Monotonic complements for independent data warehouses.
+Global transaction support for workflow management systems: from formal specification to practical implementation.
+A survey of approaches to automatic schema matching.
+Indexing of now-relative spatio-bitemporal data.
+Efficient retrieval of similar shapes.
+Searching in metric spaces by spatial approximation.
+Locating and accessing data repositories with WebSemantics.
+An authorization system for digital libraries.
+Query processing techniques for arrays.
+Spatial indexing of high-dimensional data based on relative approximation.
+Speeding up construction of PMR quadtree-based spatial indexes.
+Efficient similarity search for market basket data.
+A template model for multidimensional inter-transactional association rules.
+Editorial.
+Energy-performance trade-offs for spatial access methods on memory-resident data.
+Data page layouts for relational databases on deep memory hierarchies.
+A formal perspective on the view selection problem.
+Views in a large-scale XML repository.
+Database indexing for large DNA and protein sequence collections.
+Guest Editorial.
+TIMBER: A native XML database.
+Anatomy of a native XML base management system.
+Tree pattern query minimization.
+Efficient schemes for managing multiversionXML documents.
+Efficient filtering of XML documents with XPath expressions.
+An XML query engine for network-bound data.
+New partnership with ACM and update on the journal.
+Complex relationships and knowledge discovery support in the InfoQuilt system.
+A Bayesian decision model for cost optimal record matching.
+Lineage tracing for general data warehouse transformations.
+Business-to-business interactions: issues and enabling technologies.
+Guest editorial.
+A case for fractured mirrors.
+RE-tree: an efficient index structure for regular expressions.
+Aurora: a new model and architecture for data stream management.
+PSoup: a system for streaming queries over streaming data.
+Watermarking relational data: framework, algorithms and analysis.
+Fast and accurate text classification via multiple linear discriminant projections pp.
+Cost-driven vertical class partitioning for methods in object oriented databases.
+Computing complete answers to queries in the presence of limited access patterns.
+Instance-based attribute identification in database integration.
+A performance study of four index structures for set-valued attributes of low cardinality.
+Incremental computation and maintenance of temporal aggregates.
+Guest editorial.
+Managing multiple and distributed ontologies on the Semantic Web.
+Learning to match ontologies on the Semantic Web.
+THESUS: Organizing Web document collections based on link semantics.
+Composing Web services on the Semantic Web.
+POESIA: An ontological workflow approach for composing Web services in agriculture.
+Multidimensional data modeling for location-based services.
+Parallel multisource view maintenance.
+Algorithms and applications for answering ranked queries using ranked views.
+Retrieval effectiveness of an ontology-based model for information selection.
+Rule-based spatiotemporal query processing for video databases.
+Querying high-dimensional data in single-dimensional space.
+ViSWeb - the Visual Semantic Web: unifying human and machine knowledge representations with Object-Process Methodology.
+Evaluating holistic aggregators efficiently for very large datasets.
+Evolutionary techniques for updating query cost models in a dynamic multidatabase environment.
+Amit - the situation manager.
+Best papers of VLDB 2003.
+Supporting top-k join queries in relational databases.
+Adaptive, unsupervised stream mining.
+Exploring the tradeoff between performance and data freshness in database-driven Web servers.
+Automatic integration of Web search interfaces with WISE-Integrator.
+Preserving mapping consistency under schema changes.
+The BEA streaming XQuery processor.
+Guest Editorial to the special issue on data stream processing.
+Finding hot query patterns over an XQuery stream.
+Operator scheduling in data stream systems.
+Tracking set-expression cardinalities over continuous update streams.
+Retrospective on Aurora.
+Balancing energy efficiency and quality of aggregate data in sensor networks.
+Editorial.
+Join operations in temporal databases.
+Storing and querying XML data using denormalized relational databases.
+A framework for modeling and evaluating automatic semantic reconciliation.
+Schema mediation for large-scale semantic data sharing.
+On automating Web services discovery.
+Concept-based querying in mediator systems.
+Mediators over taxonomy-based information sources.
+Selectivity estimators for multidimensional range queries over real attributes.
+Views as first-class citizens in object-oriented databases.
+Optimizing spatial Min/Max aggregations.
+Collaborative joins in a pervasive computing environment.
+Querying XML streams.
+An effective and efficient algorithm for high-dimensional outlier detection.
+Hash-based labeling techniques for storage scaling.
+Indexing mobile objects using dual transformations.
+Concurrency control and recovery for balanced B-link trees.
+Special issue on data management, analysis, and mining for the life sciences.
+Practical methods for constructing suffix trees.
+Sync your data: update propagation for heterogeneous protein databases.
+Rule-based workflow management for bioinformatics.
+Composing, optimizing, and executing plans for bioinformatics web services.
+Special issue: Best papers of VLDB 2004.
+Adaptive website recommendations with AWESOME.
+An annotation management system for relational databases.
+Algebraic manipulation of scientific datasets.
+Model-based approximate querying in sensor networks.
+Indexing Multidimensional Time-Series.
+Grid-partition index: a hybrid method for nearest-neighbor queries in wireless location-based services.
+On a confidence gain measure for association rule discovery and scoring.
+Integrating document and data retrieval based on XML.
+Online summarization of dynamic time series data.
+Dynamic buffer management with extensible replacement policies.
+The CQL continuous query language: semantic foundations and query execution.
+Indexing spatiotemporal archives.
+Modeling and querying moving objects in networks.
+Answering queries using materialized views with minimum size.
+Spatio-temporal data reduction with deterministic error bounds.
+Nearest and reverse nearest neighbor queries for moving objects.
+Dependency trees in sub-linear time and bounded memory.
+Query optimization in XML structured-document databases.
+Guest editorial: special issue on privacy preserving data management.
+A privacy-preserving technique for Euclidean distance-based mining algorithms using Fourier-related transforms.
+-anonymity.
+Succinct representation of flexible and privacy-preserving access rights.
+Efficient multivariate data-oriented microaggregation.
+Hierarchical hippocratic databases with minimal disclosure for virtual organizations.
+Privacy leakage in multi-relational databases: a semi-supervised learning perspective.
+Special issue: best papers of VLDB 2005.
+Algorithms and analyses for maximal vector computation.
+View matching for outer-join views.
+Consistent selectivity estimation via maximum entropy.
+Cache-conscious frequent pattern mining on modern and emerging processors.
+eTuner: tuning schema matching software using synthetic scenarios.
+OLAP over uncertain and imprecise data.
+A framework for efficient regression tests on database applications.
+Using a distributed quadtree index in peer-to-peer networks.
+SQL extension for spatio-temporal data.
+Constrained data clustering by depth control and progressive constraint relaxation.
+An adaptive and dynamic dimensionality reduction method for high-dimensional indexing.
+Path and cache conscious prefetching (PCCP).
+MEMS based storage architecture for relational databases.
+Compression techniques for fast external sorting.
+ NN search.
+Attribute grammars for scalable query processing on XML streams.
+Optimization and evaluation of shortest path queries.
+The dynamic predicate: integrating access control with query processing in XML databases.
+Service oriented architectures: approaches, technologies and research issues.
+The partitioned exponential file for database storage management.
+Dissemination of compressed historical information in sensor networks.
+Free riding-aware forwarding in Content-Addressable Networks.
+The Omni-family of all-purpose access methods: a simple and effective way to make similarity search more efficient.
+A new intrusion detection system using support vector machines and hierarchical clustering.
+Efficient query evaluation on probabilistic databases.
+Introduction to the special issue on database and information retrieval integration.
+Modelling retrieval models in a probabilistic relational algebra with a new operator: the relational Bayes.
+QQL: A DB&IR Query Language.
+A multi-ranker model for adaptive XML searching.
+ query processing for semistructured data.
+Précis: from unstructured keywords as queries to structured databases as answers.
+Flexible and efficient IR using array databases.
+In memoriam Klaus R. Dittrich (1950-2007).
+Guest Editors' message.
+Maintaining bounded-size sample synopses of evolving datasets.
+XML schema refinement through redundancy detection and normalization.
+Trustworthy keyword search for compliance storage.
+Databases with uncertainty and lineage.
+An adaptive RFID middleware for supporting metaphysical data independence.
+The Juxtaposed approximate PageRank method for robust PageRank approximation in a peer-to-peer web search network.
+Delay aware querying with Seaweed.
+Implementing mapping composition.
+Enabling Schema-Free XQuery with meaningful query focus.
+-Tree: indexing moving objects by space filling curves in the dual space.
+Predicting WWW surfing using multiple evidence combination.
+Histograms based on the minimum description length principle.
+Bandwidth-constrained queries in sensor networks.
+Query processing of multi-way stream window joins.
+Form-based proxy caching for database-backed web sites: keywords and functions.
+Efficient algorithms for mining maximal valid groups.
+Deploying and managing Web services: issues, solutions, and directions.
+Efficient updates in dynamic XML data: from binary string to quaternary string.
+Purpose based access control for privacy protection in relational database systems.
+Hierarchical clustering for OLAP: the CUBE File approach.
+Extending DBMSs with satellite databases.
+DAWN: an efficient framework of DCT for data with error estimation.
+Anonymity preserving pattern discovery.
+Supporting the data cube lifecycle: the power of ROLAP.
+The optimal sequenced route query.
+-anonymity in data mining.
+Value complete, column complete, predicate complete.
+Efficient algorithms for incremental Web log mining with dynamic thresholds.
+Genericity in Java: persistent and database systems implications.
+Privacy-preserving Naïve Bayes classification.
+Scaling and time warping in time series querying.
+Tree-based partition querying: a methodology for computing medoids in large spatial datasets.
+A data mining proxy approach for efficient frequent itemset mining.
+SOLE: scalable on-line execution of continuous queries on spatio-temporal data streams.
+Maintaining very large random samples using the geometric file.
+The Active XML project: an overview.
+Enhancing histograms by tree-like bucket indices.
+Detecting anomalous access patterns in relational databases.
+Wavelet synopsis for hierarchical range queries with workloads.
+-NN query processing.
+Power-law relationship and self-similarity in the itemset support distribution: analysis and applications.
+A survey of data replication techniques for mobile ad hoc network databases.
+Guided perturbation: towards private and accurate mining.
+Temporal XML: modeling, indexing, and query processing.
+SEPIA: estimating selectivities of approximate string predicates in large Databases.
+Reference-based indexing for metric spaces with costly distance measures.
+Primal or dual: which promises faster spatiotemporal search?
+Efficient temporal counting with bounded error.
+Applications of corpus-based semantic similarity and word segmentation to database schema matching.
+ frequent patterns in the presence of the memory constraint.
+Guest editorial: special issue on metadata management.
+Model-independent schema translation.
+PicShark: mitigating metadata scarcity through large-scale P2P collaboration.
+A layered framework supporting personal information integration and application design for the semantic desktop.
+System support for exploration and expert feedback in resolving conflicts during integration of metadata.
+ArchIS: an XML-based approach to transaction-time temporal database systems.
+Disseminating streaming data in a dynamic environment: an adaptive and cost-based approach.
+ -gram index using relational normalization.
+On the space-time of optimal, approximate and streaming algorithms for synopsis construction problems.
+FENECIA: failure endurable nested-transaction based execution of composite Web services with incorporated state analysis.
+Approximate Voronoi cell computation on spatial data streams.
+Online pairing of VoIP conversations.
+Localized monitoring of kNN queries in wireless sensor networks.
+Autonomic query parallelization using non-dedicated computers: an evaluation of adaptivity options.
+Efficient storage and retrieval of probabilistic latent semantic information for information retrieval.
+B-tries for disk-based string management.
+Sampling-based estimators for subset-based queries.
+Hierarchically compressed wavelet synopses.
+Containment of partially specified tree-pattern queries in the presence of dimension graphs.
+Swoosh: a generic approach to entity resolution.
+Context-based literature digital collection search.
+Efficient frequent sequence mining by a dynamic strategy switching algorithm.
+Speed up interactive image retrieval.
+Skyframe: a framework for skyline query processing in peer-to-peer systems.
+Partially materialized digest scheme: an efficient verification method for outsourced databases.
+Special issue: best papers of VLDB 2007.
+SW-Store: a vertically partitioned DBMS for Semantic Web data management.
+ algorithms on exact and fuzzy data sets.
+Adversarial-knowledge dimensions in data privacy.
+Data integration with uncertainty.
+CellJoin: a parallel stream join operator for the cell processor.
+Depth estimation for ranking query optimization.
+Efficient keyword search over virtual XML views.
+Guessing the extreme values in a data set: a Bayesian method and its applications.
+Reducing outer joins.
+Supporting exact indexing of arbitrarily rotated shapes and periodic time series under Euclidean and warping distance measures.
+Authenticated indexing for outsourced spatial databases.
+A self-adaptable query allocation framework for distributed information systems.
+Instance optimal query processing in spatial networks.
+ dominating queries.
+The RUM-tree: supporting frequent updates in R-trees using memos.
+Self-tuning management of update-intensive multidimensional data in clusters of workstations.
+Equivalence of queries that are sensitive to multiplicities.
+Efficient processing of probabilistic reverse nearest neighbor queries over uncertain data.
+ typicality queries and efficient query answering methods on large databases.
+Privacy-preserving indexing of documents on the network.
+Query translation from XPath to SQL in the presence of recursive DTDs.
+RATEWeb: Reputation Assessment for Trust Establishment among Web services.
+Complex RFID event processing.
+Large-scale indexing of spatial data in distributed repositories: the SD-Rtree.
+A distributed spatial index for error-prone wireless data broadcast.
+Special issue on uncertain and probabilistic databases.
+Representing uncertain data: models, properties, and algorithms.
+ worlds and beyond: efficient representation and processing of incomplete information.
+On the expressiveness of probabilistic XML models.
+PrDB: managing and exploiting rich correlations in probabilistic databases.
+The trichotomy of HAVING queries on a probabilistic database.
+Query evaluation over probabilistic XML.
+Creating probabilistic databases from duplicated data.
+Query processing over incomplete autonomous databases: query rewriting using learned data dependencies.
+Qualitative effects of knowledge rules and user feedback in probabilistic data integration.
+Scalable processing of snapshot and continuous nearest-neighbor queries over one-dimensional uncertain data.
+HE-Tree: a framework for detecting changes in clustering structure for categorical data streams.
+Generic entity resolution with negative rules.
+Statistical structures for Internet-scale data management.
+Optimizing updates of recursive XML views of relations.
+BerlinMOD: a benchmark for moving object databases.
+Principles of Holism for sequential twig pattern matching.
+Special issue: best papers of VLDB 2008.
+Methods for finding frequent items in data streams.
+Constrained physical design tuning.
+Accuracy estimate and optimization techniques for SimRank computation.
+Online maintenance of very large random samples on flash storage.
+The RDF-3X engine for scalable management of RDF data.
+Anonymizing bipartite graph data using safe groupings.
+Continuous spatial assignment of moving users.
+Continuous authentication on relational streams.
+Understanding the meaning of a shifted sky: a general framework on extending skyline query.
+A framework for testing DBMS features.
+Schema mapping and query translation in heterogeneous P2P XML databases.
+Revisiting the cube lifecycle in the presence of hierarchies.
+ dominating queries.
+NN queries.
+Z-SKY: an efficient skyline query processing framework based on Z-order.
+Enabling search services on outsourced private spatial data.
+Suppressing microdata to prevent classification based inference.
+ queries on uncertain streams.
+ queries over disk-resident sorted lists.
+Efficient privacy-preserving similar document detection.
+Supporting ranking queries on uncertain and incomplete data.
+Structural consistency: enabling XML keyword search to eliminate spurious results consistently.
+Rights protection of trajectory datasets with nearest-neighbor preservation.
+Streaming multiple aggregations using phantoms.
+Path prediction and predictive range querying in road network databases.
+A motion-aware approach for efficient evaluation of continuous queries on 3D object databases.
+Engineering scalable, cache and space efficient tries for strings.
+Efficient evaluation of generalized tree-pattern queries on XML streams.
+-nearest neighbor search on moving object trajectories.
+ queries on temporal data.
+Predicate-based indexing for desktop search.
+Foreword.
+Social bookmark weighting for search and recommendation.
+Privacy policies for shared content in social network sites.
+Resisting structural re-identification in anonymized social networks.
+Multimodal social intelligence in a real-time dashboard system.
+The social bookmark and publication management system bibsonomy - A platform for evaluating and demonstrating Web 2.0 research.
+Space efficiency in group recommendation.
+Providing built-in keyword search capabilities in RDBMS.
+Speed up kernel discriminant analysis.
+Scalable keyword search on large data streams.
+-closeness.
+Local and global recoding methods for anonymizing set-valued data.
+Probabilistic inverse ranking queries in uncertain databases.
+Ranking queries on uncertain data.
+Special issue: best papers of VLDB 2009.
+Preference elicitation in prioritized skyline queries.
+The SHARC framework for data quality in Web archiving.
+Harvesting relational tables from lists on the web.
+Predictable performance and high query concurrency for data analytics.
+A unified approach to ranking in probabilistic databases.
+Normalization and optimization of schema mappings.
+On-line rule matching for event prediction.
+Mining learning-dependency between knowledge units from text.
+Log-based middleware server recovery with transaction support.
+Continuous visible nearest neighbor query processing in spatial databases.
+QFilter: rewriting insecure XML queries to secure ones using non-deterministic finite automata.
+Event correlation for process discovery from web service interaction logs.
+Index design and query processing for graph conductance search.
+Performance analysis of a dual-tree algorithm for computing spatial distance histograms.
+Dynamic constraints for record matching.
+Fast graph query processing with a low-cost index.
+Privacy in geo-social networks: proximity notification with untrusted service providers and curious buddies.
+Anonymity meets game theory: secure data integration with malicious participants.
+Interaction-aware scheduling of report-generation workloads.
+Efficient fuzzy full-text type-ahead search.
+Special issue on data management for mobile services.
+Indexing in-network trajectory flows.
+Efficient real-time trajectory tracking.
+Unveiling the complexity of human mobility by querying and mining massive trajectory data.
+Sequenced spatiotemporal aggregation for coarse query granularities.
+Direction-based surrounder queries for mobile recommendations.
+Ranking continuous nearest neighbors for uncertain trajectories.
+STAIRS: Towards efficient full-text filtering and dissemination in DHT environments.
+Shooting top-k stars in uncertain databases.
+Elastic SI-Cache: consistent and scalable caching in multi-tier architectures.
+UpStream: storage-centric load management for streaming applications with update semantics.
+Maximizing bichromatic reverse nearest neighbor for L p -norm in two- and three-dimensional spaces.
+Progressive processing of subspace dominating queries.
+Sorting networks on FPGAs.
+Distributed similarity estimation using derived dimensions.
+Type inference and type checking for queries over execution traces.
+Continuous reverse k nearest neighbors queries in Euclidean space and in spatial networks.
+Answering pattern match queries in large graph databases via graph embedding.
+Design by example for SQL table definitions with functional dependencies.
+Which sort orders are interesting?
+Special issue: best papers of VLDB 2010.
+The HaLoop approach to large-scale iterative data analysis.
+MapMerge: correlating independent schema mappings.
+Towards certain fixes with editing rules and master data.
+Scalability of write-ahead logging on multicore and multisocket hardware.
+An adaptive updating protocol for reducing moving object database workload.
+Real-time creation of bitmap indexes on streaming network data.
+Parsimonious temporal aggregation.
+Secure multidimensional range queries over outsourced data.
+A survey of skyline processing in highly distributed environments.
+Efficient management of uncertainty in XML schema matching.
+Sort-sharing-aware query processing.
+Trie-join: a trie-based method for efficient string similarity joins.
+Windowed pq-grams for approximate joins of data-centric XML.
+Efficient subsequence matching over large video databases.
+GRAIL: a scalable index for reachability queries in very large graphs.
+Efficient and effective similarity search over probabilistic data based on Earth Mover's Distance.
+A highly optimized algorithm for continuous intersection join queries over moving objects.
+Special section on large-scale analytics.
+On the optimization of schedules for MapReduce workloads in the presence of shared scans.
+SCOPE: parallel databases meet MapReduce.
+gbase: an efficient analysis platform for large graphs.
+CLARO: modeling and processing uncertain data streams.
+Measuring structural similarity of semistructured data based on information-theoretic approaches.
+Efficiently processing snapshot and continuous reverse k nearest neighbors queries.
+Spatial query processing for fuzzy objects.
+Mining frequent subgraphs over uncertain graph databases under probabilistic semantics.
+Approximate regional sequence matching for genomic databases.
+A framework for efficient spatial web object retrieval.
+Query language-based inverses of schema mappings: semantics, computation, and closure properties.
+Consistency and repair for XML write-access control policies.
+The exact distance to destination in undirected world.
+ANDES: efficient evaluation of NOT-twig queries in relational databases.
+Special issue on best papers of VLDB 2011.
+Efficiently adapting graphical models for selectivity estimation.
+RemusDB: transparent high availability for database systems.
+OXPath: A language for scalable data extraction, automation, and crawling on the deep web.
+Automating the database schema evolution process.
+Keyword search on form results.
+Mining frequent conjunctive queries using functional and inclusion dependencies.
+Scalable and dynamically balanced shared-everything OLTP with physiological partitioning.
+A survey on XML streaming evaluation techniques.
+Auditing a database under retention policies.
+Lindex: a lattice-based index for graph databases.
+Comparable dependencies over heterogeneous data.
+Computing weight constraint reachability in large networks.
+Pattern discovery in data streams under the time warping distance.
+UV-diagram: a voronoi diagram for uncertain spatial databases.
+High efficiency and quality: large graphs matching.
+Optimal and efficient generalized twig pattern processing: a combination of preorder and postorder filterings.
+Similarity queries: their conceptual evaluation, transformations, and processing.
+Modeling the execution semantics of stream processing engines with SECRET.
+Recommending XML physical designs for XML databases.
+Extending the power of datalog recursion.
+QoS-aware optimization of sensor network queries.
+Top-k queries over web applications.
+Outsourcing shortest distance computing with privacy protection.
+Super-EGO: fast multi-dimensional similarity join.
+Special issue on structured and crowd-sourced data on the Web.
+Growing triples on trees: an XML-RDF hybrid model for annotated documents.
+The ontological key: automatically understanding and integrating forms to access the deep Web.
+Exploratory search framework for Web data sources.
+Large-scale linked data integration using probabilistic reasoning and crowdsourcing.
+Schema matching prediction with applications to data source discovery and dynamic ensembling.
+Hybrid entity clustering using crowds and data.
+Efficient processing of graph similarity queries with edit distance constraints.
+Non-uniformity issues and workarounds in bounded-size sampling.
+Joint entity resolution on multiple datasets.
+Differentially private histogram publication.
+Anytime approximation in probabilistic databases.
+YmalDB: exploring relational databases via result-driven recommendations.
+Eliminating unscalable communication in transaction processing.
+Efficient query processing for XML keyword queries based on the IDList index.
+A gossip-based approach for Internet-scale cardinality estimation of XPath queries over distributed semistructured data.
+Incremental entity resolution on rules and data.
+Sampling from repairs of conditional functional dependency violations.
+Toward efficient multidimensional subspace skyline computation.
+Consistency anomalies in multi-tier architectures: automatic detection and prevention.
+Special issue on best papers of VLDB 2012.
+Dense subgraph maintenance under streaming edge weight updates for real-time story identification.
+An expressive framework and efficient algorithms for the analysis of collaborative tagging.
+Efficient processing of k-hop reachability queries.
+DBToaster: higher-order delta processing for dynamic, frequently fresh views.
+Quantifying eventual consistency with PBS.
+Transactional support for adaptive indexing.
+Toward cost-effective storage provisioning for DBMSs.
+A survey of large-scale analytical query processing in MapReduce.
+Event detection over twitter social media streams.
+QUBLE: towards blending interactive visual subgraph search queries on large networks.
+Approximate similarity search for online multimedia services on distributed CPU-GPU platforms.
+Personalized trajectory matching in spatial networks.
+Towards zero-overhead static and adaptive indexing in Hadoop.
+The backchase revisited.
+Partitioning functions for stateful data parallelism in stream processing.
+Finding k most favorite products based on reverse top-t queries.
+gStore: a graph-based SPARQL query engine.
+Instance-level worst-case query bounds on R-trees.
+Ensuring location diversity in privacy-preserving spatio-temporal data publishing.
+High availability, elasticity, and strong consistency for massively parallel scans over relational data.
+Correlated network data publication via differential privacy.
+Answering exact distance queries on real-world graphs with bounded performance guarantees.
+Dynamic monitoring of optimal locations in road network databases.
+Query reverse engineering.
+Taxonomy-based relaxation of query answering in relational databases.
+Enhancing data utility in differential privacy via microaggregation-based $$k$$ k -anonymity.
+Taking the Big Picture: representative skylines based on significance and diversity.
+Processing of extreme moving-object update and query workloads in main memory.
+Special section on data-intensive cloud infrastructure.
+SWORD: workload-aware data placement and replica selection for cloud data management systems.
+ACME: A scalable parallel system for extracting frequent patterns from a very long sequence.
+MyBenchmark: generating databases for query workloads.
+Maximum error-bounded Piecewise Linear Representation for online stream approximation.
+The Stratosphere platform for big data analytics.
+Real-time continuous intersection joins over large sets of moving objects using graphic processing units.
+Distributed snapshot isolation: global transactions pay globally, local transactions pay locally.
+Compressive mining: fast and optimal data mining in the compressed domain.
+Continuous nearest-neighbor queries with location uncertainty.
+Scaling forecasting algorithms using clustered modeling.
+RDF in the clouds: a survey.
+Calibrating trajectory data for spatio-temporal similarity analysis.
+Conformity-aware influence maximization in online social networks.
+A unified framework for approximate dictionary-based entity extraction.
+Clustering and aggregating clues of trajectories for mining trajectory patterns and routes.
+A time-series compression technique and its application to the smart grid.
+Solving the data sparsity problem in destination prediction.
+I/O efficient: computing SCCs in massive graphs.
+Graph similarity search on large uncertain graph databases.
+Toward personalized, context-aware routing.
+Top-K structural diversity search in large networks.
+Sketching distributed sliding-window data streams.
+Efficient distributed subgraph similarity matching.
+Conditional heavy hitters: detecting interesting correlations in data streams.
+Efficient k-closest pair queries in general metric spaces.
+Reasoning with patterns to effectively answer XML keyword queries.
+Task assignment optimization in knowledge-intensive crowdsourcing.
+A general framework to resolve the MisMatch problem in XML keyword search.
+Embedding-based subsequence matching with gaps-range-tolerances: a Query-By-Humming application.
+ relevant groups of spatial web objects.
+Profiling relational data: a survey.
+Provenance-based analysis of data-centric processes.
+Special issue on best papers of VLDB 2013.
+Active learning in keyword search-based data integration.
+ClouDiA: a deployment advisor for public clouds.
+Scheduled approximation for Personalized PageRank with Utility-based Hub Selection.
+VLL: a lock manager redesign for main memory database systems.
+Fast rule mining in ontological knowledge bases with AMIE+.
+Data generation for testing and grading SQL queries.
+The matrix mechanism: optimizing linear counting queries under differential privacy.
+Geo-Social Ranking: functions and query processing.
+Querying streams using regular expressions: some semantics, decidability, and efficiency issues.
+AP-Tree: efficiently support location-aware Publish/Subscribe.
+-TM: scalable streaming short text matching.
+Special issue on best papers of VLDB 2014.
+epiC: an extensible and scalable system for processing Big Data.
+An experimental evaluation and analysis of database cracking.
+VDDA: automatic visualization-driven data aggregation in relational databases.
+Effective deep learning-based multi-modal retrieval.
+On k-Path Covers and their applications.
+NScale: neighborhood-centric large-scale graph analytics in the cloud.
+RailwayDB: adaptive storage of interaction graphs.
+Diversified top-k clique search.
+Avoiding class warfare: managing continuous queries with differentiated classes of service.
+Efficient order dependency detection.
+Processing SPARQL queries over distributed RDF graphs.
+Toward continuous pattern detection over evolving large graph with snapshot isolation.
+Bitwise dimensional co-clustering for analytical workloads.
+Exact and approximate flexible aggregate similarity search.
+Hybrid query optimization for hard-to-compress bit-vectors.
+Accelerating SPARQL queries by exploiting hash-based locality and adaptive partitioning.
+Mapping-equivalence and oid-equivalence of single-function object-creating conjunctive queries.
+Decorating the cloud: enabling annotation management in MapReduce.
+Incremental k-core decomposition: algorithms and evaluation.
+Quantiles over data streams: experimental comparisons, new analyses, and further improvements.
+Elite: an elastic infrastructure for big spatiotemporal trajectories.
+External sorting on flash storage: reducing cell wearing and increasing efficiency by avoiding intermediate writes.
+Mining billion-scale tensors: algorithms and discoveries.
+Know your customer: computing k-most promising products for targeted marketing.
+Possible and certain keys for SQL.
+A holistic and principled approach for the empty-answer problem.
+Special Issue: Modern Hardware.
+Characterization of the Impact of Hardware Islands on OLTP.
+Exploiting SSDs in operational multiversion databases.
+Flash as cache extension for online transactional workloads.
+Read/write-optimized tree indexing for solid-state drives.
+GPU-accelerated string matching for database applications.
+Exemplar queries: a new way of searching.
+Efficient discovery of longest-lasting correlation in sequence databases.
+Diverse and proportional size-l object summaries using pairwise relevance.
+SkyAlign: a portable, work-efficient skyline algorithm for multicore and GPU architectures.
+ADS: the adaptive data series index.
+Answering why-not and why questions on reverse top-k queries.
+ScaLeKB: scalable learning and inference over large knowledge bases.
+Special issue on best papers of VLDB 2015.
+Erratum to: Special issue on best papers of VLDB 2015.
+Dissociation and propagation for approximate lifted inference with standard relational database management systems.
+Resource bricolage and resource selection for parallel database systems.
+Order Indexes: supporting highly dynamic hierarchical data in relational main-memory database systems.
+Incremental knowledge base construction using DeepDive.
+Multi-objective parametric query optimization.
+Fast and scalable inequality joins.
+Reverse k nearest neighbors queries and spatial reverse top-k queries.
+In-database batch and query-time inference over probabilistic graphical models using UDA-GIST.
+PANDA: toward partial topology-based search on large networks in a single machine.
+Scaling up the performance of more powerful Datalog systems on multicore machines.
+A unified framework for string similarity search with edit-distance constraint.
+I/O efficient ECC graph decomposition via graph reduction.
+Top-k spatial-keyword publish/subscribe over sliding window.
+Path-based holistic detection plan for multiple patterns in distributed graph frameworks.
+AutoG: a visual query autocompletion framework for graph databases.
+Finding lowest-cost paths in settings with safe and preferred zones.
+Distributed shortest path query processing on dynamic road networks.
+Scalable subgraph enumeration in MapReduce: a cost-oriented approach.
+Disjoint interval partitioning.
+On efficiently finding reverse k-nearest neighbors over uncertain graphs.
+Stream sampling over windows with worst-case optimality and $$\ell $$ ℓ -overlap independence.
+Argument discovery via crowdsourcing.
+Efficiently making (almost) any concurrency control mechanism serializable.
+I/O-efficient algorithms for top-k nearest keyword search in massive graphs.
+Indexing metric uncertain data for range queries and range joins.
+Graph repairing under neighborhood constraints.
+Enhancing online video recommendation using social user interactions.
+Secret sharing for cloud data security: a survey.
+ norm.
+Geo-social group queries with minimum acquaintance constraints.
+A distributed in-memory key-value store system on heterogeneous CPU-GPU cluster.
+Finding influential communities in massive networks.
+From conceptual design to performance optimization of ETL workflows: current state of research and open problems.
+Effective and efficient attributed community search.
+MSQL: efficient similarity search in metric spaces using SQL.
+Answer validation for generic crowdsourcing tasks with minimal efforts.
+A survey on provenance: What for? What form? What from?
+Reachability querying: an independent permutation labeling approach.
+Optimal algorithms for selecting top-k combinations of attributes: theory and applications.
+Efficient structure similarity searches: a partition-based approach.
+Dynamical SimRank search on time-varying networks.
+Non-binary evaluation measures for big data integration.
+Second-order random walk-based proximity measures in graph analysis: formulations and algorithms.
+PACE: a PAth-CEntric paradigm for stochastic path finding.
+Risk-aware path selection with time-varying, uncertain travel costs: a time series approach.
+PrivPfC: differentially private data publication for classification.
+Augmented keyword search on spatial entity databases.
+Efficient provenance tracking for datalog using top-k queries.
+Accelerating reachability query processing based on DAG reduction.
+Spatio-textual user matching and clustering based on set similarity joins.
+Go slow to go fast: minimal on-road time route scheduling with parking facilities using historical trajectory.
+Scaling distributed transaction processing and recovery based on dependency logging.
+Cost-effective conceptual design using taxonomies.
+Parallel trajectory similarity joins in spatial networks.
+Parallel replication across formats for scaling out mixed OLTP/OLAP workloads in main-memory databases.
+Finding the optimal location and keywords in obstructed and unobstructed space.
+Efficient set containment join.
+Distilling relations using knowledge bases.
+Smooth Scan: robust access path selection without cardinality estimation.
+Multi-schema-version data management: data independence in the twenty-first century.
+Effective and complete discovery of bidirectional order dependencies via set-based axioms.
+Special issue on best papers of VLDB 2016.
+Adding data provenance support to Apache Spark.
+Efficient generation of query plans containing group-by, join, and groupjoin.
+Query optimization through the looking glass, and what we found running the Join Order Benchmark.
+Many-query join: efficient shared execution of relational joins on modern hardware.
+Package queries: efficient and scalable computation of high-order constraints.
+Compressed linear algebra for large-scale machine learning.
+A partial-order-based framework for cost-effective crowdsourced entity resolution.
+Probabilistic Cardinality Constraints - Validation, Reasoning, and Semantic Summaries.
+Generating custom code for efficient query execution on heterogeneous processors.
+Generating data series query workloads.
+A survey of state management in big data processing systems.
+Adaptive correlation exploitation in big data query optimization.
+Erratum to: Efficiently making (almost) any concurrency control mechanism serializable.
+Optimized group formation for solving collaborative tasks.
+VBTree: forward secure conjunctive queries over encrypted data for cloud computing.
+PUG: a framework and practical implementation for why and why-not provenance.
+A scalable spatial skyline evaluation system utilizing parallel independent region groups.
+Accelerating pairwise SimRank estimation over static and dynamic graphs.
+Exploring market competition over topics in spatio-temporal document collections.
+Logical scalability and efficiency of relational learning algorithms.
+Building self-clustering RDF databases using Tunable-LSH.
+Real-time context-aware social media recommendation.
+A unified agent-based framework for constrained graph partitioning.
+User group analytics: hypothesis generation and exploratory analysis of user data.
+Leveraging set relations in exact and dynamic set similarity join.
+Thematic issue on data management for graphs.
+Summarizing semantic graphs: a survey.
+Cascade-aware partitioning of large graph databases.
+Incremental maintenance of maximal cliques in a dynamic graph.
+Efficient structural graph clustering: an index-based approach.
+SimRank*: effective and scalable pairwise similarity search based on graph topology.
+A framework for efficient multi-attribute movement data analysis.
+Interleaving with coroutines: a systematic and practical approach to hide memory latency in index joins.
+Compact representations of temporal databases.
+Parametric schema inference for massive JSON datasets.
+Scalable computational geometry in MapReduce.
+Fast and scalable method for distributed Boolean tensor factorization.
+Prescriptive analytics: a survey of emerging trends and technologies.
+Fast diversified coherent core search on multi-layer graphs.
+Location prediction in large-scale social networks: an in-depth benchmarking study.
+Evaluating pattern matching queries for spatial databases.
+ synopsis construction for the maximum absolute error measure.
+SRX: efficient management of spatial RDF data.
+Fast and accurate stream processing by filtering the cold.
+Eccentricities on small-world networks.
+A comparative survey of recent natural language interfaces for databases.
+On the performance and convergence of distributed stream processing via approximate fault tolerance.
+Coconut: sortable summarizations for scalable indexes over static and streaming data series.
+Efficient distributed reachability querying of massive temporal graphs.
+One-pass trajectory simplification using the synchronous Euclidean distance.
+Parallelizing approximate single-source personalized PageRank queries on shared memory.
+Parsing gigabytes of JSON per second.
+Skyline queries over incomplete data streams.
+Efficient community discovery with user engagement and similarity.
+VLDB SI survey editorial.
+A survey of trajectory distance measures and performance evaluation.
+In-memory database acceleration on FPGAs: a survey.
+The core decomposition of networks: theory, algorithms and applications.
+Making data visualization more efficient and effective: a survey.
+Evaluating interactive data systems.
+An experimental survey of regret minimization query and variants: bridging the best worlds between top-k query and skyline query.
+Microblogs data management: a survey.
+Spatial crowdsourcing: a survey.
+Dataset search: a survey.
+Indexing in flash storage devices: a survey on challenges, current approaches, and future trends.
+Complex event recognition in the Big Data era: a survey.
+A survey of community search over big graphs.
+LSM-based storage techniques: a survey.
+Comparing heuristics for graph edit distance computation.
+Event modeling and mining: a long journey toward explainable events.
+Special issue on best papers of VLDB 2017.
+Explaining Natural Language query results.
+$\varvec{\textsc {Orpheus}}$DB: bolt-on versioning for relational databases (extended version).
+EntropyDB: a probabilistic approach to approximate query processing.
+Adaptive partitioning and indexing for in situ query processing.
+VLDB SI 2018 editorial.
+The ubiquity of large graphs and surprising challenges of graph processing: extended survey.
+General dynamic Yannakakis: conjunctive queries with theta joins under updates.
+An analytical study of large SPARQL query logs.
+Scalable algorithms for signal reconstruction by leveraging similarity joins.
+Snorkel: rapid training data creation with weak supervision.
+Morton filters: fast, compressed sparse cuckoo filters.
+Special issue on best papers of DaMoN 2018.
+Make the most out of your SIMD investments: counter control flow divergence in compiled query pipelines.
+Efficient compute node-local replication mechanisms for NVRAM-centric data structures.
+Joins on high-bandwidth memory: a new level in the memory hierarchy.
+Fast stochastic routing under time-varying uncertainty.
+Efficient processing of moving collective spatial keyword queries.
+Cleaning data with Llunatic.
+Top-k relevant semantic place retrieval on spatiotemporal RDF data.
+Efficient query autocompletion with edit distance-based error tolerance.
+SKCompress: compressing sparse and nonuniform gradient in distributed machine learning.
+FERRARI: an efficient framework for visual exploratory subgraph search in graph databases.
+Efficient maximum clique computation and enumeration over large sparse graphs.
+Finding k-shortest paths with limited overlap.
+Architecture of a distributed storage that combines file system, memory and computation in a single layer.
+Efficient (α, β)-core computation in bipartite graphs.
+Top-k term publish/subscribe for geo-textual data streams.
+TurboLift: fast accuracy lifting for historical data recovery.
+Context-aware, preference-based vehicle routing.
+Diversified spatial keyword search on RDF data.
+RDF graph summarization for first-sight structure discovery.
+Correction: A survey of community search over big graphs.

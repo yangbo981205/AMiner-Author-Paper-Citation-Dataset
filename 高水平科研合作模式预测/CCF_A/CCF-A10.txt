@@ -1,0 +1,60 @@
+Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2019, Columbus, OH, USA, October 12-16, 2019.
+Proceedings of the 12th International Workshop on Network on Chip Architectures, NoCArc@MICRO 2019, Columbus, OH, USA, October 13, 2019.
+51st Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2018, Fukuoka, Japan, October 20-24, 2018.
+11th International Workshop on Network on Chip Architectures, NoCArc@MICRO 2018, Fukuoka, Japan, October 20, 2018.
+Proceedings of the 50th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2017, Cambridge, MA, USA, October 14-18, 2017.
+Proceedings of the 10th International Workshop on Network on Chip Architectures, NoCArc@MICRO 2017, Cambridge, MA, USA, October 14-18, 2017.
+49th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2016, Taipei, Taiwan, October 15-19, 2016.
+Proceedings of the 9th International Workshop on Network on Chip Architectures, NoCArc@MICRO 2016, Taipei, Taiwan, October 15, 2016.
+Proceedings of the 48th International Symposium on Microarchitecture, MICRO 2015, Waikiki, HI, USA, December 5-9, 2015.
+Proceedings of the 8th International Workshop on Network on Chip Architectures, NoCArc '15, Waikiki, HI, USA, December 5, 2015.
+47th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2014, Cambridge, United Kingdom, December 13-17, 2014.
+Proceedings of the 2014 International Workshop on Network on Chip Architectures, NoCArc '14, Cambridge, United Kingdom, December 13-14, 2014.
+The 46th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO-46, Davis, CA, USA, December 7-11, 2013.
+Network on Chip Architectures, NoCArc '13, in conjunction with the 46th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO-46, Davis, CA, USA, December 7, 2013.
+45th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2012, Vancouver, BC, Canada, December 1-5, 2012.
+45th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2012, Workshops Proceedings, Vancouver, BC, Canada, December 1-5, 2012.
+Fifth International Workshop on Network on Chip Architectures, NoCArc '12, Vancouver, BC, Canada, December 1, 2012.
+44rd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2011, Porto Alegre, Brazil, December 3-7, 2011.
+4th International Workshop on Network on Chip Architectures, NoCArc '11, Porto Alegre, Brazil, December 4-5, 2011.
+43rd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2010, 4-8 December 2010, Atlanta, Georgia, USA.
+Third International Workshop on Network on Chip Architectures, NoCArc'10, Atlanta, GA, USA, December 4, 2010.
+42st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO-42 2009), December 12-16, 2009, New York, New York, USA.
+Second International Workshop on Network on Chip Architectures, NoCArc 2009, In conjunction with the 42nd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO-42), December 12, 2009, New York, NY, USA.
+41st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO-41 2008), November 8-12, 2008, Lake Como, Italy.
+40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO-40 2007), 1-5 December 2007, Chicago, Illinois, USA.
+39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO-39 2006), 9-13 December 2006, Orlando, Florida, USA.
+38th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO-38 2005), 12-16 November 2005, Barcelona, Spain.
+37th Annual International Symposium on Microarchitecture (MICRO-37 2004), 4-8 December 2004, Portland, OR, USA.
+Proceedings of the 36th Annual International Symposium on Microarchitecture, San Diego, CA, USA, December 3-5, 2003.
+Proceedings of the 35th Annual International Symposium on Microarchitecture, Istanbul, Turkey, November 18-22, 2002.
+Proceedings of the 34th Annual International Symposium on Microarchitecture, Austin, Texas, USA, December 1-5, 2001.
+Proceedings of the 33rd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 33, Monterey, California, USA, December 10-13, 2000.
+Proceedings of the 32nd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 32, Haifa, Israel, November 16-18, 1999.
+Proceedings of the 31st Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 31, Dallas, Texas, USA, November 30 - December 2, 1998.
+Proceedings of the Thirtieth Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 30, Research Triangle Park, North Carolina, USA, December 1-3, 1997.
+Proceedings of the 29th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 29, Paris, France, December 2-4, 1996.
+Proceedings of the 28th Annual International Symposium on Microarchitecture, Ann Arbor, Michigan, USA, November 29 - December 1, 1995.
+Proceedings of the 27th Annual International Symposium on Microarchitecture, San Jose, California, USA, November 30 - December 2, 1994.
+Proceedings of the 26th Annual International Symposium on Microarchitecture, Austin, Texas, USA, November 1993.
+Proceedings of the 25th Annual International Symposium on Microarchitecture, Portland, Oregon, USA, November 1992.
+Proceedings of the 24th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 24, Albuquerque, New Mexico, USA, November 18-20, 1991.
+Proceedings of the 23rd Annual Workshop and Symposium on Microprogramming and Microarchitecture, 1990, Orlando, Florida, USA, November 27-29, 1990.
+Proceedings of the 22nd Annual Workshop and Symposium on Microprogramming and Microarchitecture, 1989, Dublin, Ireland, August 14-16, 1989.
+Proceedings of the 21st Annual Workshop and Symposium on Microprogramming and Microarchitecture, 1988, San Diego, California, USA, November 28 - December 2, 1988.
+Proceedings of the 20st Annual Workshop and Symposium on Microprogramming and Microarchitecture, 1987, Colorado Springs, Colorado, USA, December 1-4, 1987.
+Proceedings of the 19th annual workshop on Microprogramming, New York, NY, USA, October 15-17, 1986.
+Proceedings of the 18th annual workshop on Microprogramming, Pacific Grove, CA, USA, December 3-6, 1985.
+Proceedings of the 17th annual workshop on Microprogramming, MICRO 1984, New Orleans, Louisiana, USA, October 30 - November 2, 1984.
+Proceedings of the 15th annual workshop on Microprogramming, MICRO 1982, Palo Alto, California, USA, October 5-7, 1982.
+Proceedings of the 14th annual workshop on Microprogramming, MICRO 1981, Chatham (Cape Cod), Massachusetts, USA.
+Proceedings of the 13th annual workshop on Microprogramming, MICRO 1980, Colorado Springs, Colorado, USA.
+Proceedings of the 12th annual workshop on Microprogramming, MICRO 1979, Hershey, Pennslylvania, USA, November 18-21, 1979.
+Proceedings of the 11th annual workshop on Microprogramming, MICRO 1978, Asilomar (Pacific Grove), California, USA, November 19-22, 1978.
+Proceedings of the 10th annual workshop on Microprogramming, MICRO 1977, Niagara Falls, New York, USA, October 5-7, 1977.
+Proceedings of the 9th annual workshop on Microprogramming, MICRO 1976, New Orleans, Louisiana, USA, September 27-29, 1976.
+Proceedings of the 8th annual workshop on Microprogramming, MICRO 1975, Chicago, Illinois, USA, September 21-23, 1975.
+Conference record of the 7th annual workshop on Microprogramming, MICRO 1974, Palo Alto, California, USA, September 30 - October 2, 1974.
+Supplement to the conference record of the 7th annual workshop on Microprogramming, MICRO 1974, Palo Alto, California, USA, September 30 - October 2, 1974.
+Conference record of the 6th annual workshop on Microprogramming, MICRO 1973, College Park, Maryland, USA, September 24-25, 1973.
+Conference record of the 5th annual workshop on Microprogramming, MICRO 1972, Urbana-Champaign, Illinois, USA, September 25-26, 1972.

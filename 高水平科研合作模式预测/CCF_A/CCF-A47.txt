@@ -1,0 +1,91 @@
+KDD '20: The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Virtual Event, CA, USA, August 23-27, 2020.
+Proceedings of the Natural Legal Language Processing Workshop 2020 co-located with the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2020), Virtual Workshop, August 24, 2020.
+Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD 2019, Anchorage, AK, USA, August 4-8, 2019.
+Proceedings of the 8th International Workshop on Big Data, IoT Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications co-located with 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), Anchorage, Alaska, August 4-8, 2019.
+Proceedings of the 1st International Workshop on Challenges and Experiences from Data Integration to Knowledge Graphs co-located with the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2019), Anchorage, Alaska, August 5, 2019.
+Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD 2018, London, UK, August 19-23, 2018.
+Proceedings of the 1st Workshop on Knowledge Discovery and User Modelling for Smart Cities co-located with 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, UMCit@KDD 2018, London, United Kingdom, August 20, 2018.
+Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Halifax, NS, Canada, August 13 - 17, 2017.
+Proceedings of the ADKDD'17, Halifax, NS, Canada, August 13 - 17, 2017.
+Proceedings of the KDD 2017 Workshop on Anomaly Detection in Finance, ADF@KDD 2017, Halifax, Nova Scotia, Canada, August 14, 2017.
+Proceedings of the 1st ACM Workshop on Medical Informatics and Healthcare, MIH 2017, Halifax, Nova Scotia, Canada, August 14, 2017.
+Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Francisco, CA, USA, August 13-17, 2016.
+Proceedings of the 5th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications, BigMine 2016, San Francisco, CA, USA, August 14, 2016.
+Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Sydney, NSW, Australia, August 10-13, 2015.
+Proceedings of the 4th International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications, BigMine 2015, Sydney, Australia, August 10, 2015.
+The 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD '14, New York, NY, USA - August 24 - 27, 2014.
+Proceedings of the 3rd International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications, BigMine 2014, New York City, USA, August 24, 2014.
+Proceedings of the Eighth International Workshop on Data Mining for Online Advertising, ADKDD 2014, August 24, 2014, New York City, New York, USA.
+Proceedings of the 8th Workshop on Social Network Mining and Analysis, New York, NY, USA, August 24, 2014.
+The 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD 2013, Chicago, IL, USA, August 11-14, 2013.
+Proceedings of the 2nd International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications, BigMine 2013, Chicago, IL, USA, August 11, 2013.
+Proceedings of the 12th International Workshop on Data Mining in Bioinformatics, BioKDD 2013, Chicago, IL, USA, August 11, 2013.
+Proceedings of the Second International Workshop on Issues of Sentiment Discovery and Opinion Mining, WISDOM 2013, Chicago, IL, USA, August 11, 2013.
+Proceedings of the 7th Workshop on Social Network Mining and Analysis, SNAKDD 2013, Chicago, IL, USA, August 11, 2013.
+Proceedings of the Thirteenth International Workshop on Multimedia Data Mining, MDMKDD 2013, Chicago, Illinois, USA, August 11, 2013.
+Proceedings of the 4th MultiClust Workshop on Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering, in conjunction with KDD 2013, Chicago, IL, USA, August 11, 2013.
+Proceedings of the 2013 KDD Cup 2013 Workshop, KDD Cup 2013, Chicago, Illinois, USA, August 11-14, 2013.
+Proceedings of the 2nd ACM SIGKDD International Workshop on Urban Computing, UrbComp@KDD 2013, Chicago, Illinois, USA, August 11, 2013.
+Proceedings of the ACM SIGKDD Workshop on Interactive Data Exploration and Analytics, IDEA@KDD 2013, Chicago, Illinois, USA, August 11, 2013.
+The 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD '12, Beijing, China, August 12-16, 2012.
+Proceedings of the First International KDD Workshop on Software Mining, SoftwareMining '12, Beijing, China, August 12, 2012.
+Proceedings of the 11th International Workshop on Data Mining in Bioinformatics, BIOKDD 2012, Beijing, China, August 12, 2012.
+Proceedings of the 1st International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications, BigMine 2012, Beijing, China, August 12, 2012.
+Proceedings of the ACM SIGKDD International Workshop on Urban Computing, UrbComp@KDD 2012, Beijing, China, August 12, 2012.
+Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Diego, CA, USA, August 21-24, 2011.
+Proceedings of KDD Cup 2011 competition, San Diego, CA, USA, 2011.
+Proceedings of the Tenth International Workshop on Data Mining in Bioinformatics, BIOKDD '11, San Diego, California, USA, August 21, 2011.
+Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC, USA, July 25-28, 2010.
+Proceedings of the Eighth Workshop on Mining and Learning with Graphs, MLG '10, Washington, D.C., USA, July 24-25, 2010.
+Proceedings of the First Workshop on Social Media Analytics, SOMA@KDD 2010, Washington, DC, USA, July 25, 2010.
+Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Paris, France, June 28 - July 1, 2009.
+Proceedings of the ACM SIGKDD Workshop on Statistical and Relational Learning in Bioinformatics, Paris, France, June 28, 2009.
+Proceedings of the Third International Workshop on Knowledge Discovery from Sensor Data, Paris, France, June 28, 2009.
+Proceedings of the ACM SIGKDD Workshop on CyberSecurity and Intelligence Informatics, Paris, France, June 28, 2009.
+Proceedings of the ACM SIGKDD Workshop on Visual Analytics and Knowledge Discovery: Integrating Automated Analysis with Interactive Exploration, Paris, France, June 28, 2009.
+Proceedings of the 3rd ACM SIGKDD Workshop on Data Mining and Audience Intelligence for Advertising, Paris, France, June 28, 2009.
+Proceedings of the ACM SIGKDD Workshop on Human Computation, Paris, France, June 28, 2009.
+Proceedings of the 2nd ACM SIGKDD Workshop on Data Mining using Matrices and Tensors, Paris, France, June 28, 2009.
+Proceedings of the 1st ACM SIGKDD Workshop on Knowledge Discovery from Uncertain Data, Paris, France, June 28, 2009.
+Proceedings of the 3rd Workshop on Social Network Mining and Analysis, SNAKDD 2009, Paris, France, June 28, 2009.
+Proceedings of KDD-Cup 2009 competition, Paris, France, June 28, 2009.
+Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Las Vegas, Nevada, USA, August 24-27, 2008.
+Privacy, Security, and Trust in KDD, Second ACM SIGKDD International Workshop, PinKDD 2008, Las Vegas, NV, USA, August 24, 2008, Revised Selected Papers.
+Advances in Social Network Mining and Analysis, Second International Workshop, SNAKDD 2008, Las Vegas, NV, USA, August 24-27, 2008, Revised Selected Papers.
+Knowledge Discovery from Sensor Data, Second International Workshop, Sensor-KDD 2008, Las Vegas, NV, USA, August 24-27, 2008, Revised Selected Papers.
+Proceedings of the 13th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Jose, California, USA, August 12-15, 2007.
+Privacy, Security, and Trust in KDD, First ACM SIGKDD International Workshop, PinKDD 2007, San Jose, CA, USA, August 12, 2007, Revised Selected Papers.
+Advances in Web Mining and Web Usage Analysis, 9th International Workshop on Knowledge Discovery on the Web, WebKDD 2007, and 1st International Workshop on Social Networks Analysis, SNA-KDD 2007, San Jose, CA, USA, August 12-15, 2007. Revised Papers.
+Proceedings of the Twelfth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Philadelphia, PA, USA, August 20-23, 2006.
+Advances in Web Mining and Web Usage Analysis, 8th International Workshop on Knowledge Discovery on the Web, WebKDD 2006, Philadelphia, PA, USA, August 20, 2006, Revised Papers.
+Proceedings of the Eleventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Chicago, Illinois, USA, August 21-24, 2005.
+Proceedings of the 5th international workshop on Bioinformatics, BIOKDD 2005, Chicago, Illinois, USA, August 21, 2005.
+Proceedings of the 3rd international workshop on Link discovery, LinkKDD 2005, Chicago, Illinois, USA, August 21-25, 2005.
+Proceedings of the 6th international workshop on Multimedia data mining - mining integrated media and complex data, MDM 2005, Chicago, Illinois, USA, August 21, 2005.
+Advances in Web Mining and Web Usage Analysis, 7th International Workshop on Knowledge Discovery on the Web, WebKDD 2005, Chicago, IL, USA, August 21, 2005. Revised Papers.
+Proceedings of the Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Seattle, Washington, USA, August 22-25, 2004.
+Proceedings of the 4th ACM SIGKDD Workshop on Data Mining in Bioinformatics (BIOKDD 2004), August 22th, 2004, Seattle, Washington, USA.
+Advances in Web Mining and Web Usage Analysis, 6th International Workshop on Knowledge Discovery on the Web, WebKDD 2004, Seattle, WA, USA, August 22-25, 2004, Revised Selected Papers.
+Proceedings of the Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC, USA, August 24 - 27, 2003.
+Proceedings of the 3nd ACM SIGKDD Workshop on Data Mining in Bioinformatics (BIOKDD 2003), August 27th, 2003, Washington, DC, USA.
+Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, July 23-26, 2002, Edmonton, Alberta, Canada.
+Proceedings of the 2nd ACM SIGKDD Workshop on Data Mining in Bioinformatics (BIOKDD 2002), July 23rd, 2002, Edmonton, Alberta, Canada.
+Proceedings of the Third International Workshop on Multimedia Data Mining, MDM/KDD'2002, July 23rd, 2002, Edmonton, Alberta, Canada.
+Mining Multimedia and Complex Data, KDD Workshop MDM/KDD 2002, PAKDD Workshop KDMCD 2002, Revised Papers.
+WEBKDD 2002 - MiningWeb Data for Discovering Usage Patterns and Profiles, 4th International Workshop, Edmonton, Canada, July 23, 2002, Revised Papers.
+Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining, San Francisco, CA, USA, August 26-29, 2001.
+Tutorial notes of the fifth ACM SIGKDD international conference on Knowledge discovery and data mining, San Francisco, CA, USA, August 26-29, 2001.
+WEBKDD 2001 - Mining Web Log Data Across All Customers Touch Points, Third International Workshop, San Francisco, CA, USA, August 26, 2001, Revised Papers.
+Proceedings of the ACM SIGKDD Workshop on Data Mining in Bioinformatics (BIOKDD 2001).
+Proceedings of the Second International Workshop on Multimedia Data Mining, MDM/KDD'2001, August 26th, 2001, San Francisco, CA, USA.
+Proceedings of the sixth ACM SIGKDD international conference on Knowledge discovery and data mining, Boston, MA, USA, August 20-23, 2000.
+Proceedings of the International Workshop on Multimedia Data Mining, MDM/KDD'2000, August 20th, 2000, Boston, MA, USA.
+Proceedings of the Fifth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Diego, CA, USA, August 15-18, 1999.
+Tutorial Notes for ACM SIGKDD 1999 International Conference on Knowledge Discovery and Data Mining, San Diego, CA, USA, August 15-18, 1999.
+Large-Scale Parallel Data Mining, Workshop on Large-Scale Parallel KDD Systems, SIGKDD, August 15, 1999, San Diego, CA, USA, revised papers.
+Web Usage Analysis and User Profiling, International WEBKDD'99 Workshop, San Diego, California, USA, August 15, 1999, Revised Papers.
+Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining (KDD-98), New York City, New York, USA, August 27-31, 1998.
+Proceedings of the Third International Conference on Knowledge Discovery and Data Mining (KDD-97), Newport Beach, California, USA, August 14-17, 1997.
+Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD-96), Portland, Oregon, USA.
+Proceedings of the First International Conference on Knowledge Discovery and Data Mining (KDD-95), Montreal, Canada, August 20-21, 1995.
+Knowledge Discovery in Databases: Papers from the 1994 AAAI Workshop, Seattle, Washington, USA, July 1994. Technical Report WS-94-03.
