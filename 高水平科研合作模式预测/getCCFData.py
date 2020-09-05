@@ -2,7 +2,7 @@ import requests
 from lxml import etree
 
 
-with open(r'CCFUrl.txt', 'r') as f_url:
+with open(r'Dataset/CCFUrl.txt', 'r') as f_url:
     count = 78
     for l in f_url:
         line = 'http://dblp.uni-trier.de/db/journals/ijmms/'

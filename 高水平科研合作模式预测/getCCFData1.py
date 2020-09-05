@@ -2,7 +2,7 @@ import requests
 from lxml import etree
 
 
-with open(r'CCFUrl.txt', 'r') as f_url:
+with open(r'Dataset/CCFUrl.txt', 'r') as f_url:
     for ll in f_url:
         li = 79
         line = 'http://dblp.uni-trier.de/db/conf/cscw'
